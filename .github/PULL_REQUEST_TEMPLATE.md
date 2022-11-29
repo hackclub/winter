@@ -1,6 +1,6 @@
 ## Describe your project in 1 sentence
 
-<!-- I am building a LED display with my club. -->
+<!-- I am building a LED light display that can be controlled through an app. -->
 
 ## Hack Club Slack handle
 
