@@ -1,25 +1,35 @@
 # Winter Hardware Wonderland
 
-> Join the Hack Club Community this January (2023) for a Winter of Making.
+> Join the [Hack Club](https://hackclub.com) Community this January (2023) for a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
 
-## Get Started
+## ⛷ The rundown (or shall we say ski-down)
+- Jan 15-25: 10 days of making in public
+- Participate by making daily [Scrapbook](https://scrapbook.hackclub.com) posts of you building a hardware project in the [Hack Club Slack](https://hackclub.com/slack)
+- To support you, we're offering up to $250 in hardware grants per person! To get a grant, make a Pull Request with a proposal here.
 
-TODO: Application flow
+## 🧤 Gear to get you ready to submit
+#### Proposal Guidelines
+Make sure your proposal includes:
+- What you're building (a short description of what it will do)
+- Why you're building this project
+- When you plan on working on this project. (DO WE STILL DO THIS IF WE'RE BRANDING THIS AS AN EVENT?)
+- Budget (with a list of parts/tools needed, link to buy online or IRL, and cost)
 
-1. write proposal
-2. submit pr with file `githubusername.md`
-3. get pr merged
-4. join #winter-hardware-party on slack
-5. post pr link
-6. get message from bot or ops team
+#### Example hardware grant proposals
+- [Desk Lights](https://github.com/hackclub/wom/blob/main/examples/led-lights.md)
+- [Mechanical Keyboard](https://github.com/hackclub/wom/blob/main/examples/mechanical-keyboard.md)
 
-TODO: Add event info
 
-## Project ideas
+## 3 steps to your grant!!
+1. Write your proposal and ensure it follows the [guidelines](#proposal-guidelines). Prophet orpheus will be checking 👀!
+2. Fork this repository and submit a pr with the file `githubusername.md`
+3. Wait for 48 hours (on weekdays) and get your pull request merged!
 
-TODO: Add project ideas
-TODO: link example projects
 
-## Hack Club
+## Not sure what to build?
+- 💡 Make your life easier by [turning your lamp, "smart"](https://learn.adafruit.com/wireless-power-switch-with-arduino-and-the-cc3000-wifi-chip)
+- 🪞 Look into a [smart mirror](https://learn.adafruit.com/android-smart-home-mirror)
+- 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
+- [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
 
-hack club
+_Winter Hardware Wonderland is a project by Hack Club, a global nonprofit network of technical teenagers_
