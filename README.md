@@ -16,7 +16,7 @@ To support you, we're offering up to **$250 in hardware grants** per person! To 
 
 ### 🧤 Gear to get you ready to submit
 #### Proposal Guidelines
-Make sure your proposal includes:
+**Make sure your proposal includes:**
 - What you're building (a short description of what it will do)
 - Why you're building this project
 - When you plan on working on this project. (DO WE STILL DO THIS IF WE'RE BRANDING THIS AS AN EVENT?)
@@ -39,4 +39,4 @@ Make sure your proposal includes:
 - 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
 - [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
 
-_Winter Hardware Wonderland is a project by Hack Club, a global nonprofit network of technical teenagers_
+_Winter Hardware Wonderland is a project by [Hack Club](https://hackclub.com), a global nonprofit network of technical teenagers_
