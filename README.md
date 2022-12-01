@@ -14,17 +14,17 @@ To support you, we're offering up to **$250 in hardware grants** per person! To 
 - Open to all high schoolers (& younger)
 - Spend the grant transparently, using Hack Club Bank
 
-### 🧤 Gear to get you ready to submit
-#### Proposal Guidelines
+### 🧤 Gear up for submitting your proposal
+#### Guidelines
 **Make sure your proposal includes:**
 - What you're building (a short description of what it will do)
 - Why you're building this project
 - When you plan on working on this project. (DO WE STILL DO THIS IF WE'RE BRANDING THIS AS AN EVENT?)
 - Budget (with a list of parts/tools needed, link to buy online or IRL, and cost)
 
-#### Example hardware grant proposals
-- [Desk Lights](https://github.com/hackclub/wom/blob/main/examples/led-lights.md)
-- [Mechanical Keyboard](https://github.com/hackclub/wom/blob/main/examples/mechanical-keyboard.md)
+#### Example Grant Proposals
+- [Desk Lights](/examples/led-lights.md)
+- [Mechanical Keyboard](/examples/mechanical-keyboard.md)
 
 
 ### 🧑‍🎄 Get your $250 grant in 3 steps
