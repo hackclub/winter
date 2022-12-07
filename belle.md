@@ -3,6 +3,8 @@ Name: @bellesea
 Project: Totally Not Copied Desk Lights
 ---
 
+To Liv: hmmm yes
+
 > _Adapted from https://github.com/garyhtou/Desk-Lights_
 
 ## Summary
