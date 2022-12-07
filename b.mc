@@ -14,7 +14,7 @@ I am going to build a light setup that can be controlled through a web app. For 
 I will build this thing first, then this thing, then that thing.
 
 ## Budget
-
+$1,000,000
 | Product                                                          | Supplier/Link                                                                                               | Cost                           |
 | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | Adafruit NeoPixel Digital RGBW LED Strip - White PCB 60 LED/m 1m | [Adafruit](https://www.adafruit.com/product/2842?length=1)                                                  | $35 (including tax & shipping) |
