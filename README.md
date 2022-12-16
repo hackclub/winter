@@ -1,42 +1,83 @@
 # Winter Hardware Wonderland
 
-> Join the [Hack Club](https://hackclub.com) Community this January (2023) for a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
+> Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
 
-## ⛷ The rundown (or shall we say ski-down)
-**Jan 15-25: 10 days of making in public**
-Hundreds of teenagers will assemble in the [Hack Club Slack](https://hackclub.com/slack) to work on their individual hardware projects. You'll build along beginners to the most technical teenagers on the internet by making daily [Scrapbook](https://scrapbook.hackclub.com) posts of you building a hardware project in the [Hack Club Slack](https://hackclub.com/slack). To join this, join [#winter]() in the [Hack Club Slack](https://hackclub.com/slack). 
+## ⛷ The rundown
 
+**Feb 14th - 23rd: 10 Days of Making**
 
-To support you, we're offering up to **$250 in hardware grants** per person! To get a grant, make a Pull Request to this repository with your proposal.
+Come together with hundreds of other hackers in the `#hardware-party` channel on the [Hack Club Slack](https://hackclub.com/slack) to work on your electronics project. Whether you've never worked with hardware before or you've built CNC machines, there's a place for you. For 10 consecutive days, you'll work on your project while posting daily updates in your own [scrapbook](https://scrapbook.hackclub.com).
 
-## 🔍 A deeper look at the grant
-- Up to $250 per person
-- Open to all high schoolers (& younger)
-- Spend the grant transparently, using Hack Club Bank
+To help you build your project, Hack Club is offering grants of up to $250 per person! **To receive a grant, make a pull request to this repository with your proposal.**
 
-### 🧤 Gear up for submitting your proposal
-#### Guidelines
-**Make sure your proposal includes:**
-- What you're building (a short description of what it will do)
-- Why you're building this project
-- When you plan on working on this project. (DO WE STILL DO THIS IF WE'RE BRANDING THIS AS AN EVENT?)
-- Budget (with a list of parts/tools needed, link to buy online or IRL, and cost)
+## 🧤 Gear up for submitting your proposal
 
-#### Example Grant Proposals
-- [Desk Lights](/examples/led-lights.md)
-- [Mechanical Keyboard](/examples/mechanical-keyboard.md)
+### Guidelines
 
+**Make sure your document includes:**
+
+- **What you're building** (a short description of what it will do)
+- **Plan** (what steps you're going to take to build it)
+- **Budget** (with a list of components or tools needed, where you're going to buy them, and cost in USD)
+
+<details>
+<summary>Use this template for creating your document!</summary>
+
+```markdown
+---
+Name: @githubusername
+Project: Project Name
+---
+
+# Project Name
+
+## Summary
+
+What are you going to build? What does it do? Why are you excited to build it?
+
+## Plan
+
+What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
+| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
+| Total           |                                       | $21.90 |
+```
+
+</details>
 
 ### 🧑‍🎄 Get your $250 grant in 3 steps
-1. Write your proposal and ensure it follows the [guidelines](#proposal-guidelines). Prophet orpheus will be checking 👀!
-2. Fork this repository and submit a pr with the file `githubusername.md`
-3. Wait for 48 hours (on weekdays) and get your pull request merged!
 
+1. Create a document describing your project and ensure it follows the [guidelines](#guidelines).
+2. Fork this repository and submit a pull request with the file `githubusername.md`
+3. Someone will review your pull request within 24 hours on weekdays!
 
 ## Not sure what to build?
+
 - 💡 Make your life easier by [turning your lamp, "smart"](https://learn.adafruit.com/wireless-power-switch-with-arduino-and-the-cc3000-wifi-chip)
 - 🪞 Look into a [smart mirror](https://learn.adafruit.com/android-smart-home-mirror)
 - 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
 - [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
 
-_Winter Hardware Wonderland is a project by [Hack Club](https://hackclub.com), a global nonprofit network of technical teenagers_
+or check out these example projects for inspiration:
+
+- [Desk Lights](/examples/led-lights.md)
+- [Mechanical Keyboard](/examples/mechanical-keyboard.md)
+
+## 🔍 To recap
+
+- Receive a grant of up to $250 (per individual) to build your project.
+- Open to current high schoolers (& younger).
+- Spend the grant transparently, using Hack Club Bank.
+
+---
+
+_Winter Hardware Wonderland is a project by [Hack Club](https://hackclub.com), a global network of high school hackers & makers._
+
+```
+
+```
