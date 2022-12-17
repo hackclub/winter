@@ -1,6 +1,6 @@
 ---
-Name: @prophetorpheus
-Project: Desk Lights
+Name: '@prophetorpheus'
+Project: 'Your Project Name Here'
 ---
 
 # Project Name
