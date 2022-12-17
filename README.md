@@ -16,12 +16,12 @@ To help you build your project, Hack Club is offering grants of up to $250 per p
 
 **Make sure your document includes:**
 
-- **What you're building** (a short description of what it will do)
+- **What you're building** (a short description of what your project is about and any relevant information you'd like to include)
 - **Plan** (what steps you're going to take to build it)
 - **Budget** (with a list of components or tools needed, where you're going to buy them, and cost in USD)
 
 <details>
-<summary>Use this template for creating your document!</summary>
+<summary> 👉 📝 Use this template for creating your document!</summary>
 
 ```markdown
 ---
