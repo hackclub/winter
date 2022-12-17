@@ -1,6 +1,6 @@
 ---
 author: '@prophetorpheus'
-Project: Desk Lights
+project: 'Desk Lights'
 ---
 
 > _Adapted from https://github.com/garyhtou/Desk-Lights_
