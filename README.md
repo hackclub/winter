@@ -56,9 +56,9 @@ What steps are you going to take to build it? What tools are you going to use? W
 1. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
 1. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
 
-Ask in #hardware-party on Slack if you have any questions!
+Ask in `#hardware-party` on Slack if you have any questions!
 
-## Not sure what to build?
+## 🤔 Not sure what to build?
 
 - 💡 Make your life easier by [turning your lamp, "smart"](https://learn.adafruit.com/wireless-power-switch-with-arduino-and-the-cc3000-wifi-chip)
 - 🪞 Look into a [smart mirror](https://learn.adafruit.com/android-smart-home-mirror)
