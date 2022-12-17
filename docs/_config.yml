@@ -1,4 +1,5 @@
 theme: minima
 header_pages:
-  - about.md
-  - portfolio.md
+  - README.md
+  - how_to_submit.md
+  - faq.md
