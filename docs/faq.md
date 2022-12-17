@@ -1,4 +1,4 @@
-# Winter Hardware Wonderland FAQ
+# FAQ
 
 **I'm in college. Can I join this event?**
 No, this event is only open to high school students.

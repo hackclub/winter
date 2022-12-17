@@ -1,4 +1,4 @@
-# How to submit your project idea 💡
+# How to submit
 
 1. Fork this repository
 
