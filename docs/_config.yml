@@ -1,6 +1,5 @@
 theme: minima
-title: @hackclub/winter
+title: "@hackclub/winter"
 header_pages:
-  - README.md
   - how_to_submit.md
   - faq.md
