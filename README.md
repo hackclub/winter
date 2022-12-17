@@ -25,8 +25,8 @@ To help you build your project, Hack Club is offering grants of up to $250 per p
 
 ```markdown
 ---
-Name: @githubusername
-Project: Project Name
+Name: '@prophetorpheus'
+Project: 'Your Project Name Here'
 ---
 
 # Project Name
