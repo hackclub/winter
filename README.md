@@ -52,9 +52,11 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ### 🧑‍🎄 Get your $250 grant in 3 steps
 
-1. Create a document describing your project and ensure it follows the [guidelines](#guidelines).
-2. Fork this repository and submit a pull request with the file `githubusername.md`
-3. Someone will review your pull request within 24 hours on weekdays!
+1. Fork this repository.
+1. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
+1. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
+
+Ask in #hardware-party on Slack if you have any questions!
 
 ## Not sure what to build?
 
@@ -77,7 +79,3 @@ or check out these example projects for inspiration:
 ---
 
 _Winter Hardware Wonderland is a project by [Hack Club](https://hackclub.com), a global network of high school hackers & makers._
-
-```
-
-```
