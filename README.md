@@ -50,7 +50,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 </details>
 
-### 🧑‍🎄 Get your $250 grant in 3 steps
+### Get your $250 grant in 3 steps
 
 1. Fork this repository.
 1. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
