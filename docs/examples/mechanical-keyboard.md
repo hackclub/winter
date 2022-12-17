@@ -1,6 +1,6 @@
 ---
-Name: @clickclackdino
-Project: Sweep
+author: '@clickclackdino'
+project: 'Sweep'
 ---
 
 > _Adapted from https://github.com/davidphilipbarr/Sweep_
