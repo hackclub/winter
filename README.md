@@ -67,8 +67,8 @@ Ask in `#hardware-party` on Slack if you have any questions!
 
 or check out these example projects for inspiration:
 
-- [Desk Lights](/examples/led-lights.md)
-- [Mechanical Keyboard](/examples/mechanical-keyboard.md)
+- [Desk Lights](/docs/examples/led-lights.md)
+- [Mechanical Keyboard](/docs/examples/mechanical-keyboard.md)
 
 ## 🔍 To recap
 
