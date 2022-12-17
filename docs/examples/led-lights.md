@@ -1,5 +1,5 @@
 ---
-Name: @prophetorpheus
+author: '@prophetorpheus'
 Project: Desk Lights
 ---
 
@@ -7,7 +7,7 @@ Project: Desk Lights
 
 ## Summary
 
-I am going to build a light setup that can be controlled through a web app. For the software, I will be using Firebase and React. For the hardware, I will be using a wahoo fish. I'm excited to build this because I saw Elan Lee's demo during Hack Club's AMA with him and think it's very cool! Plus, I've never built an application that interfaces with "the real world" so it'll be fun to try :)
+I am going to build a light setup that can be controlled through a web app. For the software, I will be using Firebase and React. For the hardware, I will be using a wahoo fish. I'm excited to build this because I saw Elan Lee's demo during Hack Club's AMA with him and think it's very cool! I've never built an application that interfaces with "the real world" so it'll be fun to try.
 
 ## Plan
 
