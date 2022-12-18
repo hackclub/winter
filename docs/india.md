@@ -10,3 +10,5 @@ The following merchants are known to not work:
 
 - Amazon
 - VistaPrint
+
+When adding purchase links in your project proposal, please do not include links to the list of merchants known not to work.

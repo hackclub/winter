@@ -4,7 +4,7 @@
 No, this event is only open to high school students.
 
 **Can I join the event if I'm not in the US?**
-Yes, this event is open to everyone. However, Hack Club Bank, the platform you'll be using to receive and spend the grant money may or may not work as well outside of North America. Using Hack Club Bank outside of the North America is still experimental.
+Yes, this event is open to everyone. However, Hack Club Bank, the platform you'll be using to receive and spend the grant money may or may not work as well outside of North America. Using Hack Club Bank outside of the North America is still experimental. We'd love to still hear from you and will try our best to help make it work!
 
 If you're hacking from India, check out this [guide](/india.md) for using Hack Club Bank in India.
 
