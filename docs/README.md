@@ -75,6 +75,7 @@ or check out these example projects for inspiration:
 - [Mechanical Keyboard](/docs/examples/mechanical-keyboard.md)
 
 ## 💰 What happens after your project is approved?
+
 Once your Pull Request is accepted and merged, a member of [Hack Club Bank](https://hackclub.com/bank)'s team will reach out to schedule a short 20 minute onboarding call. Together you'll open an account on [Hack Club Bank](https://hackclub.com/bank) to receive your grant! This allows us to instantly deposit money to you, which you can spend with your own debit cards.
 
 ## 🔍 To recap
