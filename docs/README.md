@@ -2,6 +2,8 @@
 
 > Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
 
+**[RSVP here and join us!](https://hackclub.com/winter)**
+
 ## ⛷ The rundown
 
 **Feb 14th - 23rd: 10 Days of Making**
@@ -53,8 +55,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 ### Get your $250 grant in 3 steps
 
 1. Fork this repository.
-1. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
-1. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
+2. Create a new file in [projects](../projects)with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
+3. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
 
 More detailed instructions can be found in the ["how to submit"](/docs/how_to_submit.md) guide.
 
@@ -71,6 +73,9 @@ or check out these example projects for inspiration:
 
 - [Desk Lights](/docs/examples/led-lights.md)
 - [Mechanical Keyboard](/docs/examples/mechanical-keyboard.md)
+
+## 💰 What happens after your project is approved?
+Once your Pull Request is accepted and merged, a member of [Hack Club Bank](https://hackclub.com/bank)'s team will reach out to schedule a short 20 minute onboarding call. Together you'll open an account on [Hack Club Bank](https://hackclub.com/bank) to receive your grant! This allows us to instantly deposit money to you, which you can spend with your own debit cards.
 
 ## 🔍 To recap
 
