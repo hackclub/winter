@@ -76,7 +76,7 @@ or check out these example projects for inspiration:
 
 ## 💰 What happens after your project is approved?
 
-Once your Pull Request is accepted and merged, a member of [Hack Club Bank](https://hackclub.com/bank)'s team will reach out to schedule a short 20 minute onboarding call. Together you'll open an account on [Hack Club Bank](https://hackclub.com/bank) to receive your grant! This allows us to instantly deposit money to you, which you can spend with your own debit cards.
+Once your pull request is accepted and merged, a member of the Hack Club Bank team will reach out to schedule a short 20-minute onboarding call. You'll open an account on [Hack Club Bank](https://hackclub.com/bank) to receive your grant. You'll then be able to spend the money to order components for your project using your own Hack Club Bank debit cards.
 
 ## 🔍 To recap
 
