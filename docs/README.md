@@ -2,7 +2,7 @@
 
 > Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
 
-**[RSVP here and join us!](https://hackclub.com/winter)**
+**RSVP at [hackclub.com/winter](https://hackclub.com/winter)!**
 
 ## ⛷ The rundown
 
