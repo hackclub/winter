@@ -1,4 +1,4 @@
-# Hack Club Bank: a rundown
+# Hack Club Bank
 
 Hi there! If you’re seeing this it’s because you’re interested in joining Hack Club during the Winter Hardware Wonderland event! Welcome and we’re so excited to have you join us in making some cool shit with friends!
 
