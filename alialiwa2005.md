@@ -1,0 +1,94 @@
+---
+name: "@alialiwa2005"
+project: "RWS | DIY AWS Cloud"
+---
+
+# Project Name
+RWS | DIY AWS Cloud
+## Summary
+
+I am going to build my own Kubernetes, Arm-powered private cloud. 
+
+Instead of hosting a site, minecraft server, or webapp on a cloud service like AWS, 
+I'm excited to build my own cloud, while exploring redundancy, load-balancing, containers, and orchestration hands-on, from a hardware perspective!!! 
+
+I can't wait to build a DIY cluster of mini-servers at home! It's so wonderful to think of all the possibilities of this build!
+
+What's more fascinating is how little electricity is used by the build. Also, this project doesn't require much physical space, 
+and is versatile in many ways!
+
+## Plan
+
+For this project, you'll mainly need 4 Raspberry Pis. They're cheap, don't use much electricity, and powerful for their credit-card-size.
+
+Aside from these, you also need accessories, like power supplies, storage, ethernet cables, and a cluster stand/stackable cases for organization.
+
+You'll also need a laptop or PC for initial setup of the Pis.
+
+Some other optional but reccomended items are:
+
+- A network switch, so that the pis all connect to the ethernet switch, which ultimately links to your router via a 
+single network cable.
+
+- Cooling: This is optional but reccomended if you're planning on overclocking and/or running many resource-intensive services. 
+  Cooling can be passive cooling via heatsinks, active cooling with fans, or even liquid cooling!
+
+---
+
+Step 1: Order materials (full list at the bottom), then await items' arrival.
+
+Step 2: Attach Raspberry Pis to the Cluster Stand/Case, and set up heatsinks/fans (cooling) if applicable.
+
+Step 3: On your PC, install Raspberry Pi imager.
+
+(Repeat Steps 4 - 16 for each Pi)
+
+Step 4: Insert your SD card to your computer.
+
+Step 5: On Raspberry Pi Imager, select Raspberry Pi OS lite (32 bit or 64 bit), select your SD card (make sure to select the correct storage device).
+
+Step 6: Write the image to your SD card.
+
+Step 7: Insert your SD card to a Pi & power on Pi.
+
+Step 8: After a few minutes (3-5 minutes), unplug power from Pi.
+
+Step 9: Take out SD card from Pi & insert into PC/laptop
+
+Step 10: Your SD card should be named "boot." Open it, there should be a file called cmdline.txt
+
+Step 11: At the end of the first line of cmdline.txt, paste this: cgroup_enable=memory cgroup_memory=1
+
+** For step 12, please note that your ip setup may be different, the format is (pi static ip):(router/gatwayip):(subnet mask):(pi hostname):eth0:off
+
+** Also, for step 12 be sure to change the static ip and the hostname for each pi.
+
+Step 12: After pasting, assign your pi a static ip by typing this: ip=192.168.1.121:192.168.1.1:255.255.255.0:cloudone:eth0:off
+
+Step 13: Open config.txt, scroll to the bottom of the file to the "all" section, type arm_64bit=1
+
+Step 14: Create a new file without an extenstion, named ssh
+
+Step 15: Eject SD card from PC/laptop and plug SD card into Pi, connect ethernet and power.
+
+Step 16: ssh into first Pi & install Kubernetes.
+
+Step 17: Set up the first pi as the Kubernetes "master"
+
+Step 18: Set up the other pis as nodes.
+
+Step 19: Experiment with Kubernetes! Congrats on building your private cloud!
+
+Step 20: (Optional): Install monitoring software, deploy your own websites, block ads on your network with PiHole,
+link to rgb lights, pair with other projects, create a custom case, HACK! :)
+
+## Budget
+
+| Product           | Supplier/Link                         | Cost   |
+| ---------------   | ------------------------------------- | ------ |
+| 4 Raspberry Pi 4s | https://bit.ly/2ZVDImM                | $220   |
+| 4 Power Supplies  | https://bit.ly/3WwznmU                | $32    |
+| 4 Ethernet Cables | (Already Own)                         | $0     |
+| 4 MicroSD Cards   | (Already Own)                         | $0     |
+| Customized Case   | (Already Own Supplies)                | $0     |
+| Total             |                                       | $252   |
