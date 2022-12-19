@@ -1,5 +1,5 @@
 ---
-name: "@prophetorpheus"
+name: "@yourGitHubUsername"
 project: "Your Project Name Here"
 ---
 
