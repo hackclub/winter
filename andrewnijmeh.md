@@ -15,6 +15,7 @@ I'm going to build a FM radio using an ESP-32 + the FM radio module to listen to
 I'm going to need to setup the FM radio module for the ESP-32 which will include a receiver, an amplifier and a speaker for audio.
 Then I will connect an OLED display to the ESP-32 to display the frequency on the radio (eg 98.1). I will also need to use a
 rotary encoder to be able to change the frequency.
+
 ![image](https://user-images.githubusercontent.com/59238070/208474093-0281a73a-8d47-4733-8492-ef32f4445672.png)
 
 ## Budget
