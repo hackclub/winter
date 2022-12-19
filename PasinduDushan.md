@@ -3,7 +3,7 @@ name: "@PasinduDushan"
 project: "Arduino CNC Plotter Machine"
 ---
 
-# Arduino CNC Plotter Machine
+# Arduino CNC Plotter Machine with a Custom Dashboard
 
 ## Summary
 
