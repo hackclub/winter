@@ -56,6 +56,11 @@ I will be making a model of the enclosure in fusion 360 and printing it with a r
 | ------------------------- | ------------------------------------- | ------ |
 | Voxelab Proxima 6.0       | https://a.co/d/2MQH0pi                | $119.00|
 | ELEGOO Mercury 2 in 1     | https://a.co/d/60ervD3                | $111.99|
+| Arduino Uno               | Already Own                           | $0.00  |
+| BMP280 sensor             | Already Own                           | $0.00  |
+| Isopropyl Alchohol        | Already Own                           | $0.00  |
+| 9V battery                | Already Own                           | $0.00  |
+| Female to Male wires      | Already Own                           | $0.00  |
 | Washing and curing machine|                                       |        |
 | Translucent Resin         | https://a.co/d/cN24vPx                | $17.99 |
 | Total                     |                                       | $248.98|
