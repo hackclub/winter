@@ -37,7 +37,7 @@ single network cable.
 
 Step 1: Order materials (full list at the bottom), then await items' arrival.
 
-Step 2: Attach Raspberry Pis to the Cluster Stand/Case, and set up heatsinks/fans (cooling) if applicable.
+Step 2: Attach Raspberry Pis to the Cluster Stand/Case(s), and set up heatsinks/fans (cooling) if applicable.
 
 Step 3: On your PC, install Raspberry Pi imager.
 
@@ -71,24 +71,25 @@ Step 14: Create a new file without an extenstion, named ssh
 
 Step 15: Eject SD card from PC/laptop and plug SD card into Pi, connect ethernet and power.
 
-Step 16: ssh into first Pi & install Kubernetes.
+Step 16: ssh into the Pi & install Kubernetes.
 
-Step 17: Set up the first pi as the Kubernetes "master"
+Step 17: Set up the first pi as the Kubernetes "master."
 
-Step 18: Set up the other pis as nodes.
+Step 18: Set up the other pis as Kubernetes "nodes."
 
 Step 19: Experiment with Kubernetes! Congrats on building your private cloud!
 
-Step 20: (Optional): Install monitoring software, deploy your own websites, block ads on your network with PiHole,
-link to rgb lights, pair with other projects, create a custom case, HACK! :)
+Step 20: Install monitoring software, deploy your own websites, block ads on your network with PiHole,
+link to rgb lights, pair with other projects, create a custom case... perhaps you'd want to program and attach some status leds via the pis' GPIO pins... Whichever path you choose to travel with this build, you can HACK! :)
 
 ## Budget
 
-| Product           | Supplier/Link                         | Cost   |
-| ---------------   | ------------------------------------- | ------ |
-| 4 Raspberry Pi 4s | https://bit.ly/2ZVDImM                | $220   |
-| 4 Power Supplies  | https://bit.ly/3WwznmU                | $32    |
-| 4 Ethernet Cables | (Already Own)                         | $0     |
-| 4 MicroSD Cards   | (Already Own)                         | $0     |
-| Customized Case   | (Already Own Supplies)                | $0     |
-| Total             |                                       | $252   |
+| Product                         | Supplier/Link                         | Cost   |
+| ------------------------------- | ------------------------------------- | ------ |
+| 4 Raspberry Pi 4 4GB Ram        | https://bit.ly/2ZVDImM                | $220   |
+| 4 Power Supplies                | https://bit.ly/3WwznmU                | $32    |
+| 4 Ethernet Cables               | (Already Own)                         | $0     |
+| 4 MicroSD Cards                 | (Already Own)                         | $0     |
+| Customized Case                 | (Already Own Supplies)                | $0     |
+| Gigabit Ethernet Network Switch | (Already Own)                         | $0     |
+| Total (Before Taxes)            |                                       | $252   |
