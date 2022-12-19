@@ -29,4 +29,5 @@ From there, I am going to customize the default code into responding to my voice
 | Infrared Touch Frame | shorturl.at/rxCW1                | $140.86|
 | Raspberry Charger | shorturl.at/bHQY0                   | $7.99  |
 | LED Light Strip | shorturl.at/tBGS7                     | $6.90  |
-| Total           |                                       | $520.41|
+| Monitor Wall Mount | shorturl.at/biNVW                  | $6.90  |
+| Total           |                                       | $527.31|
