@@ -22,7 +22,7 @@ Finally I have to code the machine and then start my work on the dashboard. Afte
 | Product              | Supplier/Link                                                                                                   | Cost   |
 | ---------------      | --------------------------------------------------------------------------------------------------------------- | ------ |
 | 2 CD/DVD Writers     | https://www.amazon.com/Rodzon-External-Portable-Rewriter-Compatible/dp/B07QTH2MVW/ref=sr_1_8?crid=27EHLEH7KJYZK | $42    |
-| 1.8"LCD display      | https://www.amazon.com/ARDUINO-UNO-Generic-USB-Cable/dp/B0BKFBT1R1                                              | $17.99 |
+| Arduino Uno          | https://www.amazon.com/ARDUINO-UNO-Generic-USB-Cable/dp/B0BKFBT1R1                                              | $17.99 |
 | Tower Servo Motor    | https://www.amazon.com/Maxmoral-Upgraded-Digital-Vehicle-Helicopter/dp/B07NV476P7                               | $10.99 |
 | Motor Control Driver | https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM                               | $7.49  |
 |Total                 |  $78.47                                                                                                         |        |
