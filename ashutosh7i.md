@@ -19,10 +19,15 @@ Device can be charged externally, i have created a port for that,led and Buzzers
 And a 3d pen to create enclosures, i have rest of required tools.
 
 Why are you excited to build it?
+Being a Techie & Electronic hobbyist i try to solve Modern Problems in a Modern way; i am planning for this device since a long time now, but i didn't had time and funds, but now my exams are over so i can focus more on this project, electronics always excites me and when it comes to Hackathons, i'm always up to it.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+What steps are you going to take to build it?
+First of all i will create a schematic and will test all equipments and connection in an open bread board to test the values and limits of devices.
+Then i will test gsm connection, Code everything up, When everything work as intended then i will assemble everthing in a enclosure, fix the camera, all the modules, the solenoid lock and GPS on their appropriate places,To do this i will use 3d pen to create enclosures.
+I will be using Soldering iron, Multimeter, usb to TTl converter, screws, bolts and Threads, as far as tools are concerned i have appropriate tools.
+I will test modules for a day, Code for two days, assembly will take two days, then if everything works as planned, i will complete my project in under 7 days
 
 
 ## Budget
