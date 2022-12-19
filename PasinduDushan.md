@@ -7,13 +7,15 @@ project: "Arduino CNC Plotter Machine"
 
 ## Summary
 
-I'm going to build a arduino CNC plotter machine. This machine will be made with 2 CD/DVD writers. All the components in the writer will be used in this scenario.
+I'm going to build a arduino CNC plotter machine. This machine will be made with 2 CD/DVD writers. All the components in the writer will be used in this scenario. Also
+I'm going to build a custom made dashboard to convert images to the machine understandable code because it's very hard for someone to do it if a user does not have some 
+technical knowledge.
 
 ## Plan
 
 I'm going to make a plan about the items and thing I want before making the project. After that I'm going to de-assemble the DVD writers and remove unnecessary parts from it. 
 After that I have to do some wiring with Motor Control Drivers and Arduino board. Next I need to make a pen holder to hold the pen steadily. Then I'll assemble all the parts.
-Finally I have to code the machine and then complete the project.
+Finally I have to code the machine and then start my work on the dashboard. After doing some final testing I'll marks this project as completed.
 
 ## Budget
 
