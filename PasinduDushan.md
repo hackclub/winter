@@ -23,12 +23,12 @@ I'm going to build a arduino CNC plotter machine. This machine will be made with
 
 ## Budget
 
-| Product              | Supplier/Link                                                                                                   | Cost   |
-| ---------------      | --------------------------------------------------------------------------------------------------------------- | ------ |
-| 2 CD/DVD Writers     | https://www.amazon.com/Rodzon-External-Portable-Rewriter-Compatible/dp/B07QTH2MVW/ref=sr_1_8?crid=27EHLEH7KJYZK | $42    |
-| Arduino Uno          | https://www.amazon.com/ARDUINO-UNO-Generic-USB-Cable/dp/B0BKFBT1R1                                              | $17.99 |
-| Tower Servo Motor    | https://www.amazon.com/Maxmoral-Upgraded-Digital-Vehicle-Helicopter/dp/B07NV476P7                               | $10.99 |
-| Motor Control Driver | https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM                               | $7.49  |
-| LCD Display          | https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6                           | $10.99 |
-| TRYMAG Magnets       | https://www.amazon.com/TRYMAG-Magnets-Refrigerator-Premium-Whiteboard/dp/B09DYDTNL4                             | $5.99  |
-| Total                |                                                                                                                 | $95.45 |
+| Product              | Supplier/Link                                                                         | Cost   |
+| ---------------      | --------------------------------------------------------------------------------------| ------ |
+| 2 CD/DVD Writers     | https://www.amazon.com/Rodzon-External-Portable-Rewriter-Compatible/dp/B07QTH2MVW     | $42    |
+| Arduino Uno          | https://www.amazon.com/ARDUINO-UNO-Generic-USB-Cable/dp/B0BKFBT1R1                    | $17.99 |
+| Tower Servo Motor    | https://www.amazon.com/Maxmoral-Upgraded-Digital-Vehicle-Helicopter/dp/B07NV476P7     | $10.99 |
+| Motor Control Driver | https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM     | $7.49  |
+| LCD Display          | https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6 | $10.99 |
+| TRYMAG Magnets       | https://www.amazon.com/TRYMAG-Magnets-Refrigerator-Premium-Whiteboard/dp/B09DYDTNL4   | $5.99  |
+| Total                |                                                                                       | $95.45 |
