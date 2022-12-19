@@ -22,7 +22,7 @@ To build this, I will gather all the necessary materials, assemble the deck and 
 | Wheels                                            | https://a.co/d/6loA65r                  | $69.95  |
 | Bearings                                          | https://a.co/d/cEchcjX                  | $17.95  |
 | Motor x 2                                         | https://a.co/d/h8xf5Ed                  | $107.98 |
-| Battery                                           | 3d print a case and put batteries in it | $1.95   |
+| Battery                                           | 3d print a case and put batteries in it | $0      |
 | Electronic speed controller x 2                   | https://a.co/d/hQXxfNN                  | $26.61  |
 | Arduino microcontroller for Remote control        | already own                             | $0      |
 | Radio transmitter and receiver for Remote control |https://www.walmart.com/ip/RF-module-433mhz-superheterodyne-receiver-and-transmitter-kit-for-arduino/1966795366  | $7.59   |
