@@ -17,10 +17,11 @@ For the first 4 days, I'm going write a web app and API for people to change the
 
 ## Budget
 
-| Product                                      | Supplier/Link                                                         | Cost |
-| -------------------------------------------- | --------------------------------------------------------------------- | ---- |
-| Microcontroller (Orpheus leap)               | already own                                                           | $0   |
-| Wires                                        | already own                                                           | $0   |
-| 32x32 RGB LED Matrix                         | https://www.adafruit.com/product/607                                  | $30  |
-| 3 pieces of 0.02" aluminum sheet (12" x 12") | https://www.onlinemetals.com/en/buy/aluminum-sheet-plate-2024-t3-t351 | $30  |
-| Total                                        |                                                                       | $60  |
+| Product                                      | Supplier/Link                                                                                                                                                                            | Cost |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Microcontroller (Orpheus leap)               | already own                                                                                                                                                                              | $0   |
+| Wires                                        | already own                                                                                                                                                                              | $0   |
+| 32x32 RGB LED Matrix                         | https://www.adafruit.com/product/607                                                                                                                                                     | $30  |
+| 3 pieces of 0.02" aluminum sheet (12" x 12") | https://www.onlinemetals.com/en/buy/aluminum-sheet-plate-2024-t3-t351                                                                                                                    | $30  |
+| Acrylic sheet                                | https://www.amazon.com/Acrylic-Plexiglass-Plastic-Protective-Projects/dp/B083FLB8WH/ref=sr_1_3?crid=1MLLHRN8ITUTN&keywords=cast+acrylic&qid=1671417610&sprefix=cast+acryli,aps,98&sr=8-3 | $27  |
+| Total                                        |                                                                                                                                                                                          | $87  |
