@@ -12,7 +12,8 @@ Making the MIDI keyboard for playing with non-mainstream scales
 You probably have seen upper one.
 It is the keyboard which is most popular in the world.
 It was designed for playing C Major Scale Music.
-in white keys, frequently used notes are assigned.
+But, in the world, there are a lot of Scale.
+in white keys, frequently used notes in C major are assigned.
 in black keys, another notes are assigned.
 So, it is hard to play another Scale Music in common keyboard.
 ![](img2.png)
