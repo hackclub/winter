@@ -7,11 +7,10 @@ project: 'Desk Lights'
 
 ## Summary
 
-I am going to build a light setup that can be controlled through a web app. For the software, I will be using Firebase and React. For the hardware, I will be using a wahoo fish. I'm excited to build this because I saw Elan Lee's demo during Hack Club's AMA with him and think it's very cool! I've never built an application that interfaces with "the real world" so it'll be fun to try.
+I am going to build a light setup in my room that can be controlled through a web app. I think it'll be really cool to have something my friends can interact w/ while we're on calls + I saw Elan Lee's demo during Hack Club's AMA with him and it was awesome! I've never built an application that interfaces with "the real world" so it'll be fun to try.
 
 ## Plan
-
-I will build this thing first, then this thing, then that thing.
+For the software, I will be using Firebase and React. For the hardware, I will be using a dev board and LED strip from Adafruit. I'll be following [this guide](https://github.com/garyhtou/Desk-Lights) from [@garyhtou](https://github.com/garyhtou).
 
 ## Budget
 
