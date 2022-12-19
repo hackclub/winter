@@ -29,4 +29,4 @@ I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free
 | MicroSD Card and Display cables | Owned | $0.00
 | RGB Light Strip for lighting (Smart) | Owned | $0.00
 
-| Total           |                                       | $246.49 | (includes all extra costs, tax, s&h, etc.)
+| Total                                               | $246.49 | (includes all extra costs, tax, s&h, etc.)
