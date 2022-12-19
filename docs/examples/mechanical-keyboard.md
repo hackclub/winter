@@ -7,11 +7,11 @@ project: 'Sweep'
 
 ## Summary
 
-I am going to build a split keyboard
+I am going to build a split keyboard! 
 
 ## Plan
 
-I will build this thing first, then this thing, then that thing.
+I'll be custom ordering a PCB from JLCPCB following the instructions listed [here](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20v2.2) and everything else (listed below) just needs to be purchased. I'll be following this [build guide](https://www.youtube.com/watch?v=fBPu7AyDtkM) and already have access to a soldering station through a makerspace at my school!
 
 ## Budget
 
