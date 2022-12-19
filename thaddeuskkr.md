@@ -22,11 +22,12 @@ I'll experiment with various software, and maybe it might even come down to me c
 
 ## Budget
 
-| Product                                        | Supplier/Link                                                                          | Cost     |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------- | -------- |
-| Raspberry Pi 4B 8GB - Basic Kit                | https://sg.cytron.io/p-raspberry-pi-4-model-b-8gb                                      | $130.00  |
-| 135x240 Color TFT Display                      | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/4393/10650640        | $16.61   |
-| 128x32 Monochrome OLED Display                 | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/3527/7323609         | $16.61   |
-| Philips Hue Light Strip (for lights / testing) | https://www.amazon.sg/Philips-LightStrip-Dimmable-Extension-929002269205/dp/B08BLGR8VK | $36.15   |
-| JBL Flip 3 SE (Bluetooth - for audio)          | Already owned                                                                          |          |
-| Total                                          |                                                                                        | $199.37  |
+| Product                                        | Supplier/Link                                                                             | Cost     |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------- | -------- |
+| Raspberry Pi 4B 8GB - Basic Kit                | https://sg.cytron.io/p-raspberry-pi-4-model-b-8gb                                         | $130.00  |
+| 135x240 Color TFT Display                      | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/4393/10650640           | $16.61   |
+| 128x32 Monochrome OLED Display                 | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/3527/7323609            | $16.61   |
+| Philips Hue Light Strip (for lights / testing) | https://www.amazon.sg/Philips-LightStrip-Dimmable-Extension-929002269205/dp/B08BLGR8VK    | $36.15   |
+| Smart Plug (Purchasing later on, for testing)  | -                                                                                         | $30.00   | 
+| JBL Flip 3 SE (Bluetooth - for audio)          | Already owned                                                                             |          |
+| Total (excl. shipping fees, xch. rate changes) | When shipping fees and exchange rates are factored, I'd say this would be more like $250. | $229.37  |
