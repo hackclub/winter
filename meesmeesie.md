@@ -26,4 +26,4 @@ First i am going to put all the speakers in the amplifier and then i am going to
 | MDF WOOD 150 by 122 centimeters height: 18mm | (https://www.opmaatzagen.nl/hout-plaatmateriaal/mdf/mdf-blank) | $63,56 |
 
 
-| Total: | | $163,40 |
+| Total: | | $226,96 |
