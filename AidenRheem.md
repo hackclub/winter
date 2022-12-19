@@ -18,8 +18,8 @@ I'll also buy accessores like different plates, knobs, and coiled cables down th
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Case/PCB Combo  | [Glorious PCB](https://www.gloriousgaming.com/products/glorious-gmmk-pro-75-barebone-white) | $169.99  |
-| Keycaps         | [Akko Blue on Whites](https://www.aliexpress.us/item/3256804332568774.html?gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US) | $47.39 |
+| Case/PCB Combo  | [NJ80](https://drop.com/buy/keydous-nj80-barebones-bluetooth-rgb-hot-swappable-keyboard?searchId=ab75fafc29f028bfb5b3aec87e897b6b&clickid=SuF2Ng1ddxyNT0ISfjynP23sUkA2D8Xty1hWWo0&irgwc=1&utm_term=252901&utm_content=Hipyo%20Tech&utm_medium=affiliate&utm_source=impactradius&utm_placement=&utm_keyword=&mode=shop_open&utm_campaign=2448764&utm_network=4148) | $169.99  |
+| Keycaps         | [IDOBAO MA Blue Cat](https://drop.com/buy/idobao-ma-blue-cat-pbt-dye-subbed-keycap-set?searchId=ddcd96123a72a41ad4290c489cf8639b&defaultSelectionIds=960002&clickid=SuF2Ng1ddxyNT0ISfjynP23sUkA2D8Xpy1hWWo0&irgwc=1&utm_term=252901&utm_content=Hipyo%20Tech&utm_medium=affiliate&utm_source=impactradius&utm_placement=&utm_keyword=&mode=shop_open&utm_campaign=2448764&utm_network=4148) | $47.39 |
 | 10 Pack Switches x 9    | [Gateron Ink v2 Black](https://kbdfans.com/products/gateron-ink-v2-black-switches) | $67.50 - $5 = $62.50 (coupon) |
 | Total           |                                       | $279.88 |
 
