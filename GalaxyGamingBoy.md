@@ -7,8 +7,8 @@ project: "Plant Location Chooser"
 
 ## Summary
 
-I am planning to build an arduino project that will take parameters like the temprature and it will decide if the location is suitable for growing a plant.  
-It will then communicate those result by bluetooth on a mobile device using a custom app.  
+I am planning to build an arduino project that will take parameters like the temperature and it will decide if the location is suitable for growing a plant. 
+It will then communicate those result using bluetooth on a mobile device using a custom app.  
 I am excited to work on this project because I live in a rural area and we have a lot of flowers that we need to take care of and this would be the perfect tool to help plant more flowers.
 
 ## Plan
