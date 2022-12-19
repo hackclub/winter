@@ -26,4 +26,5 @@ I need 3 of each component so I can build one for each of my blinds, and 2 motor
 | TT Motor Pulley x6 | [Adafruit](https://www.adafruit.com/product/3789) | $4.50 |
 | DC Gearbox Motor x6 | [Adafruit](https://www.adafruit.com/product/3777) | $17.10 |
 | Yarn x3 | [Adafruit](https://www.adafruit.com/product/4015) | $8.85 |
-| Total | | $66.15 |
+| Creality Ender 3 3D Printer | [Amazon](https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/ref=sr_1_2?crid=1GV3BBJ7G87YR&keywords=3d+printer&qid=1671485001&sprefix=3d+prin,aps,109&sr=8-2&ufe=app_do:amzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0) | $199.00 |
+| Total | | $265.15 |
