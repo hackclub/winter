@@ -7,7 +7,7 @@ project: "Arduino CNC Plotter Machine"
 
 ## Summary
 
-I'm going to build a arduino CNC plotter machine. This machine will be made with 2 CD/DVD writers, arduino uno board, motor shileld driver and a lcd display. LCD Display can be used to identify the item currently drawing and the status of the drawing. Also I'll build a custom made dashboard to convert images to the machine understandable code because it's very hard for someone to do it if a user does not have some technical knowledge.
+I'm going to build a arduino CNC plotter machine. This machine will be made with 2 CD/DVD writers, arduino uno board, motor shileld driver and a lcd display. LCD Display can be used to identify the item currently drawing and the status of the drawing. I won't be following any guides when building this plotter machine because I have a good knowledge of arduino and I believe trying is the best thing. Also I'll build a custom dashboard to convert images to the machine understandable code because it's very hard for someone to do it if a user does not have some knowledge about g-code. 
 
 ## Plan
 
@@ -15,11 +15,12 @@ I'm going to build a arduino CNC plotter machine. This machine will be made with
 2. De-Assemble CD/DVD writers and remove unnecessary parts. (CD/DVD Scanner)
 3. Make a Pen Holder with the servo motor.
 4. Connect wires to the CD/DVD writers and also to the servo motor.
-5. Connect Arduino with the Motor Shield and then connect all the wires coming from motors.
-6. Assemble all items (CD/DVD Driver, Pen Holder and Arduino Board). After that connect the LCD Display to the machine which can be used to show the item drawing currently drawing and show the stats of the drawing. (Ex:- How many percentages of the drawing has completed.)
-7. Program the machine to verify if everything is working as expected.
+5. Connect Arduino with the Motor Shield and then connect all the wires coming from motors and servo.
+6. Assemble all items (CD/DVD Driver, Pen Holder and Arduino Board). After that connect the LCD Display to the machine which can be used to show the item currently drawing and show the stats of the drawing. (Ex:- How many percentages of the drawing has completed.)
+7. Program the machine with arduino software to verify if everything is working as expected.
 8. Program the web dashboard which can be used to convert normal images to machine understandable code. (This is a 2 software process made into 1)
-9. Complete the project.
+9. Prepare the machine for a test run by running the converted image through inkspace software.
+10. Complete the project.
 
 ## Budget
 
