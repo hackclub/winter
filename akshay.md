@@ -1,5 +1,5 @@
 ---
-name: "@akshay"
+name: "@Akshay-Vs"
 project: "Plant Disease Detection Rover"
 ---
 
