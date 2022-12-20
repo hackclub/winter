@@ -46,7 +46,9 @@ single network cable.
 
 Step 1: Order materials (full list at the bottom), then await items' arrival.
 
-Step 2: Attach Raspberry Pis to the Cluster Stand/Case(s), and set up heatsinks/fans (cooling) if applicable.
+Step 2a: Create a custom case/stand, or buy one.
+
+Step 2b: Attach Raspberry Pis to the cluster stand/case(s), and attach heatsinks/fans (cooling) if applicable.
 
 Step 3: On your PC, install Raspberry Pi imager.
 
@@ -88,8 +90,13 @@ Step 18: Set up the other pis as Kubernetes "nodes."
 
 Step 19: Experiment & hack with Kubernetes! Congrats on building your private cloud!
 
-Step 20: Install monitoring software, deploy your own websites, block ads on your network with PiHole,
-link to rgb lights, pair with other projects, create a custom case... perhaps you'd want to program and attach some status leds via the pis' GPIO pins... Whichever path you choose to travel with this build, you can HACK! :)
+Step 20: Overclock! (or underclock, if you want to achieve even more energy efficiency)... 
+Install monitoring software, deploy your own websites, block ads on your network with your own PiHole-powered DNS,
+link to rgb lights (or even full on RGB desktop fans, or go crazy with liquid cooling!), pair with other projects, create a custom case... 
+Perhaps you'd want to program and attach some status leds via the pis' GPIO pins... Maybe you'd like to upgrade from SDcards to faster USB3 drives....
+Like machine learning? Why not try to create a mini neural network with your cluster!
+
+Whichever path you choose to travel with this build, you can always HACK! :)
 
 ## Budget
 
