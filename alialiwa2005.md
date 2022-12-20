@@ -30,7 +30,7 @@ For this project, you'll need 4 Raspberry Pis. They will be the heart of the bui
 
 They're also realitively affordable overall, don't use much electricity, and are surprisingly powerful for their credit-card-size.
 
-Aside from these, you also need accessories, like power supplies, storage, ethernet cables, and a cluster stand/stackable cases for organization.
+Aside from these, you also need accessories, like power supplies, storage (like MicroSDCards, at least 16GB, ideally 32GB), ethernet cables, and a cluster stand/stackable cases for organization.
 
 You'll also need a laptop or PC for initial setup of the Pis.
 
