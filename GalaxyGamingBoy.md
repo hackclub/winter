@@ -34,6 +34,7 @@ The rest of the days will be spent constructing, programming and testing the pro
 | Breadboard Jumper Wires 350Pcs                                  | https://grobotronics.com/breadboard-jumper-wires-350pcs.html                                        | $10.49 |
 | Breadboard Jumper Wires Male to Male - Pack of 65               | https://grobotronics.com/breadboard-jumper-wires-male-to-male-pack-of-65.html                       | $3.82  |
 | Cable Tie 330mm/3.6mm Black - 100pcs                            | https://grobotronics.com/cable-tie-330mm-black-100pcs.html                                          | $4.03  |
-| Screw Terminals 5mm Pitch (3-Pin) 16A                           | https://grobotronics.com/screw-terminals-5mm-pitch-3-pin-16a.html                                   | $0,64  |
+| Screw Terminals 5mm Pitch (3-Pin) 16A                           | https://grobotronics.com/screw-terminals-5mm-pitch-3-pin-16a.html                                   | $0.64  |
+| Storage Box 370x295x55mm - 12 Containers                        | https://grobotronics.com/storage-box-370x295x55mm-12-containers.html?sl=en                                   | $17.21  |
 | Microcontroller ( Arduino R3 )                                  | Already Own                                                                                         | $0,00  |
-| Total                                                           |                                                                                                     | $92.64 |
+| Total                                                           |                                                                                                     | $109.85 |
