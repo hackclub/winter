@@ -1,5 +1,5 @@
 ---
-name: "@exu3"
+name: "@akshay"
 project: "Plant Disease Detection Rover"
 ---
 
