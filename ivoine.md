@@ -1,37 +1,25 @@
 ---
 name: "@ivoinestrachan"
-project: "Electric SkateBoard"
+project: "SkateBoard Collision"
 ---
 
-# Electric Skateboard
+# SkateBoard Collision
 
 ## Summary
 
-I'm going to build a electric skateboard that will be powered by a motor and battery, and will be controlled using a remote and an electronic speed controller. You will also be installing an LCD display to monitor the speed and other performance metrics of the skateboard. The project involves assembling a skateboard deck, trucks, wheels, and bearings, as well as installing and connecting the motor, battery, ESC, and LCD display. The goal of the project is to create a functional electric skateboard that can be controlled using a remote. I am excited to build this because it will be a great transportation for me and im just excited to build something that i thought i'd never have a chance to build. Im also going to be making my first vlog out of this project.
+The skateboard safety alert system is a device that uses sensors to detect potential collisions and sounds an alarm to alert the skateboarder. It includes a microcontroller, sensors, and an audio output device and requires code to be written to process sensor data and play the alarm sound. The system aims to improve skateboard safety by alerting skateboarders to potential collisions and helping them avoid accidents.
 
 ## Plan
 
-To build this, I will gather all the necessary materials, assemble the deck and motor, and connect the LCD display to the ESC using wires. Then, I will pair the remote with the ESC. Finally, I will test the setup to identify any flaws and make necessary adjustments to ensure it is functioning properly. Then decided to build the remote control from scratch.
+I am going to first get a sensor to detect the collision using a microcontroller and using a arduino then test if im going to hit then a alarm goes off. I am also going to make a vlog from this and I think its going to be pretty cool. I had to limit my imagination and get a lower budget because shipping stuff to The Bahamas is to pricey.
 
 ## Budget
 
-| Product                                           | Supplier/Link                           | Cost    |
-| ------------------------------------------------- | --------------------------------------- | ------- |
-| Skateboard deck                                   | have to build this                      | $0      |
-| Trucks                                            | https://a.co/d/0FPJ41K                  | $56.95  |
-| Wheels                                            | https://a.co/d/6loA65r                  | $69.95  |
-| Bearings                                          | https://a.co/d/cEchcjX                  | $17.95  |
-| Motor x 2                                         | https://a.co/d/h8xf5Ed                  | $107.98 |
-| Battery                                           | 3d print a case and put batteries in it | $0      |
-| Electronic speed controller x 2                   | https://a.co/d/hQXxfNN                  | $26.61  |
-| Arduino microcontroller for Remote control        | already own                             | $0      |
-| Radio transmitter and receiver for Remote control |https://www.walmart.com/ip/RF-module-433mhz-superheterodyne-receiver-and-transmitter-kit-for-arduino/1966795366  | $7.59   |
-| Joystick for Remote control                       | already own                             | $0      |
-| Breadboard and jumper wires for Remote control    | already own                             | $0      |
-| LCD display Remote control                        | already own                             | $0      |
-| Screws, nuts, and bolts for assembly              | https://a.co/d/cfn8pSd                  | $15.17  |
-| Drill                                             | https://a.co/d/anMDomW                  | $49.00  |
-| Screwdriver                                       | already own                             | $0      |
-| Wrench                                            | already own                             | $0      |
-| Soldering iron                                    | already own                             | $0      |
-| Total                                             |                                         | $351.20 |
+| Product     | Supplier/Link          | Cost   |
+| ----------- | ---------------------- | ------ |
+| Mic         | https://a.co/d/g8G0oWj | $34.57 |
+| Skateboard  | https://a.co/d/bpwPXxN | $37.00 |
+| Arduino Kit | Already Owned          | $0     |
+| Total       | Taxes & Shipping       | $57.49 |
+
+![image](https://user-images.githubusercontent.com/70272280/208740366-f6800375-60fa-464c-8276-d174763bbd15.png)
