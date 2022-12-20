@@ -1,0 +1,49 @@
+---
+name: "@aryamanrtunjay and @Raghav-Kalyana-Sundaram"
+project: "Realistic Iron Man Helmet"
+---
+
+# Project Name
+  **Realistic Iron Man Helmet**
+## Summary
+  We are going to build a iron man helmet, complete with a automatic faceplate, Heads Up Display Unit and a Jarvis AI.
+  
+  The heads up display will be able to display messages, a camera view of your behind so you have eyes in the back of your head.
+  In theory it will be able to do anything a normal smartphone can do and more because of the customizability.
+  
+  We also will have a microphone system that connects to a raspberry pi, so we can input voice messages to a Natural Langauge AI that 
+  interpets what you say and either responds via a speaker or changes whats shown on the HUD unit.
+  
+  The faceplate of the helmet will have two servo motors that allow it to open and close automatically.
+  
+  We're excited to build this because its one of the most import pieces in our complete iron man suit.
+
+## Plan
+
+  1. We are going to order the HUD unit, the camera unit, and the microphone.
+  2. We're going to do a bench test, without the helmet, and figuring out the HUD API and integrate the camera unit and microphone with it
+  3. Then we're going to develop the Jarvis AI and make it interpret different commands we give it
+  4. We're going to make the Jarvis AI communicate with the HUD unit and see if it changes screens with different voice commansd
+  5. We're going to CAD a iron man helmet with slots for all of the different pieces of the electronic described in step 1-4
+  6. In this cad we're going to make the face plate motorized and connect the servos to the raspberry pi controlling the rest of the electronics
+  7. We're going to 3D print the iron man helmet and assemble the electronics into it
+    Thats project completed!
+
+## Budget
+The link to the HUD unit is broken so to find on Amazon, search "Vufine VUF" and the first option is the one
+
+| Product     | Supplier/Link                                                       | Cost     |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| HUD Unit    | https://www.amazon.com/Vufine-006011-Wearable-Display/dp/B01MZ89QXF | $190.00  |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Microphone  | http://bit.ly/3PJOxmx (Adafruit)                                    | $5.95    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Camera      | https://bit.ly/3YFXUrK (Amazon)                                     | $14.99   |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Speaker     | https://bit.ly/3jl8O5L (Adafruit)                                   | $7.50    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Eye LED     | https://bit.ly/3FNazjQ (Ebay)                                       | $7.59    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Subtotal    |                                                                     | $226.03  |
+| Tax         |                                                                     | $22.60   |
+| Total       |                                                                     | $248.63  |
