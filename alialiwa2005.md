@@ -93,12 +93,13 @@ link to rgb lights, pair with other projects, create a custom case... perhaps yo
 
 ## Budget
 
-| Product                         | Supplier/Link                         | Cost   |
-| ------------------------------- | ------------------------------------- | ------ |
-| 4 Raspberry Pi 4 4GB Ram        | https://bit.ly/2ZVDImM                | $220   |
-| 4 Power Supplies                | https://bit.ly/3WwznmU                | $32    |
-| 4 Ethernet Cables               | (Already Own)                         | $0     |
-| 4 MicroSD Cards                 | (Already Own)                         | $0     |
-| Customized Case                 | (Already Own Supplies)                | $0     |
-| Gigabit Ethernet Network Switch | (Already Own)                         | $0     |
-| Total (Before Taxes)            |                                       | $252   |
+| Product                         | Supplier/Link                         | Cost    |
+| ------------------------------- | ------------------------------------- | ------- |
+| 4 Raspberry Pi 4 4GB Ram        | https://bit.ly/2ZVDImM                | $220    |
+| 4 Power Supplies                | https://bit.ly/3WwznmU                | $32     |
+| 6 Ethernet Cables               | https://bit.ly/3WtkAte                | $3.23   |
+| 4 MicroSD Cards                 | (Already Own)                         | $0      |
+| Customized Case                 | (Already Own Supplies)                | $0      |
+| Gigabit Ethernet Network Switch | (Already Own)                         | $0      |
+| Router for Project-Only Network | (Already Own a Spare Router)          | $0      |
+| Total (Before Taxes)            |                                       | $255.23 |
