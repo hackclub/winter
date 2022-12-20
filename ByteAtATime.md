@@ -11,6 +11,8 @@ I've been wanting to try to build a mechanical keyboard for a while, and since I
 
 Also, the current keyboard I have is really crappy and my brother really hates the sound, but since I'm broke I don't really have a good reason to waste my earnings.
 
+This would be my first time lubing switches, so that's a learning experience.
+
 I also plan to add a KDE widget to tell me information such as whether caps lock is on and stuff like that.
 
 (Not sure if this project counts though)
