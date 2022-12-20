@@ -5,11 +5,11 @@ project: "thocc"
 
 ## Summary
 
-I'm going to be building a mechanical keyboard! The goal of this project is to create a keyboard I can use on my desktop setup for school, coding, and occasional gaming! I wanted a keyboard that was silent, fast/responsive, and had that "thocc" sound which I find really satisfying.
+I'm going to be building a mechanical keyboard! The goal of this project is to create a keyboard I can use on my desktop setup for school, coding, and occasional gaming! 
 
 ## Plan
 
-I'll be ordering a prebuilt hot-swap PCB from Glorious as I don't have access to a soldering iron and to save time! <br>
+I'll be ordering a prebuilt hot-swap PCB as I don't have access to a soldering iron and to save time! <br>
 Also this makes for customization like if I want to add different switches, a lot easier than having to unsolder and resolder. <br>
 Everything else like switches and keycaps just needs to be purchased, and i'll be following a detailed youtube video! <br>
 I'll also buy accessores like different plates, knobs, and coiled cables down the road, but that will be later out of my own pocket.
