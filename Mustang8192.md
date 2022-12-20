@@ -4,7 +4,7 @@ project: "FPV Drone"
 ---
 
 ## Summary
-I intend to build a custom FPV Drone. FPV Drones are designed for a multitude of reasons that range from racing, to photography, and even to just having fun. These normally have a very thrust to weight making them the best fit high-speed enjoyment. I am excited to build this because it is the first engineering project that I have taken on that does not have components that fit together seamlessly. 
+I intend to build a custom FPV Drone. FPV Drones are designed for a multitude of reasons that range from racing, to photography, and even to just having fun. These normally have a very thrust to weight making them the best fit for high-speed enjoyment. I am excited to build this because it is the first engineering project that I have taken on that does not have components that fit together seamlessly. 
 
 ## Plan
 Over the 10 days I will assemble the frame as this ships unassembled. I would mount the motors to the frame, while making sure to cut your wires to length. Next I would to assemble the “flight stack” this is composed of the ESC (Electronic Speed Controller) and the FC (Flight Controller). When assembling the flight stack I would solder all 4 motors to the ESC and them proceed to connect to the FC (flight controller). On the FC, you would solder up you radio and FPV receiver, the FPV camera, and GPS (if applicable). Finally would be to configure the software (Betaflight) in order to operate the drone.
