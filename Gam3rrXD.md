@@ -7,13 +7,13 @@ project: "RGB SmrtMirror"
 
 ## Summary
 
-I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free Experience. I am exited to build this because this has been on my building wishlist for a while and this is finally an opertunity to build it, this would be a great addition to the bathroom or even my bedroom!
+I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free Experience. I am exited to build this because this has been on my building wishlist for a while and this is finally an opertunity to build it, this would be a great addition to the bathroom or even my bedroom! This would be used for asthetic and as a home automation device.
 ## Plan
 
 1. Get all the material for the build, wait for it to arrive
 2. Build the frame according to the size of the display and leaving enough wiggle room for the PI to slot in and the speakers to fit
 3. Place the display into the frame position the mirror and start prepping the Pi
-4. Installing all necessary frameworks to operate the PI and seting it up within the frame
+4. Installing all necessary frameworks (Such as the magic mirror framework and amazon voice services) to operate the PI and seting it up within the frame
 5. Screwing together the rest of the frame and mounting it.
 6. Enjoying the mirror!
 ## Budget
