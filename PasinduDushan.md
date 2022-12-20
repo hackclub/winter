@@ -5,6 +5,8 @@ project: "Arduino CNC Plotter Machine"
 
 # Arduino CNC Plotter Machine with a Custom Dashboard
 
+![Untitled design](https://user-images.githubusercontent.com/57533877/208594271-1b8ddf98-3816-490b-a075-2d8430bab6b2.gif)
+
 ## Summary
 
 I'm going to build a arduino CNC plotter machine. This machine will be made with 2 CD/DVD writers, arduino uno board, motor shileld driver and a lcd display. LCD Display can be used to identify the item currently drawing and the status of the drawing. I won't be following any guides when building this plotter machine because I have a good knowledge of arduino and I believe trying is the best thing. Also I'll build a custom dashboard to convert images to the machine understandable code because it's very hard for someone to do it if a user does not have some knowledge about g-code. This will be a nice project for me because I can make the machine to draw very beautiful images.
