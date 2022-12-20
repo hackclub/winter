@@ -25,7 +25,6 @@ my steps will be approximatly:
 9. deploy (day 8)
 10. possibly build more (day 8 - 10)
 ## Budget
-I do not have a price for the PCB so i have not listed it here!
 | Product         | Supplier/Link                                                     | Cost   |
 | --------------- | ----------------------------------------------------------------- | ------ |
 | Jumper Jerky    | https://shop.pimoroni.com/products/jumper-jerky?variant=304798331 | $3.05  |
@@ -37,5 +36,8 @@ I do not have a price for the PCB so i have not listed it here!
 | 4 x (1 x 10) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=39351739383891 | $3.66 |
 | Waterproof 1-Wire DS18B20 Digital temperature sensor | https://www.adafruit.com/product/381 | $9.95 |
 | Case | https://shop.pimoroni.com/products/pirate-brand-plastic-loot-box?variant=40286342922| $3.33 |
-| (1 x 3) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=31533815201875 | $0.61 |
-| Total | | $52.95 for one unit (not including shipping or taxes)
+| (1 x 3) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=31533815201875 | $0.61 
+| PCB | ordered from JLCPCB | Estimated at $10 without shipping etc | 
+| Total without shipping or taxes | | $62.95 for one unit |
+| Total with shipping or taxes | | $99.60 |
+Will try to get the sensor from pimoroni, if it is back in stock by time of ordering
