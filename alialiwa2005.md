@@ -20,9 +20,9 @@ and is versatile in many ways!
 I certain that this is will turn out to be an awesome and unique project, and I can't wait to start making it this winter.
 
 While this project is about making, it is also an awesome learning opportunity for me, in terms of the hardware side of computing and cloud, such as physical networking, as well as the software side, 
-such as using Kubernetes to manage seperate pieces of hardware that make up a cluster in accomplishing tasks in unision... that is just mind-blowing to me!
+such as using Kubernetes to manage separate pieces of hardware that make up a cluster in accomplishing tasks in unison... that is just mind-blowing to me!
 
-I always wanted to build a super-computer. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket-list! Horray!
+I always wanted to build a super-computer. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket-list! Hooray!
 
 ## Plan
 
