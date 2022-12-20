@@ -86,7 +86,7 @@ Step 17: Set up the first pi as the Kubernetes "master."
 
 Step 18: Set up the other pis as Kubernetes "nodes."
 
-Step 19: Experiment with Kubernetes! Congrats on building your private cloud!
+Step 19: Experiment & hack with Kubernetes! Congrats on building your private cloud!
 
 Step 20: Install monitoring software, deploy your own websites, block ads on your network with PiHole,
 link to rgb lights, pair with other projects, create a custom case... perhaps you'd want to program and attach some status leds via the pis' GPIO pins... Whichever path you choose to travel with this build, you can HACK! :)
