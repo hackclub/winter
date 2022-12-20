@@ -3,7 +3,7 @@ name: "@Akshay-Vs"
 project: "Plant Disease Detection Rover"
 ---
 
-# Plant Disease Detection Rove
+# Plant Disease Detection Rover
 
 ![Expected result from the rover](https://raw.githubusercontent.com/Akshay-Vs/resources/main/src/Rover_Exp.png)
 Expected Result From The Rover
