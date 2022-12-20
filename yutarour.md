@@ -16,7 +16,7 @@ I will be making a model of the enclosure in fusion 360 and printing it with a r
   - Resin printer
   - Arduino Uno -Already have at home
   - BMP280 -Already have at home
-  - Resin
+  - Resin -Will buy with own money to avoid overbudget
   - Female to Male wires -Already have at home
   - Isopropyl alchohol - Already have at home
   - Resin wash and cure machine
@@ -61,5 +61,7 @@ I will be making a model of the enclosure in fusion 360 and printing it with a r
 | Isopropyl Alchohol        | Already Own                           | $0.00  |
 | 9V battery                | Already Own                           | $0.00  |
 | Female to Male wires      | Already Own                           | $0.00  |
-| Translucent Resin         | https://a.co/d/cN24vPx                | $17.99 |
-| Total                     |                                       | $248.98|
+| Translucent Resin         | Will purchase with own money          | $17.99 |
+| Tax (6.5%)                 |                                       | $15.01|
+| Shipping                  |Free with Amazon Prime                 | $0.00  |
+| Total                     |                                       | $246.00|
