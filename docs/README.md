@@ -56,7 +56,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 1. Fork this repository.
 2. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
-3. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
+3. Open a pull request, and someone will review your pull request within 48 hours on weekdays!
 
 More detailed instructions can be found in the ["how to submit"](/docs/how_to_submit.md) guide.
 
