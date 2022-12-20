@@ -25,4 +25,6 @@ The small toy car would help me with learning programing like controling all 4 m
 | Bluetooth Module| https://robocraze.com/products/hc-05-bluetooth-module | $2.77 |
 | HG7881 H-Bridge 4CH DC | https://robocraze.com/products/hg7881-h-bridge-4ch-dc-2ch-stepper-motor-driver-board  | $3.25  |
 | Motor with wheels | https://robocraze.com/products/duel-shaft-bo-motor-with-wheel-4pcs | $3.42 |
-| Total           |                                       | $111.65 |
+|Li-Ion Battery | https://robocraze.com/products/3-7v-6000mah-li-ion-battery | $5.79|
+| Battery Charger | https://robocraze.com/products/xh-m602-lithium-battery-charging-control-module | $5.43 |
+| Total           |                                       | $122.87 |
