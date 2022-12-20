@@ -19,10 +19,11 @@ I'm going to build a arduino CNC plotter machine. This machine will be made with
 4. Connect wires to the CD/DVD writers and also to the servo motor.
 5. Connect Arduino with the Motor Shield and then connect all the wires coming from motors and servo.
 6. Assemble all items (CD/DVD Driver, Pen Holder and Arduino Board). After that connect the LCD Display to the machine which can be used to show the item currently drawing and show the stats of the drawing. (Ex:- How many percentages of the drawing has completed.)
-7. Program the machine with arduino software to verify if everything is working as expected.
+7. Program the machine with arduino IDE to verify if everything is working as expected.
 8. Program the web dashboard which can be used to convert normal images to machine understandable code. (This is a 2 software process made into 1)
-9. Prepare the machine for a test run by running the converted image through inkspace software.
-10. Complete the project.
+9. Prepare the machine for the first testrun by using inkspace software and makerboard G-code to generate a g-code for the image and then run the machine. (First I'm    going to use the software and then test the dashboard)
+10. Test the custom made dashboard by running the machine again using the dashboard generated g-code.
+11. Complete the project if everything work as expected.
 
 ## Budget
 
