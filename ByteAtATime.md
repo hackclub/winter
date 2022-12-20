@@ -21,8 +21,10 @@ Self-explanatory, ig just build the keyboard. I also want to see the PCB and try
 
 ## Budget
 
-| Product         | Supplier/Link                                                            | Cost                |
-| --------------- | ------------------------------------------------------------------------ | ------------------- |
-| GMMK Barebones  | https://www.gloriousgaming.com/products/gmmk-tkl-tenkeyless-brown-switch | $109.95             |
-| Zilents (x9)    | https://zealpc.net/products/zilent?variant=5894817710118                 | $11.05 * 9 = $99.45 |
-| Total           |                                                                          | $209.40             |
+| Product         | Supplier/Link                                                                          | Cost                |
+| --------------- | -------------------------------------------------------------------------------------- | ------------------- |
+| GMMK Barebones  | https://www.gloriousgaming.com/products/gmmk-tkl-tenkeyless-brown-switch               | $109.95             |
+| Zilents (x9)    | https://zealpc.net/products/zilent?variant=5894817710118                               | $11.05 * 9 = $99.45 |
+| Switch Opener   | https://www.amazon.com/HONKID-Aluminum-Keyboard-Mechanical-Switches/dp/B08XYXJSSN?th=1 | $12.99              |
+| Lube            | https://kebo.store/products/switch-lubricants?variant=35000460902554                   | $7.00               |
+| Total           |                                                                                        | $229.39             |
