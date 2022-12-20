@@ -32,3 +32,4 @@ I will first build the case , then build the electronics , then setup the softwa
 | Usb Microphone          |    https://www.adafruit.com/product/3367                                  | $5.95 |
 | SD card         |    https://www.adafruit.com/product/1294                               | $9.95 |
 | Total (excluding offline products)        |                                 | $80 approx. |
+| Total (including offline products and other extra materials)        |  (offline stores, online stores, extra supplies)                | $150 approx. |
