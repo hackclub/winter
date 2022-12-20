@@ -7,10 +7,11 @@ project: "RWS | DIY AWS Cloud"
 RWS | DIY AWS Cloud
 ## Summary
 
-I am going to build my own Kubernetes, Arm-powered private cloud. 
+I am going to build a hackable, Kubernetes-based, (mini)-super-computer Arm-powered private cloud. 
 
-Instead of hosting a site, minecraft server, or webapp on a cloud service like AWS, 
-I'm excited to build my own cloud, while exploring redundancy, load-balancing, containers, and orchestration hands-on, from a hardware perspective!!! 
+Instead of hosting a site, minecraft server, or webapp on a cloud service like AWS,
+I'm excited to build my own hackable (mini)-super-computer-powered cloud, while exploring redundancy, load-balancing, containers, orchestration, and physical networking, hands-on, from a hardware perspective!
+
 
 I can't wait to build a DIY cluster of mini-servers at home! It's so wonderful to think of all the possibilities of this build!
 
