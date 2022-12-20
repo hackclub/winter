@@ -32,6 +32,7 @@ I'm going to build a arduino CNC plotter machine. This machine will be made with
 | Motor Control Driver | https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM     | $7.49  |
 | LCD Display          | https://www.amazon.com/GeeekPi-Character-Backlight-Raspberry-Electrical/dp/B07S7PJYM6 | $10.99 |
 | TRYMAG Magnets       | https://www.amazon.com/TRYMAG-Magnets-Refrigerator-Premium-Whiteboard/dp/B09DYDTNL4   | $5.99  |
+| Jumper Wires         | Already Own                                                                           |        |
 | Total                |                                                                                       | $95.45 |
 
 No shipping costs are included because the prices included in the table is very similar to the prices in my local electronic store. I can confirm every item listed here is available in the store and don't need to ship them from overseas.
