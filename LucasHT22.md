@@ -15,7 +15,8 @@ before I liked AI, ML more. With this Hardware project I intend to test console 
 
 first test prototypes with 2 types of Arduino, second create the final prototype and finally create an operating system or use Sprig's (I don't know yet) and in the end make my Sprig game playable on it
 
-one of the prototypes:
+### one of the prototypes:
+
 ![image](https://user-images.githubusercontent.com/88567622/208777099-e616b72d-f4a3-45eb-8886-942800f7b872.png)
 
 ## Budget
