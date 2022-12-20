@@ -13,25 +13,23 @@ wire snipper
 screwdriver 
 
 steps:
-1- I will print the parts required to make the vehicle with my 3d printer. 
-1.1- clean these pieces up by sanding them down or grinding them with dremel tool
-2- assemble and attach the components needed for this model to function. 
-2.1- assemble treads needed for the vheicle
-2.2-mend together pieces with soldering iron
-2.3-paint
-2.4- add finishing touches to model like fixing sockets. 
-3- program and make the vheicle able to function. 
-3.1- program moters
-3.2-program the bluetooth system 
-3.3-put together wires to connect motors 
-3.4-put on batteries and check circulation
-3.5-test the torque for the motors 
-3.6- test the vheicles to see if it is working and functioning properly. 
-4- test it out in the snow, and different terrains. 
-4.1- test in snow
-4.2- test in forest
-4.3- test on sand
-4.4- test compatibility on human made objects like pavement and stairs
+
+1. I will print the parts required to make the vehicle with my 3d printer. 
+2. clean these pieces up by sanding them down or grinding them with dremel tool
+3. assemble and attach the components needed for this model to function. 
+4. assemble treads needed for the vehicle
+5. mend together pieces with soldering iron
+6. paint 
+7. add finishing touches to model like fixing sockets.
+8. program and make the vheicle able to function. 
+9. program moters
+10. program the bluetooth system 
+11. put together wires to connect motors 
+12. put on batteries and check circulation
+13. test the torque for the motors.
+14. test the vheicles to see if it is working and functioning properly.  
+15. test it out in the snow, and different terrains and weather 
+16. test compatibility on human made objects like pavement and stairs
 
 
 
