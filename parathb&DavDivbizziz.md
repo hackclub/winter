@@ -48,6 +48,7 @@ These are the main steps with brief summaries entitling the work that will be do
 | LX-16A Servo Motors (x3) | https://www.aliexpress.com/item/4001171374081.html | £13.62 * 3 = £40.86 |
 | LX-16A Servo Motors (x5) + Servo Controller + Screws | https://www.aliexpress.com/item/32950283038.html | £78.38 + £3.24 (Postage) =  £81.62 |
 | LiDAR Sensor + Controller | https://www.aliexpress.com/item/1005003788925347.html | £81.31 |
+| 12V 6000mah Rechargeable Battery | https://www.amazon.co.uk/gp/product/B072HR211P | £64.99 |
 | Step Down Voltage Regulator  | https://www.amazon.co.uk/gp/product/B07JZ2GQJF | £22.08 |
 | 4 Servo Horns | https://www.ebay.co.uk/itm/284836448858 | £5.14 |
 | M2 Standoffs | https://www.amazon.co.uk/gp/product/B07Y81V64S/ | £8.59 |
@@ -56,4 +57,4 @@ These are the main steps with brief summaries entitling the work that will be do
 | Ulrasonic Sensor | N/A| Already Own |
 | Raspberry Pi  | N/A | Already Own |
 | Tools such as 3D Printer/Laser Cutter | N/A | Using my School's 3D Printer/Laser Cutter |
-| Total |  | £252.58 ≈ $306.84 |
+| Total |  | £317.57 ≈ $386.68 |
