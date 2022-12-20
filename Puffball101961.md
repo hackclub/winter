@@ -8,7 +8,7 @@ project: "RGB Matrix Price Ticker"
 ## Summary
 
 I want to build an rgb matrix based price ticker, like the ones that scroll across and are massively wide, however on a much smaller scale. 
-I would use 2 16x32 rgb matrices daisy chained together to form a 16x64 strip of pixels, which will scroll across and show various stock and crypto
+I would use 2 64x32 rgb matrices daisy chained together to form a 128x32 strip of pixels, which will scroll across and show various stock and crypto
 prices. I want to build this to experiment with rgb matrices, as I do not have much experience with them.
 
 ## Plan
