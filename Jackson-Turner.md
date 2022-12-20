@@ -1,10 +1,10 @@
 ---
 name: Jackson-Turner
-project: Camera on the shelf
+project: Toys come to life
 ---
 
 # Project Name
-Camera on the shelf
+Toys come to life
 ## Summary
 
 What are you going to build? What does it do? Why are you excited to build it?
