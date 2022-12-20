@@ -32,4 +32,19 @@ first test prototypes with 2 types of Arduino, second create the final prototype
 | 3.5" TFT 320x480 + Touchscreen Breakout Board w/MicroSD Socket - HXD8357D | https://www.adafruit.com/product/2050 | $39.95 |
 | Total |  | $125,15 |
 
+
+| Shop | Ship | Taxes** |
+| ---- | ---- | ------- |
+| Adafruit | DHL Express (1 x 0.59lbs) (Express Worldwide) $41.26 | $20 |
+| Arduino | Asendia Fully Tracked $16.62 | $16 |
+| Mercado Livre Brazil | Comum $2 | -- |
+| Total | $59,88 | $36 |
+
+
+| Total products | Total products + Total Ship | Total products + Total Ship + Total Taxes** |
+| -------------- | --------------------------- | ------------------------------------------- |
+| $125,15 | $185,03 | 221,03 |
+
 `*` prices originally in reais, calculated on the average price of the last 3 months
+`**` taxes calculated on the maximum charged by the Brazilian Federal Police, being 30% of the value of the products. ALERT: the chances of being taxed are little, Adafruit and Arduino are listed as partnerships of the Brazilian Federal Police
+
