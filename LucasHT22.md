@@ -15,6 +15,9 @@ before I liked AI, ML more. With this Hardware project I intend to test console 
 
 first test prototypes with 2 types of Arduino, second create the final prototype and finally create an operating system or use Sprig's (I don't know yet) and in the end make my Sprig game playable on it
 
+one of the prototypes:
+![image](https://user-images.githubusercontent.com/88567622/208777099-e616b72d-f4a3-45eb-8886-942800f7b872.png)
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
@@ -45,6 +48,6 @@ first test prototypes with 2 types of Arduino, second create the final prototype
 | -------------- | --------------------------- | ------------------------------------------- |
 | $125,15 | $185,03 | 221,03 |
 
-`*` prices originally in reais, calculated on the average price of the last 3 months
-`**` taxes calculated on the maximum charged by the Brazilian Federal Police, being 30% of the value of the products. ALERT: the chances of being taxed are little, Adafruit and Arduino are listed as partnerships of the Brazilian Federal Police
+### `*` prices originally in reais, calculated on the average price of the last 3 months
+### `**` taxes calculated on the maximum charged by the Brazilian Federal Police, being 30% of the value of the products. ALERT: the chances of being taxed are little, Adafruit and Arduino are listed as partnerships of the Brazilian Federal Police
 
