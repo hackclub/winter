@@ -36,4 +36,6 @@ I do not have a price for the PCB so i have not listed it here!
 | RPI pico W | https://shop.pimoroni.com/products/raspberry-pi-pico-w?variant=40454061752403 | $7.32 |
 | 4 x (1 x 10) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=39351739383891 | $3.66 |
 | Waterproof 1-Wire DS18B20 Digital temperature sensor | https://www.adafruit.com/product/381 | $9.95 |
-| Total | | $81.55 for one unit (not including shipping or taxes)
+| Case | https://shop.pimoroni.com/products/pirate-brand-plastic-loot-box?variant=40286342922| $3.33 |
+| (1 x 3) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=31533815201875 | $0.61 |
+| Total | | $52.95 for one unit (not including shipping or taxes)
