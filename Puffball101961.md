@@ -25,14 +25,15 @@ prices. I want to build this to experiment with rgb matrices, as I do not have m
 Prices are converted from AUD to USD, they may fluctuate slightly.
 
 | Product | Supplier/ Link | Price |
-|------------------------------------------------|--------------------|---------|
-| Adafruit Medium 16x32 RGB LED Matrix Panel x2 | [Core Electronics](https://core-electronics.com.au/16x32-rgb-led-matrix-panel.html)  | $80.50 |
+|-------- |----------------|-------|
+| P2.5 64x32 RGB Matrix Panel x2 | [Aliexpress](https://www.aliexpress.com/item/4000002686894.html) | $40.00 |
+| 5V 10A Power Supply | [Aliexpress](https://www.aliexpress.com/item/4001085007933.html) | $16.00 |
+| Power Supply Socket | [Aliexpress](https://www.aliexpress.com/item/1005002421876736.html) | $2.50 |
 | Adafruit RGB Matrix HAT + RTC for RPi | [Core Electronics](https://core-electronics.com.au/adafruit-rgb-matrix-hat-rtc-for-raspberry-pi-mini-kit.html)  |  $33.05 |
-| 5V 4A DC Power Supply | [Core Electronics](https://core-electronics.com.au/5v-dc-4a-fixed-2-1mm-tip-appliance-plugpack-47354.html)  | $20.50 |
-| DC Barrel Jack Adapter | [Core Electronics](https://core-electronics.com.au/dc-barrel-jack-adapter-female.html)  | $2.10 |
 | Raspberry Pi 3 Model A+ | [Core Electronics](https://core-electronics.com.au/raspberry-pi-3-model-a-plus.html)  | $27.00 |
+| 32GB Micro SD Card (owned) | | $0.00 |
 | Official Raspberry Pi 12.5W Micro USB Power Supply  | [Core Electronics](https://core-electronics.com.au/official-raspberry-pi-12-5w-micro-usb-power-supply.html)  | $10.50  |
-| Core Electronics Shipping Charge | N/A | $6.00 |
-| Miscellaneous Wires | N/A | $0.00 |
+| Core Electronics Shipping Charge | | $6.00 |
+| Miscellaneous Wires (owned) | | $0.00 |
 | 1kg Matte Black 3d Printer PLA Filament | [Amazon AU](https://www.amazon.com.au/eSUN-Matte-PLA-Filament-1-75mm-Low-Density-Matte-3D-Printer-PLA-Filament-1KG-Spool-3D-Printing-Filament-for-3D-Printers-Deep-Black/dp/B09MK1VLFM) | $25.50 |
-| Total | | $205.15 |
+| Total | | $160.55 |
