@@ -9,18 +9,24 @@ RWS | DIY AWS Cloud
 
 I am going to build a hackable, Kubernetes-based, (mini)-super-computer Arm-powered private cloud. 
 
-Instead of hosting a site, minecraft server, or webapp on a cloud service like AWS,
-I'm excited to build my own hackable (mini)-super-computer-powered cloud, while exploring redundancy, load-balancing, containers, orchestration, and physical networking, hands-on, from a hardware perspective!
-
+Instead of hosting a site, minecraft server, or webapp on a cloud service like AWS, 
+I'm excited to build a hackable, Kubernetes-based, (mini)-super-computer Arm-powered private cloud, while exploring redundancy, load-balancing, containers, orchestration, and physical networking, from a hands-on hardware perspective!
 
 I can't wait to build a DIY cluster of mini-servers at home! It's so wonderful to think of all the possibilities of this build!
 
 What's more fascinating is how little electricity is used by the build. Also, this project doesn't require much physical space, 
 and is versatile in many ways!
 
+I am that this is an awesome project, and I can't wait to start making it this winter. While this project is about making, it is also an awesome learning opportunity for me, in terms of the hardware side of computing and cloud, such as physical networking, as well as the software side, 
+such as using Kubernetes to manage seperate pieces of hardware that make up a cluster in accomplishing tasks in unision... that is just mind-blowing to me!
+
+I always wanted to build a super-computer. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket-list! Horray!
+
 ## Plan
 
-For this project, you'll mainly need 4 Raspberry Pis. They're cheap, don't use much electricity, and powerful for their credit-card-size.
+For this project, you'll need 4 Raspberry Pis. They will be the heart of the build. 
+
+They're also realitively affordable overall, don't use much electricity, and are surprisingly powerful for their credit-card-size.
 
 Aside from these, you also need accessories, like power supplies, storage, ethernet cables, and a cluster stand/stackable cases for organization.
 
