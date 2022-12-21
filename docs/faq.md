@@ -45,3 +45,7 @@ The 7% fiscsal sponsorship fee will be waived for Winter Hardware Wonderland gra
 ##### Should my budget include shipping and taxes?
 
 Please do include shipping and taxes so the grant amount you receive will be as close as possible to your project expenses.
+
+##### Is there a limit on the number of people who can combine their grants?
+
+Yes, the maximum number of people who can combine their grants is 4 per team.
