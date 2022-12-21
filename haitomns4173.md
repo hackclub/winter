@@ -8,22 +8,22 @@ Rasberry Pi AI Assistant
 
 ## Summary
 
-So the plan is to make a AI assitant like Google Assistent, Alexa and Siri, for home automation as well as queries answered.
-It will be use for contolling the light, AC and other IOT devices in the home as well as we can get answer of queries.
+So the plan is to make a AI assistant like Google Assistant, Alexa and Siri, for home automation as well as queries answered. 
+It will be used for controlling the light, AC and other IOT devices in the home as well as we can get answer of queries.
 
 ## Plan
 
-First of all I will set up the OS in the SD card of the Rasberry Pi then power it on. 
-The plan is to use a Rasberry Pi as a computation device to handel the assistant SDK from Google or Amazon. 
-I will require a Speaker and connect it to the Rasberry Pi and also connect a USB mic to it for taking the input.
-After setting up the hardware I will connect the pi through the SSH clint and set up the SKD as test if the speaker and mic are working.
-If everything is attaced and woking fine we can give a command to the Assistant and it will answer the qaueries.
+First of all I will set up the OS in the SD card of the Raspberry Pi then power it on.
+The plan is to use a Raspberry Pi as a computation device to handle the assistant SDK from Google or Amazon. 
+I will require a speaker and connect it to the Raspberry Pi and also connect a USB mic to it for taking the input. 
+After setting up the hardware I will connect the pi through the SSH clint and set up the SKD as test if the speaker and mic are working. 
+If everything is attached and working fine we can give a command to the Assistant and it will answer the queries.
 
 ## Budget
 
 | Product                            | Supplier/Link                         | Cost       |
 | ---------------------------------- | ------------------------------------- | ---------- |
-| Rasberry Pi 4 4GB RAM              | https://amzn.to/3WeCro7               | $146.66    |
+| Raspberry Pi 4 4GB RAM              | https://amzn.to/3WeCro7               | $146.66    |
 | Raspberry Pi 4 Case                | https://amzn.to/3GaJ859               | $25.24     |
 | Samsung EVO Plus 64GB SD Card      | https://amzn.to/3FMz7JW               | $7.24      |
 | Raspberry Pi 15.3W USB-C           | https://amzn.to/3WDXssh               | $7.31      |
