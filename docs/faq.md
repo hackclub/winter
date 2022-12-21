@@ -18,38 +18,30 @@ Check out the [examples](/examples) for inspiration. If you're still stuck, you 
 
 Yes you can. The amount you get for the grant depends on how complex your project is. So if you team up with an IRL friend and want to build a project that costs $500, that would be acceptable. You'd share a Hack Club Bank account with your friend.
 
-##### Is there a limited amount of grants?
+##### How many total grants are there availalbe?
 
-At the moment Hack Club doesn't have a limited number. If we start hitting high numbers we might need to revisit it but we want to see many cool projects come out of this event!
+Currently, there is no limit for the number of grants available. This is be subject to change depending on the volume of project proposals.
 
-##### Can I buy a 3D printer with the grant
+##### Can we build multiple small projects instead of one project?
 
-You can buy parts to make one. If a 3D printer fits your budget, it could count as a tool you need for the project.
-
-##### Do we have to build only one project or can we also build multiple mini-projects?
-
-You can build multiple small projects as long as it costs less than $250!
+You can build multiple small projects as long as you can outline a plan to complete them during the 10-day event.
 
 ##### Does the entire project have to cost less than $250?
 
-No, but the grant is only up to $250, so you will have to personally pay the difference if it's over $250.
+The project may have a budget exceeding $250. However, you would be responsible for covering the difference by adding money to your Hack Club Bank account.
 
-##### What If I use more money than I put on the PR?
+##### What if I need more funds than initially planned?
 
-If you end up needing a bit more and you haven't hit $250 all you'll need to do is hit up a member of the bank team!
+If your initial grant was less than $250, and you find yourself needing to order extra parts, reach out to the Bank team at bank@hackclub.com to request additional funds.
 
-##### Is there a due date for the proposal and if I can change it?
+##### When will my pull request be reviewed?
 
-The proposal due date is the 15th of January as of now and yes you can change it before January 15th if you need to!
+We'll try our best to review within 48 hours. However, there may be delays around federal holidays in the United States.
 
-##### When are PRs going to be reviewed?
+##### Will we have to pay the 7% fee for Hack Club Bank?
 
-Within 48 hours of submitting.
-
-##### Will we have to pay the 7% fee for Hack club Bank?
-
-No, Hack Club Bank members have decided that we are going to waive the 7% fee or any of the wonderland hardware accounts set up on Hack Club Bank. If your project runs over the grant money and you need to deposit a bit more cash to build your project- there will be no fee!
+The 7% fiscsal sponsorship fee will be waived for Winter Hardware Wonderland grant funds. If your project's budget exceeds $250, and you need more funds to build your project, there will be no fee to add personal funds to your account.
 
 ##### Should my budget include shipping and taxes?
 
-Absolutely! Remember to include shipping charges and taxes in your budget.
+Please do include shipping and taxes so the grant amount you receive will be as close as possible to your project expenses.
