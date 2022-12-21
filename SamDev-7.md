@@ -33,6 +33,12 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | Thrust Bearing (51107) (x2) | [Amazon](https://www.amazon.ca/gp/product/B081GDTCYW) | $17.62 |
 | Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $15.12 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
-| **Subtotal** | - | **$144.93** = $36.50(Amazon) + $108.43(AliExpress) |
-| **Shipping** | - | **$49.06** = $6.88(Amazon) + $42.18(AliExpress) |
-| **Total** | - | **$193.99** (Approx US$142) |
+| 2pcs PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B082W4YLLW/) | $39.99 |
+| 8pcs 3D printer Nozzles | [Amazon](https://www.amazon.ca/gp/product/B0B7NL58XT/) | $7.99 |
+| GT2 Belts (200/300/400mm) | [AliExpress](https://www.aliexpress.com/item/1005004309993673.html) | $3.62 |
+| M2/M3/M4/M5 Bolts and Nuts | [AliExpress](https://www.aliexpress.com/item/4001313436764.html) | $29.04 |
+| **Subtotal** | - | **$185.38** = $44.49(Amazon) + $140.89(AliExpress) |
+| **Shipping** | - | **$59.10** = $6.94(Amazon) + $52.16(AliExpress) |
+| **Total** | - | **$244.48** (Approx **US$179.57**) |
+
+\* Some of these items are on sale so prices might increase, I am able to pay for extra if the total cost exceeds US$250.
