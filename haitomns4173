@@ -8,16 +8,27 @@ Rasberry Pi AI Assistant
 
 ## Summary
 
-
+So the plan is to make a AI assitant like Google Assistent, Alexa and Siri, for home automation as well as queries answered.
+It will be use for contolling the light, AC and other IOT devices in the home as well as we can get answer of queries.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+First of all I will set up the OS in the SD card of the Rasberry Pi then power it on. 
+The plan is to use a Rasberry Pi as a computation device to handel the assistant SDK from Google or Amazon. 
+I will require a Speaker and connect it to the Rasberry Pi and also connect a USB mic to it for taking the input.
+After setting up the hardware I will connect the pi through the SSH clint and set up the SKD as test if the speaker and mic are working.
+If everything is attaced and woking fine we can give a command to the Assistant and it will answer the qaueries.
 
 ## Budget
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+| Product                            | Supplier/Link                         | Cost     |
+| ---------------------------------- | ------------------------------------- | -------- |
+| Rasberry Pi 4 4GB RAM              | https://www.adafruit.com/product/1957 | 146.66   |
+| Raspberry Pi 4 Armor Case          | https://www.adafruit.com/product/358  | $25.24   |
+| Raspberry Pi 32GB SD Card          | https://www.adafruit.com/product/358  | $7.07    |
+| Raspberry Pi 15.3W USB-C           | https://www.adafruit.com/product/358  | $7.31    |
+| AmazonBasics High-Speed Mini-HDMI  | https://www.adafruit.com/product/358  | $2.89    |
+| MI Outdoor Bluetooth Speaker       | https://www.adafruit.com/product/358  | $15.70   |
+| AmazonBasics High-Speed Mini-HDMI  | https://www.adafruit.com/product/358  | $2.89    |
+
+| Total                              |                                       | $21.90  |
