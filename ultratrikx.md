@@ -20,9 +20,7 @@ This
 | Product                | Supplier/Link                                                        | Cost   |
 | ---------------------- | -------------------------------------------------------------------- | ------ |
 | Raspberry Pi           | https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/            | $77.06 |
-| A BME280 pressure,     |                                                                      |        |
-| temperature, humidity  |                                                                      |        |
-| sensor                 | https://www.adafruit.com/product/5303                                | $24.95 |
+| A BME280 pressure,temperature, humidity sensor | https://www.adafruit.com/product/5303                                | $24.95 |
 | RJ11 breakout boards   | https://www.sparkfun.com/products/14021                              | $02.10 |
 | A DS18B20 digital      |                                                                      |        |
 | thermal probe          |                                                                      | $19.95 |
