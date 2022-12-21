@@ -44,7 +44,7 @@ ITEMS I ALREADY HAVE:
 | 3d printer                            |already have                                                                     | none  | 
 | soldering iron                        |already have                                                                     | none  | 
 | wire clipper                          |already have                                                                     | none  | 
-| nuts and bolts kit                    |https://rcprinter.com/products/speed-tank-build-kits?variant=42702968717473      | 74.99 | 6.99
+| nuts and bolts kit                    |https://rcprinter.com/products/nuts-and-bolts-kits?variant=42702968717473        | 74.99 | 6.99
 | charging cable for lipo battery       |https://www.amazon.com/Pairs-Female-Connector-Silicon-Battery/dp/B07QH249CR      | 8.99  | 5.99
 |                                       |/ref=asc_df_B07QH249CR/?tag=hyprod20&linkCode=df0&hvadid=361104274063&hvpos      |-------|
 |                                       |(link shortened for convinience)                                                 |-------|
