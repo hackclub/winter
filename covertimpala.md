@@ -11,10 +11,11 @@ This VR glove will track finger motion and rotation of the hand by using an acce
 
 ## Plan
 
-1) First step will be to prepare parts by soldering pins onto them and start to create the basic software which will allow me to test sensors.
-2) Next, sensors will be wired to controllerboards and software connecting the glove and computer via bluetooth will be created.
-3) More tests and troubleshooting will happen at this stage as well as more accurate tracking systems are developed.
-4) Drivers are built in order to make the device VR compatable.
+1) Design and 3D print parts
+2) First step will be to prepare parts by soldering pins onto them and start to create the basic software which will allow me to test sensors.
+3) Next, sensors will be wired to controllerboards and software connecting the glove and computer via bluetooth will be created.
+4) More tests and troubleshooting will happen at this stage as well as more accurate tracking systems are developed.
+5) Drivers are built in order to make the device VR compatable.
 
 ## Budget
 
@@ -34,6 +35,5 @@ This VR glove will track finger motion and rotation of the hand by using an acce
 | Soldering sponge        | https://no.mouser.com/ProductDetail/485-3540             | kr 26.65            | 1      | kr 26.65   |
 | Solder Wick             | https://no.mouser.com/ProductDetail/910-SOLDERWICK1.5    | kr 21.21            | 1      | kr 21.21   |
 | Stackable female header | https://no.mouser.com/ProductDetail/474-PRT-09279        | kr 7.62             | 7      | kr 53.34   |
-| Total (excluding VAT)   |                                                          |                     |        | kr 1221.59 |
 | Total (including VAT)   |                                                          |                     |        | kr 1526.99 |
 
