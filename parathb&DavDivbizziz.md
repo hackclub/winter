@@ -3,7 +3,7 @@ name: ["@parathb", "@DavDivbizziz"]
 project: "Artermis"
 ---
 
-# Project Artermis
+# Robot Puppy
 
 ## Summary
 
@@ -11,7 +11,7 @@ project: "Artermis"
 
 This project will be done with my younger brother [@DavDivbizziz](https://github.com/DavDivbizziz)
 
-A Robotic Puppy, a smaller version of Spot from Boston Dynamics, that is self-aware and can interact with humans, whilst being able to learn and adapt to its environment using sensors. In addition, it will have the ability to be controlled by a human using a DualShock 4 Controller. I am excited about building it because 2 years ago I built a small car with a Raspberry Pi that uses Ultrasonic sensors to avoid bumping into obstacles but I win terms ofas quite limited parts to where I ended up changing the code to add support for controlling the car via a PS4 Controller via Bluetooth to a Phone on a Web Browser that has websocket connection with the raspberry pi on LAN. This was great and it expanded my knowledge on controlling such devices that are self-aware of it's surrounding and made me understand the debugging required to make something like this. So I would like to take this to another step in terms of autonomous functionality with building this robotic puppy, as I will gain many things such as the extended coding that will be required to control the servos for movement in the joints and the data from the sensor that will help control the servos to avoid any obstacles. I would like to also introduce my brother into the more depths of computing with a project like this where he is intrigued already to spend the time together to build something amazing and learn from it as he can expand his knowledge of programming languages such as Python that will be used here. In addition, this project will help my future significantly with my passion and love for programming that I will pursue as a career. 
+A Robot Puppy, a smaller version of Spot from Boston Dynamics, that is self-aware and can interact with humans, whilst being able to learn and adapt to its environment using sensors. In addition, it will have the ability to be controlled by a human using a DualShock 4 Controller. I am excited about building it because 2 years ago I built a small car with a Raspberry Pi that uses Ultrasonic sensors to avoid bumping into obstacles but I win terms ofas quite limited parts to where I ended up changing the code to add support for controlling the car via a PS4 Controller via Bluetooth to a Phone on a Web Browser that has websocket connection with the raspberry pi on LAN. This was great and it expanded my knowledge on controlling such devices that are self-aware of it's surrounding and made me understand the debugging required to make something like this. So I would like to take this to another step in terms of autonomous functionality with building this robotic puppy, as I will gain many things such as the extended coding that will be required to control the servos for movement in the joints and the data from the sensor that will help control the servos to avoid any obstacles. I would like to also introduce my brother into the more depths of computing with a project like this where he is intrigued already to spend the time together to build something amazing and learn from it as he can expand his knowledge of programming languages such as Python that will be used here. In addition, this project will help my future significantly with my passion and love for programming that I will pursue as a career. 
 
 ## Plan
 
