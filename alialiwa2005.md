@@ -26,11 +26,17 @@ I always wanted to build a super-computer. I guess Winter of Making will finally
 
 ## Plan
 
-For this project, you'll need 4 Raspberry Pis. They will be the heart of the build. 
+For this project, you'll need 4 Raspberry Pis (preferably with at least 4 gigabytes of RAM). 
+These will be the heart of the build, and should have a solid amount of memory to handle tasks comfortably (ideally at least 4 gigabytes. 
+The 8 gigabytes model will be more stable and able to handle more tasks, but is about 20 dollars more expensive).
 
-They're also realitively affordable overall, don't use much electricity, and are surprisingly powerful for their credit-card-size.
+Why Pis? Well, they're well-made in terms of quality and are relatively affordable overall. 
+They don't use much electricity, and are surprisingly powerful for their credit-card-size.
 
-Aside from these, you also need accessories, like power supplies, storage (like MicroSDCards, at least 16GB, ideally 32GB), ethernet cables, and a cluster stand/stackable cases for organization.
+Also, Pis have ARM64 CPUs, just like AWS Graviton instances. This is awesome because it means that almost anything that can run on AWS EC2-A1 
+or other Graviton-powered deployments can be deployed at home, on your own DIY AWS (RWS) cloud! :)
+
+Aside from these, you also need accessories, like power supplies, storage (these can be MicroSD Cards, at least 16GB, ideally Class-10 32GB), ethernet cables, and a cluster stand/stackable cases for organization.
 
 You'll also need a laptop or PC for initial setup of the Pis.
 
