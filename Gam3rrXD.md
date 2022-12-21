@@ -13,7 +13,7 @@ I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free
 ## Plan
 
 1. Get all the material for the build, wait for it to arrive
-2. Design an application/plugin using IFTTT or Python to control the Lights and set up AVS along with setting up the motion sensor.
+2. Design an application/plugin using IFTTT or Python to control the Lights and set up AVS along with setting up the motion sensor. (Already started the Voice services and motion sensor setup using python)
 3 Build the frame according to the size of the display and leaving enough wiggle room for the PI to slot in and the speakers to fit
 4 Place the display into the frame position the mirror and start prepping the Pi
 5 Installing all necessary frameworks (Such as the magic mirror framework and amazon voice services) to operate the PI and seting it up within the frame.
