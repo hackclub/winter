@@ -8,7 +8,7 @@ bowiten65
 
 ## Summary
 
-This is going to be a mechanical keyboard with a 65% layout, supporting stepped caps lock, split enter, and/or a 7u spacebar. The PCB and case are designed by me, with inspiration from a few open source keyboards. It supports MX style switches, and also has support for PCB mount stabilizers. 
+This is going to be a mechanical keyboard with a 65% layout, supporting stepped caps lock, split enter, and/or a 7u spacebar. The [PCB](https://github.com/Bowiten/bowiten65) and case are designed by me, with inspiration from a few open source keyboards. It supports MX style switches, and also has support for PCB mount stabilizers. 
 
 ## Plan
 
