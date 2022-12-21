@@ -21,10 +21,10 @@ This
 | ---------------------- | -------------------------------------------------------------------- | ------ |
 | Raspberry Pi           | https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/            | $77.06 |
 | A BME280 pressure,temperature, humidity sensor | https://www.adafruit.com/product/5303                                | $24.95 |
-| RJ11 breakout boards   | https://www.sparkfun.com/products/14021                              | $02.10 |
+| RJ11 breakout boards   | https://www.sparkfun.com/products/14021                              | $2.10 |
 | A DS18B20 digital thermal probe |                                                                      | $19.95 |
 | ADS-B antenna, dongle, cable | https://www.amazon.ca/Flightaware-1090MHz-Aviation-Receiver-Software | $55.51 |
-| MCP3008 analogue-to-digital convertor | https://www.adafruit.com/product/856                                 | $04.50 |
+| MCP3008 analogue-to-digital convertor | https://www.adafruit.com/product/856                                 | $4.50 |
 |                        |                                                                      |        |
 |------------------------|----------------------------------------------------------------------|--------|
 | Total                  |                                                                      | 184.07 |
