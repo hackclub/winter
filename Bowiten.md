@@ -8,11 +8,11 @@ bowiten65
 
 ## Summary
 
-This is going to be a mechanical keyboard with a 65% layout, supporting stepped caps lock, split enter, and/or a 7u spacebar. PCB and case are designed by me, with inspiration from a few open source keyboards. It supports MX style switches, and also has support for PCB mount stabilizers. 
+This is going to be a mechanical keyboard with a 65% layout, supporting stepped caps lock, split enter, and/or a 7u spacebar. The PCB and case are designed by me, with inspiration from a few open source keyboards. It supports MX style switches, and also has support for PCB mount stabilizers. 
 
 ## Plan
 
-I plan to salvage some switches from an old keyboard by desoldering them. I'll lube them with the Krytox 205g0 that I have somewhere. I have some spare stabilizers from another keyboard that I have, which I will be using. I also plan to lube them with Krytox 205g0. After I receive the PCBs, I'll flash them with firmware that I created using [Vial](https://github.com/vial-kb/vial-qmk), a fork of [QMK](https://github.com/qmk/qmk_firmware). If everything works, then I'll solder the switches in, add stabilizers, and assemble.
+I plan to salvage some switches from an old keyboard by desoldering them. I'll lube them with the Krytox 205g0 that I have somewhere. I have some spare stabilizers from another keyboard that I have, which I will be using. I also plan to lube those with Krytox 205g0. After I receive the PCBs, I'll flash them with firmware that I created using [Vial](https://github.com/vial-kb/vial-qmk), a fork of [QMK](https://github.com/qmk/qmk_firmware). If everything works, then I'll solder the switches in, add stabilizers, and assemble.
 
 ## Budget
 
