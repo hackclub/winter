@@ -7,7 +7,9 @@ project: "Smart Snack Machine"
 
 ## Summary
 
-Here is a link to a brief sketch of the project: https://drive.google.com/file/d/1lcVTtpE1dmJsk5uPMtVKJY8mgoLhL7px/view?usp=sharing
+Here's the sketch of the project:
+![Smart Snack Machine](https://user-images.githubusercontent.com/65808924/208973874-4825a188-5b4b-48c1-a1e1-f3da54840e59.png)
+
 
 I am planning on making a smart snack machine that dispenses snacks via a mobile app that anyone can access on my home network. The snack machine will be built out of plywood and plexiglass. The web app will be written in html/js and hosted on a raspberry pi. This raspberry pi will be attached to a touchscreen monitor fixed to the outside of the snack machine if the user would rather use the screen to order and not a phone. The servo motors that dispense the snacks will be controlled via the Blynk IoT platform and a NodeMCU–allowing for them to be triggered via a JS function. In summary, press a button on your phone or the built-in screen, you get a snack! I am excited to build this project because I have always wanted to build this project, and I feel that I now have the knowledge to bring this idea into reality!
 
