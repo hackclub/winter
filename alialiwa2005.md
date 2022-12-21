@@ -118,4 +118,4 @@ Whichever path you choose to travel with this build, you can always HACK! :)
 | Customized Case                 | (Already Own Supplies)                | $0      |
 | Gigabit Ethernet Network Switch | (Already Own)                         | $0      |
 | Router for Project-Only Network | (Already Own a Spare Router)          | $0      |
-| Total (Before Taxes)            |                                       | $255.23 |
+| Total Including NYC Tax (8.875%)|                                       | $277.89 |
