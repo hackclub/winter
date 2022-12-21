@@ -24,7 +24,7 @@ Fine-tune the settings and perform any necessary maintenance as needed. This may
 ## The kit im buying contains all the parts needed to make your own fpv drone. It also contains the goggles and a controller, and this is the only diy drone kit that i could find in this price range that conatined everything under 250.
 
 
-## Budget
+## Budget including shipping and taxes
 
 | Product         | Supplier/Link                         | Cost(aud)   |
 | --------------- | ------------------------------------- | ------ |
