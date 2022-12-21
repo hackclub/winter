@@ -39,6 +39,8 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | M2/M3/M4/M5 Bolts and Nuts | [AliExpress](https://www.aliexpress.com/item/4001313436764.html) | $29.04 |
 | **Subtotal** | - | **$185.38** = $44.49(Amazon) + $140.89(AliExpress) |
 | **Shipping** | - | **$59.10** = $6.94(Amazon) + $52.16(AliExpress) |
-| **Total** | - | **$244.48** (Approx **US$179.57**) |
+| **Pre-Tax** | - | **$244.48** (Approx **US$179.57**) |
+| **Tax Estimate** (13%) | - | **$31.78** |
+| **Total** | - | **$276.26** (Approx **US$202.89**) |
 
 \* Some of these items are on sale so prices might increase, I am able to pay for extra if the total cost exceeds US$250.
