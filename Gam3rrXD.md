@@ -9,16 +9,16 @@ project: "RGB SmrtMirror"
 
 (Not going off of any guides, this is all going to be researched and done by me)
 
-I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free Experience. I am exited to build this because this has been on my building wishlist for a while and this is finally an opertunity to build it, this would be a great addition to the bathroom or even my bedroom! This would be used for asthetic and as a home automation device. Adding on, I plan to setup a motion sensor so that the screen will turn off when there is no motion aka no one is in the room.
+I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free Experience. I am exited to build this because this has been on my building wishlist for a while and this is finally an opertunity to build it, this would be a great addition to the bathroom or even my bedroom! This would be used for asthetic and as a home automation device. Adding on, I plan to setup a motion sensor so that the screen will turn off when there is no motion aka no one is in the room, and plan to add a camera to implement facial detection so that each user can have a personalized viewing area.
 ## Plan
 
 1. Get all the material for the build, wait for it to arrive
-2. Design an application/plugin using IFTTT or Python to control the Lights and set up AVS along with setting up the motion sensor. (Already started the Voice services and motion sensor setup using python)
+2. Design an application/plugin using IFTTT or Python to control the Lights and set up AVS along with setting up the motion sensor. Also, some code to implement facial detection for personalization (Camera will be mounted above head) (Already started the Voice services and motion sensor setup using python)
 3 Build the frame according to the size of the display and leaving enough wiggle room for the PI to slot in and the speakers to fit
 4 Place the display into the frame position the mirror and start prepping the Pi
 5 Installing all necessary frameworks (Such as the magic mirror framework and amazon voice services) to operate the PI and seting it up within the frame.
 6 Crafting a casing to fit the PI into to protect it
-7 Screwing together the rest of the frame and mounting it.
+7 Screwing together the rest of the frame, Mount Camera, and motion sensor and mount it to the wall.
 8.Enjoying the mirror!
 ## Budget
 
@@ -33,5 +33,6 @@ I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free
 | RGB Light Strip for lighting (Smart) | Owned | $0.00
 | Raspberry PI Motion Sensor | Owned | $0.00
 | Alexa Enabled Device (Echo Dot) | Owned | $0.00 |
+| Raspberry Pi Camera | Cost's Covered By Me As it goes over budget [Link5](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/) | $0.00
 
 | Total  | $246.35 | (includes all extra costs, tax, s&h, etc.)
