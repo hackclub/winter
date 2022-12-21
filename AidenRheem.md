@@ -19,6 +19,6 @@ I'll also buy accessores like different plates, knobs, and coiled cables down th
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Case | [Keychron Q1 V2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8843) | $159  |
-| Keycaps         | [IDOBAO MA Blue Cat](https://drop.com/buy/idobao-ma-blue-cat-pbt-dye-subbed-keycap-set?searchId=ddcd96123a72a41ad4290c489cf8639b&defaultSelectionIds=960002&clickid=SuF2Ng1ddxyNT0ISfjynP23sUkA2D8Xpy1hWWo0&irgwc=1&utm_term=252901&utm_content=Hipyo%20Tech&utm_medium=affiliate&utm_source=impactradius&utm_placement=&utm_keyword=&mode=shop_open&utm_campaign=2448764&utm_network=4148) | $47.39 |
+| Keycaps         | [IDOBAO MA Blue Cat](https://drop.com/buy/idobao-ma-blue-cat-pbt-dye-subbed-keycap-set?searchId=ddcd96123a72a41ad4290c489cf8639b&defaultSelectionIds=960002&clickid=SuF2Ng1ddxyNT0ISfjynP23sUkA2D8Xpy1hWWo0&irgwc=1&utm_term=252901&utm_content=Hipyo%20Tech&utm_medium=affiliate&utm_source=impactradius&utm_placement=&utm_keyword=&mode=shop_open&utm_campaign=2448764&utm_network=4148) | $50 |
 | 45 Pack Switches x 2    | [Akko Yellow Creams](https://en.akkogear.com/product/akko-v3-cream-yellow-switch-45pcs/) | $17.98 |
-| Total           |                                       | $224.37 |
+| Total           |                                       | $226.98 |
