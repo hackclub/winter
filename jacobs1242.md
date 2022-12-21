@@ -3,6 +3,7 @@ name: "jacobs1242"
 project: "creators_arena"
 ---
 
+
 # Project Name : CREATOR ARENA
 
 ## Summary
@@ -33,3 +34,11 @@ third stage to do publish and market the colabs access
 |    Domain       |           html url                    | $10    |
 |    DB Servr     |           Backend                     | $20    |
 | Total           |                                       | $30.00 |
+
+
+
+
+[ ] I am a current high school student (or younger).
+[ ] I have submitted an RSVP at https://hackclub.com/winter
+[ ]I am a member of the Hack Club Slack (Join at https://hackclub.com/slack)
+[ ] I have self-reviewed my project proposal
