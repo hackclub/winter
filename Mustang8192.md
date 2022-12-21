@@ -18,8 +18,7 @@ in robotics better.
 ## Plan
 1. Order all necessary materials
 2. When all materials arrive, mainly the mic arm, it needs to be assembled.
-3. Attach the Mic arm to the controller. This is done by 3d printing the mic cartridge. https://www.thingiverse.com/thing:3350838 This is one for a Shure
-SM58. I plan on using a Shure sm48, and the specs are not that much different. I plan on modifying this file and 3d printing it out on my school's 3d 
+3. Attach the Mic arm to the mic cartridge. This is done by 3d printing the mic cartridge. https://www.thingiverse.com/thing:3350838 This is one for a Shure SM58. I plan on using a Shure sm48, and the specs are not that much different. I plan on modifying this file and 3d printing it out on my school's 3d 
 printer.
 4. I will run the XLR cable from the Mic to the Elgatio XLR Wave.
 5. I will then connect the Elgato XLR Wave to my computer via a USB-C cable
