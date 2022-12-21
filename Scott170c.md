@@ -19,8 +19,8 @@ days 6 - 10: Program and test
 | Product               | Supplier/Link                         | Cost   |
 | --------------------- | ------------------------------------- | ------ |
 | Arduino Uno           | already have                          | $0.00  |
-| 8x Servos             | [https://www.adafruit.com/product/358](https://www.adafruit.com/product/2307)  | $95.60 |
+| 8x Servos             | [https://www.adafruit.com/product/169](https://www.adafruit.com/product/169)  | $64.32 |
 | IR Remote             | [https://www.adafruit.com/product/389](https://www.adafruit.com/product/389)  | $4.95   |
 | IR Receiver           | [https://www.adafruit.com/product/157](https://www.adafruit.com/product/157)  | $1.95   |
-| 3D Printing Service   |                                       | $???  |
-| Total           |                                       | $102.50 |
+| Body/Exterior parts   |                                       | $??  |
+| Total           |                                       | $71.22 |
