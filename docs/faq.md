@@ -14,9 +14,9 @@ If you're hacking from India, check out this [guide](/india.md) for using Hack C
 
 Check out the [examples](/examples) for inspiration. If you're still stuck, you can ask for help in the [#hardware-party](https://hackclub.slack.com/archives/C0168BR5PDE) channel on Slack.
 
-##### Can two people apply for the grant and then combine their grants?
+##### Can multiple people team up to work on a project?
 
-Yes you can. The amount you get for the grant depends on how complex your project is. So if you team up with an IRL friend and want to build a project that costs $500, that would be acceptable. You'd share a Hack Club Bank account with your friend.
+If you team up with an IRL friend and want to build a project together, you would work together to submit one pull request. All teammates must meet requirements for the event (eg. under 18, have submitted RSVP, be on Slack, etc.) The grant amount would be for up to $250 per person, growing with team size. You must be able to meet up in person to work on the project with your teammate(s).
 
 ##### How many total grants are there availalbe?
 
