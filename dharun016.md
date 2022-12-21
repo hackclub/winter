@@ -3,6 +3,10 @@ name: "@dharun016"
 project: "Cyber Drone"
 ---
 
+# Hack Club Bank Sign
+
+![Hack Club Bank logo illuminated from behind with coloured LEDs](https://cloud-hysdwonkf-hack-club-bot.vercel.app/0img_2814.jpg)
+
 # Cyber Drone
 
 ## Summary
@@ -16,12 +20,14 @@ Why are you excited to build it?
 Now a days Quadcopter is playing a major roles in all fields . So, it is excited to do some project on it. I do so many researches on that finally i came up with idea that connecting raspberry Pi to quadcopter to create scrripts that will allow us to prevent attacks and gain access 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+For the first 5 days, I'm going assemble drone check its connectivety and testing. On Day 6,7 planning to integrate Raspberry Pi writing some scripts run the process After successfuly connected , after remaining days all the testing and deploying to vps 
 
 ## Budget
 
 | Product                  | Supplier/Link                         | Cost   |
 | ------------------------ | ------------------------------------- | ------ |
+| Wires                    |   already own                         | $0     |
+| VPS & Servers            |   already own                         | $0     |
 | Quadcopter Drone Combo   | https://bit.ly/3BR0RMn                | $198.26|
-| Raspberry Pi 4          | https://bit.ly/3GaOxZY                | $47.15 |
-| Total                    |                                       | $245.41 |
+| Raspberry Pi 4           | https://bit.ly/3GaOxZY                | $47.15 |
+| Total                    |                                       | $245.41|
