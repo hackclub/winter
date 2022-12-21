@@ -28,4 +28,5 @@ Self-explanatory, ig just build the keyboard. I also want to see the PCB and try
 | GMMK Pro        | https://www.amazon.com/Glorious-Modular-Mechanical-Keyboard-Pro/dp/B09963YS4P          | $147.90             |
 | Silent T1       | https://www.amazon.com/DUROCK-Switches-Tactility-Mechanical-Keyboards/dp/B0B219QP6T    | $61.99              |
 | Lubing Kit      | https://www.amazon.com/Lubrication-Mechanical-Keyboard-Aluminum-Instantly/dp/B097R46684| $13.99              |
-| Total           |                                                                                        | $223.88             |
+| Glorious Aura V2| https://www.amazon.com/GMMK-Aura-Keycaps-V2-Black/dp/B08Q45WPLW                        | $25.65              |
+| Total           |                                                                                        | $249.53             |
