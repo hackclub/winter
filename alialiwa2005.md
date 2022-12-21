@@ -19,8 +19,10 @@ and is versatile in many ways!
 
 I am certain that this is will turn out to be an awesome and unique project, and I can't wait to start making it this winter.
 
-While this project is about making, it is also an awesome learning opportunity for me, in terms of the hardware side of computing and cloud, such as physical networking, as well as the software side, 
+While this project is about making, it is also an awesome learning opportunity for me, in terms of the hardware side of computing and cloud, such as physical networking, as well as the software side of dev-ops, 
 such as using Kubernetes to manage separate pieces of hardware that make up a cluster in accomplishing tasks in unison... that is just mind-blowing to me!
+
+What's even better is that unlike just deploying instances on the AWS dashboard, I get to actually build my own cloud, comparable to the actual Amazon Web Services, from scratch... starting with the hardware, inspecting the physical computer boards and chips, physically networking the nodes, even designing a stylish case for the cloud! :)
 
 I always wanted to build a super-computer. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket-list! Hooray!
 
