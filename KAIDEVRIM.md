@@ -24,5 +24,5 @@ For the Stream Deck, I will use a mechanical keypad, attach that to my raspberry
 | PiKVM           | https://www.amazon.com/dp/B0B5R37TT3  | $79.99  |
 | Mechanical Numpad | https://www.amazon.com/Tidbit-Programmable-Mechanical-Numpad-White/dp/B08CBQHGJ7 | $39.99 |
 | SD Card Switcher | https://www.amazon.com/Icstation-Micro-Card-Dual-Switcher/dp/B01MY139K4 | $13.99 |
-| NFC Hat         | https://thepihut.com/products/nfc-hat-for-raspberry-pi-pn532 | $20
-| Total           |                                       | $154
+| NFC Hat         | https://thepihut.com/products/nfc-hat-for-raspberry-pi-pn532 | $30
+| Total           |                                       | $164
