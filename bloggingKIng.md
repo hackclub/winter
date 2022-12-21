@@ -29,4 +29,4 @@ I will be building a line following car that will follow a certain line drawn on
 | Multi tool screw driver | https://www.newark.com/duratool/gsd-329/all-in-one-screwdriverbit-set/dp/26W6260?COM=ref_hackster | $17
 |Male to Male & Female to Female Jump wires| https://www.amazon.ca/IZOKEE-240pcs-Solderless-Breadboard-Arduino/dp/B08151TQHG?crid=12ZHZWST2GGJO&keywords=jumper+wires&qid=1647209538&sprefix=jumper+wires,aps,182&sr=8-5&linkCode=sl1&tag=hashinclude0a-20&linkId=0fa6623a9d0d335f904dc6b4ae1e4b17&language=en_CA&ref_=as_li_ss_tl | $20
 |LiPo Batteries| https://www.amazon.ca/dp/B01LWMLDJJ/ref=syn_sd_onsite_desktop_19?ie=UTF8&psc=1&pd_rd_plhdr=t | $50
-| Total           |                                                                                                                    | $234.38 +2.346 (1% tax) |
+| Total           |                                                                                                                    | $234.38|
