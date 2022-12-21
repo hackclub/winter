@@ -55,7 +55,7 @@ These are the main steps with brief summaries entitling the work that will be do
 | M2 Standoffs | https://www.amazon.co.uk/gp/product/B07Y81V64S/ | £8.59 |
 | M2 Female Threaded Inserts | https://www.amazon.co.uk/gp/product/B0B8GN63S2 | £5.99 |
 | M2 Screws/Washers Kit | https://www.amazon.co.uk/gp/product/B09SH5N5T4 | £6.99 |
-| **Amazon Total** |  | **£203.79 + (Tax Included) + (Free Shipping - (Amazon Prime)) = £108.64** |
+| **Amazon Total** |  | **£108.64 + (Tax Included) + (Free Shipping - (Amazon Prime)) = £108.64** |
 |  |  |  |
 | 4 Servo Horns | https://www.ebay.co.uk/itm/284836448858 | £5.14 |
 | **eBay Total** |  | **£5.14 + (Tax Included) + (Free Shipping) = £5.14** |
