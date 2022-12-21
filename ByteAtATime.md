@@ -25,8 +25,7 @@ Self-explanatory, ig just build the keyboard. I also want to see the PCB and try
 
 | Product         | Supplier/Link                                                                          | Cost                |
 | --------------- | -------------------------------------------------------------------------------------- | ------------------- |
-| GMMK Barebones  | https://www.gloriousgaming.com/products/gmmk-tkl-tenkeyless-brown-switch               | $109.95             |
-| Zilents (x9)    | https://zealpc.net/products/zilent?variant=5894817710118                               | $11.05 * 9 = $99.45 |
-| Switch Opener   | https://www.amazon.com/HONKID-Aluminum-Keyboard-Mechanical-Switches/dp/B08XYXJSSN?th=1 | $12.99              |
-| Lube            | https://kebo.store/products/switch-lubricants?variant=35000460902554                   | $7.00               |
-| Total           |                                                                                        | $229.39             |
+| GMMK Pro        | https://www.amazon.com/Glorious-Modular-Mechanical-Keyboard-Pro/dp/B09963YS4P          | $147.90             |
+| Silent T1       | https://www.amazon.com/DUROCK-Switches-Tactility-Mechanical-Keyboards/dp/B0B219QP6T    | $61.99              |
+| Lubing Kit      | https://www.amazon.com/Lubrication-Mechanical-Keyboard-Aluminum-Instantly/dp/B097R46684| $13.99              |
+| Total           |                                                                                        | $223.88             |
