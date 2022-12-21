@@ -11,9 +11,11 @@ I am going to be building a weather/flight station to collect data about my envi
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+I will be incorporating the ADS-B recevier and collect flight data using dump1090 and FlightAware's PiAware software and follow [this](https://flightaware.com/adsb/piaware/install) guide. 
 
-I will be incorporating the ADS-B recevier and collect flight data using dump1090 and FlightAware's PiAware software and follow this[https://flightaware.com/adsb/piaware/install] guide. 
+I will be incorporating and collecting the data from the weather sensors and be following [this](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/0) guide.
+
+Using this 
 
 ## Budget
 
