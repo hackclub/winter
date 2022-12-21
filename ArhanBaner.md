@@ -36,4 +36,7 @@ After drone is assembled, it has to be tuned and calibrated in order to fly prop
 | Receiver | https://www.banggood.com/custlink/G3Kh7mrZqs| $18.99 |
 | Flight Controller | https://www.banggood.com/custlink/DGKhuGW8M0| $74.99 |
 | VTX | https://www.banggood.com/custlink/KGvYfrVAYB | $36.99 |
+| 3D printed Detachable arm | Already own | $0 |
+| Batteries | Already own | $0 |
+| Drone controller | Already own | $0 |
 | Total           |                                       | $245.93 |
