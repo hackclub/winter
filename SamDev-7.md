@@ -18,7 +18,7 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 
 ## Budget
 
-| Product  | Supplier/Link | Cost (Pre Shipping/Tax) |
+| Product | Supplier/Link | Cost (in $CAD) |
 | - | - | - |
 | Arduino CNC Shield Expansion Board | [AliExpress](https://www.aliexpress.com/item/32829639929.html) | $1.67 | 
 | UNO R3 | [AliExpress](https://www.aliexpress.com/item/1005002997846504.html) | $4.57 | 
@@ -30,10 +30,9 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | 20pcs Micro Switch | [AliExpress](https://www.aliexpress.com/item/32812476561.html) | $3.29 | 
 | Servo (MG996R 360deg) | [AliExpress](https://www.aliexpress.com/item/32954365576.html) | $3.79 |
 | DC Power Supply | [Amazon](https://www.amazon.ca/gp/product/B06Y64QLBM/) | $18.88 |
-| Thrust Bearing (51107) | [Amazon](https://www.amazon.ca/gp/product/B081GDTCYW) | $8.81 |
-| Steel Rod (10mm 400mm) | [Amazon](https://www.amazon.ca/gp/product/B07J45PN2M/) | $19.64 |
+| Thrust Bearing (51107) (x2) | [Amazon](https://www.amazon.ca/gp/product/B081GDTCYW) | $17.62 |
+| Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $15.12 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
-| **Subtotal** | - | $ |
-| **Shipping** | - | |
-| **Estimated Tax** | - | | 
-| **Total** | - | |
+| **Subtotal** | - | **$144.93** = $36.50(Amazon) + $108.43(AliExpress) |
+| **Shipping** | - | **$49.06** = $6.88(Amazon) + $42.18(AliExpress) |
+| **Total** | - | **$193.99** (Approx US$142) |
