@@ -19,7 +19,7 @@ I first plan to get the servos and NodeMCU's working and connected to my home ne
 
 Next is assembling all the servos together and verifying that every JavaScript function is working, after all the electronics are working I will create the web app. I plan to make a simple dashboard of buttons. When a button is pressed, the dispense function will be called, allowing for the servo to rotate and drop the snack. 
 
-Finally, I will assemble the box with rows for the snacks and mount the screen and raspberry pi. For this I will use plywood and plexi glass. I will 3d print all needed brackets, and use a vinal cutter for accents and labels. The last step is to add LED light strips that can be contolled with the touchscreen!
+Finally, I will assemble the box with rows for the snacks and mount the screen and raspberry pi. For this I will use plywood and plexi glass. I will 3d print all needed brackets, and use a vinyl cutter for accents and labels. The last step is to add LED light strips that can be contolled with the touchscreen!
 
 
 ## Budget
