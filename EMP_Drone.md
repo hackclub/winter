@@ -12,19 +12,21 @@ I am trying to design this drone and the EMP is also designed by me for military
 
 ## Plan
 
-My first taget is to custamize my drone to custamize my drone to do that I am going to buy 3D printer and then I will make small device which is going to attach in my drone. I already made a 3D the design of this.
+My first taget is to custamize my drone to custamize my drone to do that I am going to buy 3D printer and then I will make small device which is going to attach in my drone and will test the EMP. I already made a 3D the design of this.
 For more information please visit to: https://tinkeridea.github.io/EMP-Drone/
 
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| WOL3D ENDER 3 MODEL 2022 | [https://www.adafruit.com/product/1957](https://amzn.eu/d/hIOmNeV) | $174.94  |
-| High Voltage Generator | [https://www.adafruit.com/product/358](https://amzn.eu/d/f81GB3i)  | $6.50 |
+| iMAX B6-AC B6AC Lipo NiMH RC Battery Balance Charger | https://www.flyrobo.in/imax_b6-ac_b6ac_lipo_nimh_3s_rc?search=drone&description=true&page=2 | $33.85 |
+| High Voltage Generator | [https://www.adafruit.com/product/358](https://amzn.eu/d/f81GB3i) | $6.50 |
 | Icstore TP4056 | [Icstore TP4056](https://amzn.eu/d/3u31FaK) | $2.01 |
 | FARMIO 3.7V 2200mAh Li-ion Rechargeable Lithium Battery | https://amzn.eu/d/8D8c6Ze | $2.48 |
 | GPS Folding stand Antenna Metal Holder | https://www.flyrobo.in/gps_folding_antenna_metal_holder?search=gps&description=true | $2.96 |
 | GPS Module Ublox NEO-7M | https://www.flyrobo.in/gps_module_ublox_neo-6m_with_electronic_compass?search=gps&description=true | $19.33 |
 | A2212 1000KV Brushless Motor | https://www.flyrobo.in/a2212_1000kv_brushless_motor_for_rc_airplane?search=motor&description=true | $5.67 |
 | APM Pixhawk Power Module with XT60 | https://www.flyrobo.in/apm_pixhawk_power_module_with_xt60?search=power+%2Codule&description=true | $7.24 |
-| Total           |                                       | $221.13 |
+| Build Power LiPo Battery 11.1V | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c?search=battery&description=true | $48.25 |
+| Total           |                                       | $128.29 |
+Any remaining money is needed for testing for EMP
