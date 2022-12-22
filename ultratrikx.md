@@ -29,4 +29,4 @@ All the data will be stored in a mySQL database and be displayed through a web d
 | MCP3008 analogue-to-digital convertor | https://www.adafruit.com/product/856                                 | $4.50 |
 |                        |                                                                      |        |
 |------------------------|----------------------------------------------------------------------|--------|
-| Total                  |                                                                      | 184.07 |
+| Total                  |                                                                      | $153.06 |
