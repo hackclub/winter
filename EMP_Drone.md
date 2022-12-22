@@ -29,4 +29,4 @@ For more information please visit to: https://tinkeridea.github.io/EMP-Drone/
 | APM Pixhawk Power Module with XT60 | https://www.flyrobo.in/apm_pixhawk_power_module_with_xt60?search=power+%2Codule&description=true | $7.24 |
 | Build Power LiPo Battery 11.1V | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c?search=battery&description=true | $48.25 |
 | Total           |                                       | $128.29 |
-Any remaining money is needed for testing for EMP
+And remaining money is needed for testing for EMP 
