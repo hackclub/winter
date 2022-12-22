@@ -1,9 +1,9 @@
 ---
 name: "@ultratrikx"
-project: "Listening to the Skies (A ADS-B reciever with weather monitoring tools)"
+project: "Listening to the Skies (An ADS-B reciever with weather monitoring tools)"
 ---
 
-# Project Name
+# Listening to the Skies (An ADS-B reciever with weather monitoring tools)
 
 ## Summary
 
