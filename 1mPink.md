@@ -25,6 +25,9 @@ I'm excited to build my own server, to learn mostly Proxmox, Route OS, load-bala
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Intel NUC BOXNUC7PJYHN2 Intel Pentium J5005   | https://www.pccomponentes.com/intel-nuc-boxnuc7pjyhn2-intel-pentium-j5005 | $153.78  |
-| Kioxia EXCERIA 480GB SSD SATA | https://www.pccomponentes.com/kioxia-exceria-480gb-ssd-sata | $36.12 |
-| Kingston Fury Impact SO-DIMM DDR4 2666 Mhz 8GB CL15 | https://www.pccomponentes.com/kingston-fury-impact-so-dimm-ddr4-2666-mhz-8gb-cl15?offer=4b236881-d845-4f08-8545-1cf2ad66336c | $30 | 
+| Intel NUC BOXNUC7PJYHN2 Intel Pentium J5005   | https://www.pccomponentes.com/intel-nuc-boxnuc7pjyhn2-intel-pentium-j5005 | $153.78 + $0 (Free Shipping) |
+| x2 Kioxia EXCERIA 480GB SSD SATA | https://www.pccomponentes.com/kioxia-exceria-480gb-ssd-sata | $36.02 + $4.19 (Shipping) |
+| Kingston Fury Impact SO-DIMM DDR4 2666 Mhz 8GB CL15 | https://www.pccomponentes.com/kingston-fury-impact-so-dimm-ddr4-2666-mhz-8gb-cl15?offer=4b236881-d845-4f08-8545-1cf2ad66336c | $30 + $6.04 (Shipping) | 
+| Nanocable Cable de Red RJ-45 UTP AWG24 Cat.6 1m White | https://www.pccomponentes.com/nanocable-cable-de-red-rj-45-utp-awg24-cat6-1m-blanco | $2.22 + 4.19 (Shipping) |
+| Kingston DataTraveler Exodia 128GB USB 3.2 | https://www.pccomponentes.com/kingston-datatraveler-exodia-128gb-usb-32 | $6.98 + $4.19(Shipping) |
+| Total + Taxes| | $248.58 |
