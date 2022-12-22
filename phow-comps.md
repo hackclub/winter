@@ -3,7 +3,7 @@ name: "@phow-comps"
 project: "rc paper airplane"
 ---
 
-# Project Name
+# rc paper airplane
 
 ## Summary
 Converting my normal paper airplanes to remote controllable paper airplanes
