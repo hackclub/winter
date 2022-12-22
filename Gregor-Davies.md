@@ -31,6 +31,8 @@ I have been researching ways to implement different sensors that meet our requir
 | 100nF Capacitors| https://bit.ly/3G6lmXE Amazon| $7 |
 | Zener Diode | https://bit.ly/3HV55q9 Amazon | $2.5 |
 | Perfboard | https://bit.ly/3G37gq5 Amazon | $6.5 |
+| Right angle USB C Cable | https://bit.ly/3vaxn8l Amazon | $8 |
+| Speed sensor | https://bit.ly/3WocDWD Amazon | $7 |
 | 6.2k Resistors | https://bit.ly/3YDCV92 Amazon | $4.5 |
-| Total           |                                       | $111.5 |
+| Total           |                                       | $126.5 |
 
