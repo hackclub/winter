@@ -38,10 +38,11 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | GT2 Belts (200/300/400mm) | [AliExpress](https://www.aliexpress.com/item/1005004309993673.html) | $3.62 |
 | Bearing (6807ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003399460456.html) | $4.09 |
 | Bearing (6806ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003943918727.html) | $2.82 |
-| **Subtotal** | - | **$242.793** = $66.06(Amazon) + $176.73(AliExpress) |
-| **Shipping** | - | **$60.16** = $11.60(Amazon) + $48.56(AliExpress) |
-| **Pre-Tax** | - | **$235.19** (Approx **US$172.32**) |
-| **Tax Estimate** (13%) | - | **$30.57** |
-| **Total** | - | **$265.76** (Approx **US$194.72**) |
-
-\* Some of these items are on sale so prices might increase, I am able to pay for extra if the total cost exceeds US$250.
+| 5pcs M8 Bolts (45mm) | [AliExpress](https://www.aliexpress.com/item/1005002320975566.html) | $6.66 |
+| M Bolts (M3/M4/M5) | [AliExpress](https://www.aliexpress.com/item/1005003594879155.html) | $5.37 |
+| M Nuts (M3/M4/M5/M8) | [AliExpress](https://www.aliexpress.com/item/33012003529.html) | $11.43 | 
+| **Subtotal** | - | **$198.65** = $46.86(Amazon) + $151.79(AliExpress) |
+| **Shipping** | - | **$71.91** = $11.60(Amazon) + $60.31(AliExpress) |
+| **Pre-Tax** | - | **$270.56** (Approx **US$198.24**) |
+| **Tax Estimate** (13%) | - | **$35.17** |
+| **Total** | - | **$305.73** (Approx **US$224.01**) |
