@@ -40,5 +40,4 @@ Overall, I am excited to build this project because it combines several differen
 | Raspberry Pi SD Card | https://www.amazon.com/SanDisk-256GB-Extreme-microSD-Adapter/dp/B07FCR3316/ref=sr_1_15?keywords=sd+card&qid=1671462466&sr=8-15   | $33.88 |
 | Raspberry Pi Power Supply | https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/ref=sr_1_3?keywords=raspberry+pi+4+power+supply&qid=1671460848&s=electronics&sprefix=raspberry+pi+4+powe%2Celectronics%2C56&sr=1-3 | $7.99 |
 | Raspberry Pi RBG, Speakers, etc. | https://www.amazon.com/Freenove-Complete-Raspberry-708-Page-Tutorial/dp/B09ZXNL2WH/ref=sr_1_13?crid=1KOPVMV5FO7ML&keywords=raspberry+pi+4+accessories&qid=1671460872&s=electronics&sprefix=raspberry+pi+4+acc%2Celectronics%2C54&sr=1-13  | $59.95 |
-
 | Total           |                                       | $243.44 |
