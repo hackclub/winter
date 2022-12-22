@@ -30,17 +30,18 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | 20pcs Micro Switch | [AliExpress](https://www.aliexpress.com/item/32812476561.html) | $3.29 | 
 | Servo (MG996R 360deg) | [AliExpress](https://www.aliexpress.com/item/32954365576.html) | $3.79 |
 | DC Power Supply | [Amazon](https://www.amazon.ca/gp/product/B06Y64QLBM/) | $18.88 |
-| Thrust Bearing (51107) (x2) | [Amazon](https://www.amazon.ca/gp/product/B081GDTCYW) | $17.62 |
+| Thrust Bearing (51107) (x2) | [AliExpress](https://www.aliexpress.com/item/1005004382521768.html) | $8.14 |
 | Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $15.12 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
-| 2pcs PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B082W4YLLW/) | $39.99 |
+| PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDW6X99/) | $19.99 |
 | 8pcs 3D printer Nozzles | [Amazon](https://www.amazon.ca/gp/product/B0B7NL58XT/) | $7.99 |
 | GT2 Belts (200/300/400mm) | [AliExpress](https://www.aliexpress.com/item/1005004309993673.html) | $3.62 |
-| M2/M3/M4/M5 Bolts and Nuts | [AliExpress](https://www.aliexpress.com/item/4001313436764.html) | $29.04 |
-| **Subtotal** | - | **$186.90** = $44.49(Amazon) + $142.41(AliExpress) |
-| **Shipping** | - | **$59.10** = $6.94(Amazon) + $52.16(AliExpress) |
-| **Pre-Tax** | - | **$246.00** (Approx **US$180.66**) |
-| **Tax Estimate** (13%) | - | **$31.98** |
-| **Total** | - | **$277.98** (Approx **US$204.15**) |
+| Bearing (6807ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003399460456.html) | $4.09 |
+| Bearing (6806ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003943918727.html) | $2.82 |
+| **Subtotal** | - | **$242.793** = $66.06(Amazon) + $176.73(AliExpress) |
+| **Shipping** | - | **$60.16** = $11.60(Amazon) + $48.56(AliExpress) |
+| **Pre-Tax** | - | **$235.19** (Approx **US$172.32**) |
+| **Tax Estimate** (13%) | - | **$30.57** |
+| **Total** | - | **$265.76** (Approx **US$194.72**) |
 
 \* Some of these items are on sale so prices might increase, I am able to pay for extra if the total cost exceeds US$250.
