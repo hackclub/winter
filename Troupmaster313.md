@@ -45,7 +45,6 @@ ITEMS I ALREADY HAVE:
 | wire clipper                          |already have                                                                     | none  | 
 | nuts and bolts kit                    |https://rcprinter.com/products/nuts-and-bolts-kits?variant=42702968717473        | 74.99 | 6.99
 | charging cable for lipo battery       |https://www.amazon.com/Pairs-Female-Connector-Silicon-Battery/dp/B07QH249CR/ref=asc_df_B07QH249CR/?tag=hyprod20&linkCode=df0&hvadid=361104274063&hvpos      | 8.99  | 5.99
-|                                       |/ref=asc_df_B07QH249CR/?tag=hyprod20&linkCode=df0&hvadid=361104274063&hvpos      |-------|
 |                                       |(link shortened for convinience)                                                 |-------|
 | lipo battery x2                       |https://www.amazon.com/2200mAh-Helicopter-Airplane-Quadcopter-4-13x1-34x0-9      |26.60  | 5.99
 |                                       |4inch/dp/B071R2SCWR/ref=asc_df_B071R2SCWR/tag=hyprod20&linkCode=df0&hvadid=      |-------|
