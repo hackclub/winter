@@ -1,0 +1,42 @@
+---
+name: "@Andriy-Malyshchak"
+project: "Autonomous RC Car dev platform"
+---
+
+# Project Name
+Self-Driving Car
+## Summary
+I'm trying to learn more about AI/ML and its implications towards self-driving tech. Obviously it's very difficult to break 
+into the field with real cars, so I'm trying to mirror that using RC cars. I'm excited to build this because it's a project that can dynamically expand
+as I progress through the years. The tech platform can keep getting better and build on past iterations.
+
+
+## Plan
+
+First: Build the physical structure. I'll be using an RC car, which I'll take apart and include either Lidar, or a camera sensor. I'm planning on using
+a Nvidia Jetson Nano as the main brain with a PCA9685 servo controller. Basically, I'm trying to find a car that will easily integrate with
+the other sensors. I'll 3D print a shell for the camera and other sensors.
+
+Second: Start base programming. Before the car runs I need to include the base "brains" for the car to start learning how to autonomously drive.
+I'll achieve this by using an open source Donkeycar software available on the web. This will guide me into the final step.
+
+Third: The final step is where I'll be able to implement my own designs/changes into the software of the car. I'll learn about autonomous
+driving, and how to use ROS(Robotic Operating System), as well as systems like Tensorflow. This is also the most fluid step in the process because I'll do
+a lot of iterating.
+
+Problems: Some problems that I may encounter is weird software imcompatabilities, and potential hardware malfunctions. I'll tackle those problems by going 
+on Donkeycar's support page as well as going through YouTube videos of past projects...
+
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Nvidia JetsonNano   | https://www.amazon.com/NVIDIA-Jetson-Nano-Developer  | $157  |
+| Wifi Card | https://www.amazon.com/Edimax-EW  | $9 |
+Camera | https://www.amazon.com/NVIDIA-Jetson-Development-Camera  | $10 |
+Servo Driver | https://www.amazon.com/Dorhea-PCA9685  | $9 |
+Antennas | https://store.donkeycar.com/products/2x-molex-wifi  | $7 |
+RC Car |  https://www.exhobby.com/products/short-course-30mph | $60 |
+Wires | https://www.amazon.com/Antrader-Breadboard | 5.49$
+| Total           |     257.49$               |  |
