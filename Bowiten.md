@@ -12,7 +12,7 @@ This is going to be a mechanical keyboard with a 65% layout, supporting stepped 
 
 ## Plan
 
-I plan to salvage some switches from an old keyboard by desoldering them. I'll lube them with the Krytox 205g0 that I have somewhere. I have some spare stabilizers from another keyboard that I have, which I will be using. I also plan to lube those with Krytox 205g0. After I receive the PCBs, I'll flash them with firmware that I created using [Vial](https://github.com/vial-kb/vial-qmk), a fork of [QMK](https://github.com/qmk/qmk_firmware). If everything works, then I'll solder the switches in, add stabilizers, and assemble.
+I plan to salvage some switches from an old keyboard by desoldering them. I'll lube them with the Krytox 205g0 that I have somewhere. I have some spare stabilizers from another keyboard that I have, which I will be using. I also plan to lube those with Krytox 205g0. After I receive the PCBs, I'll flash them with firmware that I created using [Vial](https://github.com/vial-kb/vial-qmk), a fork of [QMK](https://github.com/qmk/qmk_firmware). If everything works, then I'll solder the switches in, add stabilizers, and assemble. I used kkatano's [bakeneko65](https://github.com/kkatano/bakeneko-65) and dededecline's [SST60](https://github.com/dededecline/SST60) as references, and i also used some guides such as [ai03's pcb guide](https://wiki.ai03.com/books/pcb-design) and [Masterzen's blog posts](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/).
 
 ## Budget
 
