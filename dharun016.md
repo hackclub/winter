@@ -4,7 +4,6 @@ project: "Cyber Drone"
 ---
 
 # Hack Club Bank Sign
-
 ![Hack Club Bank logo illuminated from behind with coloured LEDs](https://cloud-hysdwonkf-hack-club-bot.vercel.app/0img_2814.jpg)
 
 # Cyber Drone
