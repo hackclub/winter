@@ -29,6 +29,12 @@ Once the circuit design is complete, I can begin assembling the rover. This will
 
 Finally, I will train the model using a variety of plant images, so that it can accurately identify and diagnose various plant diseases. This will be a critical step in getting my rover ready for use in the field.
 
+- To develop this rover using OpenCV, I'll need to collect and preprocess images of healthy and diseased plants, split the dataset into training and test sets, train a machine learning model such as a CNN on the training set, evaluate the model's performance on the test set, and use the trained model to classify new images of plants as healthy or diseased.
+
+- Currently, I don't yet have a circuit diagram, but I have some ideas about how to connect the hardware components together. I'll need to design a circuit diagram after writing the software.
+
+- The rover is about 18 x 24 inch size, so finding a place to test is quite easy
+
 ## Budget
 
 | Product                                     | Supplier/Link                      | Cost |
