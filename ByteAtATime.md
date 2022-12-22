@@ -17,6 +17,6 @@ For the first day, I'd probably be setting up the computer, installing an OS, an
 
 | Product                | Supplier/Link                         | Cost   |
 | ---------------------- | ------------------------------------- | ------ |
-| Refurbished Computer   | https://www.amazon.com/HP-Prodesk-600-G3-Computer/dp/B07RLW1QB8/  | $149.00  |
+| Refurbished Computer   | https://www.amazon.com/HP-Prodesk-600-G3-Computer/dp/B07RLW1QB8/  | $198.97  |
 | 7" Display             | https://www.amazon.com/Hosyond-Display-1024×600-Capacitive-Raspberry/dp/B09XKC53NH/  | $42.99 |
-| Total           |                                       | $191.99 |
+| Total           |                                       | $241.96 |
