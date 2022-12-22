@@ -15,13 +15,13 @@ I will be incorporating the ADS-B recevier and collect flight data using dump109
 
 I will be incorporating and collecting the data from the weather sensors and be following [this](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/0) guide.
 
-Using this 
+All the data will be stored in a mySQL database and be displayed through a web dashboard also hosted on the Raspberry pi.
 
 ## Budget
 
 | Product                | Supplier/Link                                                        | Cost   |
 | ---------------------- | -------------------------------------------------------------------- | ------ |
-| Raspberry Pi           | https://www.pishop.ca/product/raspberry-pi-4-model-b-8gb/            | $77.06 |
+| Raspberry Pi           | https://www.pishop.ca/product/raspberry-pi-4-model-b-2gb/          | $46.05 |
 | A BME280 pressure,temperature, humidity sensor | https://www.adafruit.com/product/5303                                | $24.95 |
 | RJ11 breakout boards   | https://www.sparkfun.com/products/14021                              | $2.10 |
 | A DS18B20 digital thermal probe |                                                                      | $19.95 |
