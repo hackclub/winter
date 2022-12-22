@@ -60,7 +60,6 @@ ITEMS I ALREADY HAVE:
 |screw sleeve                           |https://www.walmart.com/ip/JSSH-3-175mm-To-5mm-Pinion-Reducer-Sleeve-Adapter     |7.79   |free
 |                                       |-Shaft-For-3650-550-540-RC-Motor/494155400?wmlspartner=wlpa&selectedSellerId     |-------|
 |controller with reciver                |https://m.aliexpress.us/item/3256804682897437.html?_randl_currency=USD&src=google&aff_fcid=3f09faabbf65408d9cc01084209b5dff-1671575844607-09648-       |13.17  |FREE
-|                                       |oogle&aff_fcid=3f09faabbf65408d9cc01084209b5dff-1671575844607-09648-             |-------|       
 |                                       |(link shortened for convinience)                                                 |-------|
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 | item cost                 | 199.42
