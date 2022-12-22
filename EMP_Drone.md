@@ -6,6 +6,9 @@ project: "EMP Drone"
 # Project Name
 EMP Drone
 
+## Check out my project website
+https://tinkeridea.github.io/EMP-Drone/
+
 ## Summary
 
 I am trying to design this drone and the EMP is also designed by me for military purposes in which the drone can shoot electromagnetic pulse whose inert voltage is 1000 kV or one million volts, and it can be used to disperse the planted bombs and protect our military force if someone is running using the vehicle, we just have to fly this drone over that car or truck and this drone can emit electromagnetic pulse and break all the circuits inside the vehicle and so that vehicle can be stopped. Also, if we use this drone in suspicious areas where bombs can be planted, the EMP dispenses or disposes all the bombs easily within minutes and hence this project will contribute a lot to our Army.
@@ -25,7 +28,7 @@ After doing the lot of research my plan is:
 10. When all device will be done I assemble all devices according to 3D model.
 11. I will check agian the safety.
 12. After all of this stuff my project is ready to take-off.
-For more information please visit to: https://tinkeridea.github.io/EMP-Drone/
+
 
 ## Budget
 
