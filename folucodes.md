@@ -3,7 +3,7 @@ name: "@davidarogunre"
 project: "Chat Robot Implemented with Chat GPT-3"
 ---
 
-# Chat Robot
+# Charlie(Chat Robot)
 
 ## Summary
 
