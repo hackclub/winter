@@ -42,3 +42,4 @@ Finally, I will train the model using a variety of plant images, so that it can 
 | Tyres x 4                                   | https://robocraze.com/products/100x40-wheel-for-gear-motor?currency=INR&variant=40193701871769&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&https://robocraze.com/?utm_source=googleads&utm_medium=ppc&gclid=Cj0KCQiAtICdBhCLARIsALUBFcFjMDHncH6LLO5dNUkS4x-LYZevyW1MHPlmFPOMuCAxnZafNzYXzGwaAkKmEALw_wcB |  $5 |
 | Acrylic Sheets                              | Already Own | $0 |
 | Wires                                       | Already Own | $0 |
+| Total                                       | | $248|
