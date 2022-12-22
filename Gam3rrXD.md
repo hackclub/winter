@@ -25,8 +25,9 @@ I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 40 Inch Display | [Link1](https://www.bestbuy.com/site/hisense-40-class-a4g-series-led-full-hd-smart-vidaa-tv/6511284.p?skuId=6511284#tab=buyingOptions?bof=openbox) (Or Equivalent) | $142.98 |
-| Raspberry Pi 3B| [Link3](https://www.amazon.com/gp/product/B082QN6L1N/ref=ewc_pr_img_1?smid=A3V4M3ZRANOD7A&psc=1)  | $93.53 (Expensive as heck due to the demand) |
-| Mirror Film | [Link4](https://www.amazon.com/gp/product/B06Y2C79FC/ref=ox_sc_act_title_1?smid=AELVJXV4J0ALF&psc=1) | $9.84
+| Motherboard [Libre] | [Link3](https://www.amazon.com/Libre-Computer-AML-S905X-CC-Potato-64-bit/dp/B074P6BNGZ)  | $38.54 (Changed because this board has pretty good performence and comes at a lower cost) |
+| Mirror Film | [Link4](https://www.amazon.com/gp/product/B06Y2C79FC/ref=ox_sc_act_title_1?smid=AELVJXV4J0ALF&psc=1) x2 | $18.83
+| Acrylic Panel | [HD](https://www.homedepot.com/p/OPTIX-36-in-x-30-in-x-093-in-Acrylic-Sheet-MC-06/202038044) | $42.21
 | Wood / Frame for mirror | Owned | $0.00
 | Speakers for Raspberry PI | Owned | $0.00
 | MicroSD Card and Display cables | Owned | $0.00
@@ -34,5 +35,5 @@ I am going to be bulding an RGB Smart mirror with Alexa support and a Hands Free
 | Raspberry PI Motion Sensor | Owned | $0.00
 | Alexa Enabled Device (Echo Dot) | Owned | $0.00 |
 | Raspberry Pi Camera | Cost's Covered By Me As it goes over budget [Link5](https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/) | $0.00
-
-| Total  | $246.35 | (includes all extra costs, tax, s&h, etc.)
+| Total  | $242.56 | (includes all extra costs, tax, s&h, etc.)
+ 
