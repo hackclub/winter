@@ -16,7 +16,7 @@ Check out the [examples](/examples) for inspiration. If you're still stuck, you 
 
 ##### Can multiple people team up to work on a project?
 
-If you team up with an IRL friend and want to build a project together, you would work together to submit one pull request. All teammates must meet requirements for the event (eg. under 18, have submitted RSVP, be on Slack, etc.) The grant amount would be for up to $250 per person, growing with team size. You must be able to meet up in person to work on the project with your teammate(s).
+If you team up with an IRL friend and want to build a project together, you would work together to submit one pull request. All teammates must meet requirements for the event (eg. under 18, have submitted RSVP, be on Slack, etc.) The grant amount would be for up to $250 per person, growing with team size. You must be able to meet up in person to work on the project with your teammate(s). The maximum number of people in a team is 4.
 
 ##### How many total grants are there availalbe?
 
