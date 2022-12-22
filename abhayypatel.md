@@ -35,7 +35,6 @@ Overall, I am excited to build this project because it combines several differen
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-
 | Raspberry Pi   | https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27?tag=georiot-us-default-20&ascsubtag=tomshardware-us-5967095305306638000-20&geniuslink=true&th=1  | $125.67  |
 | Raspberry Pi Case | https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52/ref=sr_1_6?keywords=raspberry+pi+4+case&qid=1671454629&s=electronics&sr=1-6   | $15.95 |
 | Raspberry Pi SD Card | https://www.amazon.com/SanDisk-256GB-Extreme-microSD-Adapter/dp/B07FCR3316/ref=sr_1_15?keywords=sd+card&qid=1671462466&sr=8-15   | $33.88 |
