@@ -11,7 +11,7 @@ I will be building a custom mechanical keyboard. It would be a keyboard I would 
 
 ## Plan
 
-First I would take the GMMK kit and assemble it into a frame. I may also take some foam pieces that I have laying around to insert it in the frame so the acoustics sound better. Then I would take the Akko switches and inserting them into the board. I would then take the set of keycaps and place them accordingly on the board. 
+First I would take the GMMK kit and assemble it into a frame. I may also take some foam pieces that I have laying around to insert it in the frame so the acoustics sound better. Then I would take the Akko switches and inserting them into the board. I would then take the set of keycaps and place them accordingly on the board. After that I would magnetically attach the padded wrist rest to the bottom of the keyboard.
 
 ## Budget
 
