@@ -12,6 +12,7 @@ Smart Device Controller
 What are you going to build? What does it do? Why are you excited to build it?
 
 A touch screen smart device controller. This will be able to view camera feed and audio from ring devices, and control smart lights, thermostat, etc.
+I'll also be creating a custom webpage interface hosted locally through apache utilizing APIs.
 
 
 ## Plan
@@ -23,6 +24,10 @@ What steps are you going to take to build it? What tools are you going to use? W
 3. Buy Smart lights
 4. Install and setup Home Assistant
 5. Connect Devices (Ring Cameras, Smart Lights, Thermostat)
+6. Create Webpage Interface
+7. Add RDP for remote control and easy setup
+8. Mount Pi to the wall as a smart controller
+9. Research APIs and integration
 
 
 ## Budget
