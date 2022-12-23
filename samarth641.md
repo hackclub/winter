@@ -19,8 +19,7 @@ There are many different approaches to building a drone, and the specific steps 
 1.Research and planning: This may involve gathering information about the desired capabilities and features of the drone, 
 as well as researching different designs and technologies that may be suitable for the project.
 
-2.Design: This may involve creating detailed plans and drawings for the drone, including the mechanical structure, 
-control system, and any other necessary components. This might involve using computer-aided design (CAD) software or other tools to create detailed models and drawings of the drone.
+2.Design:  I'm looking for a 3D printer to help me print the frame for my drone project. On Amazon, I discovered a suitable model https://www.amazon.in/gp/product/B07DGV2L8Z/ref=ox sc act image 2?smid=A265UAHVFOFJA3&psc=1.  and I also needed the necessary filament, but I couldn't include the printer because it exceeded the price limit. The listed prices include 18% taxes. I created the necessary STL files in Fusion 360 and did extensive research on the subject, including watching a Lesics video on drone functionality and how drone works https://www.youtube.com/watch?v=N_XneaFmOmU . I'm excited to finally be able to work on this project, which I've been thinking about for a long time.
 
 3.Fabrication: This may involve using a variety of tools and equipment to fabricate the different parts and components of the drone. This might include tools such as 3D printers, lathes, and milling machines, as well as manual fabrication techniques such as welding and soldering.
 
