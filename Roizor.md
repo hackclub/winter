@@ -10,7 +10,7 @@ project: "Blue Board"
   I am going to build a 65% mechanical keyboard but use custom firmware (a fork of QMK). The keyboard will be used for everything I do (home, school). 
   I'll also create a custom key layout for the keyboard.
   I'm excited to build this because it's always been my dream to build a mechanical keyboard and modify it's firmware at the low level. It'll be my first time building a keyboard as well.
-  I've also never truly explored C programming and I feel this project can help introduce me to it.
+  I've also never truly explored C programming and I feel this project can help introduce me to it. As for what I am going to do for the firmware, my laptop builtin keys have special functions, such as trackpad on/off, key lights on/off, and a number pad. I want to include these settings on the keyboard itself because I think it will challenge me and be a fun first experience (for the most part). 
 
 ## Plan
 
