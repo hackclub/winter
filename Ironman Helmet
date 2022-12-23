@@ -42,6 +42,7 @@ project: "Realistic Iron Man Helmet"
 ## Budget
 The link to the HUD unit is broken so to find on Amazon, search "Vufine VUF" and the first option is the one
 
+Helmet #1: 
 | Product     | Supplier/Link                                                       | Cost     |
 | ----------- | ------------------------------------------------------------------- | -------- |
 | HUD Unit    | https://www.amazon.com/Vufine-006011-Wearable-Display/dp/B01MZ89QXF | $190.00  |
@@ -57,3 +58,22 @@ The link to the HUD unit is broken so to find on Amazon, search "Vufine VUF" and
 | Subtotal    |                                                                     | $226.03  |
 | Tax         |                                                                     | $22.60   |
 | Total       |                                                                     | $248.63  |
+
+Helmet #2: 
+| Product     | Supplier/Link                                                       | Cost     |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| HUD Unit    | https://www.amazon.com/Vufine-006011-Wearable-Display/dp/B01MZ89QXF | $190.00  |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Microphone  | http://bit.ly/3PJOxmx (Adafruit)                                    | $5.95    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Camera      | https://bit.ly/3YFXUrK (Amazon)                                     | $14.99   |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Speaker     | https://bit.ly/3jl8O5L (Adafruit)                                   | $7.50    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Eye LED     | https://bit.ly/3FNazjQ (Ebay)                                       | $7.59    |
+| ----------- | ------------------------------------------------------------------- | -------- |
+| Subtotal    |                                                                     | $226.03  |
+| Tax         |                                                                     | $22.60   |
+| Total       |                                                                     | $248.63  |
+
+Total: $497.26
