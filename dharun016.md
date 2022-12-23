@@ -7,11 +7,13 @@ project: "Cyber Drone"
 # Cyber Drone
 
 ## Summary
-what are ou going to build?
+
 I planned to build quadcopter with integraton of raspberry Pi.
 
-What does it do?
-Using this drone we are going to defence wireless attacks and take over control
+In malls, railways, and other public places some hackers provide free wifi's connections. Some people don't know about this so they use wifi as normal users. But connecting hackers will gain full to their devices and use it for personal gain then they stole their data and blackmail them for money So, there are so many peoples affected by it.
+
+So, I have a plan of connecting with Raspberry Pi which is Linux based OS it is easy to write scripts, I use tools like Nmap, aircrack-ng, and others tools to combine all of them to first scan all the wifi connections with Nmap (hackers mostly run their connection on port 80 for gain access) then collect that connection and analyze it with aircrack-ng to drop down the connection and take control their access with twin evil attack finally we fill the complaint with the with data(IP, location etc)we have collected.
+
 
 Why are you excited to build it?
 Now a days Quadcopter is playing a major roles in all fields . So, it is excited to do some project on it. I do so many researches on that finally i came up with idea that connecting raspberry Pi to quadcopter to create scrripts that will allow us to prevent attacks and gain access 
