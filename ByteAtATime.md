@@ -13,10 +13,14 @@ I plan to build a [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) t
 
 For the UI, I plan to use something like [Tauri](https://tauri.app). For educational purposes, I'm going to overengineer the system to use [Firebase](https://firebase.google.com) (Firestore in particular) to store the task information, along with statistics of Pomodoro's I've done.
 
+I'm thinking of something along the lines of [Todoist](https://todoist.com), which I like to use, crossed with [Pomofocus](https://pomofocus.io), which I like for its simplicity. Essentially, make something like Pomofocus with a better todo list. I also like the look of [Plausible Analytics](https://plausible.io), and I might add some information about "most active times" and a streak counter to motivate me to do at least `n` pomodoros daily.
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Orange Pi       | https://www.amazon.com/gp/product/B0BNSSB7JV/ | $150.99  |
 | 7" Touchscreen  | https://www.amazon.com/gp/product/B01GDMDFZA/ | $63.99 |
-| Total           |                                       | $214.98 |
+| Shipping        |                                       | $11.99  |
+| Tax             |                                       | $20.71  |
+| Total           |                                       | $257.68 |
