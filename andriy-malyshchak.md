@@ -12,6 +12,7 @@ as I progress through the years. The tech platform can keep getting better and b
 
 
 ## Plan
+http://docs.donkeycar.com/
 
 First: Build the physical structure. I'll be using an RC car, which I'll take apart and include either Lidar, or a camera sensor. I'm planning on using
 a Nvidia Jetson Nano as the main brain with a PCA9685 servo controller. Basically, I'm trying to find a car that will easily integrate with
@@ -27,6 +28,7 @@ a lot of iterating.
 Problems: Some problems that I may encounter is weird software imcompatabilities, and potential hardware malfunctions. I'll tackle those problems by going 
 on Donkeycar's support page as well as going through YouTube videos of past projects...
 
+Additional info: The RC car that I chose is one of the models that the website lists as compatible with the hardware. As I move through different iterations, I'll probably run into more alternatives(these are just tested). The antennas and Wifi card are used for communicating to the ground station. Wifi card enables connection, while antennas boost that connection. The car is connected to a laptop while coding and operates on its own via the different sensors on the car. The camera feeds the image into the Nvidia Jetson Nano => into PCA servo controller => motor/steering. Initial success will be if the car is able to follow a demarked loop that I'll probably draw with chalk on the ground(or something similar).
 
 ## Budget
 
