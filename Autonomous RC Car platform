@@ -32,11 +32,17 @@ on Donkeycar's support page as well as going through YouTube videos of past proj
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Nvidia JetsonNano   | https://www.amazon.com/NVIDIA-Jetson-Nano-Developer  | $157  |
-| Wifi Card | https://www.amazon.com/Edimax-EW  | $9 |
-Camera | https://www.amazon.com/NVIDIA-Jetson-Development-Camera  | $10 |
-Servo Driver | https://www.amazon.com/Dorhea-PCA9685  | $9 |
-Antennas | https://store.donkeycar.com/products/2x-molex-wifi  | $7 |
-RC Car |  https://www.exhobby.com/products/short-course-30mph | $60 |
-Wires | https://www.amazon.com/Antrader-Breadboard | 5.49$
+| Nvidia JetsonNano   | https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=sr_1_3?crid=8AG2PWH8H3MR&keywords=nvidia+jetson+nano&qid=1671664292&s=electronics&sprefix=nvidia+jetson+nano%2Celectronics%2C103&sr=1-3  | $157  |
+| Wifi Card | https://www.amazon.com/Edimax-EW-7811Un-V2-Compatible-2-6-18-4-14/dp/B08F2ZNC6J/ref=sr_1_1?crid=6NNV79DQX5LM&keywords=Edimax+EW-7811Un&qid=1671743931&sprefix=edimax+ew-7811un%2Caps%2C85&sr=8-1
+  | $9 |
+Camera | https://www.amazon.com/NVIDIA-Jetson-Development-Camera-Application/dp/B0854CP54X/ref=sr_1_3?crid=GF1ETUWHGVMK&keywords=nvidia+jetson+camera&qid=1671674825&refinements=p_36%3A-2000&rnid=386442011&sprefix=nvidia+jetson+camer%2Caps%2C105&sr=8-3
+
+  | $10 |
+Servo Driver | https://www.amazon.com/Dorhea-PCA9685-Interface-Controller-Raspberry/dp/B07RMTN4NZ/ref=sr_1_2?crid=R34O5ZSS82I7&keywords=PCA9685%2BServo%2Bcontroller&qid=1671743646&sprefix=pca9685%2Bservo%2Bcontroller%2Caps%2C161&sr=8-2&th=1
+ | $9 |
+Antennas | https://store.donkeycar.com/products/2x-molex-wifi-antennas-for-jetson-nano
+  | $7 |
+RC Car |  https://www.exhobby.com/products/short-course-30mph-high-speed-truck-with-shock-absorber-system-and-water-splash-proof-structure?currency=USD&variant=38102061449406&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&cmp_id=17850712706&adg_id=&kwd=&device=c&gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGGEqSlXQYCNL5MrJeAoJuaj3pc3D4PDEGlsEubY63Dtxrm9pJqY3zMaAmfHEALw_wcB | $60 |
+Wires | https://www.amazon.com/Antrader-Breadboard-Dupont-Arduino-Raspberry/dp/B07S2RH6Q4/ref=sr_1_12?crid=7QJI5I1NGUGM&keywords=single+pin+wires+robotics&qid=1671749510&sprefix=single+pin+wires+robotic%2Caps%2C100&sr=8-12
+ | 5.49$
 | Total           |     257.49$               |  |
