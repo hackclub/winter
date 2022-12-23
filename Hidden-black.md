@@ -3,6 +3,8 @@ name: "@Hidden-black"
 project: "Toy Car"
 
 ---
+## Reference [Remote Control Car](https://create.arduino.cc/projecthub/samanfern/bluetooth-controlled-car-d5d9ca)
+(This is the one closest to my plan and i would make changes to my liking which are mentioned below)
 
 ## Summary
 This would be my first step towards using microcontrollers and i am super exited to do it.
@@ -19,7 +21,7 @@ The small toy car would help me with learning programing like controling all 4 m
 
 ### 2. Build a frame for toy car
 - Plan the car in blender using simple shapes like cuboid and celender to get it proper placement and dimmensions of the components
-- Build the frame 
+- Build the frame using cardboard cut in proper dimmensions with the help of the 3D model made earlier in blender
 
 ### 2.5. Builing the toy car with simple program using only sensor
 
