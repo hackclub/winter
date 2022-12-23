@@ -22,6 +22,7 @@ The first step I would take is to set up the hardware for the bot, including the
 | 3.5mm Jack Speaker| https://www.amazon.com/Portable-Speaker-Mobile-Interface-Smartphone/dp/B0824HK17J/                                                          | $14.99 |
 | RPI Power Supply  |https://www.amazon.com/Listed-iUniker-Raspberry-Supply-Switch/dp/B0B79FVPQ4/                                                          | $8.99  |
 | Sd Card           |https://www.amazon.com/Lexar-Micro-microSDHC-Memory-Adapter/dp/B09JNL9VSR/                                                          | $11.99 |
-| Shipping          |                                                | $28.95 |
-| Import Fees       |                                                | $25.06 |
-| Total             |                                                | $188.78|
+| Sd card reader    |https://www.amazon.com/gp/product/B06Y1G18KS                                                           | $16.99 |
+| Shipping          |                                                | $32.17 |
+| Import Fees       |                                                | $27.68 |
+| Total             |                                                | $211.61|
