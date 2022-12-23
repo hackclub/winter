@@ -29,4 +29,5 @@ I won't need many tools other than my 3D printer, and wood working tools in my g
 | Breadboard         | https://www.sparkfun.com/products/12002 | $5.50   |
 | Wires (M/M) (x2)   | https://www.sparkfun.com/products/14284 | $5.50   |
 | Wires (F/F) (x2)   | https://www.sparkfun.com/products/12796 | $4.20   |
-| Total              |                                         | $132.65 |
+| Small Stepper (x2) | https://www.sparkfun.com/products/10551 | $17.90  |
+| Total              |                                         | $150.55 |
