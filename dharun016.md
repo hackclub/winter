@@ -1,9 +1,3 @@
----
-name: "@dharun016"
-project: "Cyber Drone"
----
-
-
 # Cyber Drone
 
 ## Summary
