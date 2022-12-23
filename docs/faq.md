@@ -2,7 +2,7 @@
 
 #### I'm in college. Can I join this event? 
 
-No, this event is only open to high school students.
+No, this event is only open to current high school students (or younger).
 
 ##### Can I join the event if I'm not in the US?
 
