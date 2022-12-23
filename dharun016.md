@@ -23,4 +23,5 @@ For the first 5 days, I'm going assemble drone check its connectivety and testin
 | VPS & Servers            |   already own                         | $0     |
 | Quadcopter Drone Combo   | https://bit.ly/3BR0RMn                | $198.26|
 | Raspberry Pi 4           | https://bit.ly/3GaOxZY                | $47.15 |
-| Total                    |                                       | $245.41|
+| Shipping & taxes         |                                       | $4     |
+| Total                    |                                       | $249.41|
