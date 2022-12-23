@@ -25,10 +25,10 @@ Simplo is gonna be roadmaped based on "modules". which is basically the function
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Arduino Micro | https://store-usa.arduino.cc/products/arduino-micro | $24.90 |
-| Acelerometer and gyroscope mpu6050 | https://www.amazon.com/Adafruit-Absolute-Orientation-Fusion-Breakout/dp/B017PEIGIG/ref=sr_1_2?crid=1RWGY8JSSLVGE&keywords=6DOF+MPU+6050+3Axis+gyroscope+and+accelerometer&qid=1671756553&sprefix=6dof+mpu+6050+3axis+gyroscope+and+accelerometer%2Caps%2C230&sr=8-2 | $33.71 |
-| 1x 5-inch Raspberry Pi LCD Screen with HDMI interface | https://www.amazon.com/Elecrow-800x480-Interface-Supports-Raspberry/dp/B013JECYF2 | $43.99 |
-| 4x Arduino camera module | https://www.amazon.com/HiLetgo-OV7670-640x480-0-3Mega-Arduino/dp/B07S66Y3ZQ/ref=sr_1_3?crid=3U73N3VVCHINJ&keywords=arduino+camera&qid=1671757465&s=electronics&sprefix=arduino+camera%2Celectronics%2C79&sr=1-3 | $27.00 |
+| 1x Arduino Micro | https://store-usa.arduino.cc/products/arduino-micro | $38.61 |
+| 1x Acelerometer and gyroscope mpu6050 | https://www.ebay.com/itm/295005468005?chn=ps&mkevt=1&mkcid=28&srsltid=AeTuncrx8Nd6PKD56swU6q1U-7z0kxZe6F_kvLrvcyVwZBaKHMdjDY9cypM | $0.99 |
+| 1x 5-inch Raspberry Pi LCD Screen with HDMI interface | https://www.crowpi.cc/products/rr050-5-inch-raspberry-pi-screen-touchscreen-monitor-tft-display-for-raspberry-pi-4b-3b-3b-2b-bb-black-banana-pi-windows-10-8-7?variant=39701621014661&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncr8B4F9Q7yh7FjVHqnMsxJRtYMvFLyGgjXL76QPDOjYqyzIV27kEU8 | $53.10 |
+| 4x Arduino camera module | https://tinkersphere.com/arduino-compatible-components/944-ov7670-vga-camera-module-for-arduino.html | $44.95 |
 | 5x Led | gonna buy, close here :) | $2.00 |
-| Jumper wires | [gonna buy, close here :) (https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_4?crid=2ZNOELUFZLNN8&keywords=jumper+wires&qid=1671757252&s=electronics&sprefix=jumper+wires%2Celectronics%2C71&sr=1-4) | $7.00 |
-| Total |  | $138.61 |
+| Jumper wires | gonna buy, close here :) | $7.00 |
+| Total | Changed a lot of itens cause everything is way expansive where i live | $146.65 |
