@@ -1,0 +1,43 @@
+## Describe your project in 1-3 sentences
+
+<!-- I am building a LED light logo inserted t shirt that can be controlled through an app. and change the logo design  -->
+
+## Hack Club Slack handle- euphorich3hub
+
+<!-- Join the Hack Club Slack at https://hackclub.com/slack -->
+
+## Checklist before submitting proposal:
+
+- [yes ] I am a current high school student (or younger).
+- [yes ] I have submitted an RSVP at <https://hackclub.com/winter>
+- [yes ] I am a member of the Hack Club Slack (Join at <https://hackclub.com/slack>)
+- [ yes] I have self-reviewed my project proposal.## Describe your project in 1-3 sentences
+
+<!-- I am building a LED light display embeded t-shirt that can be controlled through an app. -->
+
+
+
+<!-- Join the Hack Club Slack at https://hackclub.com/slack -->
+
+---
+author: '@euphorichubbbb'
+project: 'l.e.d Tee shirt'
+---
+
+## Summary
+
+I am going to build a led light logo/text embeded t-shirt instead of boring old printed logo for t-shirt and the cool thing about it will be the changing of the designs using my app, this t-shirt can be cool to wear for haloween parties or hacksthons.
+
+## Budget
+
+| Product                                                          | Supplier/Link                                                                                               | Cost                           |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ |
+|  16x16 RGB LED matrix display with 256 individually addressable full color LEDs | [led matrix]https://www.amazon.in/WESIRI-WS2812B-Flexible-Individually-Addressable/dp/B07PB2P81N?th=1                                                  | $73 (including tax & shipping) |
+|  4 AA battery pack      | [AA 4battery](https://www.amazon.in/s?k=aa+4+battery+holder&adgrpid=59669450142&ext_vrnc=hi&gclid=CjwKCAiAnZCdBhBmEiwA8nDQxQsSAJzZ9V2CuRB6SqTAcoPKBUSHAWCAjABWO6qgZXyqffw27XH2-BoC7BEQAvD_BwE&hvadid=590652575023&hvdev=c&hvlocphy=1007768&hvnetw=g&hvqmt=b&hvrand=15100063904795773673&hvtargid=kwd-302236479989&hydadcr=24564_2265423&tag=googinhydr1-21&ref=pd_sl_7c14p0wkjv_b)                                                           | $18                           |
+| 4 aa battery pack holder                     | [battery holder](https://www.amazon.in/Robo-India-ZX-4AA-SWBL-Battery-Holder/dp/B06XD1B3DS)                                                           | $3.32                            |
+| arduino uno            | [Arduino](https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us)               | $27                             |
+|on &off switch             | [amazon](https://www.amazon.com/Gikfun-6x6x5mm-Switch-Button-Arduino/dp/B00R17XUFC/ref=sr_1_3?keywords=arduino+buttons&qid=1671778700&sr=8-3) | $7                             |
+|  solderless breadboards with 4 buttons                                                     | [Adafruit](https://robu.in/product/zy-208-3220pts-breadboard-4pcs-830pts-mb-102/?gclid=CjwKCAiAnZCdBhBmEiwA8nDQxfUUywDUMz6QBV6VqneDFuQ0GK6Tu7aYFpYUX7iFbe-L32ahtGCnhBoC5h8QAvD_BwE)                                                             | $13.63                            |
+| Jumper Wires                                           | [Adafruit](https://www.adafruit.com/product/1957)                    | $3  
+|Duck tape & super glue|(https://www.amazon.in/ETI-Duct-Tape-48x50m-Grey/dp/B01KOBP8AQ/ref=sxin_14?asc_contentid=amzn1.osa.c06f3688-8f3f-4901-97f5-1711e5ab8bef.A21TJRUUN4KGV.en_IN&asc_contenttype=article&ascsubtag=amzn1.osa.c06f3688-8f3f-4901-97f5-1711e5ab8bef.A21TJRUUN4KGV.en_IN&content-id=amzn1.sym.939c6bd1-1a0e-48f0-a138-af961f88b523%3Aamzn1.sym.939c6bd1-1a0e-48f0-a138-af961f88b523&creativeASIN=B01KOBP8AQ&cv_ct_cx=Duct%2BTape&cv_ct_id=amzn1.osa.c06f3688-8f3f-4901-97f5-1711e5ab8bef.A21TJRUUN4KGV.en_IN&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-pecos-desktop&keywords=Duct%2BTape&linkCode=oas&pd_rd_i=B01KOBP8AQ&pd_rd_r=45979a1d-3e30-43fd-83dd-317ebfecdc88&pd_rd_w=1IUA1&pd_rd_wg=X4sFx&pf_rd_p=939c6bd1-1a0e-48f0-a138-af961f88b523&pf_rd_r=5T6KFP43DXPTFB6HWSMP&qid=1671779197&sr=1-1-c84eb971-91f2-4a4d-acce-811265c24254&tag=htsyndicate-21&th=1)(https://www.epoxyadhesiveglue.com/product/epoxy-underfill-chip-level-adhesives/) |$15+8.45
+|    Total                                                             |                                                                                                             | Total: $142                  |
