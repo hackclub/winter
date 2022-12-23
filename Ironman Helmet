@@ -28,6 +28,16 @@ project: "Realistic Iron Man Helmet"
   6. In this cad we're going to make the face plate motorized and connect the servos to the raspberry pi controlling the rest of the electronics
   7. We're going to 3D print the iron man helmet and assemble the electronics into it
     Thats project completed!
+    
+    I've got a 3D printer to print out the helmet and some pretty cool red and gold spray paint cans to paint the 3D print. 
+    Raghav has the Pi and I've got an arduino kit and some servos that go with it so we're thinking of powering the arduino 
+    using the Pi and using the arduino to control the servos. The Pi would only be used for controlling the Jarvis AI with 
+    the speakers and microphone.
+
+    The HUD unit just needs an HDMI input so I have spare HDMI cables er can connect to it from the Pi HDMI output port to the 
+    HUD unit. The microphone is on a USB so that can be plugged straight into the raspberry pi and the speakers and camera have 
+    wires on them meant to plug into the raspberry pi. The eye LED strip are connected to a battery so those don't need to be 
+    connected to the Pi or the Arduino.
 
 ## Budget
 The link to the HUD unit is broken so to find on Amazon, search "Vufine VUF" and the first option is the one
