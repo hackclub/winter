@@ -1,8 +1,6 @@
-
 ---
 name: "@cfanoulis"
 project: "Veeby Deeby - A new way to vote for your favorite projects"
-
 ---
 
 #  Project Name
