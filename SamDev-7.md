@@ -43,7 +43,8 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | M Nuts (M3/M4/M5/M8) | [AliExpress](https://www.aliexpress.com/item/33012003529.html) | $11.43 | 
 | Steel Rods (6mm 150mm) (x2) | [AliExpress](https://www.aliexpress.com/item/32332798910.html) | $9.01 | 
 | **Subtotal** | - | **$207.66** = $46.86(Amazon) + $160.80(AliExpress) |
-| **Shipping** | - | **$73.37** = $11.60(Amazon) + $61.77(AliExpress) |
-| **Pre-Tax** | - | **$281.03** (Approx **US$205.91**) |
-| **Tax Estimate** (13%) | - | **$36.53** |
-| **Total** | - | **$317.56** (Approx **US$232.68**) |
+| **Shipping** | - | **$102.09** = $7.29(Amazon) + $90.49(AliExpress) |
+| **Discounts** | - | **$31.79** = $7.28(Amazon) + $24.51(AliExpress) |
+| **Pre-Tax** | - | **$277.96** (Approx **US$204.50**) |
+| **Tax Estimate** (13%) | - | **$36.13** |
+| **Total** | - | **$314.09** (Approx **US$231.08**) |
