@@ -19,4 +19,5 @@ First I would take the GMMK kit and assemble it into a frame. I may also take so
 | GMMK Pro Kit.   | https://www.gloriousgaming.com/products/glorious-gmmk-pro-75-barebone-black| $169.99 |
 | Akko CS Lavander Purple Switch (45 pcs) | https://en.akkogear.com/product/akko-cs-lavender-purple-switch-45pcs/  | $9.99 each (Total $19.98) (After taxes and shipping $30.25)  |
 | IDOBAO Match Green Keycap set | https://www.amazon.com/IDOBAO-Dye-Sublimation-Switches-Mechanical-Keyboard/dp/B099PDQ22H/ref=sr_1_4?keywords=green%2Bkeycaps&amp=undefined&qid=1671783957&sr=8-4&th=1 | $35.49 (after discounts and taxes $21.29)|
-| Total           |                                       | $221.53 |
+| Glorious Padded Wrist Rest   | https://www.gloriousgaming.com/products/glorious-padded-keyboard-wrist-rest-stealth-edition  | $25.99 |
+| Total           |                                       | $247.52|
