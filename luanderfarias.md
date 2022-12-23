@@ -14,12 +14,19 @@ Fully open-source and customizable, made to be refined and improved.
 ## Plan
 
 Simplo is gonna be roadmaped based on "modules". which is basically the functions necessary till it gets ready.
-- chasis - the basic process of building a pretty simple frame just to support the screen and cameras.
-- 6-dof -  Code the gyroscope and the webcam app to make the headset go 6-dof.
-- steamvr - Code the main thing. A communication with steam to transfer the headset information to the game.
-- hand-tracking - Finally, code the hand tracking thing, which is supposed to be a replacement for the controllers.
+- chasis - the basic process of building a pretty simple frame just to support the screen and cameras. gonna make it from cardboard or popsticks at first but when i finally make a final design i'm gonna 3d print it.
+- 6-dof -  Code the accelerometer/gyroscope in a arduino and the webcam app to full-body tracking and positioning the headset to make the headset go 6-dof.
+- steamvr - Code the main thing. A communication with steam to transfer the headset information to the game. gonna try to offer support for all games but i don't promise it lol.
+- hand-tracking - Finally, code the hand tracking thing using computer vision and cameras, which is supposed to be a replacement for the controllers. using gestures instead of buttons.
 - Simplo-software/website - code the website to present the project to the world and the software for configuration, calibration, setup, etc...
-- Finishing - gonna make a new frame (probably 3D printed), make the code more readable, etc...
+- Finishing - gonna make the new frame (probably 3D printed), make the code more readable, etc...
+
+## Research
+Simplo is developed based on other open-source vr headsets out there. Here are some of the links for the repositories that inspires simplo:
+- https://github.com/HadesVR/HadesVR
+- https://github.com/HadesVR/Wand-Controller
+- https://create.arduino.cc/projecthub/138706/relativty-is-a-low-cost-vr-headset-you-can-build-yourself-fa6e7d
+- https://www.notebookcheck.net/Build-an-Arduino-based-VR-headset-with-this-cheap-project.469070.0.html
 
 ## Budget
 
