@@ -1,5 +1,5 @@
 ---
-name: "@yourGitHubUsername"
+name: "@KrauseOlly"
 project: "Onboard Go Kart Camera System"
 ---
 
