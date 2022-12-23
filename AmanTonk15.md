@@ -62,9 +62,13 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ## Budget
 
-| Product         |                                   Supplier/Link                         |  Cost  |
-| --------------- |                                -------------------------------------    | ------ |
-| Arduino Uno Rev3                   | https://store.arduino.cc/products/arduino-uno-rev3/  | $1.95  |
-| SparkFun RFID Reader Breakout      | https://www.sparkfun.com/products/13030              | $19.95 |
-|13.56MHz RFID/NFC Card - Classic 1K | https://www.adafruit.com/product/359                 | $2.50  |
-| Total                              |                                                      | $24.4  |
+| Product                                                                  |               Supplier/Link                          |  Cost  |
+| ---------------                                                          |             -------------------------------------    | ------ |
+| Arduino Uno Rev3                                                         | https://store.arduino.cc/products/arduino-uno-rev3/  | $24.95 |
+| SparkFun RFID Reader Breakout                                            | https://www.sparkfun.com/products/13030              | $19.95 |
+|13.56MHz RFID/NFC Card - Classic 1K                                       | https://www.adafruit.com/product/359                 | $2.50  |
+|Raspberry Pi PoE+ HAT                                                     | https://www.sparkfun.com/products/18346              | $20.00 |
+|LCD Touchscreen HAT for Raspberry Pi - TFT 3.5in. (480x320)               | https://www.sparkfun.com/products/14776              | $9. 95 |
+|Soldering Iron - 60W (Adjustable Temperature)                             | https://www.sparkfun.com/products/14776              | $16.50 |
+|Jumper Wire Kit - 140pcs                                                  | https://www.sparkfun.com/products/124                | $6.50  |
+| Total                                                                    |                                                      | $100.35|
