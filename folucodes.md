@@ -18,8 +18,10 @@ The first step I would take is to set up the hardware for the bot, including the
 | Product           | Supplier/Link                                  | Cost   |
 | ----------------- | ---------------------------------------------- | ------ |
 | Raspberry Pi 3    | https://www.ebay.com/itm/325465989300          | $75.81 |
-| USB Microphone    | https://www.amazon.com/gp/product/B074BLM973/  | $41.27 |
-| 3.5mm Jack Speaker| https://www.amazon.com/Portable-Speaker-Mobile-Interface-Smartphone/dp/B0824HK17J/                                                          | $32.24 |
-| RPI Power Supply  |https://www.amazon.com/Listed-iUniker-Raspberry-Supply-Switch/dp/B0B79FVPQ4/                                                          | $26.90 |
-| Sd Card           |https://www.amazon.com/Lexar-Micro-microSDHC-Memory-Adapter/dp/B09JNL9VSR/                                                          | $28.63 |
-| Total             |                                                | $204.85|
+| USB Microphone    | https://www.amazon.com/gp/product/B074BLM973/  | $22.99 |
+| 3.5mm Jack Speaker| https://www.amazon.com/Portable-Speaker-Mobile-Interface-Smartphone/dp/B0824HK17J/                                                          | $14.99 |
+| RPI Power Supply  |https://www.amazon.com/Listed-iUniker-Raspberry-Supply-Switch/dp/B0B79FVPQ4/                                                          | $8.99  |
+| Sd Card           |https://www.amazon.com/Lexar-Micro-microSDHC-Memory-Adapter/dp/B09JNL9VSR/                                                          | $11.99 |
+| Shipping          |                                                | $28.95 |
+| Import Fees       |                                                | $25.06 |
+| Total             |                                                | $188.78|
