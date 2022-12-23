@@ -13,7 +13,9 @@ I plan to build a [Pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) t
 
 For the UI, I plan to use something like [Tauri](https://tauri.app). For educational purposes, I'm going to overengineer the system to use [Firebase](https://firebase.google.com) (Firestore in particular) to store the task information, along with statistics of Pomodoro's I've done.
 
-I'm thinking of something along the lines of [Todoist](https://todoist.com), which I like to use, crossed with [Pomofocus](https://pomofocus.io), which I like for its simplicity. Essentially, make something like Pomofocus with a better todo list. I also like the look of [Plausible Analytics](https://plausible.io), and I might add some information about "most active times" and a streak counter to motivate me to do at least `n` pomodoros daily.
+I'm thinking of something along the lines of [Todoist](https://todoist.com), which I like to use, crossed with [Pomofocus](https://pomofocus.io), which I like for its simplicity. Essentially, make something like Pomofocus with a better todo list. I also like the look of [Plausible Analytics](https://plausible.io), which I might base my statistics page on, and I might add some information about "most active times" and a streak counter to motivate me to do at least `n` pomodoros daily.
+
+Just want to clarify that these websites I'll be using for **inspiration**, I won't copy them.
 
 ## Budget
 
