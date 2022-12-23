@@ -30,7 +30,7 @@ Materials
 | Switch Opener/Brush/Prong Tool | [Switch Opener Kit](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
 | Krytox 205g0 | [Lubricant](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $7.95 | 
 | Shipping | N/A | $5 for KeebsforAll |
-| Total           |                                       | $ |
+| Total           |                                       | $117.44 |
 
 Tools
 | Product         | Supplier/Link                         | Cost   |
