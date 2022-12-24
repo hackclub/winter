@@ -18,5 +18,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 2x Corrugated Twinwall Plastic Sheet   | https://www.homedepot.com/p/Coroplast-48-in-x-96-in-x-0-157-in-4mm-White-Corrugated-Twinwall-Plastic-Sheet-CP4896S/205351385 | $64.78  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
+| 2x Vinyl Lattice Cap | https://www.homedepot.com/p/Veranda-8-ft-Sierra-Cedar-Vinyl-Lattice-Cap-70705/202297445  | $17.36 |
+| 1x |  [link](https://www.homedepot.com/p/Charlotte-Pipe-3-4-in-x-10-ft-PVC-Schedule-40-Pressure-Plain-End-Pipe-PVC-04007-0600/100348472) | $ |
+| Name |  link | $ |
 | Total           |                                       | $21.90 |
