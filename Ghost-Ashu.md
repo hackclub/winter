@@ -24,7 +24,7 @@ ESP8266 Showing the Device position on the Display Screen. Using the Google Clou
 | -------------------------------------------------| --------------------------------------------------------------------------------| ------ |
 | Arduino Uno Rev3                                 |     https://store.arduino.cc/products/arduino-uno-rev3                          | $25.60 |
 | NodeMCU ESP8266 (AMICA-CP2102 driver)            |     https://robocraze.com/products/nodemcu-esp8266-amica-cp2102-driver          | $4.10  |
-|BN-282 GPS Module(NMEA-0183)                      |     bit.ly/3WxojpM                                                              | $53.71 |
+|BN-282 GPS Module(NMEA-0183)                      |     https://bit.ly/3WxojpM                                                      | $53.71 |
 |3.5 inch TFT SPI LCD Display Resolution 480 x 320 |     https://amzn.eu/d/3HccX7w						                                       | $64.55 |
 |Jumper Wires					                             |     https://a.co/d/aHmKe1U							                                         | $6.98  |
 |SOLDERING IRON - 60W                              |     https://www.digikey.in/short/5mdr5vdh                                       | $16.47 |
