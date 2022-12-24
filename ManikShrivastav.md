@@ -20,8 +20,8 @@ power supply from 9V Battery. The code would be uploaded to both the Arduinos to
 transmit and receive signals and then the circuit works.
 
 #Budget
-S.N Products                              Quantity Supplier Cost
-1.  Arduino Nano                             2     55
+S.N Products                              Quantity Supplier                     Cost
+1.  Arduino Nano                             2     https://amzn.to/3PQTLgw55
 2.  NRF24L01 RF Module                       2 8
 3.  L298N Motor Driver                       1 4
 4.  ADXL335 Module                           1 7
