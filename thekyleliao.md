@@ -41,6 +41,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 | 1x Waterproof LED Lights | https://www.amazon.com/BSOD-Waterproof-16-4ft-Flexible-Lights/dp/B07QRH2D96/ref=sr_1_5?crid=2F56ZTRN649VT&keywords=ip68%2Bled%2Blight%2Bstrip&qid=1671904961&sprefix=ip68%2Bled%2Blight%2Bstrip%2Caps%2C79&sr=8-5&th=1| $28.27 |
 | 1x Pack of Inflateable Tubes|  https://www.amazon.com/Inflatable-Noodles-Colorful-Outdoor-Swimming/dp/B09QVBWKQ3/ref=sr_1_22?crid=2Q83U3SSEQDVR&keywords=pool+noodles&qid=1671905692&s=toys-and-games&sprefix=pool+noodles%2Ctoys-and-games%2C73&sr=1-22 | $14.13 |
 | 1x Arduino  |  N/A | Already owned |
-| 1x Waterproof Electronics Box |  TBD | TBD |
+| 1x Waterproof Electronics Bag |  N/A | Already Owned |
 | 1x 12V Battery |  TBD | TBD |
+| 4x Male to Female jumper wires |  N/A | already owned |
+| 1x Breadboard |  N/A | already owned |
 | Total           |                                       | $21.90 |
