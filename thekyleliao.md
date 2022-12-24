@@ -48,8 +48,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 | 1x Breadboard |  N/A | already owned |
 | HD SubTotal          |                                       | $176.68 |
 | HD SubTotal after discount          |                                       | $159.02 |
-| Other Subtotal        |                                       | $245.21 |
-| Total      |                                       | $245.21 |
-| Total Aftertax         |                                       | $245.21 |
+| Other Subtotal        |                                       | $54.66 |
+| Total      |                                       | $213.68 |
+| Total Aftertax         |                                       | $232.65|
 
 Price determined by having subtotals for items including tax. I have 10% off at HD through a family member.
