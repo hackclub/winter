@@ -1,26 +1,35 @@
 ---
 name: "@thekyleliao"
-project: "Your Project Name Here"
+project: "The Urban Kayak"
 ---
 
 # The Urban Kayak
 
 ## Summary
 
-I am going to build a foldable kayak with RGB lights controlled using an arduino with Hong Wong’s Origami Kayak Plans along with DIY paddles. The purpose is to create a kayak portable enough that I could take it on the bus and bring it around NYC’s waterways and hopefully avoid drowning. In the future, I want to add an underwater camera system for fish sight seeing.
+I am going to build a foldable kayak with RGB lights controlled using an arduino with Hong Wong’s Origami Kayak Plans along with DIY paddles. The purpose is to create a kayak portable enough that I could take it on the bus and subway and bring it around NYC’s waterways and hopefully avoid drowning. In the future, I want to add an underwater camera system for fish sight seeing.
 
 ## Plan
 
 What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+1. Build the Kayak using the guide: https://makezine.com/projects/origami-kayak/. All the tools such as drills, box cutters, chalk gun I have.
+- tl;dr you use an iron to fuse the two corrugated sheets together, draw out the plan using sharpie, attach the wood pieces as mounting points for the PVC structure, and fold the thing up like origami.
+3. Create pontoons using the spare latice, PVC, and the Inflatable Tubes to provide extra stability for "oceanfaring".
+4. Create paddles using the spare PVC and corrogated plastic sheet. If the PVC is not enough, I'll use an old broom handle I have instead.
+5. Program the arduino to control the RGB lights using this video as a guide: https://www.youtube.com/watch?v=5M24QUVE0iU&ab_channel=MakeUseOf. Create RGB lightshow for kayak. 
+6. Build out the electronics on a breadboard with the RGB lights and an external battery and place inside waterproof box, with a small hole for the light strip to come out.
+7. Tape the led light strips to the boat and decorate the kayak with sharpie and stickers
+8. Transport it to a lake or bay, fold it back into a kayak, place PVC structure bars, attach the pontoons, connect the electrical box, and hopefully not sink.
 
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 2x Corrugated Twinwall Plastic Sheet   | https://www.homedepot.com/p/Coroplast-48-in-x-96-in-x-0-157-in-4mm-White-Corrugated-Twinwall-Plastic-Sheet-CP4896S/205351385 | $64.78  |
+| 3x Corrugated Twinwall Plastic Sheet   | https://www.homedepot.com/p/Coroplast-48-in-x-96-in-x-0-157-in-4mm-White-Corrugated-Twinwall-Plastic-Sheet-CP4896S/205351385 | $93.90  |
 | 2x Vinyl Lattice Cap | https://www.homedepot.com/p/Veranda-8-ft-Sierra-Cedar-Vinyl-Lattice-Cap-70705/202297445  | $17.36 |
-| 1x PVC Pipe | https://www.homedepot.com/p/Charlotte-Pipe-3-4-in-x-10-ft-PVC-Schedule-40-Pressure-Plain-End-Pipe-PVC-04007-0600/100348472 | $6.85 |
+| 2x PVC Pipe | https://www.homedepot.com/p/Charlotte-Pipe-3-4-in-x-10-ft-PVC-Schedule-40-Pressure-Plain-End-Pipe-PVC-04007-0600/100348472 | $13.70 |
 | 8x PVC Right Angle Fittings | https://www.homedepot.com/p/Charlotte-Pipe-3-4-in-PVC-Schedule-40-90-S-x-S-Elbow-Fitting-PVC023000800HD/203812123 | $6.525 |
+| 2x PVC T Fittings | https://www.homedepot.com/p/Charlotte-Pipe-3-4-in-PVC-Schedule-40-FPT-x-FPT-x-FPT-Tee-Fitting-PVC024020800HD/204837381) | $9.40 |
 | 1x Pack of Bungee Cords | https://www.homedepot.com/p/HDX-Flat-Bungee-Cord-Assortment-6-Piece-JB6FSB/206850901 | $19.01 |
 | 1x Silicone Caulk | https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323 | $4.66 |
 | 1x Allweather Duct Tape|  https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-60-yd-398-All-Weather-HVAC-Duct-Tape-in-Black-1891329/100351969#overlay | $11.95 |
