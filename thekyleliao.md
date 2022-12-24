@@ -42,8 +42,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 | 1x Pack of Inflateable Tubes|  https://www.amazon.com/Inflatable-Noodles-Colorful-Outdoor-Swimming/dp/B09QVBWKQ3/ref=sr_1_22?crid=2Q83U3SSEQDVR&keywords=pool+noodles&qid=1671905692&s=toys-and-games&sprefix=pool+noodles%2Ctoys-and-games%2C73&sr=1-22 | $14.13 |
 | 1x Arduino  |  N/A | Already owned |
 | 1x Waterproof Electronics Bag |  N/A | Already Owned |
-| 3x Mosfets |  TBD | TBD|
+| 3x Mosfets |  https://www.amazon.com/WeiMeet-RFP30N06LE-N-Channel-Mosfet-Arduino/dp/B07CTF1JVD/ref=sr_1_5?keywords=logic+level+mosfet&qid=1671915854&sr=8-5 | $8.69|
 | 1x Battery |  TBD | TBD |
 | 4x Male to Female jumper wires |  N/A | already owned |
 | 1x Breadboard |  N/A | already owned |
-| Total           |                                       | $21.90 |
+| Total           |                                       | $245.21 |
