@@ -28,6 +28,6 @@ I'll be utilizing a Raspberry Pi 4B as the brains of the operation to run effect
 | 1/8" male to 1/4" female adapter | [Amazon](https://www.amazon.com/VCE-Plated-6-35mm-Female-Adapter-8inch/dp/B078X85LFS/ref=sr_1_4?crid=2L4MB8GNOHH65&keywords=1%2F8%22+male+to+1%2F4%22+female+adapter&qid=1671832898&sprefix=1%2F8+male+to+1%2F4+female+adapter%2Caps%2C154&sr=8-4) | $6.99  |
 | iRig2 Guitar Interface  | [Amazon](https://www.amazon.com/IK-Multimedia-Interface-Adaptor-IPIRIG2PLGIN/dp/B00T631UTC/ref=sr_1_5?keywords=iRig&qid=1671829752&sr=8-5) | $39.95  |
 | Patch Cables 3x | [Amazon](https://www.amazon.com/Guitar-Cables-Instrument-Effects-inch-3/dp/B0BGPPD7HR/ref=sr_1_3?crid=266KH089IK87V&keywords=patch%2Bcables%2Bguitar&qid=1671831925&refinements=p_36%3A-1000&rnid=386442011&sprefix=patch%2Bcables%2Bgui%2Caps%2C142&sr=8-3&th=1) | $9.99  |
-| Total  | $232.38 | $232.38 |
+| Total  | $232.38 + tax ($16.40) | $248.87 |
 
 Shipping is included unless otherwise stated. 
