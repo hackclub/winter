@@ -25,7 +25,10 @@ What steps are you going to take to build it? What tools are you going to use? W
 | 1x Silicone Caulk | https://www.homedepot.com/p/DAP-Alex-Fast-Dry-10-1-oz-White-Acrylic-Latex-Plus-Silicone-Caulk-18425/100634323 | $4.66 |
 | 1x Allweather Duct Tape|  https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-60-yd-398-All-Weather-HVAC-Duct-Tape-in-Black-1891329/100351969#overlay | $11.95 |
 | 1x Pack of Pipe Clamps|  https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-60-yd-398-All-Weather-HVAC-Duct-Tape-in-Black-1891329/100351969#overlay | $4.92 |
-| 1x Pack of Pipe Clamps|  https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-60-yd-398-All-Weather-HVAC-Duct-Tape-in-Black-1891329/100351969#overlay | $4.92 |
-| 1x Pack of Pipe Clamps|  https://www.homedepot.com/p/Nashua-Tape-1-89-in-x-60-yd-398-All-Weather-HVAC-Duct-Tape-in-Black-1891329/100351969#overlay | $4.92 |
+| 1x Pack of 3/8 inch screws|  https://www.homedepot.com/p/Everbilt-6-x-3-4-in-Phillips-Flat-Head-Zinc-Plated-Wood-Screw-100-Pack-801762/204275491 | $7.85 |
+| name |  link | price |
+| name |  link | price |
+| name |  link | price |
+| name |  link | price |
 
 | Total           |                                       | $21.90 |
