@@ -11,7 +11,8 @@ I am planning to be building a Pong board with a physical ball and paddles. It w
 
 ## Plan
 
-I won't need many tools other than my 3D printer, and wood working tools in my garage,
+I won't need many tools other than my 3D printer, and wood working tools in my garage.
+I will make simple files for the controls (just little wheels).
 
 1. First, I will make a simple board, likely just smooth wood. (around 1 day)
 2. Then, I will build a simple gantry to move a magnet around underneath the board. (with wiring, probably 2 days)
@@ -30,4 +31,6 @@ I won't need many tools other than my 3D printer, and wood working tools in my g
 | Wires (M/M) (x2)   | https://www.sparkfun.com/products/14284 | $5.50   |
 | Wires (F/F) (x2)   | https://www.sparkfun.com/products/12796 | $4.20   |
 | Small Stepper (x2) | https://www.sparkfun.com/products/10551 | $17.90  |
-| Total              |                                         | $150.55 |
+| Subtotal           |                                         | $150.55 |
+| Tax                |                                         | $6.78   |
+| Total              |                                         | $157.33 |
