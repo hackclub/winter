@@ -46,8 +46,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 | 1x Battery Holder |  https://www.amazon.com/Thicken-Battery-Holder-Switch-QTEATAK/dp/B07WY48TFC/ref=sr_1_3?keywords=AA+8+battery+case&qid=1671917213&sr=8-3 | $6.99 |
 | 4x Male to Female jumper wires |  N/A | already owned |
 | 1x Breadboard |  N/A | already owned |
-| HD SubTotal          |                                       | $245.21 |
-| HD SubTotal after discount          |                                       | $245.21 |
+| HD SubTotal          |                                       | $176.68 |
+| HD SubTotal after discount          |                                       | $159.02 |
 | Other Subtotal        |                                       | $245.21 |
 | Total      |                                       | $245.21 |
 | Total Aftertax         |                                       | $245.21 |
