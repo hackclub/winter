@@ -34,5 +34,4 @@ to do the actual object-detection (people) in the camera's view
 | NVIDIA Jetson Nano Developer Kit |https://www.sparkfun.com/products/16271| $149.00|
 | Anker PowerCore 5000 | https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B072QD7F6N?th=1  | $34.95 |
 | Edimax   |https://www.amazon.com/Edimax-EW-7611ULB-Wi-Fi-Bluetooth-Adapter/dp/B01KVZB3A4 | $12.11  |
-|
 | Total           |                                  | $230.41 |
