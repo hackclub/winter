@@ -13,6 +13,7 @@ I am planning to be building a Pong board with a physical ball and paddles. It w
 
 I won't need many tools other than my 3D printer, and wood working tools in my garage.
 I will make simple files for the controls (just little wheels).
+The software will just control the paddles and ball, along with taking in input. I have made a JavaScript version of pong, so I believe it wouldn't be too hard to port that code to this project.
 
 1. First, I will make a simple board, likely just smooth wood. (around 1 day)
 2. Then, I will build a simple gantry to move a magnet around underneath the board. (with wiring, probably 2 days)
