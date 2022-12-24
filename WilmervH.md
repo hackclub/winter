@@ -21,7 +21,7 @@ Tools we are going to use:
 - Misc tools (already owned)
 
 Steps we are going to take:
-1. We will 3D-print the boards themselves and two sets of pieces.
+1. We will model and 3D-print the boards themselves and two sets of pieces.
 2. We mount a LED strip and hall magnet sensors to the inside of each board in a way that every square has a led and a magnet sensor under it. The magnet sensor will detect if a piece is on the square with the help of a magnet mounted on the bottom of the chess piece. The LEDs will be used as indicators for the AI's next move and have other cool effects.
 3. All the 64 magnet sensors won't fit into the pins of the Arduino-like microcontroller so we will have some multiplexers as middlemen between the microcontroller and the magnet sensors.
 4. Next we install the Arduino-like microcontrollers to the boards and link them to the multiplexers, switches and rotary encoders. The microcontrollers will handle all sensors and inputs.
