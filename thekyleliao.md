@@ -49,6 +49,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 | HD SubTotal          |                                       | $245.21 |
 | HD SubTotal after discount          |                                       | $245.21 |
 | Other Subtotal        |                                       | $245.21 |
-| Total           |                                       | $245.21 |
+| Total      |                                       | $245.21 |
+| Total Aftertax         |                                       | $245.21 |
 
 Price determined by having subtotals for items including tax. I have 10% off at HD through a family member.
