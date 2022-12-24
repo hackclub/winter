@@ -17,11 +17,11 @@ Utilizing the Raspberry Pi, PIR sensor, and camera module, I will create a devic
 
 | Product                          | Supplier/Link                                                                    | Cost    |
 | -------------------------------- | -------------------------------------------------------------------------------- | ------- |
-| Raspberry Pi                     | https://www.adafruit.com/product/4295?src=raspberrypi                            | $45.00  |
+| Raspberry Pi                     | https://amzn.to/3PNMf6d                                                          | $160.00 |
 | Raspberry Pi Camera Module       | https://www.adafruit.com/product/3099                                            | $29.95  |
 | PIR motion sensor module         | https://thepihut.com/products/pir-motion-sensor-module                           | $3.61   |
 | 6x Female-to-female jumper wires | https://thepihut.com/products/premium-female-female-jumper-wires-20-x-6-150mm    | $2.05   |
 | Camera Board 360 Gooseneck Mount | https://thepihut.com/products/camera-board-360-gooseneck-mount                   | $7.23   |
-| SanDisk 1TB SSD                  | https://amzn.to/3jlkjdD                                                          | $99.99  |
-| Tax + Shipping                   |                                                                                  | $25.05  |
-| Total                            |                                                                                  | $212.88 |
+| Breadboard                       | https://amzn.to/3WpoTX1                                                          | $6.69   |
+| Tax + Shipping                   |                                                                                  | $38.78  |
+| Total                            |                                                                                  | $248.31 |
