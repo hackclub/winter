@@ -19,7 +19,7 @@ It is a miniature model for a voice controlled wheel chair( For differently able
 5. Connect Arduino with the Motor Shield and then connect all the wires coming from motors and servo.
 6. Assemble all items.
 7. Program the machine with arduino IDE to verify if everything is working as expected.
-8. Prepare the machine for the first testrun by using ardiuino software and makerboard G-code to generate a g-code for the image and then run the machine. (First I'm    going to use the software and then test the dashboard)
+8. Prepare the machine for the first testrun by using ardiuino software.
 9. Test the custom made dashboard by running the machine again using the dashboard generated g-code.
 10. Complete the project if everything work as expected.
 
