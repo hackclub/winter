@@ -19,7 +19,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 5. Program the arduino to control the RGB lights using this video as a guide: https://www.youtube.com/watch?v=5M24QUVE0iU&ab_channel=MakeUseOf. Create RGB lightshow for kayak. 
 6. Build out the electronics on a breadboard with the RGB lights and an external battery holder with 8AA and place inside waterproof bag, with a small hole for the light strip to come out.
 7. Tape the led light strips to the boat and decorate the kayak with sharpie and stickers
-8. Transport it to a lake or bay, fold it back into a kayak, place PVC structure bars, attach the pontoons, connect the electrical box, and hopefully not sink.
+8. Transport it to a lake or bay, fold it back into a kayak, place PVC structure bars, attach the pontoons, connect the electrical box, and hopefully not sink. Play music and have a lightshow in a DIY kayak in the middle of winter.
 
 ## Budget
 
