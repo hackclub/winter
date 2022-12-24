@@ -1,6 +1,6 @@
 ---
 name: "@MangoTornado"
-project: "Your Project Name Here"
+project: "Portable Multifunction Device"
 ---
 
 # Project Name
