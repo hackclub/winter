@@ -1,6 +1,6 @@
 ---
 name: '@ady00'
-project: Guitar Effects Pedal/Board
+project: 'Guitar Effects Pedal/Board'
 ---
 
 #  Project Name
