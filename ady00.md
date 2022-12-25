@@ -3,7 +3,7 @@ name: '@ady00'
 project: 'Guitar Effects Pedal/Board'
 ---
 
-#  Project Name
+#  NeuroPedal
 
 ##  Summary
 
@@ -17,7 +17,7 @@ I'll be utilizing a Raspberry Pi 4B as the brains of the operation to run effect
 
 | Product  | Supplier/Link  | Cost  |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry Pi 4B  | [Adafruit](https://www.adafruit.com/product/4292) | $45.00 + $30 shipping |
+| Raspberry Pi 3 A+  | [MCHobby](https://shop.mchobby.be/en/raspberry-pi-3/1425-raspberry-pi-3-a-plus-3232100014251.html) | $30.25 + $16 shipping |
 | HiFiBerry DAC | [HiFiBerry](https://www.hifiberry.com/shop/boards/hifiberry-dac-adc/)  | $49.50 + $8 shipping |
 | RPi4 Power Supply  | [Amazon](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/ref=sr_1_6?crid=DDHZVWJT7N0D&keywords=RPi4%2Bpower%2Badapter&qid=1671832201&sprefix=rpi4%2Bpower%2Badapte%2Caps%2C153&sr=8-6&th=1) | $7.99  |
 | Micro SD Card | [Amazon](https://www.amazon.com/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=sr_1_3?crid=3HIPFT3IZSVLJ&keywords=micro%2Bsd%2Bcard%2Braspi%2B16gb&qid=1671832355&sprefix=micro%2Bsd%2Bcard%2Braspi%2B16gb%2Caps%2C125&sr=8-3&th=1) | $8.99  |
@@ -27,6 +27,7 @@ I'll be utilizing a Raspberry Pi 4B as the brains of the operation to run effect
 | 1/8" male to 1/4" female adapter | [Amazon](https://www.amazon.com/VCE-Plated-6-35mm-Female-Adapter-8inch/dp/B078X85LFS/ref=sr_1_4?crid=2L4MB8GNOHH65&keywords=1%2F8%22+male+to+1%2F4%22+female+adapter&qid=1671832898&sprefix=1%2F8+male+to+1%2F4+female+adapter%2Caps%2C154&sr=8-4) | $6.99  |
 | iRig2 Guitar Interface  | [Amazon](https://www.amazon.com/IK-Multimedia-Interface-Adaptor-IPIRIG2PLGIN/dp/B00T631UTC/ref=sr_1_5?keywords=iRig&qid=1671829752&sr=8-5) | $39.95  |
 | Patch Cables 3x | [Amazon](https://www.amazon.com/Guitar-Cables-Instrument-Effects-inch-3/dp/B0BGPPD7HR/ref=sr_1_3?crid=266KH089IK87V&keywords=patch%2Bcables%2Bguitar&qid=1671831925&refinements=p_36%3A-1000&rnid=386442011&sprefix=patch%2Bcables%2Bgui%2Caps%2C142&sr=8-3&th=1) | $9.99  |
-| Total  | $232.38 + tax ($16.40) | $248.87 |
+| MicroSD Card Reader | [Amazon](https://www.amazon.com/SanDisk-MobileMate-microSD-Card-Reader/dp/B07G5JV2B5/ref=sr_1_4?keywords=micro+sd+card+reader&qid=1671997785&sr=8-4) | $10.95  |
+| Total  | $214.38 + tax ($16.40) | $230.82 |
 
 Shipping is included unless otherwise stated. 
