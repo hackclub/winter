@@ -7,7 +7,7 @@ project: "OpenKlino"
 
 ## Summary
   OpenKlino is a project about 3D Clinostat or another name Random Position Machine(RPM). This apparatus has been used in space science research to simulate long-term 
-microgravity for Biology experiments ex. Changes in Plant Growth Processes under Microgravity Conditions Simulated by a Three-Dimensional Clinostat [Hoson et al.1992)](https://link.springer.com/article/10.1007/BF02489403).This device is using gravity vector averaging principle to eliminate gravity and create a microgravity environment.The most interesting of this project is there is no Youtube or website tutorial that mentions how to build it in a frank way. The thing that I can rely on is 
+microgravity for Biology experiments ex. Changes in Plant Growth Processes under Microgravity Conditions Simulated by a Three-Dimensional Clinostat ([Hoson et al.1992)](https://link.springer.com/article/10.1007/BF02489403).This device is using gravity vector averaging principle to eliminate gravity and create a microgravity environment.The most interesting of this project is there is no Youtube or website tutorial that mentions how to build it in a frank way. The thing that I can rely on is 
 research papers from the past. So this project is like challenging my potential and If this project is successful, I can use my own Random Position Machine(RPM) 
 to conduct the future experiment without renting the expensive Random Position Machine(RPM) from the vendor website!
 
