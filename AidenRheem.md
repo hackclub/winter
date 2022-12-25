@@ -1,33 +1,40 @@
 ---
 name: "@AidenRheem"
-project: "Custom Soldered Acrylic Keyboard"
+project: "3D Printed Keyboard"
 ---
 
 
 ## Summary
-I'm going to be creating a custom keyboard using acrylic panels and soldering everything to the PCB, also i'm going to add a knob, big RGB led, and OLED display.
+I'm going to be designing a custom 65% keyboard case in Fusion 360, then printing it using PETG on my Prusa MK3S+. After the case is printed, i'll start assembling the keyboard. I want to use this opportunity to learn how to 3D model in Fusion 360, and to build something that I can use in my setup and customize/upgrade overtime.
 
 ## Plan
-I plan to follow this guide on how to build this type of keyboard https://github.com/nullbitsco/docs/blob/main/nibble/build_guide_en.md. But I will need to build the acrylic case on my own by laser cutting acrylic sheets and putting it together.
+1. I'll first need to learn how to use Fusion 360. I'll do that for the first 2 weeks using YouTube videos and online tutorials. 
+2. After i've learned my way through Fusion, i'll spend about 4 days modeling my case and plate. 
+3. I'll then start printing the case and plate, which will take about 3 days. 
+4. After the case is printed, i'll cut out some automotive foam to size, place it inside the case.
+5. Then I need to put in the PCB, a thin piece of foam, put the plate over the foam, then screw all that into the case.
+6. After the base is assembled, i'll take apart every switch, lube the base and stems using some Krytox 205g0 and a small paint brush, and reassemble each switch.
+7. After all switches are lubed, i'll snap them into the PCB and place the keycaps on the switches.
+8. Next is to braid and coil the cable. I'll wrap the cable around a marker, and use a heat gun to coil the cable.
 
 
 ## Budget
 Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Case | Laser Cut Acrylic | N/A  |
-| PCB and other electronics | https://www.amazon.com/dp/B0877X4C6J | $69.99 |
-| Micro MCU | [BIT-C Pro](https://www.amazon.com/dp/B087CLZ6RY) | $19.99 |
-| Display | [Nullbits OLED](https://www.amazon.com/dp/B08KLHD2Z7) | $8.99 |
-| Stabilizers | [Durock Clear PCB Mounted](https://www.amazon.com/ZugGear-Stabilizer-Gold-Plated-Compatible-Stabilizers/dp/B08MWDQDR1) | $20.99 |
-| 10 Pack Switches x 7 | [Novelkey Creams](https://kbdfans.com/products/novelkey-x-kailh-linear-cream-switch) | $45.50 |
-| Keycaps | [Comet PBT](https://www.amazon.com/dp/B09XF1W9Z5) | $35.99 |
-| Switch Kit | [Switch Opener Kit](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
-| Lubricant | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $7.95 | 
-| Shipping | N/A | $5 for KeebsforAll (Lubricant) |
+| Case            | Custom 3D Printed                     | N/A    |
+| PCB             | [DZ60RGB-ANSI V2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6855) | $59.00 |
+| Plate           | Custom 3D Printed                     | N/A    |
+| Stabilizers     | [Durock Clear PCB Mounted](https://www.amazon.com/ZugGear-Stabilizer-Gold-Plated-Compatible-Stabilizers/dp/B08MWDQDR1) | $20.99 |
+| Switches        | []()                                  | $      |
+| Keycaps         | [Grey Cyan PBT](https://www.aliexpress.us/item/3256804350819353.html) | $18.51 |
+| Switch Kit      | [Switch Opener Kit](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
+| Lubricant       | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $7.95 | 
+| Shipping        | N/A | $5.00 for KeebsforAll (Lubricant)  |
 | Total           |                                       | $223.39 |
 
 Tools
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-
+| 3D Printer      | N/A                                   | Already Own |
+| PETG Fillament  | N/A                                   | Already Own |
