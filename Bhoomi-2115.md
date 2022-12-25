@@ -8,11 +8,22 @@ Glucose Tracking Using Raspberry Pi
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
+Owing to the genetics, me and my sister carry a high risk for diabetes and we are advised to check the blood glucose leevls regularly. But, the conventional meters do not have any advanced tracking functionality which can track levels of two individuals with same device. So using the power of Internet of Things and Machine Learning to analyse the data collected. I aim to improve the diagnostic ability of blood glucose measuring. I am excited to work on this project as I will be learning a lot at the same time.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+First of all I will wait for the components to arrive since it will need a bit of trial and error.
+1. Use the Operational Amplifier to build a circuit that will measure the voltages and currents that are produced due to the electrochemical reacion on the glucose testing strips.
+  - Build a circuit using the Arduino UNO, the operational amplifier, resistors and breadboard. (Will require a bit of trial and error due to change of voltages across dffere brands of strips)
+  - Connect the Arduino UNO to Raspberry PI and set up serial logging.
+ 
+2. Measure the parameters using Arduino UNO and send them to Raspberry Pi (For Streaming Data) to categorize the data wheter it is me or my sister and send it to the storage and analysis Raspberry Pi.
+  - Since the voltage changes with time, the change in voltage with time is measured to determine the blood glucose level. Owing to the computational limitation of UNO, this has to be done on Rspberry Pi.
+  - The voltage values are fed to the Raspberry Pi.
+  - Raspberry Pi determines the blood glucose level
+  - Sends it to storage server
+
+3. Data is received on storage server along with unique ID of individual and the trends are stored and the risk of diabetes is visualised with the help of existing trained models of Diabetes Data and displayed on the screen.
 
 ## Budget
 
@@ -25,6 +36,6 @@ What steps are you going to take to build it? What tools are you going to use? W
 | Official USB type-C 15.3W Power Supply For Raspberry Pi 4             | https://robu.in/product/official-usb-type-c-15-3w-power-supply-for-raspberry-pi-4/            | ₹749           | $9.07                 |
 | LM358P PDIP-8 High Gain Operational Amplifier (Pack of 5 ICs)         | https://robu.in/product/lm358p-pdip-8-high-gain-operational-amplifier-pack-of-5-ics/          | ₹49            | $0.59                 |
 | Pack of Resistors                                                     | Already Own                                                                                   | ₹0             | $0                    |
-| Braedboard and Power Supply for Arduino                               | Already Own                                                                                   | ₹0             | $0                    |
+| Breaboard and Power Supply for Arduino                               | Already Own                                                                                   | ₹0             | $0                    |
 | Multimeter                                                            | Already Own                                                                                   | ₹0             | $0                    |
 | Total                                                                 |                                                                                               | ₹20584         | $248.67               |
