@@ -1,7 +1,7 @@
-~~~
+---
 name: "@Puffball101961"
 project: "RGB Matrix Price Ticker"
-~~~
+---
 
 # RGB Matrix Price Ticker
 

@@ -1,6 +1,6 @@
 ---
 name: "@KaiDevrim"
-project: "Your Project Name Here"
+project: "NFC Unlock & Stream Deck"
 ---
 
 # Project Name

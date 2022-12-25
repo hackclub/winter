@@ -1,6 +1,7 @@
 ---
-name: @CodingForAddicts
-project: TheSleepBuddy
+name: '@CodingForAddicts'
+project: 'TheSleepBuddy'
+---
 
 ![3DLOGO](https://user-images.githubusercontent.com/95184556/208949292-0132c62f-f6ac-47e6-8435-c8b56336dcfa.jpg)
 
