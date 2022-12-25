@@ -11,7 +11,7 @@ I'm planning on building a portable multifunction device, that can assist in gen
 
 ## Plan
 
-First I'm going to acquire a Flipper Zero and familiarize myself with its hardware and software development kits. Second, I'm going to buy a soldering iron and solder as well as prototyping boards so I can attach chips like the BME680 to the GPIO headers on the flipper, in order to monitor air quality easily on the go. For now I'm looking at air quality and measuring distance using the chip listed prior and the HC-SR04 for ultrasonic distance measuring.
+First I'm going to acquire a Flipper Zero and familiarize myself with its hardware and software development kits. Second, I'm going to buy a soldering iron and solder as well as prototyping boards so I can attach chips like the BME680 to the GPIO headers on the flipper, in order to monitor air quality easily on the go. For now I'm looking at air quality and measuring distance using the chip listed prior and the HC-SR04 for ultrasonic distance measuring. Third, I need to solder the chips onto the boards, and write software that can convert the chip's output data into readable human format and output it on the Flipper Zero screen
 
 ## Budget
 
