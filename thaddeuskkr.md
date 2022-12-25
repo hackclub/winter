@@ -20,7 +20,7 @@ I'll start off with playing around with the displays and Pi, figuring out softwa
 | Raspberry Pi 4B 8GB - Basic Kit                | https://sg.cytron.io/p-raspberry-pi-4-model-b-8gb                                         | $130.00  |
 | 135x240 Color TFT Display                      | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/4393/10650640           | $14.95   |
 | 128x32 Monochrome OLED Display                 | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/3527/7323609            | $14.95   |
-| Philips Hue Light Strip (for lights / testing) | https://www.amazon.sg/Philips-LightStrip-Dimmable-Extension-929002269205/dp/B08BLGR8VK    | $36.15   |
-| Z-Wave USB Stick                               | https://www.amazon.sg/Z-Wave-Stick-Assistant-HomeSeer-Software/dp/B07GNZ56BK              | $50.32   | 
-| Zigbee USB Stick                               | https://z.tkkr.one/go/sonoff-zigbee-usb (shortened as it wouldn't fit in table nicely)    | $8.97    |
-| Total (excluding exchange rate changes)        | Some of the prices are converted from SGD to USD, not sure if this rate changes too much. | $255.34  |
+| IKEA TRÅDFRI Bulb (for lights / testing)       | Will purchase in-person • https://z.tkkr.one/go/ikea-tradfri1                             | $22.13   |
+| Z-Wave USB Stick (will only buy if needed)     | https://www.amazon.sg/Z-Wave-Stick-Assistant-HomeSeer-Software/dp/B07GNZ56BK              | $50.32   | 
+| Conbee II Zigbee USB Stick                     | https://www.amazon.sg/dp/B07PZ7ZHG5                                                       | $51.57   |
+| Total (excluding exchange rate changes)        | Some of the prices are converted from SGD to USD, not sure if this rate changes too much. | $283.92  |
