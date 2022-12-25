@@ -1,5 +1,5 @@
 ---
-name: Advay Bajpai (github - @ady00)
+name: '@ady00'
 project: Guitar Effects Pedal/Board
 ---
 
