@@ -1,4 +1,3 @@
-
 ---
 name: Advay Bajpai (github - @ady00)
 project: Guitar Effects Pedal/Board
