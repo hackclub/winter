@@ -18,5 +18,10 @@ First I'm going to acquire a Flipper Zero and familiarize myself with its hardwa
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Flipper Zero    | [https://shop.flipperzero.one/](https://shop.flipperzero.one/)         | $169.00  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+| Adafruit BME688 | [https://www.adafruit.com/product/5046](https://www.adafruit.com/product/5046)  | $19.95 |
+| HC-SR04 | [https://www.adafruit.com/product/3942](https://www.adafruit.com/product/3942)  | $3.95 |
+| PINECIL – Smart Mini Portable Soldering Iron | [https://www.amazon.com/dp/B096X6SG13](https://www.amazon.com/dp/B096X6SG13)  | $39.99 |
+| Hakko 633-01 633 Soldering Iron Holder | [https://www.amazon.com/dp/B000TGNWCS](https://www.amazon.com/dp/B000TGNWCS)  | $22.20 |
+| Prototyping Boards for Flipper Zero | [https://shop.flipperzero.one/products/proto-boards](https://shop.flipperzero.one/products/proto-boards)  | $10.00 |
+| Dupont Wire | [https://www.amazon.com/dp/B01EV70C78/](https://www.amazon.com/dp/B01EV70C78/)  | $6.98 |
+| Total           |                                       | $272.07 |
