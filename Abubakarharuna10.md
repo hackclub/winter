@@ -37,7 +37,7 @@ I will use  NVIDIA Jetson Nano Developer Kit to run computer vision algorithms t
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Raspberry Pi Camera Module V2.1  |https://www.amazon.com/Official-Raspberry-Pi-8-megapixel-XYGStudy/dp/B01G01JJJ0/ref=sr_1_2?crid=J818MRHDX9ED&keywords=Raspberry+Pi+Camera+Module+V2.1&qid=1672020961&sprefix=raspberry+pi+camera+module+v2.1%2Caps%2C355&sr=8-2| 34.35 |
-| NVIDIA Jetson Nano Developer Kit |https://www.sparkfun.com/products/16271| $149.00|
+| NVIDIA Jetson Nano Developer Kit |https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=sr_1_3?crid=1M6KCN83IMQGA&keywords=NVIDIA+Jetson+Nano+Developer+Kit+%28V3%29&qid=1672021508&sprefix=nvidia+jetson+nano+developer+kit+v3+%2Caps%2C762&sr=8-3| $149.00|
 | Anker PowerCore 5000 | https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B072QD7F6N?th=1  | $34.95 |
 | Edimax   |https://www.amazon.com/Edimax-EW-7611ULB-Wi-Fi-Bluetooth-Adapter/dp/B01KVZB3A4 | $12.11  |
 | Total           |                                  | $230.41 |
