@@ -29,3 +29,11 @@ On the final day (10), because everything will be done I will customize the keyb
 | Durock Linear Switches| https://divinikey.com/products/durock-linear-switches?variant=39872545226817 | $38.88|
 | Keycaps (Artifact Bloom series Black on White) | https://drop.com/buy/artifact-bloom-series-keycap-set-black-on-white| $35.00|
 | Total           |                                       | $179.88 |
+
+## Alternative/backup items
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| DZ65 PCB/board | https://divinikey.com/collections/keyboards/products/kbdfans-dz65-rgb-hot-swap-v2-pcb?variant=39278196883521  | $95.00 |
+| Cream Dream Linear Switches| https://kbdfans.com/collections/switches/products/cream-dream-linear-switches | $68.88 |
+| Keycaps (Keyreative ABS Blank Cherry Keycaps) |https://thekey.company/collections/keycaps/products/keyreative-abs-blank-cherry-keycaps?variant=31157483307097 | $35.00|
+| Durok V2 Stabilizers | https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?variant=42451809370366 | $4.00 |
