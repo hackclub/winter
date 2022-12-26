@@ -15,11 +15,14 @@ will turn and run the car according to the instructions.
 
 ## Plan
 First of all, the chassis of car is going to be made. It will contain four motors and rubber wheels attached 
-to it. After that, the motors will be connected with motor shield driver. After that, the Arduino Nano is 
-connected to the RF module and it acts as a transmitter with the power supply of li-ion battery. The
-other Arduino Nano is connected with RF Module and ADLX335 Module and it acts as a receiver with 
-power supply from 9V Battery. The code would be uploaded to both the Arduinos to make them 
-transmit and receive signals and then the circuit works.
+to the frame of the robot made out of PlyWood. After that, the motors will be connected with motor shield driver. 
+After that, the Arduino Nano will be attaced to Male female Pin Strip and then it
+is connected to the RF module using Male to female connectors and it acts as a transmitter with the power supply 
+of li-ion battery which will be attaced in the battery holder. A mini Switch will be used to turn it on and off.
+Theother Arduino Nano is connected with RF Module and ADLX335 Module and it acts as a receiver with 
+power supply from 9V Battery. I am using a breadborad to house all the components of the controll in it.
+The code would be uploaded to both the Arduinos to make them transmit and receive signals and then the circuit works.
+After doing all the tesing and finilizing the project I will make a cover out of Acrylic sheet to cover the Circuit.
 
 ## Budget
 
