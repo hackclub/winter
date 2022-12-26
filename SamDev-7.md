@@ -31,7 +31,7 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | Servo (MG996R 360deg) | [AliExpress](https://www.aliexpress.com/item/32954365576.html) | $3.79 |
 | DC Power Supply | [Amazon](https://www.amazon.ca/gp/product/B06Y64QLBM/) | $18.88 |
 | Thrust Bearing (51107) (x2) | [AliExpress](https://www.aliexpress.com/item/1005004382521768.html) | $8.14 |
-| Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $15.12 |
+| Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $38.95 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
 | PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDW6X99/) | $19.99 |
 | 8pcs 3D printer Nozzles | [Amazon](https://www.amazon.ca/gp/product/B0B7NL58XT/) | $7.99 |
@@ -42,9 +42,11 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | M Bolts (M3/M4/M5) | [AliExpress](https://www.aliexpress.com/item/1005003594879155.html) | $5.37 |
 | M Nuts (M3/M4/M5/M8) | [AliExpress](https://www.aliexpress.com/item/33012003529.html) | $11.43 | 
 | Steel Rods (6mm 150mm) (x2) | [AliExpress](https://www.aliexpress.com/item/32332798910.html) | $9.01 | 
-| **Subtotal** | - | **$207.66** = $46.86(Amazon) + $160.80(AliExpress) |
-| **Shipping** | - | **$102.09** = $7.29(Amazon) + $90.49(AliExpress) |
+| **Subtotal** | - | **$231.49** = $46.86(Amazon) + $184.63(AliExpress) |
+| **Shipping** | - | **$73.37** = $11.60(Amazon) + $65.77(AliExpress) |
 | **Discounts** | - | **$31.79** = $7.28(Amazon) + $24.51(AliExpress) |
-| **Pre-Tax** | - | **$277.96** (Approx **US$204.50**) |
-| **Tax Estimate** (13%) | - | **$36.13** |
-| **Total** | - | **$314.09** (Approx **US$231.08**) |
+| **Pre-Tax** | - | **$306.79** (Approx **US$225.31**) |
+| **Tax Estimate\*** (13%) | - | **$7.60** |
+| **Total** | - | **$314.39** (Approx **US$230.89**) |
+
+\* AliExpress does not charge the buyer for tax.
