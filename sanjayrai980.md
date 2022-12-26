@@ -13,14 +13,23 @@ of building a custom keyboard and I found Winter Hardware Wonderland the perfect
 
 ## Plan
 
-First of all ordering all the part required for making the keyboard from the supplier, The switches, keycaps and the case for holding 
-all the things together. Second is assemblying the partes together like installing the switches in the case and inserting the keycaps.
-Third gonna be the testing phase where we test the custom build keyboard in PC and 
+First of all I will gather all the necessary materials. In addition to the Cherry MX switch set, Keychron K8 Pro (barebone) and OEM profile PBT retro keycap set, I will also need a soldering iron and solder, a Phillips head screwdriver, and a wire stripper which I already own.
+
+Then I will begin by soldering the Cherry MX switches onto the barebone keyboard. To do this, first, I will place the switch onto the PCB (printed circuit board) and hold it in place with a piece of tape. Next, I will apply the solder to the pads on the PCB. Finally, I will heat the soldering iron and use it to melt the solder and secure the switch in place. Then I will repeat this process for each of the switches on the keyboard.
+
+Once all the switches are soldered in place, I can begin attaching the keycaps. To do this, first, I will locate the stem of the switch and align it with the corresponding hole in the keycap. Then, gently press down on the keycap until it snaps into place. Repeat this process for each keycap on the keyboard.
+
+Finally, connect the keyboard to your computer using the USB cable and test it to ensure that all the keys are functioning properly. If any keys are not working, you may need to check your soldering or adjust the position of the keycaps.
+
+If everything is working as intended, your custom keyboard is now complete! Enjoy typing on your new creation.
 
 ## Budget
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+| Product                   | Supplier/Link                                                                                                                          | Cost   |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |------- |
+| Cherry MX Switch Set      | https://keychron.in/product/cherry-mx-switch-set/?attribute_pa_options=rgb-brown&attribute_pa_quantity-of-one-set=35-switches          | $68.20 |
+| Keychron K8 Pro (Barebone)| https://keychron.in/product/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard-2/                                                    | $100.11|
+| Retro Keycap Set          | https://keychron.in/product/oem-profile-pbt-retro-keycap-set/?attribute_pa_version=oem-keycap-set&attribute_pa_keyboard-version=k8     | $36.25 |
+| Shipping                  |                                                                                                                                        | $8.6   |
+| Tax                       |                                                                                                                                        | $4.9   |
+| Total                     |                                                                                                                                        | $218.06|
