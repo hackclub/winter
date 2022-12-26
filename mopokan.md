@@ -16,7 +16,11 @@ to conduct the future experiment without renting the expensive Random Position M
 
 1.I will design the whole RPM structure base on this quote "The RPM is operate by 2 rotating motor. Each one mount to the inner frame and outer frame so each frame can rotate independently and because of this it can eliminate gravity vector"(like shown in fig1.).When finish my design, I will run simulation in CAD program to see the result if everything is correct(the net gravity vector in the rotaing frame is nearly 0 ) I will continue to step 2
 
-   ![fig1](https://www.researchgate.net/profile/Thais-Russomano/publication/26686020/figure/fig4/AS:668634745696259@1536426354285/Schematic-view-of-the-MicroG-Center-3-D-clinostat.png)
+
+<p align="center">
+  <img alt="3DClinostat" src="https://www.researchgate.net/profile/Thais-Russomano/publication/26686020/figure/fig4/AS:668634745696259@1536426354285/Schematic-view-of-the-MicroG-Center-3-D-clinostat.png" width="848" height="500">
+</p>
+   
 
 2.In this step, I will design rotating path algorithm for my RPM base on [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4223831/) by using my computer.
 
