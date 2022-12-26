@@ -1,9 +1,10 @@
 ---
-name: "@Abubakarharuna10"
+name: "Abba Haruna"
 project: "Artificial Rescuer"
+#Slack username "@Abubakarharuna"
 ---
 
-## Summary
+## Description
 
 With the increasing threat of climate change, greater populations and consequently, more extreme environmental events
 the need for better emergency rescue services is paramount
