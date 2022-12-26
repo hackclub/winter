@@ -32,6 +32,6 @@ http://docs.donkeycar.com/
 | USB Battery with microUSB cable | https://www.amazon.com/Anker-PowerCore-Compact-Portable-Smartphones/dp/B07211V9XG | ~~36.95~~ 0 already owned|
 | Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB) | https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X | 174.08 (Includes tax)
 | SainSmart Wide Angle Fish-Eye Camera Lenses for Raspberry Pi 3 Model B Pi 2 Model B+ Arduino, RoHS certified | https://www.amazon.com/gp/product/B00N1YJKFS | 24.08 
-| GenBasic 80 Piece Female to Female Jumper Wires (4 and 8 Inch) | | https://www.amazon.com/GenBasic-Piece-Female-Jumper-Wires/dp/B01L5ULRUA | 6.49
+| GenBasic 80 Piece Female to Female Jumper Wires (4 and 8 Inch)  | https://www.amazon.com/GenBasic-Piece-Female-Jumper-Wires/dp/B01L5ULRUA | 6.49
 | Donkey Screw Kit | https://store.donkeycar.com/products/plastic-thread-forming-screw-kit?variant=9486169276473 | 5.36
 | Total    350.31     
