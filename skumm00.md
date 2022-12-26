@@ -9,19 +9,17 @@ project: "Robot Arm"
 
 My project is going to be a custom-controlled, Arduino-powered, robot arm. I've used 3-d printers and worked with Arduino circuits at my middle school, so I believe
 this project shadows my skills well while still being a challenging build. Plus, this project would be a great introduction into the field of mechatronics, which is
-the usage of automated engineering (like 3-d printers and CNCs) for industrial development, and is a field of like to consider in the future. 
+the usage of automated engineering (like 3-d printers and CNCs) for industrial development, which is a field I would like to consider in the future. 
 
 ##  Plan
 
-I will be using a pre-existing set of 3d models for the overall structure of the robot arm. For the first 3 axes, the waist, the shoulder, and the elbow, 
-I will be using the MG996R servos - for the wrist roll/pitch I will use the smaller SG90 micro servos. The servos will come with screws for installation. 
-The circuitry for this project is simple, with 6 servo motors being connected to six digital pins on the Arduino board. The servos will require at least 5V
-of power coming from the external power source. As for the software behind the arm, there are a number of tutorials I am planning on following (such as this 
-one's servo arm code: https://create.arduino.cc/projecthub/ryanchan/simple-programmable-robotic-arm-bd28a0). The overall code will be a perpetual loop 
+I will be using a pre-existing set of [3d models](https://thangs.com/designer/m/3d-model/38899) for the overall structure of the robot arm. For the first 3 axes, 
+the waist, the shoulder, and the elbow, I will be using the MG996R servos - for the wrist roll/pitch I will use the smaller SG90 micro servos. The servos will come 
+with screws for installation. The circuitry for this project is simple, with 6 servo motors being connected to six digital pins on the Arduino board. The servos will 
+require at least 5V of power coming from the external power source. As for the software behind the arm, there are a number of tutorials I am planning on following 
+(such as this one's servo arm code: https://create.arduino.cc/projecthub/ryanchan/simple-programmable-robotic-arm-bd28a0). The overall code will be a perpetual loop 
 that constantly checks for outside input via bluetooth to the arm - if there is any, the corresponding motor will move. I will likely be using MIT App 
 Inventor in order to create the app to communicate with the robot.
-
-ARM MODEL: https://thangs.com/designer/m/3d-model/38899
 
 ##  Budget
 
