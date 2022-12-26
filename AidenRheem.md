@@ -23,15 +23,15 @@ Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Case            | Custom 3D Printed                     | N/A    |
-| PCB             | [DZ60RGB-ANSI V2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6855) | $59.00 |
 | Plate           | Custom 3D Printed                     | N/A    |
+| PCB             | [DZ60RGB-ANSI V2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6855) | $59.00 |
 | Stabilizers     | [Durock Clear PCB Mounted](https://www.amazon.com/ZugGear-Stabilizer-Gold-Plated-Compatible-Stabilizers/dp/B08MWDQDR1) | $20.99 |
 | Switches        | []()                                  | $      |
 | Keycaps         | [Grey Cyan PBT](https://www.aliexpress.us/item/3256804350819353.html) | $18.51 |
 | Switch Kit      | [Switch Opener Kit](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
 | Lubricant       | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $7.95 | 
-| Shipping        | N/A | $5.00 for KeebsforAll (Lubricant)  |
-| Total           |                                       | $223.39 |
+| Shipping        | KeebsforAll (Lubricant)               | $5.00   |
+| Total           |                                       | $120.44 |
 
 Tools
 | Product         | Supplier/Link                         | Cost   |
