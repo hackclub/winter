@@ -25,4 +25,4 @@ Just want to clarify that these websites I'll be using for **inspiration**, I wo
 | 7" Touchscreen  | https://www.amazon.com/gp/product/B01GDMDFZA/ | $63.99 |
 | Shipping        |                                       | $11.99  |
 | Tax             |                                       | $20.71  |
-| Total           |                                       | $257.68 |
+| Total           |                                       | $247.68 |
