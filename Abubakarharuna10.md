@@ -1,7 +1,10 @@
 ---
-name: "Abba Haruna"
+name: "Abubakarharuna10"
+
 project: "Artificial Rescuer"
-#Slack username "@Abubakarharuna"
+
+Slack Username "@abubakarharuna"
+
 ---
 
 ## Description
@@ -14,7 +17,7 @@ in disaster relief zones could significantly reduce the impact tornadoes, earthq
 My solution to strengthening search and rescue operations is to outfit an autonomous unmanned aerial vehicle (UAV) 
 with a computer vision system that detects the location of people as the vehicle flies over ground. The powerful neural-network capabilities
 of the Jetson Nano Dev Kit will enable fast computer vision algorithms to achieve this task. Joseph Redmon's YOLOv3 algorithm will be used 
-to do the actual object-detection (people) in the camera's view
+to do the actual object-detection (people) in the camera's view While the UAV is flying a waypoint mission using ArduPilot, PX4, or any other autonomous flight control stack, the absolute location of people in the camera view can be calculated based on the altitude, orientation, and GPS location of the UAV.
 
 ## Plan
 1) Having requirements to use in this project.
