@@ -38,7 +38,6 @@ Additional info: The RC car that I chose is one of the models that the website l
 | Wifi Card | https://www.amazon.com/Edimax-EW-7811Un-V2-Compatible-2-6-18-4-14/dp/B08F2ZNC6J/ref=sr_1_1?crid=6NNV79DQX5LM&keywords=Edimax+EW-7811Un&qid=1671743931&sprefix=edimax+ew-7811un%2Caps%2C85&sr=8-1
   | $9 |
 Camera | https://www.amazon.com/NVIDIA-Jetson-Development-Camera-Application/dp/B0854CP54X/ref=sr_1_3?crid=GF1ETUWHGVMK&keywords=nvidia+jetson+camera&qid=1671674825&refinements=p_36%3A-2000&rnid=386442011&sprefix=nvidia+jetson+camer%2Caps%2C105&sr=8-3
-
   | $10 |
 Servo Driver | https://www.amazon.com/Dorhea-PCA9685-Interface-Controller-Raspberry/dp/B07RMTN4NZ/ref=sr_1_2?crid=R34O5ZSS82I7&keywords=PCA9685%2BServo%2Bcontroller&qid=1671743646&sprefix=pca9685%2Bservo%2Bcontroller%2Caps%2C161&sr=8-2&th=1
  | $9 |
