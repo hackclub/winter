@@ -19,6 +19,9 @@ of the Jetson Nano Dev Kit will enable fast computer vision algorithms to achiev
 to do the actual object-detection (people) in the camera's view While the UAV is flying a waypoint mission using ArduPilot, PX4, or any other autonomous flight control stack, the absolute location of people in the camera view can be calculated based on the altitude, orientation, and GPS location of the UAV.
 
 ## Plan
+
+I will use  NVIDIA Jetson Nano Developer Kit to run computer vision algorithms to detect people as the vehicle flies overhead along with an Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter that will allow me to connect to the Jetson Nano and monitor processes while the vehicle is in a flight setting then the CanaKit 5V 2.5A Power Supply will provide a stable power source while setting up the Jetson Nano and the Raspberry Pi Camera Module V2 will be mounted to the underside of the vehicle to capture video of the ground below then Anker PowerCore 5000 This power pack was selected for its 2A output and compact size. then the PX4 Pixhawk on an autonomous drone or airplane will communicate with the Jetson Nano over a wired MAVLink connection.
+
 1) Having requirements to use in this project.
 2) Hardware components,
   -NVIDIA Jetson Nano Developer Kit
