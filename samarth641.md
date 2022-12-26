@@ -15,25 +15,17 @@ will be making this project with my friend Om tripathi .
 
 ## Plan
 
-There are many different approaches to building a drone, and the specific steps will depend on the specific design and goals of the project. Some common steps that may be involved in the process might include:
+Step 1 We begin by gathering all the necessary parts and tools for assembling the drone. This includes the main body of the drone, the propellers, motors, battery, and any additional components that are specific to our particular drone model. We also gather a few tools, such as a screwdriver and a pair of pliers.
 
-step 1.Research and planning: This may involve gathering information about the desired capabilities and features of the drone, 
-as well as researching different designs and technologies that may be suitable for the project.
+Step 3 With all the necessary parts and tools on hand, we start the assembly process. First, we attach the motors to the body of the drone. Each motor is connected to a specific arm of the drone, and we use screws or bolts to secure them in place. We make sure that the motors are securely fastened, as they will be responsible for lifting the drone off the ground.
 
-step 2.Design:  I'm looking for a 3D printer to help me print the frame for my drone project. On Amazon, I discovered a suitable model https://www.amazon.in/gp/product/B07DGV2L8Z/ref=oxscactimage2?smid=A265UAHVFOFJA3&psc=1.  and I also needed the necessary filament, but I couldn't include the printer because it exceeded the price limit. The listed prices include 18% taxes. I created the necessary STL files in Fusion 360 and did extensive research on the subject, including watching a Lesics video on drone functionality and how drone works https://www.youtube.com/watch?v=N_XneaFmOmU . I'm excited to finally be able to work on this project, which I've been thinking about for a long time.
+Step 4 Next, we attach the propellers to the motors. The propellers have a specific orientation, and we make sure that they are facing the correct direction. We can usually tell which way the propellers should face by looking for a small arrow or line on the base of the propeller.
 
-step 3.Fabrication: This may involve using a variety of tools and equipment to fabricate the different parts and components of the drone. This might include tools such as 3D printers, lathes, and milling machines, as well as manual fabrication techniques such as welding and soldering.
+Step 5 With the propellers in place, we install the battery and any additional electronics, such as a flight controller or GPS module. We make sure that all of these components are securely fastened and properly connected to the main body of the drone.
 
-step 4 .Assembly: This may involve putting all of the different parts and components of the drone together, 
-following the plans and drawings developed in the design phase. This might involve using tools such as screwdrivers,
-wrenches, and pliers to fasten the various components together.
+Step 6 Finally, we test the drone to make sure that everything is working properly. This involves turning on the drone and using a remote control to move it through the air. If everything seems to be working correctly, we can start using our drone for flights.
 
-step 5.Testing and debugging: This may involve using various tools and techniques to test the functionality and performance of the drone, 
-and making any necessary adjustments or repairs. This might involve using sensors and other diagnostic equipment to identify any problems or 
-issues with the device, and working to resolve them.
 
-step6 6.Final fitting and adjustments: This may involve making any necessary final adjustments to the drone to ensure that it is ready for flight. 
-This might involve adjusting the mechanical structure or control system, or installing any additional components or payloads.
 
 Overall, I am excited to build a drone because it presents a unique opportunity to apply my skills and knowledge to create a device that can perform
 a wide range of tasks and functions. The prospect of being able to design and build a machine that can fly and perform various tasks is incredibly rewarding, 
