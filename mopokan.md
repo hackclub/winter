@@ -18,7 +18,7 @@ to conduct the future experiment without renting the expensive Random Position M
 
 
 <p align="center">
-  <img alt="3DClinostat" src="https://www.researchgate.net/profile/Thais-Russomano/publication/26686020/figure/fig4/AS:668634745696259@1536426354285/Schematic-view-of-the-MicroG-Center-3-D-clinostat.png" width="848" height="500">
+  <img alt="3DClinostat" src="https://github.com/mopokan/winter/blob/main/Schematic-view-of-the-MicroG-Center-3-D-clinostat.png?raw=true" width="848" height="500">
 </p>
    
 
