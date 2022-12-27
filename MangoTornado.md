@@ -24,4 +24,6 @@ First I'm going to acquire a Flipper Zero and familiarize myself with its hardwa
 | Hakko 633-01 633 Soldering Iron Holder | [https://www.amazon.com/dp/B000TGNWCS](https://www.amazon.com/dp/B000TGNWCS)  | $22.20 |
 | Prototyping Boards for Flipper Zero | [https://shop.flipperzero.one/products/proto-boards](https://shop.flipperzero.one/products/proto-boards)  | $10.00 |
 | Dupont Wire | [https://www.amazon.com/dp/B01EV70C78/](https://www.amazon.com/dp/B01EV70C78/)  | $6.98 |
-| Total           |                                       | $272.07 |
+| Solder sucker | [https://www.adafruit.com/product/148](https://www.adafruit.com/product/148)  | $5.00 |
+| Solder Wire | [https://www.adafruit.com/product/1886](https://www.adafruit.com/product/1886)  | $7.95 |
+| Total           |                                       | $285.02 |
