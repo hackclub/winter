@@ -7,12 +7,11 @@ project: "Smart Chess Board"
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
 I'm going to build a variation of this [chess board](https://www.youtube.com/watch?v=Z92TdhsAWD4&t=1s). I want my chess board to sync with lichess api so that I can play chess games online and show the opponents move on the physical chess board. I want to then be able to make my move (through a simple web server) and have it sync with the api. I also want to include an oled screen to display the opponents moves as well as mine. I'm excited to build this because it would be super cool to play chess physically and have it sync with an online game.
 
 ## Plan
 
-Instead of using an arduino and raspberry pi combo, I plan on just using a single raspberry pi pico w. I'm going to use the [lichess api](https://lichess.org/api#tag/Board) to have the game sync with an online game. In the video the guy used 8 buttons to input a players moves however I'm going to try to use a web server and simple api calls to use as inputs. I'm going to use an addressable LED strip as a backlight for the board and I'm going to use white PLA filament for a translucent board surface. I'm going to use the blue filament to print out the rest of the board. Instead of using a micro usb port I'll use a usb-c port to provide power for the pico, oled, and light strip. I'm going to reference the 3d models the guy has provided but will have to use CAD to make changes because I won't be using an buttons and I'll be using different hardware. Here is a general outline of steps,
+Instead of using an arduino and raspberry pi combo, I plan on just using a single raspberry pi pico w. I'm going to use the [lichess api](https://lichess.org/api#tag/Board) to have the game sync with an online game. In the video the guy used 8 buttons to input a players moves however I'm going to try to use a web server and simple api calls to use as inputs. I'm going to use an addressable LED strip as a backlight for the board and I'm going to use white PLA filament for a translucent board surface. I'm going to use the blue filament to print out the rest of the board. Instead of using a micro usb port I'll use a usb-c port to provide power for the pico, oled, and light strip. I'm going to reference the 3d models the guy from the video guide provided but will have to use CAD to make changes because I won't be using an buttons and I'll be using different hardware. Here is a general outline of steps,
 
 ### Hardware
 
@@ -36,15 +35,15 @@ Instead of using an arduino and raspberry pi combo, I plan on just using a singl
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry Pi Pico W| https://www.microcenter.com/product/650108/raspberry-pi-pico-w | $5.99  |
-| 0.96" OLED display | https://www.adafruit.com/product/326 | $17.50 |
-| USB-C Breakout Connector| https://www.adafruit.com/product/4090 |$2.95
-| Ender 3 Pro 3D Printer | https://www.microcenter.com/site/content/specialoffer3dprintertxt.aspx?web=EMAIL+OPT+IN | $99.99 |
-| White PLA Filament | https://www.microcenter.com/product/611544/inland-175mm-white-pla-3d-printer-filament-1kg-spool-(22-lbs) | $18.99 |
-| Blue PLA Filament | https://www.microcenter.com/product/611538/inland-175mm-light-blue-pla-3d-printer-filament-1kg-spool-(22-lbs) | $18.99 |
-| Solder | https://a.co/d/izpRV80 | $7.99 |
-| Addressable LED Strip | https://a.co/d/03nOTAV | $22.99 |
-| General Purpose Headers | https://a.co/d/aoTQSx8 | $5.99 |
+| Raspberry Pi Pico W| [Micro Center](https://www.microcenter.com/product/650108/raspberry-pi-pico-w) | $5.99  |
+| 0.96" OLED display | [Adafruit](https://www.adafruit.com/product/326) | $17.50 |
+| USB-C Breakout Connector| [Adafruit](https://www.adafruit.com/product/4090) |$2.95
+| Ender 3 Pro 3D Printer | [Micro Center](https://www.microcenter.com/site/content/specialoffer3dprintertxt.aspx?web=EMAIL+OPT+IN) | $99.99 |
+| White PLA Filament | [Micro Center](https://www.microcenter.com/product/611544/inland-175mm-white-pla-3d-printer-filament-1kg-spool-(22-lbs)) | $18.99 |
+| Blue PLA Filament | [Micro Center](https://www.microcenter.com/product/611538/inland-175mm-light-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)) | $18.99 |
+| Solder | [Amazon](https://a.co/d/izpRV80) | $7.99 |
+| Addressable LED Strip | [Amazon](https://a.co/d/03nOTAV) | $22.99 |
+| General Purpose Headers | [Amazon](https://a.co/d/aoTQSx8) | $5.99 |
 | Sales Tax (Maryland 6%) | Amazon | $2.22 |
 | Sales Tax (Maryland 6%) | Micro Center | $9.14 |
 | Sales Tax (Maryland 6%) | Adafruit | $1.23 |
