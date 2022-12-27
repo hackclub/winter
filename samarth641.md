@@ -17,6 +17,8 @@ will be making this project with my friend Om tripathi .
 
 Step 1 We begin by gathering all the necessary parts and tools for assembling the drone. This includes the main body of the drone, the propellers, motors, battery, and any additional components that are specific to our particular drone model. We also gather a few tools, such as a screwdriver and a pair of pliers.
 
+Step 2 Printing out the 3d parts (I created the necessary STL files in Fusion 360) 
+
 Step 3 With all the necessary parts and tools on hand, we start the assembly process. First, we attach the motors to the body of the drone. Each motor is connected to a specific arm of the drone, and we use screws or bolts to secure them in place. We make sure that the motors are securely fastened, as they will be responsible for lifting the drone off the ground.
 
 Step 4 Next, we attach the propellers to the motors. The propellers have a specific orientation, and we make sure that they are facing the correct direction. We can usually tell which way the propellers should face by looking for a small arrow or line on the base of the propeller.
