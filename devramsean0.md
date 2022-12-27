@@ -37,7 +37,9 @@ my steps will be approximatly:
 | Waterproof 1-Wire DS18B20 Digital temperature sensor | https://www.adafruit.com/product/381 | $9.95 |
 | Case | https://shop.pimoroni.com/products/pirate-brand-plastic-loot-box?variant=40286342922| $3.33 |
 | (1 x 3) pin header | https://shop.pimoroni.com/products/0-100-2-54-mm-female-header-straight?variant=31533815201875 | $0.61 
-| PCB | ordered from JLCPCB | Estimated at $10 without shipping etc | 
-| Total without shipping or taxes | | $62.95 for one unit |
-| Total with shipping or taxes | | $99.60 |
+| PCB | ordered from JLCPCB | Estimated at $10 without shipping etc |
+| Soldering Iron kit (I don't own most of this stuff, and my iron recently broke) | https://www.amazon.co.uk/Soldering-Multimeter-Desoldering-Stripper-Tweezers/dp/B08KVYD7DK/ref=sr_1_10?keywords=soldering+iron&qid=1672140601&sr=8-10&th=1&currency=USD | $29.03 |
+| Total without shipping or taxes | | $91.98 |
+| Total with shipping or taxes | | $128.63 |
+
 Will try to get the sensor from pimoroni, if it is back in stock by time of ordering
