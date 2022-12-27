@@ -42,10 +42,13 @@ Instead of using an arduino and raspberry pi combo, I plan on just using a singl
 | White PLA Filament | [Micro Center](https://www.microcenter.com/product/611544/inland-175mm-white-pla-3d-printer-filament-1kg-spool-(22-lbs)) | $18.99 |
 | Blue PLA Filament | [Micro Center](https://www.microcenter.com/product/611538/inland-175mm-light-blue-pla-3d-printer-filament-1kg-spool-(22-lbs)) | $18.99 |
 | Solder | [Amazon](https://a.co/d/izpRV80) | $7.99 |
+| Soldering Iron | | Already Own |
+| Hot Glue Gun | | Already Own |
+| Wire | [Amazon](https://a.co/d/hfry9cp) | $14.95 |
 | Addressable LED Strip | [Amazon](https://a.co/d/03nOTAV) | $22.99 |
 | General Purpose Headers | [Amazon](https://a.co/d/aoTQSx8) | $5.99 |
-| Sales Tax (Maryland 6%) | Amazon | $2.22 |
+| Sales Tax (Maryland 6%) | Amazon | $3.12 |
 | Sales Tax (Maryland 6%) | Micro Center | $9.14 |
 | Sales Tax (Maryland 6%) | Adafruit | $1.23 |
 | Shipping (Adafruit) | USPS First Class | $6.10 |
-| Total           |                                       | $213.97 |
+| Total           |                                       | $235.92 |
