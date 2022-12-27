@@ -1,5 +1,5 @@
 ---
-name: "@Sarah"
+name: "@busterbob64"
 project: "AI robotic arm"
 ---
 
@@ -7,20 +7,20 @@ project: "AI robotic arm"
 
 ## Summary
 
-AI will kill us all. I'd like to help.
+> AI will kill us all. We'd like to help.
 
 This robotic arm will have a wide range of motion, as well as use on-device machine vision to pick up objects.
 
-At the heart of the project is the Google Coral Dev Board Mini, which contains the Edge TPU, which will help greatly with machine vision.
-
-It will be controlled remotely using the Dev Board's on-board Wi-Fi.
+At the heart of the project is the Google Coral Dev Board Mini, which contains the Edge TPU as well as Wi-Fi and Bluetooth. The Edge TPU will be used to do on-device ML inference, as well as host a small web server to control the robot.
 
 It's also powered by USB-C, bscause I thought that was funny :)
 
+I'm working with another person (who isn't on GitHub).
+
 ## Plan
 
--   Design the robotic arm using some 3D modelling software.
--   Print its parts via a 3D printing provider (I don't have a printer, unfortunately)
+-   Design the robotic arm using 3D modelling software.
+-   Print its parts via a 3D printing provider.
 -   Solder everything together. This is one of the few things I actually own.
 -   Assemble.
 -   Use Rust and a pre-compiled AI model for Coral to implement machine vision.
