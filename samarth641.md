@@ -12,7 +12,7 @@ Drones are used for a wide range of purposes, including surveillance, photograph
 Building a drone can be an exciting and challenging project, as it involves a combination of engineering, design, and programming skills. 
 The goal is to create a device that is capable of stable, controlled flight, and that can perform a variety of tasks depending on its design and purpose.
 will be making this project with my friend Om tripathi .
-
+Not following a guide but with extensive research learning about how drones work (such as through watching https://www.youtube.com/watch?v=N_XneaFmOmU)
 ## Plan
 
 Step 1 We begin by gathering all the necessary parts and tools for assembling the drone. This includes the main body of the drone, the propellers, motors, battery, and any additional components that are specific to our particular drone model. We also gather a few tools, such as a screwdriver and a pair of pliers.
