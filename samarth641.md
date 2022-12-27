@@ -45,7 +45,6 @@ and I am eager to be a part of this process.
 | RunCam EAGLE 3 FPV camera for Quadcopters | https://robu.in/product/runcam-eagle-3/ | $38.60 |
 | WOL3D Creality Ender 3 Model 2022 DIY Printer with Removable Bed 3D Printer | https://www.amazon.in/Creality-Removable-Magnetic-3D-220x220x250mm/dp/B07P5YBN6M/?_encoding=UTF8&pd_rd_w=Q1zQY&content-id=amzn1.sym.1f592895-6b7a-4b03-9d72-1a40ea8fbeca&pf_rd_p=1f592895-6b7a-4b03-9d72-1a40ea8fbeca&pf_rd_r=ANV7YYVPYKDPCFPD69YS&pd_rd_wg=r6K2E&pd_rd_r=04bc56ca-18b9-4931-a9cb-813f8e5fb99d&ref_=pd_gw_ci_mcx_mr_hp_atf_m&th=1| $174.29 |
 | Creality Premium 1.75 mm PLA 3D Printing Filament (Carbon Fiber | https://www.amazon.in/Creality-Printing-Filament-Carbon-Fiber/dp/B074DS3986/ref=pd_day0fbt_img_sccl_1/261-2814919-0635564?pd_rd_w=xL45H&content-id=amzn1.sym.c9d7333c-5685-4a7f-8a29-2b2d0619c7f9&pf_rd_p=c9d7333c-5685-4a7f-8a29-2b2d0619c7f9&pf_rd_r=VTV5RSV4NXVFJQ3HXD17&pd_rd_wg=tAQca&pd_rd_r=ec496aea-ffdb-4b43-bfed-ddbdf68aab7f&pd_rd_i=B074DS3986&th=1 | $36.52 |
-
 | Total           |                                       | $461.27 |
 
 ## All prices are converted from INR TO USD. Which comes to ₹38240.32 = $461.27. Which included the Tax + Shipping. 
