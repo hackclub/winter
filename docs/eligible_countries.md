@@ -21,7 +21,6 @@ Still skeptical? here's a nifty (but definitely not exhaustive) list of countrie
 | Australia |  https://github.com/hackclub/winter/pull/20 |
 | United Kingdom |  https://github.com/hackclub/winter/pull/50 |
 | France |  https://github.com/hackclub/winter/pull/64 |
-| Nigeria |  https://github.com/hackclub/winter/pull/75|
 and many, MANY more.
 
 
