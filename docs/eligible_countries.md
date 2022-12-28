@@ -1,6 +1,6 @@
 # Does Hack Club Bank work in your country?
 
-You'll be receiving your grant through [Hack Club Bank](https://hackclub.com/bank) and purchasing your hardware using a Hack Club Bank Visa card. Unfortunately, in some countries, Hack Club Bank doesn't work well with through the local banking system.
+You'll be receiving your grant through [Hack Club Bank](https://hackclub.com/bank) and purchasing your hardware using a Hack Club Bank card. Unfortunately, in some countries, Hack Club Bank doesn't work well with through the local banking system.
 
 Using Hack Club Bank outside of North America is still experimental. Listed below are countries where Hack Club Bank works. If your country isn't listed here, you are still welcome to submit a project proposal. While we can't guarantee that Hack Club Bank will work for you, we invite you to try it out.
 
