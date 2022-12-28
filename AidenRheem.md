@@ -33,10 +33,10 @@ Materials
 | Switch Kit      | [Switch Opener, Stem Holder, Brushes](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
 | Puller Tool     | [Keycap & Switch Puller](https://keebsforall.com/products/keycap-switch-puller) | $5.00 |
 | Lubricant       | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $8.95 |
-| Cable           | [CableMod Pro](https://www.amazon.com/dp/B09LT361GV) | $29.90 |
+| Cable           | Custom Made                           | $36.01 |
 | Shipping        | KeebsforAll (Stabilizers, Puller, Lubricant) | $8.60 |
-| Shipping        | Divinikey (Switches)                  | $6.01   |
-| Total           |                                       | $219.31 |
+| Shipping        | Divinikey (Switches)                  | $6.01  |  
+| Total           |                                       | $225.42 |
 
 Tools
 | Product         | Supplier/Link                         | Cost   |
