@@ -4,7 +4,7 @@ project: "Artificial Rescuer"
 ---
 
 # Project Name
-Artificial Rescue
+#Artificial Rescue
 
 ## Summary
 
@@ -20,17 +20,8 @@ to do the actual object-detection (people) in the camera's view While the UAV is
 
 ## Plan
 
-I will use  NVIDIA Jetson Nano Developer Kit to run computer vision algorithms to detect people as the vehicle flies overhead along with an Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter that will allow me to connect to the Jetson Nano and monitor processes while the vehicle is in a flight setting then the CanaKit 5V 2.5A Power Supply will provide a stable power source while setting up the Jetson Nano and the Raspberry Pi Camera Module V2 will be mounted to the underside of the vehicle to capture video of the ground below then Anker PowerCore 5000 This power pack was selected for its 2A output and compact size. then the PX4 Pixhawk on an autonomous drone or airplane will communicate with the Jetson Nano over a wired MAVLink connection.
+I will use  NVIDIA Jetson Nano Developer Kit to run computer vision algorithms to detect people as the vehicle flies overhead. I will use an Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter that will allow me to connect to the Jetson Nano and monitor processes while the vehicle is in a flight setting. The CanaKit 5V 2.5A Power Supply will provide a stable power source while setting up the Jetson Nane. The Raspberry Pi Camera Module V2 will be mounted to the underside of the vehicle to capture video of the ground below. As forthe Anker PowerCore 5000, this power pack was selected for its 2A output and compact size. Then, the PX4 Pixhawk on an autonomous drone or airplane will communicate with the Jetson Nano over a wired MAVLink connection.
 
-1) Having requirements to use in this project.
-2) Hardware components,
-  -NVIDIA Jetson Nano Developer Kit
-  -Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter
-  -CanaKit 5V 2.5A Power Supply
-  -Raspberry Pi Camera Module V2
-  -Anker PowerCore 5000
-   -PX4 Pixhawk
-3) Implimentation
 
 ## Budget
 
