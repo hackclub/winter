@@ -19,8 +19,10 @@ days 6 - 10: Program and test
 | Product               | Supplier/Link                         | Cost   |
 | --------------------- | ------------------------------------- | ------ |
 | Arduino Uno           | already have                          | $0.00  |
-| 8x Servos             | [https://www.adafruit.com/product/169](https://www.adafruit.com/product/169)  | $64.32 |
-| IR Remote             | [https://www.adafruit.com/product/389](https://www.adafruit.com/product/389)  | $4.95   |
-| IR Receiver           | [https://www.adafruit.com/product/157](https://www.adafruit.com/product/157)  | $1.95   |
+| 12x Servos            | [https://www.adafruit.com/product/169](https://www.adafruit.com/product/169)  | $71.4  |
+| IR Remote             | [https://www.adafruit.com/product/389](https://www.adafruit.com/product/389)  | $4.95  |
+| IR Receiver           | [https://www.adafruit.com/product/157](https://www.adafruit.com/product/157)  | $1.95  |
+| Power Boost 1000      | [https://www.adafruit.com/product/2465](https://www.adafruit.com/product/2465)| $19.95 |
+| Li-Ion battery        | [https://www.adafruit.com/product/1781](https://www.adafruit.com/product/1781)| $9.95  |
 | Body/Exterior parts   |                                       | $??  |
-| Total           |                                       | $71.22 |
+| Total           |                                       | $108.20 |
