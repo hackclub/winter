@@ -7,7 +7,7 @@ project: "Robot Arm"
 
 ##  Summary
 
-My project is going to be a custom-controlled, Arduino-powered, robot arm. I've used 3-d printers and worked with Arduino circuits at my middle school, so I believe
+My project is going to be a custom-controlled, Arduino-powered, robot arm. I've used 3D printers and worked with Arduino circuits at my middle school, so I believe
 this project shadows my skills well while still being a challenging build. Plus, this project would be a great introduction into the field of mechatronics, which is
 the usage of automated engineering (like 3-d printers and CNCs) for industrial development, which is a field I would like to consider in the future. 
 
