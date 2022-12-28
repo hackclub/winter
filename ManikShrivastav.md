@@ -15,6 +15,7 @@ motherboard of the car. As the transmitter moves, it will send the signals to th
 will turn and run the car according to the instructions.
 
 ## Plan
+
 First of all, the chassis of car is going to be made. It will contain four motors and rubber wheels attached 
 to the frame of the robot made out of PlyWood. After that, the motors will be connected with motor shield driver. 
 After that, the Arduino Nano will be attaced to Male female Pin Strip and then it
