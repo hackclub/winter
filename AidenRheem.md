@@ -40,5 +40,6 @@ Materials
 
 Tools
 | Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
 | Prusa MK3S+     |                                       | Already Own |
 | PLA/PETG Fillament |                                    | Already Own |
