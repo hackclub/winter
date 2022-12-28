@@ -18,7 +18,7 @@ Still skeptical? here's a nifty (but definitely not exhaustive) list of countrie
 | The Bahamas |  https://github.com/hackclub/winter/pull/33 |
 | Turkey |  https://github.com/hackclub/winter/pull/6 |
 | Brazil |  https://github.com/hackclub/winter/pull/47 |
-| Australia |  [9](https://github.com/hackclub/winter/pull/9)[20](https://github.com/hackclub/winter/pull/20) |
+| Australia |  [9](https://github.com/hackclub/winter/pull/9), [20](https://github.com/hackclub/winter/pull/20) |
 | United Kingdom |  https://github.com/hackclub/winter/pull/50 |
 | France |  https://github.com/hackclub/winter/pull/64 |
 and many, MANY more.
