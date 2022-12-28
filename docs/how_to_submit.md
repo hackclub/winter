@@ -12,6 +12,6 @@
 
 <img width="375" alt="Submitting a pull request on GitHub" src="https://cloud-46pz2iy8h-hack-club-bot.vercel.app/0pull-request-ohyeah.gif" />
 
-Once your pull request is merged, the Hack Club Bank team will follow up with next steps!
+Once your pull request is approved, the Hack Club Bank team will follow up with next steps!
 
 Happy hacking! ❤️
