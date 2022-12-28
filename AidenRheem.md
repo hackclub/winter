@@ -24,14 +24,21 @@ I'm going to be designing a custom 60% keyboard case in Fusion 360, then getting
 Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Case            | Custom 3D Printed                     | N/A    |
-| Plate           | Custom 3D Printed                     | N/A    |
+| Case            | Custom 3D Printed                     |        |
+| Plate           | Custom 3D Printed                     |        |
 | PCB             | [DZ60RGB-ANSI V2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6855) | $59.00 |
-| Stabilizers     | [TX White](https://keebsforall.com/products/tx-stabilizers) | $19.00 |
-| Switches        | []()                                  | $      |
+| Stabilizers     | [TX White](https://keebsforall.com/products/tx-stabilizers) | $20.00 |
+| Switches        | [Gateron Oil King](https://divinikey.com/products/gateron-oil-king-linear-switches) | $54.35 |
 | Keycaps         | [Grey & Cyan PBT](https://www.aliexpress.us/item/3256804350819353.html) | $18.51 |
 | Switch Kit      | [Switch Opener, Stem Holder, Brushes](https://www.amazon.com/dp/B08JLJZ95Z) | $8.99 |
-| Puller Tool     | [Keycap & Switch Puller](https://keebsforall.com/products/keycap-switch-puller) | $4.00 |
-| Lubricant       | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $7.95 | 
+| Puller Tool     | [Keycap & Switch Puller](https://keebsforall.com/products/keycap-switch-puller) | $5.00 |
+| Lubricant       | [Krytox205g0](https://keebsforall.com/products/krytox-gpl205g0-mechanical-switch-lubricant) | $8.95 |
+| Cable           | [CableMod Pro](https://www.amazon.com/dp/B09LT361GV) | $29.90 |
 | Shipping        | KeebsforAll (Stabilizers, Puller, Lubricant) | $8.60 |
-| Total           |                                       | $126.05 |
+| Shipping        | Divinikey (Switches)                  | $6.01   |
+| Total           |                                       | $219.31 |
+
+Tools
+| Product         | Supplier/Link                         | Cost   |
+| Prusa MK3S+     |                                       | Already Own |
+| PLA/PETG Fillament |                                    | Already Own |
