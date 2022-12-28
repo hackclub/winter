@@ -3,8 +3,7 @@ name: "@ap-1, @EmperorParzival"
 project: "3D RGB Visualizer"
 ---
 
-# Project Name
-3D RGB Visualizer
+# 3D RGB Visualizer
 
 ## Summary
 
