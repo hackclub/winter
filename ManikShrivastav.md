@@ -3,10 +3,11 @@ name: "ManikShrivastav"
 project: "Gesture Control Robot"
 ---
 
-# Project Name
-Gesture Control Robot
+# Gesture Control Robot
+
 
 ## Summary
+
 Gesture Robot is an electronic car controlled by the movement of circuit. It can be mostly used in real 
 life robot fights and car fights. It is a car that can be controlled according to the user’s movement of the 
 hands. The transmitter part will be attached to the hand of the user and its receiver will act as the 
