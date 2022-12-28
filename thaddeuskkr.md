@@ -18,9 +18,9 @@ For the first few days, I'll play around with software. I will either be using [
 | Product                                        | Supplier/Link                                                                             | Cost     |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | -------- |
 | Raspberry Pi 4B 8GB - Basic Kit                | https://sg.cytron.io/p-raspberry-pi-4-model-b-8gb                                         | $130.00  |
-| 135x240 Color TFT Display                      | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/4393/10650640           | $14.95   |
-| 128x32 Monochrome OLED Display                 | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/3527/7323609            | $14.95   |
-| IKEA TRÅDFRI Bulb (for lights / testing)       | Will purchase in-person • https://z.tkkr.one/go/ikea-tradfri1                             | $22.13   |
-| Z-Wave USB Stick (will only buy if needed)     | https://www.amazon.sg/Z-Wave-Stick-Assistant-HomeSeer-Software/dp/B07GNZ56BK              | $50.32   | 
-| Conbee II Zigbee USB Stick                     | https://www.amazon.sg/dp/B07PZ7ZHG5                                                       | $51.57   |
-| Total (excluding exchange rate changes)        | Some of the prices are converted from SGD to USD, not sure if this rate changes too much. | $283.92  |
+| 135x240 Color TFT Display                      | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/4393/10650640           | $25.65   |
+| 128x32 Monochrome OLED Display                 | https://www.digikey.sg/en/products/detail/adafruit-industries-llc/3527/7323609            | $25.65   |
+| LED Light Strip (Works with Zigbee - for test) | https://www.amazon.com/gp/product/B07QD2SGDB                                              | $49.77   |
+| Conbee II Zigbee USB Stick                     | https://www.amazon.com/gp/product/B07PZ7ZHG5                                              | $33.60   |
+| Z-Wave USB Stick                               | https://www.amazon.com/gp/product/B07GNZ56BK                        NOT INCLUDED IN TOTAL | $39.71   | 
+| Total (excluding exchange rate changes)        | Some prices are converted from SGD to USD. Exchange rate is subject to change.            | $264.67  |
