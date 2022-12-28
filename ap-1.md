@@ -1,5 +1,5 @@
 ---
-name: "@ap-1, @EmperorParzival"
+name: ["@ap-1, @EmperorParzival"]
 project: "3D RGB Visualizer"
 ---
 
