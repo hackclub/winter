@@ -6,7 +6,7 @@ project: "Quadcopter Drone"
 # Quadcopter Drone
 
 ## Summary
-
+Built with @omtripathi12 
 A drone is a small, unmanned aircraft that is typically controlled remotely by a pilot or through a pre-programmed flight path. 
 Drones are used for a wide range of purposes, including surveillance, photography, mapping, delivery, and scientific research.
 Building a drone can be an exciting and challenging project, as it involves a combination of engineering, design, and programming skills. 
