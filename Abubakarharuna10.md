@@ -3,8 +3,7 @@ name: "@Abubakarharuna10"
 project: "Artificial Rescuer"
 ---
 
-# Project Name
-#Artificial Rescue
+# Artificial Rescue
 
 ## Summary
 
