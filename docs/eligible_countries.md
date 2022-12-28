@@ -1,14 +1,8 @@
-# So, you wanna know if bank works in your country? 
+# Does Hack Club Bank work in your country?
 
-## well look no further
+You'll be receiving your grant through [Hack Club Bank](https://hackclub.com/bank) and purchasing your hardware using a Hack Club Bank Visa card. Unfortunately, in some countries, Hack Club Bank doesn't work because merchants aren't able to accept payment using international Visa cards.
 
-Your 250$ grant will be provided in the form of your very own debit card via [bank](hackclub.com/bank). Hack club's full-stack toolkit for organizing finances for school clubs, hackathons and everything in between. (in this case, your grant)
-
-As for whether your country supports bank cards or not.  
-
-As long as your merchant supports payment via **an international VISA™ credit card**, you can safely assume that your bank card will work.
-
-Still skeptical? here's a nifty (but definitely not exhaustive) list of countries who have been successfully given a grant and are going to share their hardware hackyness in February.
+Hack Club Bank hasn't been used widely outside of North America, so there are many countries whose statuses are still unknown. If your country isn't listed here, you are still welcome to submit a project proposal. While we can't guarantee that Hack Club Bank will work in your country, we invite you to try it out.
 
 | Country      | Hackers                                                   
 | -----------  |:---------------------------------------------------------- |
@@ -23,8 +17,10 @@ Still skeptical? here's a nifty (but definitely not exhaustive) list of countrie
 | France |  https://github.com/hackclub/winter/pull/64 |
 and many, MANY more.
 
+Due to US government sanction sanctions, Visa cards will not work in the following countries:
 
-Appendix 1: *Due to US government sanctions and **VISA™** restrictions, bank cards will not work in the following countries.*
-***Balkans, Belarus, Central African Republic, Congo, Iraq, Iran, Lebanon, Liberia, Libya, North Korea, Somalia, Syria, Russia, Venezuela, Yemen, and Zimbabwe.***
+Balkans, Belarus, Central African Republic, Congo, Iraq, Iran, Lebanon, Liberia, Libya, North Korea, Somalia, Syria, Russia, Venezuela, Yemen, and Zimbabwe.
 
-Appendix 2: *Due to India's restrictive policy on foreign transactions, hack club cards are prone to be declined by most major merchants in India. Read on [here](https://github.com/hackclub/winter/blob/main/docs/india.md) for more information.*
+[See the US Treasury website for an up-to-date list of sanctions programs.](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information)
+
+Due to India's restrictive policy on foreign transactions, Hack Club Bank cards may be declined by most major merchants in India. Please refer to [this document](https://github.com/hackclub/winter/blob/main/docs/india.md) for more information on using Hack Club Bank in India.
