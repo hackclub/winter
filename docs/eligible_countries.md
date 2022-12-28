@@ -17,6 +17,11 @@ Using Hack Club Bank outside of North America is still experimental. Listed belo
 - United Kingdom
 - United States
 
+Due to differences in financial/banking systems, Hack Club Bank is not able to work in the following countries:
+
+- India
+- Nigeria
+
 Due to US government sanction sanctions, Visa cards will not work in the following countries:
 
 - Balkans
@@ -37,5 +42,3 @@ Due to US government sanction sanctions, Visa cards will not work in the followi
 - Zimbabwe
 
 [See the US Treasury website for an up-to-date list of sanctions programs.](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information)
-
-🇮🇳: If you're hacking from India, check out [this page](./india.md) on using Hack Club Bank in India. Unfortunately, Hack Club Bank cards are declined at most merchants in India, but there are a few merchants that have been confirmed to work.
