@@ -26,3 +26,6 @@ days 6 - 10: Program and test
 | Li-Ion battery        | [https://www.adafruit.com/product/1781](https://www.adafruit.com/product/1781)| $9.95  |
 | Body/Exterior parts   |                                       | $??  |
 | Total           |                                       | $108.20 |
+
+I will be following closely the schematic below
+![image](https://user-images.githubusercontent.com/72882797/209758010-fae0c3ca-7d2e-463e-9def-8728b0465475.png)
