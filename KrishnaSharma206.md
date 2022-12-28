@@ -25,8 +25,8 @@ I will be using the jetson nano as the brain of this project, the raspberry pi w
 | Product                | Supplier/Link                                               |  Cost   |
 | ---------------        | ----------------------------------------------------------- | ------- |
 | Nvidia Jetson nano     | https://www.arrow.com/en/products/945-13450-0000-100/nvidia | $195.00 |
-| Rover5 chassis         | https://www.rhydolabz.com/robotics-robotic-kits-c-155_161/dagu-rover-5-2wd-tracked-chassis-without-encoder-p-1258.html | $48.25 |
+| Rover5 chassis         | https://www.rhydolabz.com/robotics-robotic-kits-c-155_161/dagu-rover-5-2wd-tracked-chassis-without-encoder-p-1258.html | $39 |
 | Rover5 expansion plate | https://www.pololu.com/product/1530                         | $16.00  |
-| Total              |                                                                 | $259.25 |
+| Total                  |                                                             | $250    |
 
 Note: I will be buying rest of the parts required by myself, these are the parts that are not available in my country and also are too expensive for me to buy.
