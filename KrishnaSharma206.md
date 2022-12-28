@@ -7,18 +7,19 @@ project: "An AI powered Robot"
 
 ## Summary
 
-A robot that recohnizes certain shapes and navigates it's way accordingly, I am going to build this robot because I liked the idea of the amazon warehouse
-robot and the projects made by a guy named James Bruton, and I really wanna learn about object recognition through this project. I already have some
-experience making robots using arduino, so it will be something new for me.
+A robot that recohnizes certain shapes and navigates it's way accordingly, I am going to build this robot because I liked the idea of the amazon warehouse robot and the projects made by a guy named James Bruton, and I really wanna learn about object recognition through this project. I already have some experience making robots using arduino, so it will be something new for me.
 
 ## Plan
 
-I will be using the jetson nano as the brain of this project, the raspberry pi wont be very pwerful for this and the jetson nano will be a better alternative
+I will be using the jetson nano as the brain of this project, the raspberry pi wont be enough for this and the jetson nano will be a better alternative
 , I will be using a camera for the detection and I am planning to add more sensors and actuators to it in the future.
-1. I will be using my laptop with the jetson nano using a vnc
-2. I will first train the ai model on the jetson nano using basic shapes for easier recognition
-3. I will build the robot, then program the robot using python
-4. I will then finally test it.
+
+The Steps:
+1. Learn how to use the jetson nano
+2. Connect my laptop to the jetson nano using a vnc
+3. Train the AI model on the jetson nano using basic shapes for easier recognition
+4. Build the robot, then program the robot using python
+5. Test the robot.
 
 ## Budget
 
