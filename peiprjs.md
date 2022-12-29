@@ -1,6 +1,6 @@
 ---
 name: "@peiprjs"
-project: "Your Project Name Here"
+project: "Desk Thing"
 ---
 
 # Car thing but for a desk instead (Desk thing)
