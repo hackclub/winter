@@ -25,6 +25,8 @@ I'm going to build a split 45% keyboard using a stack of cut acrylic parts. The 
 12) Lube and film switches
 13) Install switches
 14) Complete assembly of the case
+15) Configure Vial development environment
+16) Create firmware through Vial
 
 Total Expected Time: 15 Hours (plus cooling and printing time)
 
@@ -35,9 +37,16 @@ Total Expected Time: 15 Hours (plus cooling and printing time)
 | Case and PCB | [P3DStore](https://p3dstore.com/products/locus-invisibolt-acrylic-gasket-mount-case-and-pcb) | $135   |
 | 5x KTT HaluHalo Switches | [DangKeebs](https://dangkeebs.com/products/ktt-haluhalo?variant=39959357194412)  | $15.00 |
 | Krytox 205g0 | [DangKeebs](https://dangkeebs.com/products/205g0?variant=36556464783521)  | $12.00 |
-| MillMax 0305 | [Mouser](https://www.mouser.com/ProductDetail/Mill-Max/0305-2-15-80-47-80-10-0)  | $17.89  |
+| MillMax 0305 | [Mouser](https://www.mouser.com/ProductDetail/Mill-Max/0305-2-15-80-47-80-10-0?qs=QtQX4uD3c2Uys0ai6Tr8NQ%3D%3D)  | $17.89  |
 | Stabilizers | [Thockpop](https://thockpop.com/product/aeboards-staebies-v2/) | $22.00 |
 | Keycaps | [AliExpress](https://www.aliexpress.us/item/3256804603576206.html) | $26.39 |
 | Total           |                                       | $241.28 |
 
 (I've already purchased foams as well as silicone and masking tape)
+
+
+## Microphone project (working with @KaiDevrim)
+
+|Product     | Supplier/Link       | Cost |
+| --------------- | ------------------------------------- | ------ |
+|SSM2019 | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices/SSM2019BNZ?qs=WIvQP4zGanhHwIaXxt763A%3D%3D) | $6.41 |
