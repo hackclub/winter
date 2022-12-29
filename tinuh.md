@@ -1,5 +1,5 @@
 ---
-name: "Tinu Vanapamula"
+name: "@tinuh"
 project: "Smart Chess Board"
 ---
 
