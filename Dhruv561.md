@@ -1,32 +1,26 @@
 ---
 name: @Dhruv561
-project: Arduino Robots
+project: Rasberry Pi Digital Display
 ---
 
 # Project Name
-Arduino Robots
+Rasberry Pi Dogital Display
 
 ## Summary
-
-I’m going to be building a robotic hexapod and car which are controlled using an Arduino board that I can have fun building. The goal of this project is to create something that is super cool that I can control using a remote to move. I am also going to build an Arduino controlled smart lamp which I would use in my bedroom.
-
+I will be using a rasberry pi to create and build a digital smart display which I will be able to display information such as time, calendar, weather, events, be able to control smart devices, etc. I really want to build this after watching some two way mirror / magic mirror videos on youtube which display information like this and only being powered by a rasberry pi. The goal is to start with just building a smart display and then turn it into a magic mirror if I have the time and budget. This is also a great use of the spare tv we have in the house.
 
 
 ## Plan
 
-I’ll be ordering an Arduino uno kit off of Amazon which will give me all the tools and equipment needed for building all the projects. Then I will order the robot kits for a hexapod and car which I will assemble and connect and control with the Arduino using the instructions as well as YouTube videos online. For the smart lamp I will be using the Yeelight and putting it in my lamp which will be wired to the Arduino allowing me to control it. I will also be following a YouTube video for this.
-I will be using the arduino kit in order to power all of my builds and to control them using code written in the arduino software. The hexapod build kit contains unassembled peices such as frames which I will use to build the shape of the hexapod, its legs, and motors, etc and then powered with the arduino. The car build kit is similar as well as it also contains parts such as frames and wheels which are neccesarry to build it and to be powered by the arduino. As for the light bulb, I will require a smart bulb which is wired to the arduino which will be able to be programmed to control the light bulb.
-https://youtu.be/nivTZeGthf4
-https://youtu.be/5b8QwkJIg5E
-https://youtu.be/BgiEOCgc5ME
-
+I'll be ordering a rasberry pi 4 off of the official rasberry pi website which will be used to power the smart display. I already have access to a large display due to having a soare tv. I will then use the rasberry pi starter kit snd accesories to wire the tv to the rasberry pi and be able to control it. The accesories kit is very beneficial here as it contains all the wires I would need to possibly use when connecting to the tv. I will then watch some youtube videos and learn how code the rasberry pi to display and sync all of mys mart devices and display the votal infirmation I need using youtube videos. Throughout the whole process I will be following videos which ensure that I am buikding the smart display correctly. This is the intial plan however after this I may on my own purchase a two way mirror and a frame for tv and turn it into a full magic mirror powered by the rasberry pi if I have the time and budget.
+https://youtu.be/4hN0_yGVdUQ
+https://www.cnet.com/home/smart-home/turn-an-old-monitor-into-a-wall-display-with-a-raspberry-pi/
+https://youtu.be/OYlloiaBINo
 
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Arduino Kit   | https://amzn.asia/d/7v33Fo3             | $55  |
-| Yeelight Bulb | https://amzn.asia/d/eI2uO3t             | $30  |
-| Arduino Kit   | https://amzn.asia/d/69hXE4v             | $155 |
-| Arduino Kit   | https://amzn.asia/d/0wIgxJd             | $44  |
-| Total         |                                         | $244 |
+| RasberryPi 4 Kit  | https://raspberry.piaustralia.com.au/collections/raspberry-pi-boards/products/raspberry-pi-starter-kit| $192 |
+| RasberryPi Accesories Box | https://amzn.asia/d/7UUQU2F | $56    |
+| Total         |                                         | $248   |
