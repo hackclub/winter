@@ -31,4 +31,4 @@ The whole device would be built inside of a 3D printed structure, which would in
 | Total            |                                     | $237.53 |
 
 
-*Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. I can cover any conversion hijinks. Prices include VAT/IVA.
+*Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
