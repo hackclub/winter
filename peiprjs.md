@@ -13,12 +13,12 @@ The whole device would be built inside of a 3D printed structure, which would in
 
 ## Plan
 
-1. Measure all of the parts, design and print (and sand) a single piece that allows me to keep them all together.
-2. Assemble the device and connect all of the parts together.
+1. Measure all of the parts, design, print, and sand a piece (or a few) that allow me to keep all of the tech parts together.
+2. Assemble the device and plug all of the tech in.
 3. Design a web interface that connects to the Spotify API and displays the data.
 4. Run the web interface on the local device, connect the speaker and voilà! A ~~car~~ desk thing.
 
-## Budget
+## Bill of materials
 
 | Product          | Supplier/Link                       | Cost*   |
 | ---------------  | ----------------------------------  | ------  |
