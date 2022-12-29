@@ -43,6 +43,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ## Budget
 
+What will you be buying, from who, and how much does it cost? Please include shipping and taxes.
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
