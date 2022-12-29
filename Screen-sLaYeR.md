@@ -18,10 +18,11 @@ It's my third Electronic Project and it can help me on my Desktop
 
 ## Plan
 What steps are you going to take to build it?
-1. Making the Circuit Diagram
-2. Getting the Parts
-3. Connecting the parts
-4. The Programming Part
+1.Following this guide: https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/
+2. Making the Circuit Diagram
+3. Getting the Parts
+4. Connecting the parts
+5. The Programming Part
 
 What tools are you going to use?
 1. Soldering Iron (My Elder Sister own that)
