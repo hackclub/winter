@@ -45,6 +45,7 @@ After doing all the tesing and finilizing the project I will make a cover out of
 |  13. | 9V battery                            |  https://amzn.to/3YPfmKa              | 4.60   |
 |  14. | Mini Switch                           |  https://amzn.to/3I2yMpi              | 2.18   |
 |  15. | Female to Female Connector            |  https://amzn.to/3GhXT64              | 3.27   |
+|  16. | ScrewDriver Kit                       |  https://amzn.to/3WuU9ny              | 33.23  |
 |      | Shippping Cost                        |                                       | 8.26   |
 |      | Tax                                   |                                       | 9.12   |
-|      | Total                                 |                                       | 95.08  |
+|      | Total                                 |                                       | 128.31 |
