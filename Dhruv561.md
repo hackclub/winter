@@ -17,6 +17,7 @@ I'll be ordering a rasberry pi 4 off of the official rasberry pi website which w
 https://youtu.be/4hN0_yGVdUQ
 
 https://www.cnet.com/home/smart-home/turn-an-old-monitor-into-a-wall-display-with-a-raspberry-pi/
+
 https://youtu.be/OYlloiaBINo
 
 ## Budget
