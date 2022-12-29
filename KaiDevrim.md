@@ -32,6 +32,7 @@ For the budget, just send me the rest of my budget and Soham's. Which should be 
 | Mechanical Numpad | https://www.amazon.com/Tidbit-Programmable-Mechanical-Numpad-White/dp/B08CBQHGJ7 | $39.99 |
 | SD Card Switcher | https://www.amazon.com/Icstation-Micro-Card-Dual-Switcher/dp/B01MY139K4 | $13.99 |
 | Arduino         | https://www.mouser.com/ProductDetail/782-ABX00028 | $12
+| Switches        | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6458 | $8
 | Keycaps         | https://www.mouser.com/ProductDetail/782-ABX00028 | $11
 | NFC Hat         | https://thepihut.com/products/nfc-hat-for-raspberry-pi-pn532 | $30 |
 | Stripboard | https://www.mouser.com/ProductDetail/BusBoard-Prototype-Systems/ST2?qs=NGErKr1RxMAdSUqgGAVpyQ%3D%3D | 5.98 |
@@ -43,4 +44,4 @@ For the budget, just send me the rest of my budget and Soham's. Which should be 
 | Power Isolator | https://www.mouser.com/ProductDetail/Murata-Power-Solutions/NMA0515SC?qs=PpY8XP9UEJGt%2FToOcuC6IQ%3D%3D | 5.08 |
 | IC Socket | https://www.mouser.com/ProductDetail/Mill-Max/110-41-308-41-001000?qs=dvxwXVM4mZVj1CY1TePuww%3D%3D | 0.90 |
 | J112 | https://www.mouser.com/ProductDetail/onsemi-Fairchild/J112?qs=ljbEvF4DwONoDl3CPnuhug%3D%3D | 0.47 |
-| Total           |                                       | $250
+| Total           |                                       | $258
