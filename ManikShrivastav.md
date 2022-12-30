@@ -17,7 +17,8 @@ will turn and run the car according to the instructions.
 ## Plan
 
 First of all, the chassis of car is going to be made. It will contain four motors and rubber wheels attached 
-to the frame of the robot made out of PlyWood. After that, the motors will be connected with motor shield driver. 
+to the frame of the robot made out of PlyWood. To make the frame a drill hammer set will be requied 
+and a scredriver kit to screw everything in place. After that, the motors will be connected with motor shield driver. 
 After that, the Arduino Nano will be attaced to Male female Pin Strip and then it
 is connected to the RF module using Male to female connectors and it acts as a transmitter with the power supply 
 of li-ion battery which will be attaced in the battery holder. A mini Switch will be used to turn it on and off.
@@ -46,6 +47,8 @@ After doing all the tesing and finilizing the project I will make a cover out of
 |  14. | Mini Switch                           |  https://amzn.to/3I2yMpi              | 2.18   |
 |  15. | Female to Female Connector            |  https://amzn.to/3GhXT64              | 3.27   |
 |  16. | ScrewDriver Kit                       |  https://amzn.to/3WuU9ny              | 33.23  |
+|  17. | Hammer Drill Machine Tool Kit         |  https://amzn.to/3G60hvg              | 35.05  |
+|  18  | PlyWood                               |  (Already Own)                        | 0.00   |     
 |      | Shippping Cost                        |                                       | 8.26   |
 |      | Tax                                   |                                       | 9.12   |
-|      | Total                                 |                                       | 128.31 |
+|      | Total                                 |                                       | 163.36 |
