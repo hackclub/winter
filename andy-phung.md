@@ -19,7 +19,7 @@ I'll probably:
 - Use Expressif's [ESP32 Bluetooth A2DP API](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/bluetooth/esp_a2dp.html) to get audio streaming from my phone to the two TinyS3s 
 - Connect the TinyS3s to their respective earbuds and make sure they can play audio through them -> wire a li-on battery and USB-C plug to each
 - Wire together the USB-C ports and li-on chargers (one port'll be at the bottom of the charging case, sending current to the two li-on chargers -> other two ports; to charge the earbuds, I'd just plug them into these two ports)
-- Design and 3D print the charging case, leaving slots for the charging assembly, hinge, and magnets
+- Design and 3D print the charging case, leaving slots for the charging assembly, hinge, and magnets (I have access to 3D printers, in case it isn't clear)
 - Assemble the charging case!
 ### Desktop Killjoy Turret
 This one should be a little easier --- I'll just:
