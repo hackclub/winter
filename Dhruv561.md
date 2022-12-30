@@ -16,7 +16,8 @@ I'll be ordering a rasberry pi 4 off of the official rasberry pi website which w
 https://docs.magicmirror.builders/getting-started/installation.html#alternative-installation-methods
 
 After setting up magic mirror I will use the modules library to add in all the different things I want my display to be able to do/show using this:
-https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules
+
+- https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules
 https://magpi.raspberrypi.com/articles/magic-mirror-modules
 
 I am also going to opt for a wired connection to a keyboard and mouse to start with and I might switch to a headless setup after everything works properly.
