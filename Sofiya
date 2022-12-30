@@ -1,0 +1,36 @@
+name: @sofiykam
+project: AI Healthcare ML Predictictor
+---
+
+# AI Healthcare ML Predictor
+
+## The AI Healthcare ML Predictor will take CT scan and X-Ray images of the chest and lungs in order to find disease, 
+and even predict it. It can take any input such as images, and also live videos, and analyze them to detect lung cancer, 
+covid-19, tuberculosis, and pneumonia. I am excited to build this because it is a great combination of technology and health, 
+both of which are very important parts of the career I want to pursue, and also are big hobbies and passions that I have. 
+
+
+## First I will purchase all of the materials needed to create the predictor. 
+When I have all of the materials, then I will actually prepare for set-up by connecting the SD card to the laptop, 
+and downloading all of the necessary information. Then I will set up the Jetson Kit and attach all the necessary 
+cables and pieces to the Jetson. I will need to turn on the power supply and wait for the system to reboot, and then conduct 
+all the initial setup steps for the Jetson. Then I will download the Jetson interface and program it to run when asked to, 
+I will use the datasets to give the Jetson information to analyze (or use a camera to provide live videos/photos), 
+and finally continue training the Jetson and troubleshooting until it works more and more efficiently. I will 
+also need to practice running the program many times to prevent failures and incorrect measurements. In addition, the webcam 
+will be used to analyze the skin and predict what is happening to the skin of the patient, 
+and the pulse oximiter will be used to find data that can also be analyzed by the program. 
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Type C power supply   | link| $8.59  |
+| NVIDIA Jetson nano developer kit | link  | $149.00 |
+| Ethernet Cable |link| $6.50|
+| Camera (Logitech C270 HD WEBCAM) | link| $24.99|
+| Memory Card x2| link| $22.10|
+|Wifi Card| link| $13.35|
+|Pulse Oximiter| link| $19.99|
+|Batteries| link| $4.99|
+| Total | $249.51 |
