@@ -4,7 +4,7 @@ project: Rasberry Pi Digital Display
 ---
 
 # Project Name
-Rasberry Pi Dogital Display
+Rasberry Pi Digital Display
 
 ## Summary
 I will be using a rasberry pi to create and build a digital smart display which I will be able to display information such as time, calendar, weather, events, be able to control smart devices, etc. I really want to build this after watching some two way mirror / magic mirror videos on youtube which display information like this and only being powered by a rasberry pi. The goal is to start with just building a smart display and then turn it into a magic mirror if I have the time and budget. This is also a great use of the spare tv we have in the house.
