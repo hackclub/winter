@@ -9,6 +9,9 @@ project: "DonkeyCar RC car"
 
 I plan on building a RC car which can  drive itself and also be controlled from mobile. I'm super excited as I have always wanted to experiemnt with a rasberry pi and see what amazing things I could do with it. I also have always thought RC cars were fasinating. 
 
+Also 
+Donkey has there own software but I would like to code my own. Having recently taken Computer Architecture I've learned about lower level programming and interfacing with electronics. I would want to be able to control every aspect about the RC from my computer and be able to custom code routines for it to be able to follow if possible using the embedded camera.
+
 ## Plan
 
 First I will order all of the products. 
@@ -19,7 +22,9 @@ I will then clean up all of these prints.
 
 I will attach the parts together. (Pi > 3d printed plate) (Camera to Adatper)
 
-Then I will install the Donkeycare software and configure it all.
+Then I will install the Donkeycare software and configure it all. 
+
+Then using my own firmware that I will code, with what is going to be an extremely redimentary UI I would like to have fine control of the RC car. I would also like to be able to do basic autonomous pathfinding using the camera.
 
 http://docs.donkeycar.com/
 
