@@ -20,6 +20,8 @@ After purchasing the components, my plan is to put them together. Next, I will d
 | Raspberry Pi 3 Model B+   | https://www.amazon.ca/Raspberry-Pi-3-Model-B/dp/B00LPESRUK/ref=sr_1_3?crid=181W7X9K1ZD7 | $119.36 CAD ($88.26 USD) |
 | The Antenna | https://www.amazon.ca/NooElec-NESDR-Mini-Compatible-Packages/dp/B009U7WZCA/ref=sr_1_4?crid=2Q21RVC7FK8LB  | $37.90 CAD ($28.03 USD) |
 | Raspberry Pi Power Supply | https://www.amazon.ca/Seenov-Supply-Adapter-Raspberry-Tablets/dp/B0B1F5XXFD/ref=sr_1_1?crid=1MSVHYFFP2W18 | $12.86 CAD ($9.51 USD) |
+| 3-D Printer Filament | Already Own | $0.00 |
+| SD Card for Raspberry Pi | Already Own | $0.00 |
 | Import Fees |  | $20.45 CAD ($15.12 USD) |
 | Tax |  | $1.67 CAD ($1.24 USD) |
 | Total           |  | $192.24 CAD ($142.16 USD) |
