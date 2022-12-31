@@ -34,9 +34,11 @@ and I will do the things via voice command
 | Raspberry Pi 3      | https://amzn.eu/d/3xqghZG             | $132.76|
 | 32 inch"LED display | https://amzn.eu/d/fgnFrpA             | $138.86|
 | Acrylic Mirror      | https://amzn.eu/d/b9tiNru             | $108.89|
-| Alexa                |  https://amzn.eu/d/8cK5HNE   | $42.68      |
+| speakers              |  https://amzn.eu/d/8b8LJaV   | $21.95      |
 | Sd card           | https://amzn.eu/d/jaTch4x         | $12.18|
 | LED strip        |https://amzn.eu/d/84zfWqZ      | $ 24.39 |
-| Total               |                                       | $459.76|
+| mic               |https://amzn.eu/d/2JQO0nr     | $9.13 | 
+|USB Sound Card     |https://amzn.eu/d/e1XhAnH   | $10.47 |
+| Total               |                                       | $448.86|
 
 
