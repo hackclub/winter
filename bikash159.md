@@ -39,8 +39,8 @@ how the car responds. I may need to make adjustments to the code or the car's ha
 | TP4056 Battery Charger             | https://amzn.to/3jKYF2s | $1.17   |
 | 18650 3.7v Battery Holder          | https://amzn.to/3GvASgb | $1.08   |
 | Jumper Wires                       | https://amzn.to/3GsyyGK | $3.26   |
-| Connecting Wires                   | (Already Own)           |         |
-| Acrylic Sheet                      | (Already Own)           |         |
+| Connecting Wires                   | (Already Own)           | $0.00   |
+| Acrylic Sheet                      | (Already Own)           | $0.00   |
 | Shipping                           |                         | $18.24  |
 | Tax                                |                         | $11.23  |
-| Total                              |                         | $248.06  |
+| Total                              |                         | $248.06 |
