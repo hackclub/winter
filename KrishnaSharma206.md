@@ -12,7 +12,7 @@ A robot that recohnizes certain shapes and navigates it's way accordingly, I am 
 ## Plan
 
 I will be using the jetson nano as the brain of this project, the raspberry pi wont be enough for this and the jetson nano will be a better alternative
-, I will be using a camera for the detection and I am planning to add more sensors and actuators to it in the future.
+, I will be using a camera for the detection and I am planning to add more sensors and actuators to it in the future(like a beanbag gripper arm).
 
 The Steps:
 1. Learn how to use the jetson nano
@@ -25,9 +25,13 @@ The Steps:
 
 | Product                | Supplier/Link                                               |  Cost   |
 | ---------------        | ----------------------------------------------------------- | ------- |
-| Nvidia Jetson nano     | https://www.arrow.com/en/products/945-13450-0000-100/nvidia | $195.00 |
-| Rover5 chassis         | https://www.rhydolabz.com/robotics-robotic-kits-c-155_161/dagu-rover-5-2wd-tracked-chassis-without-encoder-p-1258.html | $39 |
-| Rover5 expansion plate | https://www.pololu.com/product/1530                         | $16.00  |
-| Total                  |                                                             | $250    |
+| Nvidia Jetson nano     | https://www.fabtolab.com/nvidia-jetson-nano-developer-kit   | $136.17 |
+| camera                 |https://robu.in/product/arducam-imx219-1080p-raspberry-pi-camera-module-with-abs-case| $78 |
+| battery for jetson nano| https://amzn.eu/d/9LfkCYW                                   | $14.00  |
+| wifi adapter           | https://tannatechbiz.com/tp-link-tl-wn725n-150-mbps-wireless-n-nano-usb-adapter-nano-size-wifi-dongle-compatible-with-nvidia-jetson-nano-and-raspberry-pi.html                                                      | $6 |
+| power adapter | https://amzn.eu/d/2TpVtnH | $6 |
+| memory card (64gb)     | https://amzn.eu/d/eRnp39g                                   | $7 |
+| jumper cables          | https://robu.in/product/10-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo | $2 |
+| Total                  |                                                             | $239    |
 
-Note: I will be buying rest of the parts required by myself, these are the parts that are not available in my country and also are too expensive for me to buy.
+Note: I have mentioned everything I need for the robot, I have an old chassis which used for an arduino project, so I can use that again
