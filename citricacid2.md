@@ -18,7 +18,7 @@ Feature breakdown:
 - The outside will have accesible USB ports, and a detachable MagSafe charger.
 - The arm straps will be lined with independently addressable RGB LEDs that both provide aesthetic and practical benefits.
 - The back of the bag will have a large RGB display that can be used for aesthetic purposes or for safety, such as break lights, turn signals, etc.
-- The zippers will have magnetic contacts to detect if the bag is open or closed. The LEDs can be used to indicate this.
+- The zippers will have conductive . The LEDs can be used to indicate this.
 - All attached devices and the internal battery will be able to be charged from a single USB-C port on the outside of the bag.
 - The backpack's features will be controllable via bluetooth from a mobile app.
 
@@ -50,6 +50,7 @@ Tools:
 - Sewing Kit
 - Hot Glue
 - Computer for programming
+- 3D Printer
 
 ## Budget
 
