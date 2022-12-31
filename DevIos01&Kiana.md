@@ -9,23 +9,22 @@ Modern Duck Hunt + Modern NES Zapper
 
 #  Summary
 
-I am excited to build a modern version of the classic NES games, Duck Hunt and the NES Zapper, with my best friend @Kiana. The Duck Hunt game will feature updated graphics and sound, as well as new gameplay elements to keep players engaged. It will be built using the Unity game engine and will be compatible with PC. The modern NES Zapper will be compatible in modern pc with API support. It will use a microcontroller to control the laser sight and trigger with multiple button, and will be powered by a rechargeable battery.
+I am excited to build a modern version of the classic NES game, Duck Hunt, with my best friend @Kiana as a demo project. Our main project will be a modern version of the NES Zapper, which will be compatible with modern PC and have API support. The microcontroller will control the laser sight and trigger with multiple buttons, and the device will be powered by a rechargeable battery. The Duck Hunt game will feature updated graphics and sound, as well as new gameplay elements to keep players engaged. It will be built using the Unity game engine and will be compatible with PC.
 
 # Plan
 
-1. Research and gather reference materials for the games, including the original Duck Hunt and NES Zapper and any relevant assets or design elements.
-2. Set up a new Unity project and configure the necessary tools and plugins for the Duck Hunt game.
-3. Create the basic game structure for Duck Hunt, including the main menu, game levels, and scoring system.
-4. Design and implement the graphics and sound for the Duck Hunt game, using a combination of 2D and 3D assets.
-5. Implement the gameplay mechanics for Duck Hunt, including the movement and shooting controls for the player character and the behavior of the duck targets.
-6. Test and debug the Duck Hunt game to ensure smooth gameplay and fix any issues that arise.
-7. Polish the Duck Hunt game by adding any additional features or content, such as power-ups or unlockables.
-8. Select a microcontroller and rechargeable battery for the NES Zapper, and design the circuit to control the laser sight and trigger.
-9. Create a 3D model of the NES Zapper using a CAD software, and use a 3D printer to print the physical components.
-10. Assemble the NES Zapper using the printed components and the microcontroller circuit.
-11. Test the NES Zapper to ensure that the laser sight and trigger function correctly, and make any necessary adjustments.
-12. Implement any additional features for the NES Zapper, such as sound effects or vibration feedback.
-13. Test and debug the NES Zapper to ensure smooth operation.
+1. Select a microcontroller and rechargeable battery for the NES Zapper.
+2. Design the circuit to control the laser sight and trigger using the Raspberry Pi.
+3. Write custom API to support the NES Zapper in modern pc.
+4. Use a CAD software to create a 3D model of the NES Zapper.
+5. Use a 3D printer to print the physical components of the NES Zapper.
+6. Assemble the NES Zapper using the printed components and the microcontroller circuit.
+7. Use the Raspberry Pi Camera V2 Video Module to capture the laser sight and trigger input from the NES Zapper and send it to the Raspberry Pi for 
+   processing.
+8. Test the NES Zapper to ensure that the laser sight and trigger function correctly, and make any necessary adjustments.
+9. Implement any additional features for the NES Zapper, such as sound effects or vibration feedback.
+10. Test and debug the NES Zapper to ensure smooth operation.
+
 
 # Budget
 # Manufature: DustinHome
@@ -37,6 +36,7 @@ I am excited to build a modern version of the classic NES games, Duck Hunt and t
 | Raspberry Pi Camera V2 Video Module                         | https://www.dustinhome.se/product/5010946006/camera-v2-video-module                      | 395kr  (38$)  |
 | iFixIt Pro Tech Kit                                         | https://www.dustinhome.se/product/5011054743/pro-tech-verktygskit                        | 899kr  (86$)  |
 | iFixIt Pro Magnetic Project Mat                             | https://www.dustinhome.se/product/5010781428/pro-magnetic-project-mat                    | 229kr  (22$)  |
+| 3D Printer                                                  | https://www.kth.se/sv/ee/spp/education/student-workshop/verkstan/3d-skrivare-1.686915    | (0$)   Owned  |
 | Shipping                                                    | 299kr  (29$)                                                                             |               |
 | Total                                                       | 3812kr (365$)                                                                            |               |
 
