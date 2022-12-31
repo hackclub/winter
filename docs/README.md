@@ -20,7 +20,7 @@ To help you build your project, Hack Club is offering grants of up to $250 per p
 
 - **What you're building** (a short description of what your project is about and any relevant information you'd like to include)
 - **Plan** (what steps you're going to take to build it)
-- **Budget** (with a list of components or tools needed, where you're going to buy them, and cost in USD)
+- **Budget** (with a list of components or tools needed, where you're going to buy them, and cost in USD; please include taxes and shipping)
 
 <details open>
 <summary> 👉 📝 Use this template for creating your document!</summary>
@@ -43,6 +43,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ## Budget
 
+What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
@@ -56,7 +58,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 1. Fork this repository.
 2. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
-3. Open a pull request, and someone will review your pull request within 24 hours on weekdays!
+3. Open a pull request, and someone will review your pull request within 48 hours on weekdays!
 
 More detailed instructions can be found in the ["how to submit"](/docs/how_to_submit.md) guide.
 
@@ -69,10 +71,7 @@ Ask in `#hardware-party` on Slack if you have any questions!
 - 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
 - [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
 
-or check out these example projects for inspiration:
-
-- [Desk Lights](/docs/examples/led-lights.md)
-- [Mechanical Keyboard](/docs/examples/mechanical-keyboard.md)
+or check out these example [Desk Lights](/docs/examples/led-lights.md) for inspiration!
 
 ## 💰 What happens after your project is approved?
 
