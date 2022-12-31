@@ -21,6 +21,10 @@ forth two way mirror
 fifth cables and micro sd card for os
 after asembly of this. We are going to install smart mirror software in raspberry pi (https://magicmirror.builders/) this is link and documentation.
 and also add stress detction software 
+and basically I am goanna take alexa and integrate with raspberry pi to control via voice
+http://www.cyber-omelette.com/2016/11/alexa-pi.html I took reference from here
+I just need to make aws developer account and through this I'll move further
+and I will do the things via voice command
 
 
 ## Budget
@@ -30,7 +34,10 @@ and also add stress detction software
 | Raspberry Pi 3      | https://amzn.eu/d/3xqghZG             | $132.76|
 | 32 inch"LED display | https://amzn.eu/d/fgnFrpA             | $138.86|
 | Acrylic Mirror      | https://amzn.eu/d/b9tiNru             | $108.89|
-| Total               |                                       | $380.51|
+| Alexa                |  https://amzn.eu/d/8cK5HNE   | $42.68      |
+| Sd card           | https://amzn.eu/d/jaTch4x         | $12.18|
+| LED strip        |https://amzn.eu/d/84zfWqZ      | $ 24.39 |
+| Total               |                                       | $459.76|
 
 ## cost optimized 
 | Product             | Supplier/Link                         | Cost   |
