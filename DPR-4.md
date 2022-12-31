@@ -39,14 +39,4 @@ and I will do the things via voice command
 | LED strip        |https://amzn.eu/d/84zfWqZ      | $ 24.39 |
 | Total               |                                       | $459.76|
 
-## cost optimized 
-| Product             | Supplier/Link                         | Cost   |
-| ---------------     | ------------------------------------- | ------ |
-| Raspberry Pi 3      | https://amzn.eu/d/3xqghZG             | $132.76|
-| 32 inch"LED display | https://amzn.eu/d/5z8p9DQ             | $96.60 |
-| Acrylic Mirror      | i will buy by my money                | $0     |
-| HDMI                | own                                   | $0     |
-| speaker             | own                                   | $0     |
-| mouse and keyboard  | own                                   | $0     |
-| Micro SD Card       | own                                   | $0     |
-| Total               |                                       | $229.36|
+
