@@ -23,10 +23,10 @@ Later, we plan to use QMK software to program the keys on the keyboard to do uni
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 3D printer      |https://www.amazon.com/ELEGOO-Monochrome-Ultra-high-143%C3%9789%C3%97175mm-5-62%C3%973-5%C3%976-8in/dp/B095K3JWP3/ref=sr_1_3?keywords=elegoo+mars&qid=1672259194&sr=8| $217.00  |
-| key switches    |https://kbdfans.com/products/gateron-oil-king-linear-switches?_pos=1&_sid=ecc752f8f&_ss=r | $45.50 |
+| 3D printer Ender 3 Max     |https://www.amazon.com/Creality-Mainboard-Meanwell-Carborundum-Platform/dp/B08MWKR57W/ref=sr_1_5?crid=3IXD133TKUPCU&keywords=3d+printer+with+300mm&qid=1672524773&sprefix=3d+printer+with+300mm%2Caps%2C67&sr=8-5| $265.99  |
+| key switches,lube,films, key puller|https://divinikey.com/products/gateron-cj-linear-switches | $116.93 |
 | soldering iron kit| https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF/ref=sr_1_6?keywords=soldering+iron&qid=1671772103&sr=8-6 | $13.34 |
-| PCB             |https://kbdfans.com/collections/pcb/products/dz60-60-pcb | $38.00 |
+| PCB/o-ring/daughterboard |https://cannonkeys.com/ | $38.00 |
 | switch lube     |https://kineticlabs.com/lube/krytox/205-grade-0 | $7.99 |
-| 3D Printer Resin|https://www.amazon.com/ANYCUBIC-UV-Curing-Precision-Excellent-Fluidity/dp/B07G3663HD/ref=sr_1_3keywords=resin%2B3d%2Bprinter&qid=1672259538&sprefix=resin%2B3d%2Caps%2C110&sr=8-3&th=1| $24.99 |
-| Total           |                                       | $345 |
+| 3d printer filament |https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6/ref=sr_1_4?keywords=3d+printer+white+filament&qid=1672526616&sprefix=3d+printer+white+%2Caps%2C73&sr=8-4 | $24.99 |
+| Total           |                                       | $458.59 |
