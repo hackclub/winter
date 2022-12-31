@@ -7,7 +7,7 @@ project: "Media Deck"
 
 ## Summary
 
-Basically like a stream deck but with a screen and a rotary knob. Can be used for controlling audio, running macros, launching applications once connected to a computer. I'll probably also need to write a client side app to achieve the macros, info displaying part. I also decided to use a raspberry pi zero w and a battery pack so that this project can hopefully be fully wireless. Also because it has a built in display, it can be programmed to show other useful data, such as bitcoin price data, currently playing media, etc.
+Basically like a stream deck but with a screen and a rotary knob. Can be used for controlling audio, running macros, launching applications once connected to a computer. I'll probably also need to write a client side app to achieve the macros, info displaying part. I also decided to use a raspberry pi zero w and a battery pack so that this project can hopefully be fully wireless. Also because it has a built in display, it can be programmed to show other useful data, such as bitcoin price data, currently playing media, etc. I also intend to make the built in display show notifications, this way, if the user is engaged in a fullscreen activity, such as playing a game and etc, they can check on the notifications just by glancing at the deck.
 
 ![Concept](https://user-images.githubusercontent.com/12859874/210131267-afd04426-078c-4969-9422-611caf134e07.png)
 
