@@ -7,7 +7,7 @@ project: "Media Deck"
 
 ## Summary
 
-Basically like a stream deck but with a screen and a rotary knob. Can be used for controlling audio, running macros, launching applications once connected to a computer. I'll probably also need to write a client side app to achieve the macros, info displaying part. I also decided to use a banana pi m2 zero. Also because it has a built in display, it can be programmed to show other useful data, such as bitcoin price data, currently playing media, etc. I also intend to make the built in display show notifications, this way, if the user is engaged in a fullscreen activity, such as playing a game and etc, they can check on the notifications just by glancing at the deck.
+Basically like a stream deck but I'd say it's a better version, it has a screen, a rotary knob and 9 buttons. Can be used for controlling audio, running macros, launching applications, even maybe mini programs on the deck itself since it can run independent of a computer if you wish to. Because it has a built in display, it can also be programmed to show other useful data, such as bitcoin price data, currently playing media, etc. I also intend to make the built in display show notifications, this way, if the user is engaged in a fullscreen activity, such as playing a game and etc, they can check on the notifications just by glancing at the deck. Basically the capabilities for modding seem endless to me with the combination of a banana pi, a touchscreen, a knob, and keys.
 
 | ![Concept](https://user-images.githubusercontent.com/12859874/210131267-afd04426-078c-4969-9422-611caf134e07.png) |
 |:--:| 
@@ -15,7 +15,14 @@ Basically like a stream deck but with a screen and a rotary knob. Can be used fo
 
 ## Plan
 
-After I buy all the required items, I'm going to figure out how to connect the display to the raspberry pi, after that, I'm going to let the raspberry pi be able to detect the key inputs, rotary knob inputs and etc. After getting the inputs, I have to figure out how to relay this information to the connected computer. Maybe through an app on both the raspberry pi and the computer? Honestly I have only tried arduino before, so it would be a learning curve to try raspberry pi. Once that's done I guess all that's left is to design the ui for the display. Once the electronics part is done, I will design a case (probably going to have to learn to use cad software) to house all the electronics in and print it out. After soldering all the components together, glueing it into the case, it should be complete.
+1. After receiving the grant, purchase all the required items.
+2. After setting up the banana pi, connect the display to the banana pi and finish setting it up.
+3. I'd probably write a custom app for the raspberry pi here to make it display info, read inputs from the gpio pins which I'll connect the knobs and buttons to, after prototyping on a breadboard, I'll solder the components together. I'll probably test sending the input data through maybe something like bluetooth? This probably requires writing another app on the receiving computer to configure the macros, relay information like currently playing song, maybe even set a background? Custom theming?
+4. After I confirm the electronics are working, I'll take the dimensions and design a case which looks aesthetically nice and can fit everything nicely. I'll 3d print the case using the 3d printer I purchased as I don't have any access to a 3d printer in my area and probably have to use some online 3d printing which would be slow to ship and wouldn't enable me to rapidly iterate on my design.
+5. If I have the time, and budget, I'm also considering adding a lipo battery to this deck to make it be able to used fully wirelessly.
+
+Notes:
+- I'm not following any guide directly to build this and will work my way through with some experimenting + following various different online guides to connect all the different pieces together.
 
 ## Budget
 
