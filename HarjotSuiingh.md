@@ -54,7 +54,6 @@ https://youtu.be/yDzpxlhuTck
 | E-ink waveshare screen | https://amzn.asia/d/cRCEgml   | $100 |
 | Rasberry Pi Pico| https://amzn.asia/d/bGzP1Ih  | $32  |
 | Kindl pw| https://amzn.asia/d/ciGJuwI | $189  |
-
 | Rasberry Pi Sensors| https://amzn.asia/d/fQOwC3j | $44  |
 
 | Total       $Aud    |                                       | $365 |
