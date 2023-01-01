@@ -45,7 +45,6 @@ https://youtu.be/yDzpxlhuTck
 
 
 | Product         | Supplier/Link                         | Cost   |
-
 | --------------- | ------------------------------------- | ------ |
 
 | Rasberry Pi  - Owned | . | $0  |
