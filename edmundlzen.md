@@ -17,7 +17,7 @@ Basically like a stream deck but I'd say it's a better version, it has a screen,
 
 1. After receiving the grant, purchase all the required items.
 2. After setting up the banana pi, connect the display to the banana pi and finish setting it up.
-3. I'd probably write a custom app for the raspberry pi here to make it display info, read inputs from the gpio pins which I'll connect the knobs and buttons to, after prototyping on a breadboard, I'll solder the components together. I'll probably test sending the input data through maybe something like bluetooth? This probably requires writing another app on the receiving computer to configure the macros, relay information like currently playing song, maybe even set a background? Custom theming?
+3. I'd probably write a custom app for the banana pi to make it display info, read inputs from the gpio pins which I'll connect the knobs and buttons to, after prototyping on a breadboard, I'll solder the components together. I'll probably test sending the input data through maybe something like bluetooth? This probably requires writing another app on the receiving computer to configure the macros, relay information like currently playing song, maybe even set a background? Custom theming?
 4. After I confirm the electronics are working, I'll take the dimensions and design a case which looks aesthetically nice and can fit everything nicely. I'll 3d print the case using the 3d printer I purchased as I don't have any access to a 3d printer in my area and probably have to use some online 3d printing which would be slow to ship and wouldn't enable me to rapidly iterate on my design.
 5. If I have the time, and budget, I'm also considering adding a lipo battery to this deck to make it be able to used fully wirelessly.
 
