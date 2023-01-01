@@ -21,7 +21,7 @@ I plan on using a raspberry pi that I already own, along with a pikvm so it acts
 ### Stream Deck
 For the Stream Deck, I will use a mechanical keypad, attach that to my raspberry pi, and use the OSS https://stream-pi.com/ to control my computer, phone, server, lights, all from a click of a button. I will need the SD card switcher so that I can use one pi for multiple projects.
 
-### Soham Microphone
+### Microphone
 For the micrphone, me and Soham plan on following this simple video., [Building a quality USB-C microphone](https://www.youtube.com/watch?v=LoQu3XXIayc). We are planning on meeting up together during the hardware-party in February. I will help build the easier parts like connecting the power and doing some soldering. Soham wants to work with the resistors and capicitors and will also be helping teach me a lot of the hardware parts. This will be a fun project for the both of us as he will help me build my keyboard and I will help build his microphone.
 
 ## Budget
