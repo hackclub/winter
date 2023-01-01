@@ -50,7 +50,6 @@ https://youtu.be/yDzpxlhuTck
 | Double Sided Tape - owned | . | $0  |
 | Screws - Owned | . | $0 |
 | Frame - Owned | . | $0 |
-
 | Velcro Stickers - Owned|  . | $0 |
 
 | E-ink waveshare screen | https://amzn.asia/d/cRCEgml   | $100 |
