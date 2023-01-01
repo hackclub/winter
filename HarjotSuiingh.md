@@ -47,7 +47,6 @@ https://youtu.be/yDzpxlhuTck
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Rasberry Pi  - Owned | . | $0  |
-
 | Double Sided Tape - owned | . | $0  |
 
 | Screws - Owned | . | $0 |
