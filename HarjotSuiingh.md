@@ -52,7 +52,6 @@ https://youtu.be/yDzpxlhuTck
 | Frame - Owned | . | $0 |
 | Velcro Stickers - Owned|  . | $0 |
 | E-ink waveshare screen | https://amzn.asia/d/cRCEgml   | $100 |
-
 | Rasberry Pi Pico| https://amzn.asia/d/bGzP1Ih  | $32  |
 
 | Kindl pw| https://amzn.asia/d/ciGJuwI | $189  |
