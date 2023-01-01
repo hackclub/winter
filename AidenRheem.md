@@ -20,4 +20,4 @@ Materials
 | Keycaps         | [Minimalistic BoW](https://idobao.net/collections/keycap/products/idobao-minimalist-black-and-white-pbt-keycaps-kit) | $46.50 |
 | Puller Tool     | [Keycap & Switch Puller](https://www.amazon.com/dp/B09L59DNH2) | $4.99 |
 | Shipping        | Divinikey (Switches)                  | $6.01  |  
-| Total           |                                       | $225.42 |
+| Total           |                                       | $246.84 |
