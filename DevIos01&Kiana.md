@@ -14,7 +14,7 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 # Plan
 
 1. Select a microcontroller and rechargeable battery for the NES Zapper.
-2. Design the circuit to control the laser sight and trigger using the Raspberry Pi.
+2. Design the circuit to control the laser sight and trigger using the Raspberry Pi. Connect gyroscope to detect the movement and rotation to recreate it on game.
 3. Write custom API to support the NES Zapper in modern pc.
 4. Use a CAD software to create a 3D model of the NES Zapper.
 5. Use a 3D printer to print the physical components of the NES Zapper.
