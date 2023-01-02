@@ -24,8 +24,8 @@ days 6 - 10: Program and test
 | IR Receiver           | [https://www.adafruit.com/product/157](https://www.adafruit.com/product/157)  | $1.95  |
 | Power Boost 1000      | [https://www.adafruit.com/product/2465](https://www.adafruit.com/product/2465)| $19.95 |
 | Li-Ion battery        | [https://www.adafruit.com/product/1781](https://www.adafruit.com/product/1781)| $9.95  |
-| Body/Exterior parts   |                                       | $140.00  |
-| Total           |                                       | $196.80 |
+| 3D Printer (Creality Ender 3 3D)   | [amazon link](https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/ref=sr_1_1?crid=18G6VJMWLDTLF&keywords=3D+printers&qid=1672681878&refinements=p_n_deal_type%3A23566065011&rnid=23566063011&s=industrial&sprefix=3d+printers%2Cindustrial%2C159&sr=1-1)   | $199.00  |
+| Total           |                                       | $255.80|
 
-I will be following closely the schematic below
+I will be following closely the schematic below and model from [goodboy][https://www.instructables.com/GoodBoy-3D-Printed-Arduino-Robot-Dog/]
 ![image](https://user-images.githubusercontent.com/72882797/209758010-fae0c3ca-7d2e-463e-9def-8728b0465475.png)
