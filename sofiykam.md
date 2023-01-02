@@ -26,35 +26,12 @@ and the pulse oximiter will be used to find data that can also be analyzed by th
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Type C power supply   | https://www.amazon.com/dp/B08R7N4CP6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B08R7N4CP6&pd_rd_w=MF4j6&content
--id=amzn1.sym.dd2c6db7-6626-466d-bf04-9570e69a7df0&pf_rd_p=dd2c6db7-6626-466d-bf04-9570e69a7df0&pf_rd_r=N1XSQFM38F0KSV7X9CQ7&pd_rd_
-wg=x2yBP&pd_rd_r=27a3942d-ac16-4539-8820-5b34b0ac4265&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&spLa=ZW5jcnlwdGVkUXVhbGlm
-aWVyPUEyRjNTN1pENDc1UDRJJmVuY3J5cHRlZElkPUEwMTA3OTA5MjJOQ01QRUNTQk45RyZlbmNyeXB0ZWRBZElkPUEwMjg0MjM4MVY3TjJMNlA4V1NIQSZ3aWRnZXROYW1lPXNw
-X2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=| $8.59  |
-
-| NVIDIA Jetson nano developer kit | https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=sr_1_
-2?crid=35M189S5Q9LT3&keywords=nvidia+jetson+nano+developer+kit+2gb&qid=1672350344&sprefix=nvidia+jetson+nano+developer+kit+2gb%2Caps
-%2C133&sr=8-2  | $149.00 |
-
-| Ethernet Cable |https://www.amazon.com/AmazonBasics-RJ45-Cat-6-Ethernet-Patch-Cable-25-Feet-7-6-Meters/dp/B00N2VIWPY/ref=sr_1_3?crid
-=3G4N4R2JV0HAO&keywords=ethernet%2Bcable&qid=1672351370&sprefix=ethernet%2Bcable%2Caps%2C109&sr=8-3&th=1| $6.50|
-
-| Camera (Logitech C270 HD WEBCAM) | https://www.amazon.com/Logitech-Desktop-Widescreen-Calling-Recording/dp/B004FHO5Y6/ref=
-sr_1_1?crid=29DTQJIO6B0YV&keywords=Camera%2B(Logitech%2BC270%2BHD%2BWEBCAM)&qid=1672351499&sprefix=camera%2Blogitech%2Bc270%
-2Bhd%2Bwebcam%2B%2Caps%2C103&sr=8-1&th=1| $24.99|
-
-| Memory Card | https://www.amazon.com/Amazon-Basics-microSDXC-Memory-Adapter/dp/B08TJRVWV1/ref=sr_1_1_sspa?crid=FUSLKI6K
-20T7&keywords=memory%2Bcard&qid=1672351539&sprefix=memory%2Bcard%2Caps%2C113&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEz
-M1lOMklNUUxVRTBaJmVuY3J5cHRlZElkPUEwMjY2NDQxNFlBSU5VWllRQVhJJmVuY3J5cHRlZEFkSWQ9QTA2Njg3NDYzM1dDMk5KQ0QyMEJZJndpZGdldE5hbWU9
-c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1| $13.77|
-
-|Wifi Card| https://www.amazon.com/Intel-Wireless-Ac-9260-2230-Gigabit/dp/B079QH5KW1/ref=sr_1_3?crid=2A4SQN5GIWXPM&keywords
-=wifi+card+intel+9260&qid=1672425982&sprefix=wifi+card+intel+9260%2Caps%2C125&sr=8-3| $13.35|
-
-|Pulse Oximeter| https://www.amazon.com/oximeter-Plethysmograph-Perfusion-portable-included/dp/B09XBC9MN3/ref=sr_1_24
-?keywords=pulse+oximeter+finger&qid=1672426825&sr=8-24| $19.99|
-
-|Batteries| https://www.amazon.com/LiCB-Pack-Battery-Button-Batteries/dp/B085TBTNMC/ref=sr_1_5?crid=2XYF461OJBIUV&keywords
-=batteries&qid=1672427096&refinements=p_36%3A-600&rnid=386636011&sprefix=batterie%2Caps%2C121&sr=8-5&th=1| $4.99|
-
+| Type C power supply   | https://www.amazon.com/dp/B08R7N4CP6/ref=sspa_dk_detail_3psc=1&pd_rd_i=B08R7N4CP6&pd_rd_w=MF4j6&contentid=amzn1.sym.dd2c6db76626-466d-bf04-9570e69a7df0&pf_rd_p=dd2c6db7-6626-466d-bf04-9570e69a7df0&pf_rd_r=N1XSQFM38F0KSV7X9CQ7&pd_rd_wg=x2yBP&pd_rd_r=27a3942d-ac16-4539-88205b34b0ac4265&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRjNTN1pENDc1UDRJJmVuY3J5cHRlZElkPUEwMTA3OTA5MjJOQ01QRUNTQk45RyZlbmNyeXB0ZWRBZElkPUEwMjg0MjM4MVY3TjJMNlA4V1NIQSZ3aWRnZXROYW1lPXNwX2RldGFpbF90aGVtYXRpYyZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU | $8.59  |
+| NVIDIA Jetson nano developer kit | https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=sr_1_2crid=35M189S5Q9LT3&keywords=nvidia+jetson+nano+developer+kit+2gb&qid=1672350344&sprefix=nvidia+jetson+nano+developer+kit+2gb%2Caps%2C133&sr=8-2  | $149.00 |
+| Ethernet Cable |https://www.amazon.com/AmazonBasics-RJ45-Cat-6-Ethernet-Patch-Cable-25-Feet-7-6-Meters/dp/B00N2VIWPY/ref=sr_1_3?crid=3G4N4R2JV0HAO&keywords=ethernet%2Bcable&qid=1672351370&sprefix=ethernet%2Bcable%2Caps%2C109&sr=8-3&th=1| $6.50|
+| Camera (Logitech C270 HD WEBCAM) | https://www.amazon.com/Logitech-Desktop-Widescreen-Calling-Recording/dp/B004FHO5Y6/ref=sr_1_1?crid=29DTQJIO6B0YV&keywords=Camera%2B(Logitech%2BC270%2BHD%2BWEBCAM)&qid=1672351499&sprefix=camera%2Blogitech%2Bc270%2Bhd%2Bwebcam%2B%2Caps%2C103&sr=8-1&th=1| $24.99|
+| Memory Card | https://www.amazon.com/Amazon-Basics-microSDXC-Memory-Adapter/dp/B08TJRVWV1/ref=sr_1_1_sspa?crid=FUSLKI6K20T7&keywords=memory%2Bcard&qid=1672351539&sprefix=memory%2Bcard%2Caps%2C113&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzM1lOMklNUUxVRTBaJmVuY3J5cHRlZElkPUEwMjY2NDQxNFlBSU5VWllRQVhJJmVuY3J5cHRlZEFkSWQ9QTA2Njg3NDYzM1dDMk5KQ0QyMEJZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1| $13.77|
+|Wifi Card| https://www.amazon.com/Intel-Wireless-Ac-9260-2230-Gigabit/dp/B079QH5KW1/ref=sr_1_3?crid=2A4SQN5GIWXPM&keywords=wifi+card+intel+9260&qid=1672425982&sprefix=wifi+card+intel+9260%2Caps%2C125&sr=8-3| $13.35|
+|Pulse Oximeter| https://www.amazon.com/oximeter-Plethysmograph-Perfusion-portable-included/dp/B09XBC9MN3/ref=sr_1_24?keywords=pulse+oximeter+finger&qid=1672426825&sr=8-24| $19.99|
+|Batteries| https://www.amazon.com/LiCB-Pack-Battery-Button-Batteries/dp/B085TBTNMC/ref=sr_1_5?crid=2XYF461OJBIUV&keywords=batteries&qid=1672427096&refinements=p_36%3A-600&rnid=386636011&sprefix=batterie%2Caps%2C121&sr=8-5&th=1| $4.99|
 | Total | $241.18 |
