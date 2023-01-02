@@ -18,7 +18,7 @@ Feature breakdown:
 - The outside will have accesible USB ports, and a detachable MagSafe charger.
 - The arm straps will be lined with independently addressable RGB LEDs that both provide aesthetic and practical benefits.
 - The back of the bag will have a large RGB display that can be used for aesthetic purposes or for safety, such as break lights, turn signals, etc.
-- The zippers will have conductive . The LEDs can be used to indicate this.
+- The zippers will have conductive thread switches. The LEDs can be used to indicate this.
 - All attached devices and the internal battery will be able to be charged from a single USB-C port on the outside of the bag.
 - The backpack's features will be controllable via bluetooth from a mobile app.
 
@@ -68,4 +68,7 @@ Tools:
 | RGB Display                     | [https://a.co/d/aTwnrpg](https://a.co/d/aTwnrpg) | $17.88  |
 | Protoboard                      | [https://a.co/d/6sDy8o3](https://a.co/d/6sDy8o3) | $14.08  |
 | Conductive Thread               | [https://a.co/d/icRMtOQ](https://a.co/d/icRMtOQ) | $10.99  |
-| Total                           |                                                  | $259.22 |
+| Subtotal                        |                                                  | $259.22 |
+| Shipping                        |                                                  | $0.00   |
+| Tax                             | $\$259.22 \cdot 0.07 $                           | $18.15  |
+| Total                           |                                                  | $277.37 |
