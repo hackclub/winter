@@ -11,7 +11,9 @@ covid-19, tuberculosis, and pneumonia. I am excited to build this because it is 
 both of which are very important parts of the career I want to pursue, and also are big hobbies and passions that I have. 
 
 
-## First I will purchase all of the materials needed to create the predictor. 
+## Plan
+
+First I will purchase all of the materials needed to create the predictor. 
 When I have all of the materials, then I will actually prepare for set-up by connecting the SD card to the laptop, 
 and downloading all of the necessary information. Then I will set up the Jetson Kit and attach all the necessary 
 cables and pieces to the Jetson.(the jetson and pulse oximeter + camera will be connected with the ethernet cable and the USB plugs they have included.)
