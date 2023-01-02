@@ -15,6 +15,12 @@ You can select between 4 modes, which are the drumbox, the looper, the midi laun
 
 This project will be opensource and will have instructions on how to make it on instructables, so that other hobbiests like me can make it too.
 
+Here are some pics that can give you an idea of what it will look like
+![image](https://user-images.githubusercontent.com/70943638/210223410-4a1b08bf-463a-4cfe-9a54-e88d3ab10a53.png)
+![image](https://user-images.githubusercontent.com/70943638/210223450-f925ec12-252a-4886-9e0f-745854d605a6.png)
+
+
+
 ## Plan
 
 1. To start off, I will need a new rasberryPi device as my old one shortcircuited and the gpio pins no longer work
