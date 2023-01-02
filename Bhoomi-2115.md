@@ -12,18 +12,25 @@ Owing to the genetics, me and my sister carry a high risk for diabetes and we ar
 
 ## Plan
 
+[Reference Document](http://www.ece.utep.edu/courses/web1305/EE1305/modules/module_6.htm) from University of Texas at El Paso
 First of all I will wait for the components to arrive since it will need a bit of trial and error.
 1. Use the Operational Amplifier to build a circuit that will measure the voltages and currents that are produced due to the electrochemical reacion on the glucose testing strips.
   - Build a circuit using the Arduino UNO, the operational amplifier, resistors and breadboard. (Will require a bit of trial and error due to change of voltages across dffere brands of strips)
   - Connect the Arduino UNO to Raspberry PI and set up serial logging.
- 
-2. Measure the parameters using Arduino UNO and send them to Raspberry Pi (For Streaming Data) to categorize the data wheter it is me or my sister and send it to the storage and analysis Raspberry Pi.
+  - Follow the same document to create a rudimentary probe for the electrodes using bent metal strips. Alternatively, the head of an existing glucometer can be repurposed.
+
+2. Calibration
+  - Probing an existing functional glucose meter to measure the change in voltage over time and the reference reading.
+  - Perform the same usig Raspberry Pi and Arduino UNO to build corellations
+  - [Reference Document](https://www.nxp.com/docs/en/application-note/AN4364.pdf)
+
+3. Measure the parameters using Arduino UNO and send them to Raspberry Pi (For Streaming Data) to categorize the data wheter it is me or my sister and send it to the storage and analysis Raspberry Pi.
   - Since the voltage changes with time, the change in voltage with time is measured to determine the blood glucose level. Owing to the computational limitation of UNO, this has to be done on Rspberry Pi.
   - The voltage values are fed to the Raspberry Pi.
   - Raspberry Pi determines the blood glucose level
   - Sends it to storage server
 
-3. Data is received on storage server along with unique ID of individual and the trends are stored and the risk of diabetes is visualised with the help of existing trained models of Diabetes Data and displayed on the screen.
+4. Data is received on storage server along with unique ID of individual and the trends are stored and the risk of diabetes is visualised with the help of existing trained models of Diabetes Data and displayed on the screen.
 
 ## Budget
 
