@@ -22,6 +22,14 @@ I want to build a super simple mesh-network, for a theoretical post-collapse wor
 1. Test at a larger scale.
 1. Deployment at my school!
 
+### Hardware usage summary:
+
+* LILYGO® TTGO US(915MHz) x 3: These are ESP32s (IoT microprocessor) with included LoRa (**Lo**ng **Ra**nge) radios, with the right bands for FCC compliance
+* TTL Serial USB Adapter, this is for the simple Serial-Based adapter for the network. TTL Serial is a common protocol, so almost every device supports it
+* 5v 1.2w Solar Panel x 3: The LILYGOs have built-in charging circuits for 18650s, so I don't need to worry about that. I do need a power source though, and given the target of easy off-grid use, solar seems like the best option
+* 3.3-6v to 3.3v Buck Converter: This will jump the 5v power that the solar panels generate to the 3.3v power the TTGOs can handle
+* 18650 Batteries x 3: These are just to add in to the TTGOs, so that they can power themselves without having a mains connection.
+
 ## Budget
 
 | Product                       | Supplier/Link                                                                                                                                                    | Cost    |
