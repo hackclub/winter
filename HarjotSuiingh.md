@@ -55,7 +55,6 @@ https://youtu.be/yDzpxlhuTck
 | Rasberry Pi Pico| https://amzn.asia/d/bGzP1Ih  | $32  |
 | Kindl pw| https://amzn.asia/d/ciGJuwI | $189  |
 | Rasberry Pi Sensors| https://amzn.asia/d/fQOwC3j | $44  |
-
+| Two Way Cable - Owned| .| $0|
 | Total       $Aud    |                                       | $365 |
-
 | Total       $Usd    |                                       | $245.20 |
