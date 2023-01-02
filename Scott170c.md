@@ -24,8 +24,8 @@ days 6 - 10: Program and test
 | IR Receiver           | [https://www.adafruit.com/product/157](https://www.adafruit.com/product/157)  | $1.95  |
 | Power Boost 1000      | [https://www.adafruit.com/product/2465](https://www.adafruit.com/product/2465)| $19.95 |
 | Li-Ion battery        | [https://www.adafruit.com/product/1781](https://www.adafruit.com/product/1781)| $9.95  |
-| Body/Exterior parts   |                                       | $??  |
-| Total           |                                       | $56.80 |
+| Body/Exterior parts   |                                       | $140.00  |
+| Total           |                                       | $196.80 |
 
 I will be following closely the schematic below
 ![image](https://user-images.githubusercontent.com/72882797/209758010-fae0c3ca-7d2e-463e-9def-8728b0465475.png)
