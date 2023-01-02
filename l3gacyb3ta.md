@@ -3,7 +3,7 @@ name: "@l3gacyb3ta"
 project: "Collapse-resistant Mesh Networking"
 ---
 
-# Project Name
+# Collapse-resistant Mesh Networking
 
 ## Summary
 
@@ -18,6 +18,7 @@ I want to build a super simple mesh-network, for a theoretical post-collapse wor
 1. Get a serial-based version working.
 1. Optimize power usage and online-offline transition
 1. Build a web interface.
+    * Probably using something like <https://randomnerdtutorials.com/esp32-web-server-arduino-ide/> and a small HTML framework I am currently working on
 1. Test at a larger scale.
 1. Deployment at my school!
 
