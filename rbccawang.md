@@ -1,6 +1,6 @@
 ---
-name: @rbccawang
-project: Alcohol Detection 
+name: "@rbccawang"
+project: "Alcohol Detection" 
 ---
 
 # Alcohol Detection 
