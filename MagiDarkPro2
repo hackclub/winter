@@ -1,12 +1,12 @@
 name: "@MagiDarkPro"
-project: "75% custom gaming keyboard" taxes+shipping+coupons
+project: "75% custom gaming keyboard" 
 ---
 
 # 75% custom keyboard 
 
 ## Summary
 
-I am going to build a 75% keyboard that plays sounds when you press down keys. In order for this to happen, I design my own pcb that can plug in a small speaker to play noises. I need to make my own firmware that can process these things and play it through the speaker. I can also use this to make a soundboard built into my keyboard. The keys need to be as silent as possible so that no other noise happens when pressing down keys for the speaker to play out. The purpose for this project is to have different sounds without buying new switches or mod the keyboard. I am using KiCad to design my pcb.
+I am going to build a 75% keyboard that plays sounds when you press down keys. In order for this to happen, I design my own pcb that can plug in a small speaker to play noises. I need to make my own firmware that can process these things and play it through the speaker. I can also use this to make a soundboard built into my keyboard. The keys need to be as silent as possible so that no other noise happens when pressing down keys for the speaker to play out. The purpose for this project is to have different sounds without buying new switches or mod the keyboard. I am using KiCad to design my pcb. I used ai03's guide and Masterzen's guide for building a pcb.
 
 ## Plan
 
