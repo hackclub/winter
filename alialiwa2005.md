@@ -1,13 +1,16 @@
 ---
 name: "@alialiwa2005"
-project: "Raspberry Web Services (RWS) | DIY Homemade AWS Cloud"
+project: "Libre Web Services (LWS) | DIY Homemade AWS Cloud" 
+(also known as "Raspberry Web Services (RWS)")
 ---
 
 # Project Name
-Raspberry Web Services (RWS) | DIY Homemade AWS Cloud
+Libre Web Services (LWS) | DIY Homemade AWS Cloud
+(also known as "Raspberry Web Services (RWS)")
+
 ## Summary
 
-I am going to build a hackable, Kubernetes-based, (mini)-super-computer Arm-powered private cloud. 
+I am going to build a hackable, Kubernetes-based, Arm-powered (mini-)cluster-computer private cloud. 
 
 Instead of hosting a site, Minecraft server, or web app on a cloud service like AWS, 
 I'm excited to build a hackable, Kubernetes-based, (mini)-super-computer Arm-powered private cloud, while exploring redundancy, load-balancing, containers, orchestration, and physical networking, from a hands-on hardware perspective!
@@ -22,15 +25,17 @@ I am certain that this is will turn out to be an awesome and unique project, and
 While this project is about making, it is also an awesome learning opportunity for me, in terms of the hardware side of computing and cloud, such as physical networking, as well as the software side of dev-ops, 
 such as using Kubernetes to manage separate pieces of hardware that make up a cluster in accomplishing tasks in unison... that is just mind-blowing to me!
 
-What's even better is that unlike just deploying instances on the AWS dashboard, I get to build my own cloud, comparable to the actual Amazon Web Services, from scratch... starting with the hardware, inspecting the physical computer boards and chips, physically networking the nodes, even designing a stylish case for the cloud! :)
+What's even better is that unlike simply deploying instances on the AWS dashboard and I'm pretty much mostly finished... I get to build my own cloud, comparable to the actual Amazon Web Services, from scratch... starting with the hardware, inspecting the physical computer boards and chips, physically networking the nodes, even designing a stylish case for the cloud! :)
 
-I always wanted to build a super-computer. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket list! Hooray!
+I always wanted to build my own macro-computer out of multiple mini-computers. I guess Winter of Making will finally make this dream a part of my New Year's Hacking bucket list! Hooray!
 
 ## Plan
 
-For this project, you'll need 4 Raspberry Pis (preferably with at least 4 gigabytes of RAM). 
-These will be the heart of the build, and should have a solid amount of memory to handle tasks comfortably (ideally at least 4 gigabytes. 
-The 8 gigabytes model will be more stable and able to handle more tasks, but is about 20 dollars more expensive).
+For this project, you'll need a few computers to act as nodes, perhaps some Raspberry Pis, or in my case, a Raspberry Pi alternative (since there's a major Raspberry Pi shortage at the time of this event).
+
+A good amount of memory is reccomended for stability, at least 4 gigabytes of RAM, but ideally 8 gigabytes or more per node, if possible.
+
+If you decide to build this when Pi's are available, I reccomend you use Raspberry Pis... here's why:
 
 Why Pis? They're UK-made, are great in terms of build quality, and are relatively affordable overall. 
 They also don't use much electricity and are surprisingly powerful for their credit-card-size.
@@ -38,35 +43,38 @@ They also don't use much electricity and are surprisingly powerful for their cre
 Also, Pis have ARM64 CPUs, just like AWS Graviton instances. This is awesome because it means that almost anything that can run on AWS EC2-A1 
 or other Graviton-powered deployments can be deployed at home, on your own DIY AWS (RWS) cloud! :)
 
-Aside from these, you also need accessories, like power supplies, storage (these can be MicroSD Cards, at least 16GB, ideally Class-10 32GB), ethernet cables, and a cluster stand/stackable cases for organization.
+Aside from these, you also need accessories, like power supplies, storage (these can be MicroSD Cards, at least 16GB, ideally Class-10 32GB), ethernet cables, and a cluster stand/stackable cases for organization... I'll be designing my own cases for each node using a 3D printer.
 
 You'll also need a laptop or PC for the initial setup of the Pis.
 
 Some other optional but recommended items are:
 
-- A network switch, so that the pis all connect to the ethernet switch, which ultimately links to your router via a 
+- A network switch, so that the boards all connect to the ethernet switch, which ultimately links to your router via an organized 
 single network cable.
 
-- Cooling: This is optional but recommended if you're planning on overclocking and/or running many resource-intensive services. 
-  Cooling can be passive cooling via heatsinks, active cooling with fans, or even liquid cooling!
+- Cooling, such as heatsinks or fans... reccomended especially if you plan on overclocking, or for greater stability. If you're using Raspberry Pis, there are many great options for cooling out there!
 
 ---
 
-Step 1: Order materials (full list at the bottom), then await items' arrival.
+Step 1: Order materials, then await items' arrival.
 
-Step 2a: Create a custom case/stand, or buy one.
+Step 2a: Design and build a custom case(s)/stand using a 3D printer, or other materials like wood, or buy a pre-made one.
 
-Step 2b: Attach Raspberry Pis to the cluster stand/case(s), and attach heatsinks/fans (cooling) if applicable.
+Step 2b: Mount boards to the case(s), and attach heatsinks/fans (cooling) if applicable.
 
 Step 3: On your PC, install Raspberry Pi imager.
 
-(Repeat Steps 4 - 16 for each Pi)
+(Repeat Steps 4 - 16 for each board)
 
 Step 4: Insert your SD card into your computer.
 
 Step 5: On Raspberry Pi Imager, select Raspberry Pi OS lite (32-bit or 64-bit), and select your SD card (make sure to select the correct storage device).
 
+Step 5b: If you're using an Raspberry Pi alternative board, download the applicable OS image from your board's manufacturer. You can also use Ubuntu Server 64-bit, if you prefer.
+
 Step 6: Write the image to your SD card.
+
+(If you're using an alternate board, skip steps 7 through 14)
 
 Step 7: Insert your SD card into a Pi & power on the Pi.
 
@@ -89,13 +97,16 @@ Step 13: Enable the 64bit tasks processing of your Pis' ARM64 CPU by opening the
 
 Step 14: Enable headless SSH setup by creating a new file without an extension, name it: ssh
 
-Step 15: Eject the SD card from the PC/laptop and plug the SD card into Pi, connect ethernet, and power.
+Step 15: Eject the SD card from the PC/laptop and plug the SD card into board, connect ethernet, and power.
 
-Step 16: ssh into the Pi & install Kubernetes.
+Step 15b: If using an Raspberry Pi alternative board, use a keyboard & mouse, complete initial setup, and install ssh if not already installed. 
+Refer to your board-specific documentation as needed.
 
-Step 17: Set up the first pi as the Kubernetes "master."
+Step 16: ssh into the boards & install Kubernetes.
 
-Step 18: Set up the other pis as Kubernetes "nodes."
+Step 17: Set up the first board as the Kubernetes "master."
+
+Step 18: Set up the other boards as Kubernetes "nodes."
 
 Step 19: Experiment & hack with Kubernetes! Congrats on building your private cloud!
 
@@ -109,13 +120,7 @@ Whichever path you choose to travel with this build, you can always HACK! :)
 
 ## Budget
 
-| Product                         | Supplier/Link                         | Cost    |
-| ------------------------------- | ------------------------------------- | ------- |
-| 4 Raspberry Pi 4 4GB Ram        | https://bit.ly/2ZVDImM                | $220    |
-| 4 Power Supplies                | https://bit.ly/3WwznmU                | $32     |
-| 6 Ethernet Cables               | https://bit.ly/3WtkAte                | $3.23   |
-| 4 MicroSD Cards                 | (Already Own)                         | $0      |
-| Customized Case                 | (Already Own Supplies)                | $0      |
-| Gigabit Ethernet Network Switch | (Already Own)                         | $0      |
-| Router for Project-Only Network | (Already Own a Spare Router)          | $0      |
-| Total Including NYC Tax (8.875%)|                                       | $277.89 |
+| Product                                 | Supplier/Link                         | Cost    |
+| --------------------------------------- | ------------------------------------- | ------- |
+| Libre Web Services                      | https://amzn.to/3vwx5ZI               | $277.37 |
+| Total Including 8.875% NYC Tax          |                                       | $302.56 |
