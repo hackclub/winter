@@ -36,7 +36,7 @@ What materials will you need for your project? Where will you get them? How much
 | Solder Wires    | https://www.aliexpress.com/item/32949492882.html 	    | 1 lot   | $1.09   |
 | ProtoBoard      | https://www.aliexpress.com/item/32981958921.html      | 1 pc    | $2.14   |
 | Diodes          | https://www.aliexpress.com/item/1005004320920058.html | 1 lot   | $4.56   |
-| Transistors     | https://www.aliexpress.com/item/1005004320920058.html | 5 lot   | $10.05  |
+| Transistors     | https://www.aliexpress.com/item/1005004320920058.html | 5 lots  | $10.05  |
 | Resistors       | https://www.aliexpress.com/item/1005002388714967.html | 2 lots  | $1.99   |
 | Soldering Kit   | https://www.aliexpress.com/item/1005001713978322.html | 1 pc    | $15.70  |
 | Solenoids       | https://www.aliexpress.com/item/1005002154277283.html | 30 pc   | $1.88   |
