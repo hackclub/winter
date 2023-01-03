@@ -31,24 +31,24 @@ a. PixyCamera for color and facial recognition.
 b. Ultrasonic sensor for object detection and avoidance.
 c. Speaker for communication.
 d. OLED display for facial expressions and personality.
-e. Unify sensor control by programming manual and autonomous control functions.
+e. Gyroscope for absolute direction capabilities, e.g. field-oriented drive.
+f. Unify sensor control by programming manual and autonomous control functions.
 
     The robot is now complete!
 
 
-Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://www.robotshop.com/products/devastator-tank-mobile-robot-platform-metal-dc-gear-motor | $84.90
-Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc| $59.46
-Charmed Labs Pixy2 Robot Vision Pan & Tilt Add-On  |https://www.robotshop.com/products/charmed-labs-pixy2-robot-vision-pan-tilt-add-on-rbc | $25.46
-Gravity Digital Speaker Module |https://www.robotshop.com/products/gravity-digital-speaker-module | $6
-Ultrasonic Sensor Scanner Kit (120°) |https://www.robotshop.com/products/ultrasonic-sensor-scanner-kit-120 | $29.99
-DFRobot Romeo BLE All-in-one Microcontroller | (ATMega 328)https://www.robotshop.com/products/dfrobot-romeo-ble-all-in-one-microcontroller-atmega-328 | $39.50
-Adafruit LSM6DSO32 6-DoF Accelerometer and Gyroscope - STEMMA QT / Qwiic |https://www.adafruit.com/product/4692 | $12.50
-STEMMA QT / Qwiic JST SH 4-pin to Premium Male Headers Cable - 150mm Long - X4 |https://www.adafruit.com/product/4209 | $3.80
-Monochrome 0.96" 128x64 OLED Graphic Display - STEMMA QT |https://www.adafruit.com/product/326 | $17.50
-Assorted Gravity Cables |https://www.robotshop.com/search?type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=gravity+cable| $13
-Premium Female/Male 'Extension' Jumper Wires - 20 x 12" |https://www.adafruit.com/product/1952 | $3.95
-Hobbypark 2pcs Aluminium Cross Wrenches | Amazon: https://a.co/d/11olJhw| $9.98
-Arduino Cookbook: Recipes to Begin, Expand, and Enhance Your Projects - Digital Download | $18
-USB BLE-Link Bluetooth Module | https://www.robotshop.com/products/usb-ble-link-bluetooth-module | $8.50
-AstroAI Digital Multimeter | Amazon: https://a.co/d/gdRBUyS | $15.19
-Total: $382.84 (includes tax, shipping, etc) I will cover the difference with my own funds.
+| Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://www.robotshop.com/products/devastator-tank-mobile-robot-platform-metal-dc-gear-motor | 84.90 |
+| Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc | 59.46 |
+| Gravity Digital Speaker Module | https://www.robotshop.com/products/gravity-digital-speaker-module | $6.00 |
+| Ultrasonic Sensor Scanner Kit (120°) | https://www.robotshop.com/products/ultrasonic-sensor-scanner-kit-120 | $29.99 |
+| DFRobot Romeo BLE All-in-one Microcontroller (ATMega 328) | https://www.robotshop.com/products/dfrobot-romeo-ble-all-in-one-microcontroller-atmega-328 | $39.50 |
+| Hobbypark 2pcs Aluminium Cross Wrenches | Amazon: https://a.co/d/11olJhw | $9.98 |
+| Arduino Cookbook: Recipes to Begin, Expand, and Enhance Your Projects -    3rd Edition | Amazon: https://a.co/d/2JEbYvZ | $33.28 |
+| Waveshare 128x128, 1.5-Inch OLED Display Module | https://www.robotshop.com/products/waveshare-128x128-15-inch-oled-display-module | 13.38 |
+| AstroAI Digital Multimeter | Amazon: https://a.co/d/gdRBUyS | $15.19 |
+| Charmed Labs Pixy2 Robot Vision Pan & Tilt Add-On | https://www.robotshop.com/products/charmed-labs-pixy2-robot-vision-pan-tilt-add-on-rbc | $25.46 |
+| 6 DOF Gyro, Accelerometer IMU - MPU6050 | https://www.robotshop.com/products/6-dof-gyro-accelerometer-imu-mpu6050 | $9.90 |
+| USB BLE-Link Bluetooth Module | https://www.robotshop.com/products/usb-ble-link-bluetooth-module | $8.50 |
+| Assorted Wires | https://www.robotshop.com/ | $30 |
+| Tax + Shipping |  | $24.47 |
+|Total | $390.01 |
