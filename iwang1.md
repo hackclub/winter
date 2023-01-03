@@ -23,10 +23,15 @@ Later, we plan to use QMK software to program the keys on the keyboard to do uni
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 3D printer Ender 3 Max     |https://www.amazon.com/Creality-Mainboard-Meanwell-Carborundum-Platform/dp/B08MWKR57W/ref=sr_1_5?crid=3IXD133TKUPCU&keywords=3d+printer+with+300mm&qid=1672524773&sprefix=3d+printer+with+300mm%2Caps%2C67&sr=8-5| $265.99  |
-| key switches,lube,films, key puller|https://divinikey.com/products/gateron-cj-linear-switches | $116.93 |
+| 3D printer (Ender 3 Neo) |https://www.amazon.com/Ender-Neo-Full-metal-Carborundum-220x220x250mm/dp/B083ZPVX77/ref=sr_1_1?keywords=ender+3+neo&qid=1672709471&s=industrial&sprefix=%2Cindustrial%2C74&sr=1-1| $239.00  |
+| key switches (includes tax and shipping for all items on divinikey) |https://divinikey.com/products/gateron-cj-linear-switches | $93.00 |
+| switch lube|https://divinikey.com/products/gateron-cj-linear-switches | $7.95 |
+| switch films|https://divinikey.com/products/gateron-cj-linear-switches | $11.00 |
+| key puller|https://divinikey.com/products/gateron-cj-linear-switches | $4.95 |
 | soldering iron kit| https://www.amazon.com/Soldering-Digital-Welding-Portable-Electric/dp/B08R3515SF/ref=sr_1_6?keywords=soldering+iron&qid=1671772103&sr=8-6 | $13.34 |
-| PCB/o-ring/daughterboard |https://cannonkeys.com/ | $38.00 |
-| switch lube     |https://kineticlabs.com/lube/krytox/205-grade-0 | $7.99 |
+| PCB (includes tax and shipping for all items on cannonkeys) |https://cannonkeys.com/products/bakeneko65-extra-pcbs?variant=40711868678255 | $100.00 |
+| keyboard plate |https://cannonkeys.com/products/bakeneko65-extra-plate | $50.00 |
+| o-ring|https://cannonkeys.com/products/bakeneko-o-rings?variant=40895048745071 | $11.00 |
+|daughterboard |https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?variant=39823993176175 | $16.00 |
 | 3d printer filament |https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GMMP6/ref=sr_1_4?keywords=3d+printer+white+filament&qid=1672526616&sprefix=3d+printer+white+%2Caps%2C73&sr=8-4 | $24.99 |
-| Total           |                                       | $458.59 |
+| Total           |                                       | $571.23 |
