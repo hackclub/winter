@@ -72,7 +72,8 @@ and allow me to quickly prototype and test different hand designs.
 | --------------- | ------------------------------------- | ------ |
 | Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
 |Soldering Iron Kit|https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_6?crid=28QD0NK9LQJCB&keywords=soldering+iron&qid=1672283598&s=industrial&sprefix=soldering+iron%2Cindustrial%2C92&sr=1-6| $18.99|
-|Myoware Muscle Sensors	|https://www.amazon.com/gp/product/B01GU6QMLI/ref=ox_sc_act_title_1?smid=A1ZW8W51C7XKQ5&psc=1|$24.99|
+|Myoware Muscle Electrodes	|https://www.amazon.com/gp/product/B01GU6QMLI/ref=ox_sc_act_title_1?smid=A1ZW8W51C7XKQ5&psc=1|$24.99|
+|Myoware Muscle Sensors	|Provided by School|$0.00|
 |3d printer|https://www.amazon.com/Creality-Photocuring-Filtering-Off-line-Printing/dp/B082XDH8NB/ref=sr_1_1_sspa?crid=PY7GGJQ6IWZ5&keywords=3d%2Bprinter&qid=1672283154&sprefix=3d%2Bprinte%2Caps%2C98&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVFpDQVROQkozSTlWJmVuY3J5cHRlZElkPUEwNDI1MDU4Mk4zTFZIT0pNSkVSMCZlbmNyeXB0ZWRBZElkPUEwMzczNzU0MzNQOEJPOUxNWU0ySiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1|$179.00|
 |Resin|https://www.amazon.com/ANYCUBIC-UV-Curing-Precision-Excellent-Fluidity/dp/B07G3663HD/ref=pd_day0fbt_sccl_1/144-1393969-1265224?pd_rd_w=lTkoV&content-id=amzn1.sym.c2062204-a945-491b-941c-359f18d6fec5&pf_rd_p=c2062204-a945-491b-941c-359f18d6fec5&pf_rd_r=R6HZ8TKZ5AM715HAY5S7&pd_rd_wg=T76GC&pd_rd_r=a3793903-8bd6-48f8-ae06-d1269ff3a1f8&pd_rd_i=B07G3663HD&th=1|$24.99|
 | Total           |                                       | $249.92 |
