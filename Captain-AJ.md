@@ -1,5 +1,5 @@
-name: "@Captain-AJ"
-project: "An autonomous butler robot"
+# name: "@Captain-AJ"
+# project: "An autonomous butler robot"
 
 # Project Name
 A.L.F.R.E.D. Butlerbot
