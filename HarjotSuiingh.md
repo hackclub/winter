@@ -51,7 +51,6 @@ https://youtu.be/yDzpxlhuTck
 | Screws - Owned | . | $0 |
 | Frame - Owned | . | $0 |
 | Velcro Stickers - Owned|  . | $0 |
-| E-ink waveshare screen | https://amzn.asia/d/cRCEgml   | $100 |
 | Rasberry Pi Pico| https://amzn.asia/d/3cGWIHU  | $20  |
 | Kindl pw| https://www.kogan.com/au/buy/amazon-kindle-paperwhite-11th-generation-2021-68-8gb-ebook-reader-tablet-black-00810019527746/ | $205
 | Rasberry Pi Sensors| https://amzn.asia/d/fQOwC3j | $40 |
