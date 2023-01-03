@@ -47,10 +47,10 @@ These are the things I need to make my amazing project...
 | Mouse                | Owned                                                                                    | £ ---  |
 | Bluetooth Keyboard   | Owned                                                                                    | £ ---  |
 | Shipping             | ------------------------------- Shipping ----------------------------------------------- | £37.20 |
-| Total                |                                                                                          | £225.20|
+| Total                |                                                                                          | £205.80|
 
 
-## £225.20 GBP is $269.60 USD
+## £205.80 GBP is $246.57 USD
   **Thank you for this opportunity to build my dream project that I wanted to make from a long time.**
   Thanks,
   Neerav
