@@ -32,6 +32,7 @@ If this product (https://www.adafruit.com/product/136) becomes in stock, I can r
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 |Pack of wires   | https://www.adafruit.com/product/153 | $14.95  |
+|copper tape | https://www.amazon.com/Double-Sided-Conductive-Shielding-Repellent-Electrical/dp/B07R13J1GC/ref=pd_lpo_3?pd_rd_w=UJEGq&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=THT54S8QXSNCM2GD0N9Q&pd_rd_wg=oVMBY&pd_rd_r=29467d73-2b77-488b-b5ad-fe18cde08512&pd_rd_i=B07R13J1GC&th=1 | $10.98
 |electric paint| https://www.bareconductive.com/products/electric-paint?variant=37766230933684 | $24.95 |
 |breadboard kit| https://www.amazon.com/dp/B0BJ1QC6X8/ref=sspa_dk_detail_7?pd_rd_i=B0BJ1QC6X8&pd_rd_w=aBrCi&content-id=amzn1.sym.46bad5f6-1f0a-4167-9a8b-c8a82fa48a54&pf_rd_p=46bad5f6-1f0a-4167-9a8b-c8a82fa48a54&pf_rd_r=T4SRE7K7WDY0B69K5TR7&pd_rd_wg=oH2Du&pd_rd_r=9483d9b4-ba81-4917-96e8-f53fad188c8d&s=home-garden&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUIxT0FZQzZPM0NBJmVuY3J5cHRlZElkPUEwNjk5MTY1WkFJT0ZRSEZBSTBFJmVuY3J5cHRlZEFkSWQ9QTA0NjE4NDcxQUpZMEE2U0pMUERQJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1| $29.95 |
 |microcontroller | https://www.adafruit.com/product/358  | $9.95 |
@@ -39,4 +40,4 @@ If this product (https://www.adafruit.com/product/136) becomes in stock, I can r
 |soldering iron station | https://www.amazon.com/dp/B01DGZFSNE/?tag=thewire06-20&linkCode=xm2&ascsubtag=AwEAAAAAAAAAAhF6&th=1 | $54.75 |
 |wire spool| https://www.adafruit.com/product/1311 | $15.95 |
 |gouache paint | https://www.amazon.com/Professional-Painting-Supplies-Moisturized-Beginner/dp/B09KV5BRTR/ref=pd_lpo_2?pd_rd_w=onvyO&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=Q24TQ3X0RTRJRN75FAVT&pd_rd_wg=ciz06&pd_rd_r=c39d52c4-c972-47d1-8a56-41c94ded860e&pd_rd_i=B09KV5BRTR&psc=1 | $42.99
-| Total| Thank you! | $223.53 |
+| Total| Thank you! | $234.51 |
