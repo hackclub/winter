@@ -39,4 +39,4 @@ If this product (https://www.adafruit.com/product/136) becomes in stock, I can r
 |soldering iron station | https://www.amazon.com/dp/B01DGZFSNE/?tag=thewire06-20&linkCode=xm2&ascsubtag=AwEAAAAAAAAAAhF6&th=1 | $54.75 |
 |wire spool| https://www.adafruit.com/product/1311 | $15.95 |
 |gouache paint | https://www.amazon.com/Professional-Painting-Supplies-Moisturized-Beginner/dp/B09KV5BRTR/ref=pd_lpo_2?pd_rd_w=onvyO&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=Q24TQ3X0RTRJRN75FAVT&pd_rd_wg=ciz06&pd_rd_r=c39d52c4-c972-47d1-8a56-41c94ded860e&pd_rd_i=B09KV5BRTR&psc=1 | $42.99
-| Total| Thank you! | $210.53 |
+| Total| Thank you! | $223.53 |
