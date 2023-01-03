@@ -40,5 +40,6 @@ Notes:
 | Mini HDMI Cable | https://shopee.com.my/Vention-Mini-HDMI-to-HDMI-2.0-Cable-Male-to-Male-1080P-HD-4K-3D-HDMI-Cable-Adapter-for-Projector-LCD-i.285713283.8435872052 | $3.17 |
 | Breadboard | Already have | $0.00 |
 | Jumper wires | Already have | $0.00 |
+| SD Card | Already have | $0.00 |
 | Shipping Costs |  | $10.51 |
 | Total |  | $253.10 |
