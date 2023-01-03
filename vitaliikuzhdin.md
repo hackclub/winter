@@ -33,7 +33,7 @@ What materials will you need for your project? Where will you get them? How much
 | PCF8575         | https://www.aliexpress.com/item/1005001930978496.html | 2 pc    | $1.45   |
 | SD board (SPI)  | https://www.aliexpress.com/item/32523546123.html      | 1 pc    | $0.45   |
 | Push Buttons    | https://www.aliexpress.com/item/4001164258760.html    | 1 lot   | $0.53   |
-| Solder Wires    | https://www.aliexpress.com/item/32949492882.html 	    | 1 lot   | $1.09   |
+| Solder Wires    | https://www.aliexpress.com/item/32949492882.html      | 1 lot   | $1.09   |
 | ProtoBoard      | https://www.aliexpress.com/item/32981958921.html      | 1 pc    | $2.14   |
 | Diodes          | https://www.aliexpress.com/item/1005004320920058.html | 1 lot   | $4.56   |
 | Transistors     | https://www.aliexpress.com/item/1005004320920058.html | 5 lots  | $10.05  |
