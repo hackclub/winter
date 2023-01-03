@@ -37,7 +37,8 @@ Notes:
 | Banana Pi M2 Zero | [Link shortened for your viewing pleasure](https://www.lazada.com.my/products/bpi-m2-zero-bananapi-android-allwinner-h2-banana-pi-is-faster-than-raspberry-pi-zerow-i1936182967-s7792108567.html?clickTrackInfo=query%253Abanana%252Bpi%252Bm2%252Bzero%253Bnid%253A1936182967%253Bsrc%253ALazadaMainSrp%253Brn%253Aa4adf4f3da25f6d5bb3215ded2d7dc7e%253Bregion%253Amy%253Bsku%253A1936182967_MY%253Bprice%253A100018945%253Bclient%253Adesktop%253Bsupplier_id%253A100018945%253Basc_category_id%253A10000493%253Bitem_id%253A1936182967%253Bsku_id%253A7792108567%253Bshop_id%253A61360&fastshipping=0&freeshipping=0&fs_ab=1&fuse_fs=0&lang=en&location=Overseas&price=115.7&priceCompare=&ratingscore=5.0&request_id=a4adf4f3da25f6d5bb3215ded2d7dc7e&review=1&sale=28&search=1&source=search&spm=a2o4k.store_product.list.i40.79b7c8d9svZXkR&stock=1) | $26.27 |
 | 3.5 Inch Touch Screen LCD for Raspberry Pi | https://shopee.com.my/Waveshare-3.5-Inch-Touch-Screen-LCD-for-Raspberry-Pi-4B-3B-3B-2B-Zero-Zero-W-Zero-WH-480X320-Pixel-SPI-Interface-i.110869235.21066606814?sp_atk=bf544f69-e284-45e2-bc56-f101ac81f709&xptdk=bf544f69-e284-45e2-bc56-f101ac81f709 | $22.28 |
 | 2x20 stacking GPIO Header | https://shopee.com.my/product/168163073/6232135506?smtt=0.18725379-1672577161.9 | $2.25 |
+| Mini HDMI Cable | https://shopee.com.my/Vention-Mini-HDMI-to-HDMI-2.0-Cable-Male-to-Male-1080P-HD-4K-3D-HDMI-Cable-Adapter-for-Projector-LCD-i.285713283.8435872052 | $3.17 |
 | Breadboard | Already have | $0.00 |
 | Jumper wires | Already have | $0.00 |
-| Shipping Costs |  | $9.40 |
-| Total |  | $248.82 |
+| Shipping Costs |  | $10.51 |
+| Total |  | $253.10 |
