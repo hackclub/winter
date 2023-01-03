@@ -33,7 +33,7 @@ My plan is, as followed:
 | Wire strippers | https://www.adafruit.com/product/527 | 14.95$ |
 | Slightly overkill toggle switch | https://www.adafruit.com/product/3218 | 3.95$ |
 | Buzzer | https://www.adafruit.com/product/160 | 1.50$ |
-| JST Cables | https://www.adafruit.com/product/3955 | 1.50$ |
+| Grove-Stemma cable | https://www.adafruit.com/product/4528 | 1.95$ |
 | ILI9341 Display | https://www.adafruit.com/product/1770 | 29.95$ |
 | LiPo Charger | https://www.adafruit.com/product/1304 | 5.95$ |
 | 3.7V Battery | https://www.adafruit.com/product/258 | 9.95$ |
@@ -45,4 +45,4 @@ My plan is, as followed:
 | Shipping | Tindie | ~17.00$ |
 | Spare SBM-20 tube | https://www.amazon.com/MightyOhm-SBM-20-Geiger-Muller-Tube/dp/B08MJ2Z3H3/ | 49.95$ |
 | Shipping | Amazon | 0.00$	| 
-| **TOTAL** | | 244.50$ |
+| **TOTAL** | | 244.95$ |
