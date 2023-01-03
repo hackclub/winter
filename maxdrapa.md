@@ -34,12 +34,18 @@ This will be an ambiguous project due to the fact that hacking something to look
 | Product            | Supplier/Link                                        		 	| Cost   |
 | ------------------ | ----------------------------------------------------------------	| ------ |
 | Solder/wires       | Already own                    			        			| $00.00 |
-| Light modules x2   | www.lumensfactory.com/en/product_detail.php?pid=387         	| $77.00 |
+| Light modules x2   | www.lumensfactory.com/en/product_detail.php?pid=319         	| $99.12 |
 | Li ION battery x2  | www.adafruit.com/product/328				          		| $29.90 |
-| Microcontroller    | www.adafruit.com/product/5400				          		| $19.95 |
-| Helmet             | Already own								          	| $00.00 |
-| Fasteners,glue,etc | Hardware store						          			| $35.00 |
-| Plastic,paint,sandpaper(fit and finishing)| Hardware store							          		| $50.00 |
+| Microcontroller    | www.adafruit.com/product/5400  		| $19.95 |
 | RGB LEDs           | www.adafruit.com/product/1461?length=1					| $14.95 |
+
+| Adafruit | This is the total for all adafruit purchases including tax and shipping | $90.45 |
+| Helmet             | Already own								          	| $00.00 |
+| 0.06” polycarbonate sheet | www.amazon.com/Polycarbonate-Plastic-Robotics-Industrial-Shatterproof/dp/B07MQTDF4R | $10.55 |
+| JB weld plastic bonder | Aubuchon Hardware							 	| $10.59 |
+| Assorted sandpaper | J&L Hardware (local store) 			          			| $10.60 |
+| Black spray paint | J&L Hardware (local store)					          		| $9.53 |
+| Clear spray sealant | J&L Hardware (local store) 				          		| $10.60 |
+| Super glue         | J&L Hardware (local store)					          		| $9.53 | 
 |                    | 									          		|        |
-| Total              |                                      						| 226.80 |
+| Total              | Including all shipping and sales tax					    | $240.42 |
