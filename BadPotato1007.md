@@ -49,14 +49,14 @@ Here are some pics that can give you an idea of what it will look like
 | 74HC595                   | https://robu.in/product/sn74hc595n-dip16/  (owned)                                                 | $1.75  |
 | Potentiometer             | https://robu.in/product/ptv09a-4225f-b103-rotary-potentiometer/                                    | $1.30  |
 | Capacitive Sensor         | https://robu.in/product/ttp223-touch-key-module-2pcs/                                              | $6.00  |
-| 12V 2A Adapter            | Owned                                                                                              | $3.00  |
+| 12V 2A Adapter            | Owned                                                                                              | $0.00  |
 | RGB leds                  | https://robu.in/product/ws2812b-4-x-4-rgb-led-module/                                              | $2.70  |
 | 3D printed parts          | Nearby shop                                                                                        | $10.00 |
 | Acrylic sheets            | https://cutt.ly/u2ujscX, shorturl.at/cdes5                                                         | $15.00 |
-| Speaker                   | Owned                                                                                              | $2.00  |
+| Speaker                   | Owned                                                                                              | $0.00  |
 | Mic                       | shorturl.at/ahJL2                                                                                  | $1.00  |
 | USB soundcard             | shorturl.at/nGZ25                                                                                  | $2.00  |
-| Midi socket               | owned                                                                                              | $7.00  |
+| Midi socket               | owned                                                                                              | $0.00  |
 | Screws and other expenses |                                                                                                    | $10.00 |
 | Total                     |                                                                                                    | $217.43|
 |Funds I actually require   |                                                                                                    | $183.63|
