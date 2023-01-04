@@ -26,7 +26,9 @@ Then I will connect the TT Gear Motor to the L293D Motor Driver Shield using sui
 After I will upload the necessary code to the Arduino Uno to control the car's movement and the Mu vision sensor, that I am currently working on.
 This code will include instructions for detecting the presence of a human in the vicinity of the car and adjusting the car's movement accordingly.
 Then comes the testing part the car's human following functionality by placing a human within the range of the Mu vision sensor and observing 
-how the car responds. I may need to make adjustments to the code or the car's hardware as needed to ensure proper operation.
+how the car responds. I may need to make adjustments to the code or the car's hardware as needed to ensure proper operation. After that I will
+code the robot to follow  Traffic Sign and take decisions accordingly. This robot will have to mode one Human Following Robot and the second 
+ Traffic Sign Recognition Robot.
 
 ## Budget
 
