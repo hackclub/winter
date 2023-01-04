@@ -118,7 +118,13 @@ Whichever path you choose to travel with this build, you can always HACK! :)
 
 ## Budget
 
-| Product                                 | Supplier/Link                         | Cost    |
-| --------------------------------------- | ------------------------------------- | ------- |
-| Libre Web Services                      | https://amzn.to/3vwx5ZI               | $277.37 |
-| Total Including 8.875% NYC Tax          |                                       | $302.56 |
+| Product                                   | Supplier/Link                         | Cost    |
+| ----------------------------------------- | ------------------------------------- | ------- |
+| 4 Libre Computer Boards (4GB)             | https://amzn.to/3vwx5ZI               | $220    |
+| Network Switch                            | https://amzn.to/3jEL5ha               | $19.79  |
+| Power Supply                              | https://amzn.to/3InxF3C               | $30.99  |
+| Power Cables                              | https://amzn.to/3icRGPI               | $7.59   |
+| Ethernet Cables                           | (Already Own)                         | $0      |
+| Keyboard, Monitor, HDMI (for first setup) | (Already Own)                         | $0      |
+| microSD Cards                             | (Already Own)                         | $0      |
+| Total Including 8.875% NYC Tax            |                                       | $303.08 |
