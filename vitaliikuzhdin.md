@@ -41,4 +41,5 @@ What materials will you need for your project? Where will you get them? How much
 | Soldering Kit   | https://www.aliexpress.com/item/1005001713978322.html | 1 pc    | $15.70  |
 | Solenoids       | https://www.aliexpress.com/item/1005002154277283.html | 30 pc   | $1.88   |
 | Breadboard      | https://www.aliexpress.com/item/32523839459.html      | 1 pc    | $1.77   |
-| Total           |                                                       |         | $134.40 |
+| USB C Dongle    | https://www.aliexpress.com/item/4000180424469.html    | 1 pc    | $3.70   |
+| Total           |                                                       |         | $138.92 |
