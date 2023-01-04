@@ -41,6 +41,8 @@ Fourth part
 Fifth part
 - Let's connect a DNS domain to our server
 
+OBS : I will be creating a tutorial so more members can do it at home
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
