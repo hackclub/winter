@@ -1,7 +1,6 @@
 ---
 name: "@alialiwa2005"
 project: "Libre Web Services (LWS) | DIY Homemade AWS Cloud" 
-(also known as "Raspberry Web Services (RWS)")
 ---
 
 # Project Name
