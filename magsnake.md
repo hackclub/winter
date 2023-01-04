@@ -10,18 +10,21 @@ project: "  Multi-purpose Smart Robot"
 ## Summary
 
   I am going to build a mini robot which can solve questions, make decisions, manage digital activities and serve as a virtual assistant.
-  
   It is very useful since it can be used to solve my studies related problems and it can create a customized planner for me.
-  
   I am very excited to build this project.
+  
+## Plan
 
   It can detect objects, search images, manage app time and their activities for other devices, serve as AI Assistant ad can tell climatic conditions.
-  
   It can be used as a pass-key for my accounts. All this will save a lot of time and will be very useful.
-  
   It could manage networks and I will make it to do a lot more things.
-
-## Plan
+  I will be using it as a voice assistant. It could be used for object detection in order to classify objects.
+  It will manage my screen time by Pomodoro technique and It could search image with image search engine.
+  It will also have sensors which could detect the climatic condition.
+  I am also planning to use it for Nature or Wildlife Camera as it has the Tensorflow API which can detect the species of creatures very easily.
+  For Different board games, I am gonna use different APIs.
+  Such as chess.com API for chess and Sudoku generator API for sudoku etc.
+  I will also use TensorFlow API Library for Object Detection ad Voice Recognition etc.
 
   For the ML software, I have Google Cloud ML Resources with Tensorflow. This will help me using APIs to make the robot interactive.
   I have Arduino IDE for arduino development.
