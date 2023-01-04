@@ -15,9 +15,9 @@ project: "  Multi-purpose Smart Robot"
   
   I am very excited to build this project.
 
-  It can detect objects, search images, manage app time for other devices, serve as AI Assistant ad can tell climatic conditions.
+  It can detect objects, search images, manage app time and their activities for other devices, serve as AI Assistant ad can tell climatic conditions.
   
-  It can be used as a pass-key for my accounts.
+  It can be used as a pass-key for my accounts. All this will save a lot of time and will be very useful.
   
   It could manage networks and I will make it to do a lot more things.
 
