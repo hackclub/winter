@@ -3,7 +3,7 @@ name: "@Carsblox"
 project: "SkyScanner"
 ---
 
-# Project Name
+# SkyScanner
 SkyScanner
 ## Summary
 
