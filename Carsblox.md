@@ -4,7 +4,6 @@ project: "SkyScanner"
 ---
 
 # SkyScanner
-SkyScanner
 ## Summary
 
 I'm going to build a flight tracker. This will track nearby planes and update flights' data in real time. 
