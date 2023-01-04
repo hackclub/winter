@@ -17,7 +17,7 @@ project: "  Multi-purpose Smart Robot"
 
 ## Plan
 
-  For the ML software, I have Google Cloud ML Resources with Tensorflow. This ill hepl me using APIs to make the robot interactive.
+  For the ML software, I have Google Cloud ML Resources with Tensorflow. This will help me using APIs to make the robot interactive.
   I have Arduino IDE for arduino d
   
   I will make it with the help of Raspberry Pi 4 and Arduino Mega.
