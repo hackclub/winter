@@ -4,7 +4,7 @@ project: "Libre Web Services (LWS) | DIY Homemade AWS Cloud"
 ---
 
 # Project Name
-(also known as "Raspberry Web Services (RWS)")
+"Libre Web Services (LWS) | DIY Homemade AWS Cloud" (also known as "Raspberry Web Services (RWS)")
 
 ## Summary
 
@@ -128,3 +128,9 @@ Whichever path you choose to travel with this build, you can always HACK! :)
 | Keyboard, Monitor, HDMI (for first setup) | (Already Own)                         | $0      |
 | microSD Cards                             | (Already Own)                         | $0      |
 | Total Including 8.875% NYC Tax            |                                       | $303.08 |
+
+## Resources Referenced
+
+- Libre Computer ROC-RK3328-CC (Renegade) documentation: https://libre.computer/products/roc-rk3328-cc/
+- K3S Documentation: https://docs.k3s.io/
+- Kubernetes Documentation: https://kubernetes.io/docs/home/
