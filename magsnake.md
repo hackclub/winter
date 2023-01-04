@@ -15,10 +15,16 @@ project: "  Multi-purpose Smart Robot"
   
   I am very excited to build this project.
 
+  It can detect objects, search images, manage app time for other devices, serve as AI Assistant ad can tell climatic conditions.
+  
+  It can be used as a pass-key for my accounts.
+  
+  It could manage networks and I will make it to do a lot more things.
+
 ## Plan
 
   For the ML software, I have Google Cloud ML Resources with Tensorflow. This will help me using APIs to make the robot interactive.
-  I have Arduino IDE for arduino d
+  I have Arduino IDE for arduino development.
   
   I will make it with the help of Raspberry Pi 4 and Arduino Mega.
   
