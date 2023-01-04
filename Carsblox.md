@@ -11,6 +11,8 @@ I'm going to build a flight tracker. This will track nearby planes and update fl
 I'm exited to build this because I'm going to learn many things while making this project. This includes learning how to 3d print, 3d model, and learning linux.
 I'll also learn more about physical computer hardware and how ADS-B antennas work.
 
+Inspired by: https://www.tomshardware.com/how-to/raspberry-pi-airplane-tracker
+
 ## Plan
 
 For this project you will need a device capable of running linux such as a rasberry pi or a libre computer and a micro sd card to boot from.
@@ -24,7 +26,7 @@ Step 4: Wait for flights to be detected and test if the system works properly.
 Step 5: 3D model a inclosure for the project on blender.
 Step 6: 3D print the inclosure you designed.
 Step 7: Install the hardware into the case.
-Step 8: See the flights above you.
+Step 8: See the flights above you on a monitor.
 
 ## Budget
 
@@ -36,4 +38,8 @@ Step 8: See the flights above you.
 | 3D printer filament          | https://amzn.to/3Q8F9sQ               | $24.99  |
 | Ethernet Cable               | Already Owned                         | Owned   |
 | Power Supply                 | Already Owned                         | Owned   |
+| Micro SD card                | Already Owned                         | Owned   |
+| HDMI Cable                   | Already Owned                         | Owned   |
+| Monitor/TV                   | Already Owned                         | Owned   |
+| USB Keyboard/Mouse           | Already Owned                         | Owned   |
 | Total (After Tax + Shipping) |                                       | $267.24 |
