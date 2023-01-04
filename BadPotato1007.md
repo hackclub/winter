@@ -54,12 +54,13 @@ Here are some pics that can give you an idea of what it will look like
 | 3D printed parts          | Nearby shop                                                                                        | $10.00 |
 | Acrylic sheets            | https://cutt.ly/u2ujscX, shorturl.at/cdes5                                                         | $15.00 |
 | Speaker                   | Owned                                                                                              | $0.00  |
+| 12v to 5v for rpi         | https://robu.in/product/24v-12v-to-5v-5a-power-module-dc-dc-xy-3606-power-converter                | $2.81  |
 | Mic                       | shorturl.at/ahJL2                                                                                  | $1.00  |
 | USB soundcard             | shorturl.at/nGZ25                                                                                  | $2.00  |
 | Midi socket               | owned                                                                                              | $0.00  |
-| Screws and other expenses |                                                                                                    | $10.00 |
-| Total                     |                                                                                                    | $217.43|
-|Funds I actually require   |                                                                                                    | $183.63|
+| Screws and other expenses |Local shops                                                                                         | $15.00 |
+| Shipping                  | shipping                                                                                           | $4.35  |
+| Total                     |                                                                                                    | $211.59|
 
 
 Will try to Cut down at some places to decrease the price furthur, and make it more cost effective.
