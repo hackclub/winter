@@ -1,6 +1,7 @@
 ---
 name: "@euphorichubbbb"
-project: "Spectrum analyzer headphone"- Suraga Devraj
+project: "Spectrum analyzer headphone
+credit: https://www.anhadsawhney.com/#/headphones/ ( source project)
 ---
 
 # Project Name- Spectrum Headphone
