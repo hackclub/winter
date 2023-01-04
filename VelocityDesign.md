@@ -59,14 +59,14 @@ I will, if all goes correctly, document the process of making this project as an
 | Google Pixel 5a 5g | https://swappa.com/listing/view/LWNS27865 | $155 |
 | FT232H  | https://www.adafruit.com/product/2264 | $14.95 |
 | Solar Panel + Battery Pack | https://www.amazon.com/Portable-20000mah-Waterproof-Flashlights-CellPhones/dp/B07NVM4L1C/ | ~$16.80 (Deal Applied) |
-| Raspberry Pi Pico W (x2, it's only a little more, and I'll put the second to a good use case) | https://www.amazon.com/Hosyond-Raspberry-Dual-core-Microcontroller-Development/dp/B0BJD4R1LV/ | $21.99 (Deal Applied) |
+| Raspberry Pi Pico W (x2, it's only a little more, and I'll put the second to a good use case) | https://www.amazon.com/Hosyond-Raspberry-Dual-core-Microcontroller-Development/dp/B0BJD4R1LV/ | ~~$21.99 (Deal Applied)~~ $24.99 |
 | USB-C Hub | Owned | ? |
 | Micro-usb, USB-C Cable | Owned | ? |
 | Wood (For Enclosure) | Owned | ? |
 | Humidity Enclosure (Made from Plastic) | Owned | ? |
 | Additional Decorations for Enclosure | Owned/Will Be Purchased from own funds if more needed | ? |
 | Shipping/Tax | See Above | $6.00 (AdaFruit) + $9.07 (Swappa) = $15.07 |
-| Total           |                                       | $233.76 |
+| Total           |                                       | $236.76 |
 
 ## Credits
 Thanks to my Grandma for the inspiration for this project <3
