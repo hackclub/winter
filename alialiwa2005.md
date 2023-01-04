@@ -4,7 +4,6 @@ project: "Libre Web Services (LWS) | DIY Homemade AWS Cloud"
 ---
 
 # Project Name
-Libre Web Services (LWS) | DIY Homemade AWS Cloud
 (also known as "Raspberry Web Services (RWS)")
 
 ## Summary
