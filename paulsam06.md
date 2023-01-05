@@ -25,5 +25,6 @@ For the first 5 days, I'm going assemble drone check its connectivety and testin
 | Quadcopter Drone Combo   | https://bit.ly/3BR0RMn                | $198.26|
 | Raspberry Pi 4           | https://bit.ly/3GaOxZY                | $47.15 |
 | libo battery 11.1 V      | https://bit.ly/3I4gB2q                | $18    |
+| libo battery charger     | https://bit.ly/3X9kEik                | $8  |
 | Shipping & taxes         |                                       | $4     |
-| Total                    |                                       | $267.41|
+| Total                    |                                       | $275.41|
