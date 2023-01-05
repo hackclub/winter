@@ -38,12 +38,14 @@ I'll get my friend to add his intro as a comment on my pull request
 The Products Include Delivery And Taxes!
 We will both be making the same project, so we will be getting the same items.
 The kits also contain everything needed to get started with the pis afaik.
+Only one touchscreen for Soham since he wants to make the console portable.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Rasberry pi 4 kit| https://amzn.asia/d/5rP9Fz4 | $230.2 |
 | Rasberry pi 4 kit| https://amzn.asia/d/5rP9Fz4 | $230.2 |
+| 5 inch Touchscreen for rasberry pi 4 | https://amzn.asia/d/9yGTPeO | $36.9 |
 | Power Supply | Available | 0 |
 | Sd Cards | Available(already formatted them) | 0 |
 | Micro Hdmi Cable | Available | 0 |
-| Total           |                                       | $460.4 |
+| Total           |                                       | $497.3 |
