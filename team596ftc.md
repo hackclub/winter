@@ -31,4 +31,5 @@ We're a team of 10 people.
 | servos | already have | $0.00 |
 | screws | already have | $0.00 |
 | robot chassis | already have | $0.00 |
+| 3-d design software | solidworks, already have | $0.00 |
 | Total           |          Thank you!                  | $1113.95 |
