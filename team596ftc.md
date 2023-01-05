@@ -8,7 +8,7 @@ project: "3-d printed claw"
 ## Summary
 
 Using tinkerCAD and Autodesk's Fusion360, I hope to play around with some 3-d printing software and build a claw for my robot. I'm really excited to try out 3-d printing for the first time.
-I've been wanting to 3-d print a claw (for a few years actually), but I have not been able to purchase one yet. I think that a 3-d printed claw will really take my robot to the next level and I can even 3-d print other parts. We also need a new pulley system, and rather than purchasing it, we can 3-d print it! We want to also design and print a custom storage for our game consoles (used in junction with our robot). The goal of acquiring a 3-d printer is to be able to create custom parts integrated with electronics for a robot.
+I've been wanting to 3-d print a claw (for a few years actually), but I have not been able to purchase one yet. I think that a 3-d printed claw will really take my robot to the next level and I can even 3-d print other parts. We also need a new pulley system, and rather than purchasing it, we can 3-d print it! We want to also design and print a custom storage for our game consoles (used in junction with our robot). If the 3-d printer claw works out, we can add in a touch sensor and code the servos so that the claw opens if it touches something.
 
 ## Plan
 
@@ -32,4 +32,5 @@ We're a team of 10 people.
 | screws | already have | $0.00 |
 | robot chassis | already have | $0.00 |
 | 3-d design software | solidworks, already have | $0.00 |
+| touch sensor | we have | $0.00 |
 | Total           |          Thank you!                  | $1113.95 |
