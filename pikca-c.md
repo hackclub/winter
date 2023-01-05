@@ -7,7 +7,7 @@ project: "Desktop Train Departure Board"
 
 ## Summary
 
-I'm a railway enthusiast and love the UK Railway Network, and had always wanted to know when trains are gonna arrive at home in a fashionable way. The board, complete with a case and stand, will mimic a real national rail dot matrix display (or maybe even the new LED ones that show more information if possible) and any station on the UK national rail network, as well as London Underground can be displayed.  It's a train nerd's dream to be able to have their own departure board at home.
+I'm a railway enthusiast and love the UK Railway Network, and had always wanted to check when trains are gonna arrive at home in a fashionable way. The board, complete with a case and stand, will mimic a real national rail dot matrix display (or maybe even the new LED ones that show more information if possible) and any station on the UK national rail network, as well as London Underground can be displayed.  It's a train nerd's dream to be able to have their own departure board at home.
 
 ## Plan
 
