@@ -9,8 +9,9 @@ In malls, railways, and other public places some hackers provide free wifi's con
 So, I have a plan of connecting with Raspberry Pi which is Linux based OS it is easy to write scripts, I use tools like Nmap, aircrack-ng, and others tools to combine all of them to first scan all the wifi connections with Nmap (hackers mostly run their connection on port 80 for gain access) then collect that connection and analyze it with aircrack-ng to drop down the connection and take control their access with twin evil attack finally we fill the complaint with the with data(IP, location etc)we have collected.
 
 
-Why are you excited to build it?
-Now a days Quadcopter is playing a major roles in all fields . So, it is excited to do some project on it. I do so many researches on that finally i came up with idea that connecting raspberry Pi to quadcopter to create scrripts that will allow us to prevent attacks and gain access 
+## Why you want to build this project?
+I interested in computer science but I don't know which domain is suits for me. So I try out many technologies like web development, programming etc. but in my school this is very well known common domain. So I like to learn new technologies. Suddenly, my brother @dharun016  will let me know about hackclub event and his ideas on drone . I so much exicited to do this project because this is completely new domain for me. It gives oppoturinity to learn and upskill my career . In my school they will conduct project expo at the end of march . I like to participate with this project and this drone project helps me to participating in national level hackathon.
+ 
 ## Plan
 
 For the first 5 days, I'm going assemble drone check its connectivety and testing. On Day 6,7 planning to integrate Raspberry Pi writing some scripts run the process After successfuly connected , after remaining days all the testing and deploying to vps 
