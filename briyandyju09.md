@@ -9,8 +9,8 @@ RetroSwitch
 
 ## Summary
 
-This project was to create a portable gaming system that could also double as a portable computer. The goal was to create a console that was functional as well as aesthetically pleasing.
-## Plan
+This project was to create a portable gaming system that could also double as a portable computer. The goal was to create a console that was functional as well as aesthetically pleasing. Guide im using - https://www.instructables.com/Homemade-Game-Console-NinTIMdo-RP/
+## Plan 
 
 I am going to be printing and assembling a 3D model of the device using a online tool. The model files can be downloaded from a specific URL. The device can be assembled by joining the front and back halves using metal dowels, standoffs, and glue, and attaching a screen using epoxy and glue. The circuitry of the device involves wiring buttons and joysticks to a Teensy ++ 2.0 microcontroller using digital and analog pins, and connecting a battery and charger to power the device. The display can be attached using a flex cable and hot glue. Finally, the software for the device can be set up by installing an operating system and configuring the controls.
 
