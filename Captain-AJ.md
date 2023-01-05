@@ -36,7 +36,8 @@ f. Unify sensor control by programming manual and autonomous control functions.
 
     The robot is now complete!
 
-
+| Product         | Supplier/Link                                         | Cost    |
+| ------------- | ------------------------------------ | ------- |
 | Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://www.robotshop.com/products/devastator-tank-mobile-robot-platform-metal-dc-gear-motor | 84.90 |
 | Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc | 59.46 |
 | Gravity Digital Speaker Module | https://www.robotshop.com/products/gravity-digital-speaker-module | $6.00 |
