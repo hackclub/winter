@@ -4,7 +4,7 @@ project: "Spectrum analyzer headphone
 credit: https://www.anhadsawhney.com/#/headphones/ ( source project)
 ---
 
-# Project Name- Spectrum Headphone
+# Spectrum Headphone
 
 ## Summary
 This project is for making a audio (music) frequency spectrum analyzer / visualizer using Arduino.
