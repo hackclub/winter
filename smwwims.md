@@ -15,8 +15,8 @@ supply is not simply controlled by the time but responds to the needs of the pla
 ## Plan
 
 1. Preparing the plant pot:   Install the water tank, demarcate the electronic part
-2. Water supply:              Install pump, install water pipe
-3. Sensors:                   Wire the sensors
+2. Water supply:              Install pump, install water pipe. There are two water pumps: The main water pump supplies the plants with water. Below the ground is an aluminum sheet with holes. The water can run off there and flow into a catch basin. The water is pumped back from this catch basin to the water tank via the secondary pump. This protects the plants from waterlogging. The water pumps are controlled by the arduino via relays.
+3. Sensors:                   Wire the sensors; Because the "plant farm" is pretty large I need multiple moisture and light sensors in order to measure the soil moisture and the sun exposure acurately.
 4. Light:                     Install and wire the plant light
 5. Programming:               Make it all work through software
 
@@ -37,4 +37,6 @@ supply is not simply controlled by the time but responds to the needs of the pla
 | Moisture Sensor             | https://www.amazon.de/-/en/gp/product/B07CQT5RC8/ref=ewc_pr_img_1?smid=A3BI8G9NTBZUKM&psc=1  | $6.42  |
 | LDR's                       | https://www.amazon.de/-/en/gp/product/B07DDNSKLC/ref=ewc_pr_img_1?smid=A1X7QLRQH87QA3&psc=1  | $6.42  |
 | Temperature Sensor          | https://www.amazon.de/-/en/gp/product/B078SVZB1X/ref=ewc_pr_img_1?smid=A1X7QLRQH87QA3&psc=1  | $10.17 |
-| Total                       |                                                                                              | $241,27|
+| Soldering Set               | I already own one.                                                                           | -      |
+| Wires                       | I already have a few.                                                                        | -      |
+| Total                       | Including taxes and delivery costs                                                           | $241,27|
