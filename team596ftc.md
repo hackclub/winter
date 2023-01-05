@@ -22,7 +22,6 @@ I've been wanting to 3-d print a claw (for a few years actually), but I have not
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 We're a team of 10 people.
 
 | Product         | Supplier/Link                         | Cost   |
