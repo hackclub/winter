@@ -31,7 +31,7 @@ The projects I build and the art I make are all explorations of ideas that inter
 |9v Battery with holder and switch| https://www.amazon.in/Electronicspices-Battery-Holder-Switch-holder/dp/B08L57WTNN| $1.08
 |Female Headers|https://www.amazon.in/Robo-India-Header-Relimate-Connector/dp/B00RUNYE66|$2.72
 |Lm384 and IC Socket| https://www.amazon.in/Audio-Amplifier-Romtek-Matching-sockets/dp/B07KYDNQ3J| $5.40
-|Electrolic and Ceramic Capacitors|https://robu.in/product/10-uf-25v-through-hole-electrolytic-capacitor-pack-of-40/ and |https://robu.in/product/100nf-0603-surface-mount-multilayer-ceramic-capacitor-pack-of-40/|$1.82
+|Electrolic and Ceramic Capacitors|https://robu.in/product/10-uf-25v-through-hole-electrolytic-capacitor-pack-of-40/ and https://robu.in/product/100nf-0603-surface-mount-multilayer-ceramic-capacitor-pack-of-40/|$1.82
 |Resistors|https://www.amazon.in/Resistors-Assortment-Tolerance-Excellently-Breadboards/dp/B07D2Z45CG?th=1| $29
 |Jumper Wires|https://robu.in/product/20cm-dupont-wire-color-jumper-cable-2-54mm-1p-1p-female-female-40pcs/?gclid=CjwKCAiAqaWdBhAvEiwAGAQltkDX_Bzh786v2ejrurNHUXmR1gjxpdL3Tiz1SD5i78Rpq36leV-8kxoCtZQQAvD_BwE| 0.60$
 |3d Printed Case|https://robu.in/product/transparent-acrylic-case-shell-enclosure-gloss-box-for-arduino-uno-r3/?gclid=CjwKCAiAqaWdBhAvEiwAGAQltpATfOKL0bFpp0jebivBGJwx2-ulj3dApk3w1z6On9r0Dd_W-E-N3hoChHQQAvD_BwE| 1$
