@@ -35,4 +35,7 @@ What materials will you need for your project? Where will you get them? How much
 | MQ-3 Alcohol Sensor | https://a.co/d/2gegZiw | $8 |
 | 16x2 LCD Display | https://www.seeedstudio.com/Grove-16-x-2-LCD-Black-on-Yellow.html | $6.50 |
 | Breadboard and Jumper Wires | https://a.co/d/9EkeYQn | $13 |
-| Total           |                                       | $65.50 |
+| 9V Battery | https://a.co/d/6CGdJqt | $8 |
+| 9V Battery Box | https://a.co/d/hHhJDBD | $6 |
+| Shipping + Tax |  | $20 |
+| Total           |                                       | $100 |
