@@ -7,13 +7,11 @@ project: "3-d printed claw"
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
 Using tinkerCAD and Autodesk's Fusion360, I hope to play around with some 3-d printing software and build a claw for my robot. I'm really excited to try out 3-d printing for the first time.
 I've been wanting to 3-d print a claw (for a few years actually), but I have not been able to purchase one yet. I think that a 3-d printed claw will really take my robot to the next level and I can even 3-d print other parts. We also need a new pulley system, and rather than purchasing it, we can 3-d print it! We want to also design and print a custom storage for our game consoles.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
 1. Set up the 3-d printer, get familiar with how it works
 2. Do some test runs, maybe a few cute rings and other small things
 3. Create the design I want (I have some references for different claw shapes, I can share them if interested)
