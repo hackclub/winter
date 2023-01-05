@@ -18,7 +18,7 @@ I've been wanting to 3-d print a claw (for a few years actually), but I have not
 4. designs: [claw 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolidedge.siemens.com%2Fen%2Fresource%2Ftutorial%2F3d-cad-tutorial-robot-claw%2F&psig=AOvVaw1P7ZFkZIH9cBErjBeixrr_&ust=1673034323105000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDq5d2YsfwCFQAAAAAdAAAAABAD), [pulley design](https://www.gobilda.com/3407-series-hub-mount-winch-pulley-dual-spool-112mm-circumference/)
 5. 3-d print the design
 6. Make changes and try out other designs if not satisfied
-7. Repeat!!
+7. Assemble claw using servo and screws
 
 ## Budget
 
@@ -28,4 +28,6 @@ We're a team of 10 people.
 | --------------- | ------------------------------------- | ------ |
 | 3-d printer   | [prusa](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-enclosure-bundle/) | $1089.00 |
 | 4 pack of filament | [amazon](https://www.amazon.com/Gizmo-Dorks-Filament-Printers-1-75mm/dp/B074W1XFRX/ref=d_bmx_dp_498cxron_sccl_4_1/138-2271719-5126418?pd_rd_w=rKkuA&content-id=amzn1.sym.7ee0b8bd-6e91-49e1-a580-2818f27014e3&pf_rd_p=7ee0b8bd-6e91-49e1-a580-2818f27014e3&pf_rd_r=ZZES271K4HFKK3Y1FJ47&pd_rd_wg=asZK4&pd_rd_r=f2fd4f56-76a9-4e4e-89b9-ea44ec27200d&pd_rd_i=B074W1XFRX&psc=1) | $24.95 |
+| servos | already have | $0.00 |
+| screws | already have | $0.00 |
 | Total           |          Thank you!                  | $1113.95 |
