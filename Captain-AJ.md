@@ -15,7 +15,6 @@ All coincides with my desire to apply computer and mechanical engineering concep
 ## Plan
 
 1. Order kit and required parts.
-
 2. Read a sizable amount of Arduino Cookbook to become well endowed with appropriate knowledge.
 
 3. Build the kit according to the instructions: 
