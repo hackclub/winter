@@ -38,4 +38,6 @@ The projects I build and the art I make are all explorations of ideas that inter
 |Ribbon Cable|https://robu.in/product/52911/?gclid=CjwKCAiAqaWdBhAvEiwAGAQltmA62fGLbiuXaZOd0XbyPS2vLAmM4yKIWTERmFg3FSkWy7G8VuOp4xoCM3cQAvD_BwE|1.5$
 | Color TFT LCD Display with MicroSD Card-(2 quantity)|https://www.electronicscomp.com/1.8-inch-spi-128x160-tft-lcd-display-module-with-pcb-for-arduino?gclid=CjwKCAiAqaWdBhAvEiwAGAQltiQOfNt7kbnJ7quUxpwRQOwDBYWHsfFfq9GIKW3LYVdG5nRzLg9QnRoCIfQQAvD_BwE| (2) 14$
 |soldering machine| https://thinkrobotics.in/products/soldering-iron?variant=33115304034390&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic|2.3$
-|Total|  | $244.03
+|solder| https://www.amazon.in/Electronicspices-Rosin-Solder-Electrical-Soldering/dp/B07YX7GC4N/ref=sr_1_4?keywords=rosin+core+solder&qid=1672840249&sr=8-4| 1.80$
+|fume fan| https://robu.in/product/dc-5v-0-06a-5015-double-ball-centrifugal-fan-with-xh2-54-2p-30cm-cable-size505015mm/?| 3.90$
+|Total|  | 249.7$
