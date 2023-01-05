@@ -3,7 +3,7 @@ name: "@GurshanBrar"
 project: "3d Printed Prosthetic Hand"
 ---
 
-# Project Name
+# 3D Printed Prosthetic Hand
 ## Summary
 What are you going to build? What does it do? Why are you excited to build it?
 
