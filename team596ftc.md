@@ -9,6 +9,9 @@ project: "3-d printed claw"
 
 Using tinkerCAD and Autodesk's Fusion360, I hope to play around with some 3-d printing software and build a claw for my robot. I'm really excited to try out 3-d printing for the first time.
 I've been wanting to 3-d print a claw (for a few years actually), but I have not been able to purchase one yet. I think that a 3-d printed claw will really take my robot to the next level and I can even 3-d print other parts. We also need a new pulley system, and rather than purchasing it, we can 3-d print it! We want to also design and print a custom storage for our game consoles (used in junction with our robot). Once the 3-d printer claw works, we can add in a touch sensor and code the servos so that the claw opens if it touches something.
+We can also print this: https://openodometry.weebly.com/ and use it to incorporate more advanced path following algorithms on our robot (we'll purchase any additional parts ourselves)
+
+In summary, we hope to 3-d print a functional claw, complete with servos and gears.
 
 ## Plan
 
