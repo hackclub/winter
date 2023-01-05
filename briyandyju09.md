@@ -9,11 +9,10 @@ RetroSwitch
 
 ## Summary
 
-I want to build a handheld game console that looks like a nintendo switch. It can emulate and play any retro game and can be used also as a Linux computer.
-
+This project was to create a portable gaming system that could also double as a portable computer. The goal was to create a console that was functional as well as aesthetically pleasing.
 ## Plan
 
-I will first assemble the case. Then set the screen to the PI. Then i will set the power source with a powerbank and setup all the tactile switches with the teensy.
+I am going to be printing and assembling a 3D model of the device using a online tool. The model files can be downloaded from a specific URL. The device can be assembled by joining the front and back halves using metal dowels, standoffs, and glue, and attaching a screen using epoxy and glue. The circuitry of the device involves wiring buttons and joysticks to a Teensy ++ 2.0 microcontroller using digital and analog pins, and connecting a battery and charger to power the device. The display can be attached using a flex cable and hot glue. Finally, the software for the device can be set up by installing an operating system and configuring the controls.
 
 ## Budget
 
@@ -25,7 +24,8 @@ I will first assemble the case. Then set the screen to the PI. Then i will set t
 | Teensy LC   | https://www.adafruit.com/product/2419 | $17.50 |
 | Soft tactile switch   | https://www.adafruit.com/product/3101 | $1.95 |
 | Joystick x2  | https://www.adafruit.com/product/512 | $11.9 |
-| Case | www.pcbway.com | $40 |
-| Miscellaneous (like wires & delivery) |  | $40 |
+| Wires  | https://www.adafruit.com/product/1311 | $15.95 |
+| Case | www.pcbway.com (link for model - [https://github.com/timlindquist/Nintimdo-RP_3D_models]) | $40 |
+| Miscellaneous (like delivery) |  | $40 |
 | Power bank | https://www.amazon.ae/Philips-10000mAh-Portable-DLP1710CV-97/dp/B082HQ6M7R/ref=sr_1_5?c=ts&keywords=Mobile%2BPhone%2BPortable%2BPower%2BBanks&qid=1672756310&s=electronics&sr=1-5&ts_id=12304344031&th=1 | $13.34 |
 | Total           |                                       | $250 aprox. |
