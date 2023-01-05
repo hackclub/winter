@@ -16,7 +16,7 @@ I've been wanting to 3-d print a claw (for a few years actually), but I have not
 What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
 1. Set up the 3-d printer, get familiar with how it works
 2. Do some test runs
-3. Create the design I want
+3. Create the design I want (I have some references for different claw shapes)
 4. 3-d print the design
 5. Make changes and try out other designs if not satisfied
 6. Repeat!!
