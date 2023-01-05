@@ -8,12 +8,13 @@ Pico-temp
 ## Summary
 This is a temperature monitor for water filled environments,
 the waterproof sensor is the only thing that will go into the water, and all the control equipment sits next to it, on dry land
+has relay support in order to provide a on / off function. and a new heater because i can't turn off the old one or it will kill my fish
 
 ## Plan
 
 I am going to assemble this onto a breadboard first to check my logic works. and then i will order a custom PCB from JLCPCB to assemble it more pernamently
 my steps will be approximatly:
-
+1. assemble the 240v power switching relay (day --smth-- (depends on when the guy who agreed to help me is around))
 1. place pico and display onto breadboard and wire it up (day 1)
 2. get the pico outputting "hello world" to the display (day 1)
 3. attach the temperature sensor (day 1)
@@ -23,7 +24,6 @@ my steps will be approximatly:
 7. buy and design PCB (day 6)
 8. build PCB (day 8)
 9. deploy (day 8)
-10. possibly build more (day 8 - 10)
 ## Budget
 | Product         | Supplier/Link                                                     | Cost   |
 | --------------- | ----------------------------------------------------------------- | ------ |
@@ -48,6 +48,7 @@ my steps will be approximatly:
 | Jewel automatic heater | https://www.amazon.co.uk/gp/product/B0030HJY5C/ref=ox_sc_act_title_5?smid=A2MYEVYTNLKQFQ&psc=1 | $34.95 |
 | Nylon cable glands | https://www.amazon.co.uk/gp/product/B07WHBZ1ZS/ref=ox_sc_act_title_6?smid=A3P5ROKL5A1OLE&psc=1 | $7.12 |
 | Double weatherproof power socket | https://www.amazon.co.uk/gp/product/B082KZ1JPP/ref=ox_sc_act_title_7?smid=A3P81ISNL53U0E&psc=1 | $12.68 |
-| Total with shipping or taxes | | $246.02 |
+| 3 x New 1 x 20 headers... | https://thepihut.com/products/female-header-set-for-raspberry-pi-pico | £6 |
+| Total with shipping or taxes | | $252.02 |
 
 Will try to get the sensor from pimoroni, if it is back in stock by time of ordering
