@@ -30,4 +30,4 @@ The fifth step is to test everything.  <br>
 | Raspberry Pi Zero UPS-Lite Power Supply Board with 1000mAh 3.7V | https://www.aliexpress.com/item/1005003792770003.html?spm=a2g0o.cart.0.0.267538daPxA5wQ&mp=1 | $24.24 |
 | K7 X1 3D Printer Mini | https://www.aliexpress.com/item/1005002668227870.html?spm=a2g0o.cart.0.0.5b8338daT6TgTX&mp=1 | $105.01 |
 | cable, welder, solder and filament 3d | I have | $0.00 |
-| Total products + Total Ship |  | US $213.10 |
+| Total products + Total Ship |  | US $215.13 |
