@@ -11,7 +11,7 @@ This project is for making a audio (music) frequency spectrum analyzer / visuali
 
 What are you going to build? What des it do? Why are you excited to build it?
 I'm building a spectrum analyzer the project uses an arduino micro to perform an fft (Fast Fourier Transform) on the incoming audio signal and display the results as a frequency vs. volume graph on the earcups of the headphones. 
-
+credit: https://www.anhadsawhney.com/#/headphones/ ( source project)
 ## Plan
 There is an lm384 based amplifier and circuitry for a 2.5v dc offset before the arduino to ensure that the audio fills the entire range of its ADC (Analog to Digital Converter). Originally, the code used will be official ST7735 Tft library from Adafruit. Unfortunately this driver is very slow and I have to create very minimal graphics to ensure a fast response time and low latency with respect to the incoming audio signal. Later, I will switch to a 3rd party library which will allow me to implement more graphical elements such as different colors and an average amplitude indicator.Everytime the lower frequencies of the signal spikes, the display colors invert. This gives a better impression that the display is moving with the beat of the music.
 
