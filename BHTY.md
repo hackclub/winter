@@ -19,7 +19,7 @@ To build the CPU, I will need to construct each of the different components, sta
 
 The main tool at my disposal is Verilog, which allows me to describe the layout of the hardware, and eventually program it onto an FPGA.
 
-Some progress has already been made on the processor's ALU, including:
+Some progress has already been made on the processor's ALU using Verilog simulations, including:
 * 32x32=64-bit Multiplier
 * 64/32=32-bit Divider
 * 32-bit Barrel Shifter
