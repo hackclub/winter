@@ -7,7 +7,6 @@ project: "Musical painting"
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
 I am super excited to build this, previously I did not have the funds to build it, but now I can! If my first try goes well, I can use extra parts to build more or even hold a workshop on this at my art or computerscience club!
 I will paint a painting using some illusion techniques and gouache and electric paints. I hope that the outcome will look ethereal and I can share it with my community as an intersection of art and CS, something I'm really excited to explore!
 
