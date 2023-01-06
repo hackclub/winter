@@ -32,6 +32,5 @@ What materials will you need for your project? Where will you get them? How much
 | --------------- | ------------------------------------- | ------ |
 | Arduino   | https://www.aliexpress.us/item/3256802398800094.html | $10  |
 | Bose Speaker | https://www.bose.com/en_us/products/speakers/portable_speakers/soundlink-revolve-plus-ii.html | $361  |
-| Bose Charging Port | https://www.bose.com/en_us/products/speakers/speaker_accessories/soundlink_revolve_charging_cradle_acc.html | $38  |
 | Adafruit LED Light Strip 2m | https://www.adafruit.com/product/2842  | $67 |
-| Total           |                                       | $476 |
+| Total           |                                       | $438 |
