@@ -29,20 +29,17 @@ I'll be following [the reccomend parts list for the Prototype 4](https://github.
 | 9g MG90S Servo Motors                            | [Amazon](shorturl.at/acdw1)           | $31.99 |
 | ESP32 Dev Board                                  | [Amazon](shorturl.at/CDKN5)           | $13.99 |
 | Retractable Badge Reels (for the rotary springs) | [Amazon](shorturl.at/msxy8)           | $16.95 |
-| Joystick                                         | [Amazon](shorturl.at/uDESZ)           | $12.58 |
+| Joystick                                         | [Amazon](shorturl.at/uDESZ)           | $6.29  |
 | MicroUSB Pinout                                  | [Amazon](shorturl.at/bdRWY)           | $6.99  |
 | Nylon Gloves                                     | [Amazon](shorturl.at/ksHN1)           | $5.00  |
 | Vecro Straps                                     | [Amazon](shorturl.at/bfjps)           | $3.99  |
 | Power Banks                                      | [Amazon](shorturl.at/dfoBN)           | $29.95 |
-| Foam Sheet                                       | [Michael's](shorturl.at/dJR14)        | $1.98  |
+| Foam Sheet                                       | [Michael's](shorturl.at/dJR14)        | $0.99  |
 | JST Crimping Kit                                 | [Amazon](shorturl.at/dhqs7)           | $36.99 |
 | Soldering Iron                                   | [Amazon](shorturl.at/oyBK1)           | $39.99 |
 | PLA Filament                                     | [Amazon](shorturl.at/eoGN4)           | $24.99 |
-| Subtotal                                         |                                       | $238.05|
+| Subtotal                                         |                                       | $229.78|
 | Amazon Coupons                                   |                                       | -$5.57 |
 | Shipping                                         |                                       | FREE   |
-| Est. Taxes                                       |                                       | $18.52 |
-| Total                                            |                                       | $251.00|
-
-
-*Happy to cover the extra $1 out-of-pocket :)*
+| Est. Taxes                                       |                                       | $18.00 |
+| Total                                            |                                       | $243.02|
