@@ -19,7 +19,8 @@ amand support to humans by following them and performing tasks as needed.
 
 To create a human following car using the specified components, I will follow these steps:
 
-First I will make the car chassis out of Acrylic Sheet by attaching the Mecanum wheels to the TT Gear Motor and then to the Chassis. 
+First I will make the car chassis out of Acrylic Sheet by attaching the Mecanum wheels to the TT Gear Motor and then to the Chassis.
+To make the chassis I will first cut Acrylic sheet in a rectangular shape using appropriate tools which I already own.
 Then I will attach the L293D Motor Driver Shield to the car chassis.Then I will connect the Mu vision sensor to the Arduino Uno using a 
 suitable male to female connectors. To power the car I am going to use 18650 Li-ion battery. I will also use a switch to control the power.
 Then I will connect the TT Gear Motor to the L293D Motor Driver Shield using suitable wires or cables.
@@ -41,9 +42,10 @@ code the robot to follow  Traffic Sign and take decisions accordingly. This robo
 | TP4056 Battery Charger             | https://amzn.to/3jKYF2s | $1.17   |
 | 18650 3.7v Battery Holder          | https://amzn.to/3GvASgb | $1.08   |
 | Jumper Wires                       | https://amzn.to/3GsyyGK | $3.26   |
-| L293D Motor Driver                 | https://amzn.to/3Ci86Ns | $2.60
+| L293D Motor Driver                 | https://amzn.to/3Ci86Ns | $2.60   |
 | Connecting Wires                   | (Already Own)           | $0.00   |
 | Acrylic Sheet                      | (Already Own)           | $0.00   |
+| Tools Needed For Making chassis    | (Already Own)           | $0.00   |
 | Shipping                           |                         | $18.24  |
 | Tax                                |                         | $11.23  |
 | Total                              |                         | $250.66 |
