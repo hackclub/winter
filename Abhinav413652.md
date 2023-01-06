@@ -9,7 +9,8 @@ Project Desktop Computer + Hacking OS
 
 ## Summary
 
-Recently, in the past years, I have been learning more about computers which has sparked my interest in this field. Me and my sister are going to build our first ever pc. On that PC we will develop our Hacking OS. It will be linux based Operating System. That PC will  help us learn many new things. Since our current laptop isn't a nice one, we are going to develop our OS in the pc we build. Even though I'll be the one guiding this project, I think this will be a super fun experience for both of us to further our knowledge and experience of PCs and OSs. I shall show my sister how a computer actully works. 
+Recently, in the past years, I have been learning more about computers which has sparked my interest in this field. Me and my sister are going to build our first ever pc. On that PC we will develop our Hacking OS. It will be linux based Operating System. That PC will  help us learn many new things. Since our current laptop isn't a nice one, we are going to develop our OS in the pc we build. Even though I'll be the one guiding this project, I think this will be a super fun experience for both of us to further our knowledge and experience of PCs and OSs. I shall show my sister how a computer actully works.
+By the way there are two persons in the project. The other member of this project is my sister.
 
 ## Plan
 
