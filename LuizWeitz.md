@@ -14,8 +14,8 @@ E-reader using Raspberry Pi Pico with E-Ink technology screen with rechargeable 
 The first step is to plan how the components will be organized. <br>
 The second step is to connect all components through wire and solder.  <br>
 The third step is to plan a simple case in 3d and print out. <br>
-Fourth step is to create a simple software that reads the books and sends them to the screen with the possibility of changing pages.  <br>
-Fifth step is to test everything.  <br>
+The fourth step is to create a simple software that reads the books and sends them to the screen with the possibility of changing pages.  <br>
+The fifth step is to test everything.  <br>
 
 ### one of the prototypes:
 
