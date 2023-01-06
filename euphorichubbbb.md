@@ -1,7 +1,6 @@
 ---
 name: "@euphorichubbbb"
 project: "Spectrum analyzer headphone
-credit: https://www.anhadsawhney.com/#/headphones/ ( source project)
 ---
 
 # Spectrum Headphone
