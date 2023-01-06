@@ -1,17 +1,15 @@
 ---
-name: "@DevIos01 || @Kiana"
+name: ["@DevIos01", "@Kiana"]
 project: "Modern Duck Hunt & NES Zapper"
 ---
 
-#  Project Name
+#  Modern Duck Hunt + Modern NES Zapper
 
-Modern Duck Hunt + Modern NES Zapper
-
-#  Summary
+## Summary
 
 I am excited to build a modern version of the classic NES game, Duck Hunt, with my best friend @Kiana as a demo project. Our main project will be a modern version of the NES Zapper, which will be compatible with modern PC and have API support. The microcontroller will control the laser sight and trigger with multiple buttons, and the device will be powered by a rechargeable battery. The Duck Hunt game will feature updated graphics and sound, as well as new gameplay elements to keep players engaged. It will be built using the Unity game engine and will be compatible with PC.
 
-# Plan
+## Plan
 
 1. Select a microcontroller and rechargeable battery for the NES Zapper.
 2. Design the circuit to control the laser sight and trigger using the Raspberry Pi. Connect gyroscope to detect the movement and rotation to recreate it on game.
@@ -26,8 +24,9 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 10. Test and debug the NES Zapper to ensure smooth operation.
 
 
-# Budget
-# Manufature: DustinHome
+## Budget
+
+### Manufature: DustinHome
 
 | Product                                                     | Supplier/Link                                                                            | Cost          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |
@@ -40,7 +39,7 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | Shipping                                                    | 299kr  (29$)                                                                             |               |
 | Total                                                       | 3812kr (365$)                                                                            |               |
 
-# Manufacture: Amazon
+### Manufacture: Amazon
 
 | Product                                                     | Supplier/Link                                                                            | Cost          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |
@@ -51,7 +50,7 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | Shipping                                                    | 65kr  (6$)                                                                               |               |
 | Total                                                       | 762kr (73$)                                                                              |               |
 
-# Manufacture: jlcpcb
+### Manufacture: jlcpcb
 
 | Product                                                     | Supplier/Link                                                                            | Cost          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |
@@ -60,7 +59,7 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | Shipping                                                    | 181kr  (17$)                                                                             |               |
 | Total                                                       | 814kr  (78$)                                                                             |               |
 
-#  Total Cost:
+###  Total Cost:
 | Product                                                     | Supplier/Link                                                                            | Cost          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |
 | DustinHome                                                  | https://dustinhome.se/                                                                   | 3812kr (365$) |
