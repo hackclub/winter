@@ -42,4 +42,5 @@ What materials will you need for your project? Where will you get them? How much
 | Solenoids       | https://www.aliexpress.com/item/1005002154277283.html | 30 pc   | $1.88   |
 | Breadboard      | https://www.aliexpress.com/item/32523839459.html      | 1 pc    | $1.77   |
 | USB C Dongle    | https://www.aliexpress.com/item/4000180424469.html    | 1 pc    | $3.70   |
+| Plastic casing  | Owned                                                 | 1 pc    | $0      |
 | Total           |                                                       |         | $138.92 |
