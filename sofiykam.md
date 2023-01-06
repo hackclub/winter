@@ -13,6 +13,9 @@ both of which are very important parts of the career I want to pursue, and also 
 
 ## Plan
 
+https://github.com/THEGURUJ1/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit/blob/main/Building%20Project%20from%20scratch.md
+(link to tutorial I'm following)
+
 First I will purchase all of the materials needed to create the predictor. 
 When I have all of the materials, then I will actually prepare for set-up by connecting the SD card to the laptop, 
 and downloading all of the necessary information. Then I will set up the Jetson Kit and attach all the necessary 
