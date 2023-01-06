@@ -77,4 +77,4 @@ We will be covering the remaining cost using our own money
 | Power Supply | Available | 0 |
 | Sd Cards | Available(already formatted them) | 0 |
 | Micro Hdmi Cable | Available | 0 |
-| Total           |                                       | $497.3 |
+| Total           |                                       | $530 |
