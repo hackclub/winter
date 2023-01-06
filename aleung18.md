@@ -5,6 +5,8 @@ project: "Raspberry Pi Powered Pet Feeder"
 
 # Raspberry Pi Powered Pet Feeder
 
+Project Guide: https://www.youtube.com/watch?v=Mx5WoefZ2h0&t=16s&ab_channel=MostElectronics
+
 ## Summary
 
 What are you going to build? What does it do? Why are you excited to build it?
