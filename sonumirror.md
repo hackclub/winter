@@ -38,4 +38,5 @@ Just want to clarify that these websites I'll be using to buy the material.
 | Frame             | https://amzn.eu/d/548ZtSv             | $10.00  |
 | Connectors        |                                       | $5.00   |
 | 2 Way Mirror Film | https://amzn.eu/d/c8R4uOw             | $20.71  |
-| Total             |                                       | $235.35 |
+| Shipping Charges  |                                       | $10.00  |
+| Total             |                                       | $245.35 |
