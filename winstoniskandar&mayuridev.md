@@ -31,6 +31,7 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Arduino   | https://www.aliexpress.us/item/3256802398800094.html | $10  |
+| Raspberry Pi SC0326 | https://www.digikey.com/en/products/detail/raspberry-pi/SC0326/13281653 | $44 |
 | Bose Speaker | https://www.bose.com/en_us/products/speakers/portable_speakers/soundlink-revolve-plus-ii.html | $361  |
 | Adafruit LED Light Strip 2m | https://www.adafruit.com/product/2842  | $67 |
-| Total           |                                       | $438 |
+| Total           |                                       | $482 |
