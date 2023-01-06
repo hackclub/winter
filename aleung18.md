@@ -34,8 +34,11 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product                            | Supplier/Link                                           | Cost   |
 | ---------------                    | --------------------------------------------------------| ------ |
+| Ender 3 V2 (already own)           |                                                         | $0     |
+| Overture Filament (already own)    |                                                         | $0     |
+| Breadboard & Battery Power Supply (already own)                                              | $0     |
 | Raspberry Pi 4 Model B (4 GB RAM)  | bit.ly/3VOcGKl                                          | $162.89|
 | Stepper Motor & Drivers            | bit.ly/3jRQQrY                                          | $13.99 |
 | Raspberry Pi Camera Module V2      | https://www.sparkfun.com/products/14028?src=raspberrypi | $39.96 (including tax)|
-| Tax                                                                                          | + amazon tax ($15.26) |
+| Tax                                |                                                         | + amazon tax ($15.26) |
 | Total                              |                                                         | $232.10|
