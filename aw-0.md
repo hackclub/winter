@@ -17,7 +17,7 @@ Like mentioned above, I'll be basing this project off of the [lucidgloves Protot
 2. Begin [assembly](https://github.com/LucidVR/lucidgloves/wiki/Prototype-4-Building-Tutorial) and [wiring](https://github.com/LucidVR/lucidgloves/wiki/Prototype-4-Wiring-Diagram), which will most likely come hand-in-hand. This is what I expect to take up the majority of the 10 days, as I'm a beginner to all this, and want to build the gloves with all the best practices in-mind.
 3. Load the [lucidgloves firmware](https://github.com/LucidVR/lucidgloves/wiki/Firmware-Setup-and-Customization-Tutorial) onto the ESP32, and troubleshoot any issues that might pop up.
 4. Test the glove with my Oculus Quest 2 and SteamVR.
-5. I plan to build one glove, as I'm not sure how ambitious this project may be. But, if there's more time and enough materials, I'll go ahead and build a second one to create a matching pair.
+5. If I have some extra time, I'd like to contribute back to this project to add my own twist to it. For example, the SteamVR driver has a [Svelte-based UI](https://github.com/lucidVR/opengloves-ui) that I'd love to edit and make it better for all :)
 
 ## Budget
 
@@ -38,11 +38,11 @@ I'll be following [the reccomend parts list for the Prototype 4](https://github.
 | JST Crimping Kit                                 | [Amazon](shorturl.at/dhqs7)           | $36.99 |
 | Soldering Iron                                   | [Amazon](shorturl.at/oyBK1)           | $39.99 |
 | PLA Filament                                     | [Amazon](shorturl.at/eoGN4)           | $24.99 |
-| Subtotal                                         |                                       | $238.05 |
-| Amazon Coupons                                   |                                       | -$5.57  |
-| Shipping                                         |                                       | FREE    |
-| Est. Taxes                                       |                                       | $18.52  |
-| Total                                            |                                       | $251    |
+| Subtotal                                         |                                       | $238.05|
+| Amazon Coupons                                   |                                       | -$5.57 |
+| Shipping                                         |                                       | FREE   |
+| Est. Taxes                                       |                                       | $18.52 |
+| Total                                            |                                       | $251.00|
 
 
 *Happy to cover the extra $1 out-of-pocket :)*
