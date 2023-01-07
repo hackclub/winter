@@ -19,20 +19,21 @@ I am going to build a smart plant watering system that uses a microcontroller an
 6. Test the system to ensure that it is functioning correctly.
 7. Make any necessary adjustments or improvements to the system.
 
-## Budget
+I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plant-watering-system-project/
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Arduino UNO REV3 | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6?ref_=ast_sto_dp&th=1&psc=1 | $28.50 |
-| Soil Hygrometer Moisture Sensor | https://www.amazon.com/gp/product/B077PW1VW5/ref=as_li_tl?ie=UTF8&tag=arduinounomag-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077PW1VW5&linkId=17d85eec9a01554cb83d262931d3a40d  | $7.50 |
-| Photoresistor 5 mm | https://www.amazon.com/gp/product/B01N7V536K/ref=sw_img_1?smid=A2183UWDBUMPG&psc=1 | $5.99 |
+| Jumper Cables | https://www.amazon.com/gp/product/B01EV70C78/ref=ox_sc_act_title_1?smid=A2WWHQ25ENKVJ1&th=1 | $6.98 |
+| 6V DC Submersible Pump with pipe | https://www.amazon.com/gp/product/B08PBQ1N1G/ref=ox_sc_act_title_2?smid=A3GUS9YEHW5TXN&psc=1 | $11.39 |
+| Relay Module (Single Channel) | https://www.amazon.com/gp/product/B07BVXT1ZK/ref=ox_sc_act_title_3?smid=A32A7V0ESA8D26&psc=1 | $8.99 |
 | 2-Channel Relay Module | https://www.amazon.com/gp/product/B0057OC6D8/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1 | $7.39 |
-| DC 12V Mini Submersible Water Pump 63 Gal Pump | https://www.amazon.com/gp/product/B010LY7P3Y/ref=as_li_tl?ie=UTF8&tag=arduinounomag-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B010LY7P3Y&linkId=1a6bfdd0aa309ea820e80864d4c23aa7 | $10.99 |
-| B17 Values Resistor Kit 0 Ohm-1M Ohm with 1% 1/4W Metal Film Resistors Assortment Kit | https://www.amazon.com/BOJACK-Resistors-Assortment-Thermistor-Photoresistor/dp/B07QXP4KVZ/ref=sr_1_2_sspa?crid=29EDFNNOQPEP6&keywords=resistor+kit+1%2F4W+1%25+Resistor+Assortment+Kit%2C+10+Ohm+-+1M+Ohm&qid=1673026147&s=industrial&sprefix=resistor+kit+1%2F4w+1%25+resistor+assortment+kit%2C+10+ohm+-+1m+ohm%2Cindustrial%2C159&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyU1FGSjJOVFcwSTBIJmVuY3J5cHRlZElkPUEwMzY5MjU3RzhHUlhETjZHMlJVJmVuY3J5cHRlZEFkSWQ9QTAyMDc5NjcyQkVTUE9BNzRKOU5PJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== | $9.99 |
-| 400 Point Solderless Breadboards | https://www.amazon.com/Breadborad-Solderless-Breadboards-Distribution-Connecting/dp/B082VYXDF1/ref=sr_1_1_sspa?crid=31BC3MIK8KWGZ&keywords=Solderless+Plug-in+BreadBoard%2C+400+tie-Points%2C+4+Power+Rails%2C+with+Metal+Backing+Plate&qid=1673026210&s=industrial&sprefix=solderless+plug-in+breadboard%2C+400+tie-points%2C+4+power+rails%2C+with+metal+backing+plate%2Cindustrial%2C254&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFSWFhEQlNHSTExMzAmZW5jcnlwdGVkSWQ9QTAwODM3NDQyWkk5UEI1VUk1QjlUJmVuY3J5cHRlZEFkSWQ9QTA5Mzc2MzUxTFJZVkUzNTRBR0paJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== | $12.99 |
-| Male to Male 4 Inch Solderless Ribbon Dupont-Compatible Jumper Wires | https://www.amazon.com/gp/product/B077N6HFCX/ref=as_li_tl?ie=UTF8&tag=arduinounomag-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077N6HFCX&linkId=edce9148441090ffc92edcfb113b3917 | $5.99 |
-| Total | | $89.34 |
-
-Note: Prices do not include shipping costs or taxes.
+| DHT11 sensor | https://www.amazon.com/gp/product/B01DKC2GQ0/ref=ox_sc_act_title_4?smid=A30QSGOJR8LMXA&psc=1 | $10.29 |
+| Soil moisture sensor | https://www.amazon.com/gp/product/B01DKISKLO/ref=ox_sc_act_title_5?smid=A30QSGOJR8LMXA&psc=1 | $7.89 |
+| NodeMCU ESP8266 | https://www.amazon.com/gp/product/B081CSJV2V/ref=ox_sc_act_title_6?smid=A30QSGOJR8LMXA&th=1 | $16.39 |
+| Breadboard | https://www.amazon.com/gp/product/B09NCY7NP1/ref=ox_sc_act_title_1?smid=A1T9HJJBSM1XZ1&psc=1 | 12.99 |
+| Plant pots | https://www.amazon.com/gp/product/B07WMTPZ94/ref=ox_sc_act_title_2?smid=A106OV2NHLTD48&th=1 | $25.99 |
+| 5 Volt DC power supply | https://www.amazon.com/gp/product/B077PW5JC3/ref=ox_sc_act_title_1?smid=A3PCHCFVFJ1YJA&psc=1 | $12.99 |
+| Taxes | | $11.50 |
+| Total | | $125.40 |
