@@ -38,7 +38,7 @@ The TLDR of the my steps is as follows
 
 Other components (battery, goggles, VTX) are not included in this cost because they are not directly neccesary for the build to function (e.g goggles) or because I already own some of them (e.g batteries, camera).
 
-Products I Already Own
+**Products I Already Own**
 | Product                | Cost   |
 | ---------------------- | ------ |
 | GoPro (Camera)| $399.99 |
