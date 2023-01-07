@@ -15,7 +15,7 @@ For most of the building guide I will be following this [video](https://www.yout
 
 The TLDR of the my steps is as follows
 1. Assemble Frame, attach motors and flight controller stack
-2. Solder motor connections
+2. Solder motor connections with soldering iron
 3. Attacth radio, VTX, camera to frame
 4. Solder radtio, VTX and camera connections to the frame
 5. Calibrate drone in BetaFlight
@@ -37,3 +37,10 @@ The TLDR of the my steps is as follows
 | Total                  |                                                                      | $249.41 |
 
 Other components (battery, goggles, VTX) are not included in this cost because they are not directly neccesary for the build to function (e.g goggles) or because I already own some of them (e.g batteries, camera).
+
+Products I Already Own
+| Product                | Cost   |
+| ---------------------- | ------ |
+| GoPro (Camera)| $399.99 |
+| Batteries | $61.99 |
+| Total | $461.68 |
