@@ -29,6 +29,16 @@ For tools I will need:
 
 I fortunately already have all of these tools. I will just need to buy parts.
 
+## Features
+- [] Linear Spectrum Analyzer
+- [] Circular Graphic Equalizer
+- [] Spotify Album Cover
+- [] Spotify Smart-Home Control Hub
+    - Act as a Spotify recognized listening device able to stream music. Play that music through an onboard audio jack to a speaker.
+    - Have buttons and knobs to skip songs on spotify, remotely!
+- [] Music Dependent Ripple Wave
+    - The LED matrix will ripple in a wave pattern that is dependent on the music playing. The wave will be more intense when the music is louder.
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
