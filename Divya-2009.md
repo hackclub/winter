@@ -1,6 +1,6 @@
 ---
-name: @Divya-2009
-project: Arduino Car
+name: "@Divya-2009"
+project: "Arduino Car"
 ---
 
 # Project Name
