@@ -26,6 +26,44 @@ In this project it can be broken down into three major parts:
 2. 1-second-a-day module development
 3. Patch notes module development
 
+* *Smart Mirror Construction* * <br>
+smart mirror consists of five main components:
+1. A Monitor
+2. A Computer
+3. A Webcam
+4. A Two-way mirror
+5. A Frame
+<br>
+* *Frame Building Process* 
+
+Before building mirror, I had to give careful attention in researching and choosing the parts. Many
+options for components can conflict with other components due to physical or software constraints
+
+* *Monitor* * <br>
+I chose the LED monitor for multiple reasons. First, the monitor was 24" wide diagonally.
+This was large enough for a person to see most of their upper body in their reflection but small enough so
+our two-way mirror didn't have to be sized at an inordinately expensive size. Second, the bezel of the
+monitor was removable via a flathead screwdriver. This allows us to arrange the monitor's display flush
+against the two-way mirror, resulting in a sharper image
+<br>
+
+* *Rasberry Pie* * <br>
+The Raspberry Pi is a compact computer popular in many home internet-of-things projects. I chose
+the Raspberry Pi because of its small size and low cost.
+<br>
+
+* *Two-way Mirror* * <br>
+A smart mirror's mirror can be made of reflective film, glass, or acrylic. I decided to go with a ready-cut
+two-way mirrored acrylic from TapPlastics. Acrylic is superior to film, in that it allows more light from the
+monitor to shine through. At the same time, it is cheaper and less fragile than glass.
+<br>
+
+* *Frame: Glacier Bay 15 1/4in x 26in Medicine Cabinet* * <br>
+I choose the medicine cabinet as model frame. First, its mirror opening is the perfect size -- only slightly
+larger than my LED monitor. Second, its hollow body provides just enough room to store the monitor.
+Third, its built-in hinge allows us to easily open up the smart mirror and access/adjust its internal
+components
+<br>
 
 Just want to clarify that these websites I'll be using to buy the material.
 
