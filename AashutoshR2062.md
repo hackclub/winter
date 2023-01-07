@@ -17,7 +17,7 @@ the FM Radio Station works.
 
 ## Plan
 First things first I will do it to power the rasberry pi through micro USB cable using a powerbank, 
-which the brain of the radio station as it will run the software needed to transmit audio through
+as it will be the brain of the radio station and it will run the software needed to transmit audio through
 the FM transmitter and receive audio input from the USB audio adapter.Then I will require a 
 microphone headset to transmit live audio.After that I will be using 
 a micro hdmi cable to connect the pi to the monitor then I will connect it to internet and install the 
@@ -26,10 +26,23 @@ receiving the signal through a fm radio Speaker. We will be able to play the aud
 and the fm radio speaker can pick those signals and play via speakers or even a FM Radio enabled 
 smartphone can be used for that.If everything is working fine , then i will make custom 
 cardboard enclosure for the radio station and wrap all the tools in single unit.
-  
-
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
+| Product                            | Supplier/Link                         | Cost       |
+| ---------------------------------- | ------------------------------------- | ---------- |
+| Raspberry Pi 4 4GB RAM             | https://amzn.to/3WeCro7               | $146.66    |
+| Raspberry Pi 4 Case                | https://amzn.to/3GaJ859               | $25.24     |
+| Samsung EVO Plus 64GB SD Card      | https://amzn.to/3FMz7JW               | $7.24      |
+| Raspberry Pi 15.3W USB-C           | https://amzn.to/3WDXssh               | $7.31      |
+| Micro HDMI to HDMI			           | https://amzn.to/3IqyeJY	             | $3.67      |
+| FM Antenna                  			 | https://amzn.to/3CuJe58               | $1.22      |
+| Mi POWER BANK 			               | https://amzn.to/3GoSWap	             | $14.57     |
+| P-tron USB Type C		               | https://amzn.to/3CoBlOv               | $1.22      |
+| Microphone Headset			           | https://bit.ly/3Qo4U8L                | $36.74     |
+| USB audio Adapter			             | https://amzn.to/3GnQiSj        		   | $2.49      |
+| Radio Speaker                      | (I own)                               | $0.00      |
+| Plywood                            | (I own)                               | $0.00      | 
+| Shipping								           |                                       | $3.32      |
+| Tax                                |                                       | $3.6       |
+| Total                              |                                       | $248.3     |
