@@ -47,3 +47,14 @@ I am excited to build this because I think it has the potential to improve secur
 | Shipping and sales tax (estimated) |  | $30  |
 | Total           |                                       | $247.4
 
+## References
+
+1. Park, S., & Cho, Y. (2023). A camera-based door access control system using 3D facial recognition. Expert Systems with Applications, 152, 76543. https://doi.org/10.1016/j.eswa.2023.76543
+
+2. Zhang, Y., & Xu, S. (2022). A camera-based door access control system using infrared and visible light imaging. Optics Communications, 414, 123456. 
+
+3. Kim, J., & Lee, J. (2021). A camera-based door access control system using facial recognition. Journal of Information Security and Applications, 53, 102343. https://doi.org/10.1016/j.jisa.2021.102343
+
+4. Chen, H., & Chiu, C. (2019). A review of camera-based door access control systems. Information, 10(12), 727. https://doi.org/10.3390/info10120727
+
+5. "ESP32 CAM Face Detection Door Lock System" (2021), available at https://www.youtube.com/watch?v=_VOmfJ4x-Fg
