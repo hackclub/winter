@@ -15,9 +15,9 @@ For the first 2 days, i'll work on creating my keyboard using the Bakeneko60 tha
 Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9163) | $149.99 |
-| Switches        | [Gateron Oil King](https://divinikey.com/products/gateron-oil-king-linear-switches) | $54.35 |
-| Keycaps         | [Minimalistic BoW](https://idobao.net/collections/keycap/products/idobao-minimalist-black-and-white-pbt-keycaps-kit) | $46.50 |
+| Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 |
+| Switches        | [Gateron Oil King](https://divinikey.com/products/gateron-oil-king-linear-switches) | $51.73 |
+| Keycaps         | [Matcha](https://www.amazon.com/dp/B09QSSR7TZ) | $29.99 |
 | Puller Tool     | [Keycap & Switch Puller](https://www.amazon.com/dp/B09L59DNH2) | $4.99 |
-| Shipping        | Divinikey (Switches)                  | $6.01  |  
-| Total           |                                       | $261.84 |
+| Coupons         | Keycaps                               | -$5     |
+| Total           |                                       | $241.70 |
