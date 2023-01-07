@@ -1,5 +1,5 @@
 ---
-name: "@chrisrmama"
+name: "@chrisrama"
 project: "Smart home system"
 ---
 
