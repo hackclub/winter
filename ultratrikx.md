@@ -7,13 +7,20 @@ project: "FPV Drone"
 
 ## Summary
 
-I am going to be building a weather/flight station to collect data about my environment and neighbourhood. It will collect information such as the speed, altitude and heading of planes in the vicinity. It will also collect information about the weather such as tempereture, percipitation, humidity and air pressure. Using this abundance of data I can then analyze trends in the environment and see how they correlate with flight patterns in my area. Other functionalities include notifications to my phone detailing weather conditions and IOT intergration with google home to find out what flight is flying above my home at a given time. I am excited to work on this project because I will be exploring meteorology, aviation, IOT and radio-frequency engineering which will further advance my skillset as an aspiring engineer and give me valuable hands on experience.
+I am going to be building a 5" full size FPV (First Person View) drone from scratch. It will be capable for recording cinematic FPV footage after I learn how to fly it. In the process of building this drone I hope to learn and improve on skills such as soldering, electronical engineering, flight design and more. This project will require me to connect all the parts of the drone together and program the flight systems to ensure real world performance. I am excited to build this since I have always wanted to have an FPV drone because of the compelexity and challenge it poses in both flying and building compared to a normal one. Building the drone myself will allow me to learn more about how each component works and how it interacts with the rest of the drone.
 
 ## Plan
 
-I will be following this guide for the most part
+For most of the building guide I will be following this [video](https://www.youtube.com/watch?v=e0nFgiWlVYk).
 
-
+The TLDR of the my steps is as follows
+1. Assemble Frame, attach motors and flight controller stack
+2. Solder motor connections
+3. Attacth radio, VTX, camera to frame
+4. Solder radtio, VTX and camera connections to the frame
+5. Calibrate drone in BetaFlight
+6. Calibrate drone with controller
+7. Fly Away
 
 ## Budget
 
@@ -28,3 +35,5 @@ I will be following this guide for the most part
 | Additional Shipping Costs |                                                                      | $25.00 |
 |------------------------|----------------------------------------------------------------------|--------|
 | Total                  |                                                                      | $249.41 |
+
+Other components (battery, goggles, VTX) are not included in this cost because they are not directly neccesary for the build to function (e.g goggles) or because I already own some of them (e.g batteries, camera).
