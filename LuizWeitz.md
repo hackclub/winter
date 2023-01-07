@@ -32,4 +32,4 @@ I have follow this project https://github.com/joeycastillo/The-Open-Book to get 
 | Raspberry Pi Zero UPS-Lite Power Supply Board with 1000mAh 3.7V | https://pt.aliexpress.com/item/1005002587907720.html?spm=a2g0o.cart.0.0.358b7f061w9Aq3&mp=1&gatewayAdapt=glo2bra | $28.79 |
 | K7 X1 3D Printer Mini | https://www.aliexpress.com/item/1005002668227870.html?spm=a2g0o.cart.0.0.5b8338daT6TgTX&mp=1 | $105.01 |
 | cable, welder, solder and filament 3d | I have | $0.00 |
-| Total products + Total Ship |  | US $215.13 |
+| Total products + Total Ship |  | US $217.65 |
