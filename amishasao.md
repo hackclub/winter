@@ -32,7 +32,11 @@ What steps are you going to take to build it? What will you do first, second, th
 | Arduino nano       | https://a.co/d/8cjCErK  | $30.99  |
 | 10 Servo motors    | https://a.co/d/aApiF3y  | $19.95  |
 | 6 haptic sensors   | https://www.aliexpress.us/item/2251832669872365.html?spm=a2g0o.ppclist.product.10.1a6eW5W6W5W6Ff&pdp_npi=2%40dis%21USD%21US%20%243.37%21%241.79%21%21%21%21%21%4021032fa016724082409855056ebc66%2165296889214%21btf&_t=pvid%3A43deb1cb-b818-4216-8c3b-dff0952b8e32&afTraceInfo=32856187117__pc__pcBridgePPC__xxxxxx__1672408241&gatewayAdapt=glo2usa&_randl_shipto=US       | $12.69  |
-| 1kg PLA filament   | https://a.co/d/8SBnmid  | $16.99  | (probably won't need but just in case)
-| 1kg Nylon filament | https://a.co/d/91SR21T  | $24.99  |
-| Velcro strips      | https://a.co/d/08rdYgR  | $5.97   |
-| Total              |                         | $111.58 |
+| 1kg PLA filament   | https://a.co/d/8SBnmid  | $18.99  | (probably won't need but just in case)
+| 1kg Flexible PLA filament | https://a.co/d/4PtVzZx  | $35.99  |
+| PCB Board | https://a.co/d/8XrwMt1 | $12.99 |
+| Soldering Iron Kit | https://www.amazon.com/dp/B07GTGGLXN?ref_=cm_sw_r_cp_ud_dp_51XQPHGKMJ0RWZCJJ4R1 | $19.99 |
+| Mini breadboard & wires | https://www.amazon.com/dp/B09YXQJMTG?ref_=cm_sw_r_cp_ud_dp_71DCSE3TE64CQJFMXKD6 | $7.99 |
+| Solder Wire | https://www.amazon.com/dp/B075WB98FJ?ref_=cm_sw_r_cp_ud_dp_Y0Y8X4RFJRTYCEEX00FR | $9.50 |
+| Velcro strips      | https://a.co/d/08rdYgR  | $6.50   |
+| Total              |                         | $162.89 |
