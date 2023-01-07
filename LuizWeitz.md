@@ -17,6 +17,8 @@ The third step is to plan a simple case in 3d and print out. <br>
 The fourth step is to create a simple software that reads the books and sends them to the screen with the possibility of changing pages.  <br>
 The fifth step is to test everything.  <br>
 
+I have follow this project https://github.com/joeycastillo/The-Open-Book to get some ideas and I also did some research on the internet regarding the components, for example the screen I will follow the manufacturer's documentation.
+
 ### one of the prototypes:
 
 ## Budget
