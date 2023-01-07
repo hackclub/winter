@@ -1,9 +1,9 @@
 ---
 name: "@Verisimilitude11"
-project: "Smart Plant Watering System"
+project: "IoT Plant Watering System"
 ---
 
-# Smart Plant Watering System
+# IoT Plant Watering System
 
 ## Summary
 
@@ -11,8 +11,6 @@ I am going to build a smart plant watering system that uses a microcontroller an
 
 ## Plan
 
-1. Research different microcontrollers and sensors that can be used to build a smart plant watering system.
-2. Create a list of components and materials needed for the project, including a microcontroller, moisture sensors, a water pump, and a water reservoir.
 3. Purchase the components and materials needed for the project.
 4. Assemble the system using the microcontroller, sensors, pump, and water reservoir.
 5. Write code for the microcontroller to control the pump based on the moisture levels detected by the sensors.
