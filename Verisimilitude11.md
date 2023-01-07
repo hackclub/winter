@@ -35,5 +35,6 @@ I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plan
 | Breadboard | https://www.amazon.com/gp/product/B09NCY7NP1/ref=ox_sc_act_title_1?smid=A1T9HJJBSM1XZ1&psc=1 | 12.99 |
 | Plant pots | https://www.amazon.com/gp/product/B07WMTPZ94/ref=ox_sc_act_title_2?smid=A106OV2NHLTD48&th=1 | $25.99 |
 | 5 Volt DC power supply | https://www.amazon.com/gp/product/B077PW5JC3/ref=ox_sc_act_title_1?smid=A3PCHCFVFJ1YJA&psc=1 | $12.99 |
+| Shipping | | $0.00 |
 | Taxes | | $11.50 |
 | Total | | $125.40 |
