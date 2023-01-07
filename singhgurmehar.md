@@ -27,7 +27,11 @@ Detailed Steps are as below:
 
 Whenever we have to connect our pie to a public wifi we will login into its default gateway and there in available networks tab will put username and password of the wifi and our pie router will be connected to it to provide us internet over VPN.
 
-Furthermore, if all the above is successful i will try to run a VPN server on the pie for vpn connection and a DNS server using ADGaurd to block ads over the devices connected to pie router. (I will be reffering to youtube for these complex things.)
+Furthermore, if all the above is successful i will try to run a VPN server on the pie for vpn connection and a DNS server using ADGaurd to block ads over the devices connected to pie router. To do that below steps will be initiated.
+1. Installing AdGuard on the same pie i will be running an independent DNS server on the Pie.
+2. What this DNS serverr will do is, it will not tell our browser / application about the ip address of ad server sites when requested.
+3. After setting up AdGuard i will be entering the DNS Server Address into DHCP Server setting of Open WRT.
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
