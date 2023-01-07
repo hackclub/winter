@@ -1,9 +1,9 @@
 ---
 name: "@ultratrikx"
-project: "Listening to the Skies (An ADS-B reciever with weather monitoring tools)"
+project: "FPV Drone"
 ---
 
-# Listening to the Skies (An ADS-B reciever with weather monitoring tools)
+# 5" FPV Drone
 
 ## Summary
 
@@ -11,22 +11,20 @@ I am going to be building a weather/flight station to collect data about my envi
 
 ## Plan
 
-I will be incorporating the ADS-B recevier and collect flight data using dump1090 and FlightAware's PiAware software and follow [this](https://flightaware.com/adsb/piaware/install) guide. 
+I will be following this guide for the most part
 
-I will be incorporating and collecting the data from the weather sensors and be following [this](https://projects.raspberrypi.org/en/projects/build-your-own-weather-station/0) guide.
 
-All the data will be stored in a mySQL database and be displayed through a web dashboard also hosted on the Raspberry pi.
 
 ## Budget
 
 | Product                | Supplier/Link                                                        | Cost   |
 | ---------------------- | -------------------------------------------------------------------- | ------ |
-| Raspberry Pi           | https://www.pishop.ca/product/raspberry-pi-4-model-b-2gb/          | $46.05 |
-| A BME280 pressure,temperature, humidity sensor | https://www.adafruit.com/product/5303                                | $24.95 |
-| RJ11 breakout boards   | https://www.sparkfun.com/products/14021                              | $2.10 |
-| A DS18B20 digital thermal probe |                                                                      | $19.95 |
-| ADS-B antenna, dongle, cable | https://www.amazon.ca/Flightaware-1090MHz-Aviation-Receiver-Software | $55.51 |
-| MCP3008 analogue-to-digital convertor | https://www.adafruit.com/product/856                                 | $4.50 |
-|                        |                                                                      |        |
+| RDQ Source V4 5" Freestyle Frame | https://www.racedayquads.com/products/rdq-source-one-v4-5-freestyle-frame?variant=39787345674353 | $29.99 |
+| BetaFPV ELRS Lite 2.4GHz Receiver | https://www.racedayquads.com/products/betafpv-elrs-lite-2-4ghz-receiver?variant=39767945576561 | $11.99 |
+| 4x EMAX ECO II Series 2306 2400Kv Motor | https://www.racedayquads.com/products/emax-eco-ii-2306-2400kv-motor?variant=32124630302833 | 4 x $15.99 ($63.96) |
+| HQ Prop ETHIX S3 5x3.1x3 Tri-Blade 5" Prop 4 Pack| https://www.racedayquads.com/products/hq-ethix-s3-watermelon-props?variant=19850788667505 | $3.49 |
+| SpeedyBee F405 V3 | https://www.amazon.ca/gp/product/B0BFQ3FBSB/ref=ox_sc_act_title_2?smid=A1CA0481MF6RWW&psc=1 | $42.37 |
+| Jumper T-Lite V2 ELRS Controller | https://www.aliexpress.com/item/1005004519118358.html?spm=a2g0o.cart.0.0.34f838daxCZ6WD&mp=1 | $72.61 |
+| Additional Shipping Costs |                                                                      | $25.00 |
 |------------------------|----------------------------------------------------------------------|--------|
-| Total                  |                                                                      | $153.06 |
+| Total                  |                                                                      | $249.41 |
