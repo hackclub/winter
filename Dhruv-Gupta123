@@ -1,0 +1,28 @@
+
+name: Dhruv-Gupta123
+project: The all in one robo
+
+I an going to build a robot car that will have the following features-
+1. can be controlled by mobile using bluetooth
+2. can be controlled by a wireless remote
+3. can avoid any obstacle in between
+4. can follow your hand
+5. can move away from your hand
+6. can be controlled using a wearable glove by moving your hand
+
+The following featues in the car can be switched form one to another by the remote, bluetooth, glove, a board present in the car
+## PlAN
+
+first i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect
+the motors to the motor driver and the motor driver to arduino after that i will connect the sensors to the arduino then i will use a glove to connect the adxl335
+(accelerometer), rf module, arduino, etc and code for making the car gesture controlled and the 3d print a remote and connect the joystick module, arduino, rf module,
+switches,etc and code it.
+
+## Budget
+
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+|                 |                                       | $1.95  |
+|                 |                                       | $ |
+|                 |                                       | $ |
