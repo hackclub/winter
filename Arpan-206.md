@@ -29,10 +29,10 @@ I have quite a bit of experience with Raspi and electronics but want to take thi
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 7.5" ePaper Diplay   | https://www.amazon.in/gp/product/B07Z25LWTS/ | $245  |
-| 3D Printer | https://www.amazon.in/gp/product/B087FDTV3X/ | $292 |
+| 3D Printer | https://store.3ding.in/collections/fabx/products/fabx | $350 |
 | 3D Filament | https://www.amazon.in/gp/product/B079CHKQTF | $12 |
 | SD Cards | https://www.amazon.in/gp/product/B09MT6XSFW | $8 |
 | USB Type-C Adapter (Raspi) | https://www.amazon.in/gp/product/B09KTRZ5Y9 | $14 |
 | Powerbank for Raspi | https://www.amazon.in/gp/product/B09MZCQYHZ | $14 |
 | Raspberry Pi 4 | https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?src=raspberrypi | $75 |
-| Total           |                                       | $660 |
+| Total           |                                       | $718 |
