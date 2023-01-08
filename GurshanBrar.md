@@ -18,6 +18,14 @@ What steps are you going to take to build it?
 5. We’ll link up the impulse sensors
 6. We’ll use arduino to code the servo movements with the sensors
 
+The construction of the hand is like this:
+1. The hand consists of 1 palm piece and 1 piece for the top.
+2. Each finger is consisting of 3 individual "joints". The thumb also consits of these joint pieces.
+3. The joint pieces are connected by fishing line. When you pull the fishing line, the hand comes together.
+4. One of the servos is used for the 4 fingers. We pull fishing line through each finger, and then tie that together into one node. The servo controls that node, pulling all 4 fingers at once.
+5. The second servo controls the thumb, using fishing line.
+6. The end product is a hand that attaches to your wrist. It has impulse sensors connecting to the forearm.
+
 What tools are you going to use? 
 
 To build the project, we’ll use a 3d printer, pliers, soldering iron, screwdriver, a needle, a scraper.
