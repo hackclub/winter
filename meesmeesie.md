@@ -13,7 +13,7 @@ I'm going to make a Ultimate PC Sound System (By DIY Perks). Because it is a nic
 
 ## Plan
 
-First i am going to put all the speakers in the amplifier and then i am going to put that in the casing!
+First i am going to put all the speakers in the amplifier and then i am going to put that in the casing! i'm following this video https://youtu.be/408HxcN2gw4 and the guide on https://diyperks.com/the-ultimate-pc-sound-system/ .
 
 ## Budget
 
@@ -24,6 +24,7 @@ First i am going to put all the speakers in the amplifier and then i am going to
 | Tectonic Elements TEBM46C20N-4B BMR 3" Full-Range Speaker 4 Ohm   | https://www.soundimports.eu/en/tectonic-electronics-tebm46c20n-4b.html | $38,65 |
 | Dayton Audio LW150-4 6" Low Profile Woofer 4 Ohms  | https://www.soundimports.eu/en/dayton-audio-lw150-4.html | $55,62 |
 | MDF WOOD 150 by 122 centimeters height: 18mm | (https://www.opmaatzagen.nl/hout-plaatmateriaal/mdf/mdf-blank) | $63,56 |
+| Shipping of everything combined | () | $63,56 |
 
 
 | Total: | | $226,96 |
