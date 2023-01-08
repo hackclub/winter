@@ -21,16 +21,16 @@ For clarification all the parts I'm purchasing are apart of a [guide](https://ww
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 1.3" Inch OLED Module| [AliExpress](https://www.aliexpress.com/item/32787898780.html?spm=a2g0o.cart.0.0.446b38daar2D9N&mp=1)| $3.09 x 2  |
-| Wemos D1 Mini Pro | [AliExpress](https://www.aliexpress.com/item/32651747570.html?spm=a2g0o.cart.0.0.446b38daar2D9N&mp=1)  | $2.25 x 2 |
+| 1.3" Inch OLED Module| [AliExpress](https://www.aliexpress.com/item/32787898780.html?spm=a2g0o.cart.0.0.446b38daar2D9N&mp=1)| $3.09  |
+| Wemos D1 Mini Pro | [AliExpress](https://www.aliexpress.com/item/32651747570.html?spm=a2g0o.cart.0.0.446b38daar2D9N&mp=1)  | $2.25  |
 |SHT31 Temperature & Humidity| [AliExpress](https://www.aliexpress.com/item/1005001626776392.html?spm=a2g0o.cart.0.0.446b38daf3U6DT&mp=1)| $2.62|
 |SGP30 TVOC|[AliExpress](https://www.aliexpress.com/item/4000004614708.html?spm=a2g0o.cart.0.0.446b38daf3U6DT&mp=1)|$7.14|
 |JST 1.25 8P Connector|[AliExpress](https://www.aliexpress.com/item/4001122480470.html?spm=a2g0o.cart.0.0.446b38daf3U6DT&mp=1) | $1.21|
 |SenseAir S8 C02 Sensor|[AliExpress](https://www.aliexpress.com/item/1005004123170360.html?spm=a2g0o.cart.0.0.446b38daf3U6DT&mp=1)| $31.02|
 |PMS 2.5 Air Particle Quantity Sensor| [AliExpress](https://www.aliexpress.com/item/32944660534.html?spm=a2g0o.cart.0.0.446b38daf3U6DT&mp=1)| $19.07|
-|AirGradient PCB|PCBWay|$20|
-|Outdoor Enclosure| Amazon.ca| $15
+|AirGradient PCB|PCBWay|$0|
+|Outdoor Enclosure| Amazon.ca| $0
 |-------------------------------------|----------|------|
-|Subtotal||$107.48 CAD ($78.85 USD)
-|Shipping to Canada||$21.18
-| Total           |                                       | $128.66 CAD ($94.38 USD) |
+|Subtotal||$67.14 CAD ($49.92 USD)
+|Shipping to Canada|| $15.23 CAD
+| Total           |                                       | $82.37 CAD ($61.24 USD) |
