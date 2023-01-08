@@ -17,7 +17,8 @@ supply is not simply controlled by the time but responds to the needs of the pla
 1. Preparing the plant pot:   Install the water tank, demarcate the electronic part
 2. Water supply:              Install pump, install water pipe. There are two water pumps: The main water pump supplies the plants with water. Below the ground is an aluminum sheet with holes. The water can run off there and flow into a catch basin. The water is pumped back from this catch basin to the water tank via the secondary pump. This protects the plants from waterlogging. The water pumps are controlled by the arduino via relays.
 3. Sensors:                   Wire the sensors; Because the "plant farm" is pretty large I need multiple moisture and light sensors in order to measure the soil moisture and the sun exposure acurately. 
-4. Light:                     Install and wire the plant light. The plant light is controlled based on the brightness level of its surroundings. This is done via a LDR, which is evaluted by the Arduino. The Arduino controls the plant light via a relay.
+4. Light:                     Install and wire the plant light. The plant light is controlled based on the brightness level of its surroundings. This is done via a LDR, which is evaluted by the Arduino. The Arduino controls the plant light via a relay. The Arduino is not controlling the plant light itself, but the relay. The relay works as a switch: If it gets a signal from the Arduino the circuit gets closed and the lamp can shine.
+The Arduino also reads in the values from the LDR. If the brightness falls below the threshold programmed in the Arduino, the Arduino switches the plant light on. (except it’s night, then not).
 5. Programming:               Make it all work through software
 
 ## Budget
