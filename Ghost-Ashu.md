@@ -2,9 +2,7 @@
 name: "@Ghost-Ashu"
 project: "RealTime GPS Data Logger with GMaps"
 ---
----
-#### Email: ashutoshkumarsingh951@gmail.com
----
+
 # RealTime GPS Data Logger with Goggle Maps
 
 ## Summary
@@ -37,4 +35,5 @@ ESP8266 Showing the Device position on the Display Screen. Using the Google Clou
 |3.5 inch TFT SPI LCD Display Resolution 480 x 320 |     https://amzn.eu/d/3HccX7w						                                       | $64.55 |
 |Jumper Wires					                             |     https://a.co/d/aHmKe1U							                                         | $6.98  |
 |Soldering Iron Kit                                |     https://robu.in/product/plusivo-soldering-kit-for-electronics               | $12.66 |
+| Casing for my Project                            |                                                                                 | $0.00  |
 | Total                                            |                                                                                 | $167.6 |
