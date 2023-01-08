@@ -25,7 +25,7 @@ In summary, we hope to 3-d print a functional claw, complete with servos and gea
 
 ## Budget
 
-We'll cover 113.95 + shipping.
+We'll cover 113.95 + shipping. (I'm working with 3 other people, who's github usernames I'll include a bit later)
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 3-d printer   | [prusa](https://www.prusa3d.com/product/original-prusa-i3-mk3s-kit-enclosure-bundle/) | $1089.00 |
