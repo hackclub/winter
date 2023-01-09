@@ -6,7 +6,7 @@ project: "Automated Plant Growth System"
 # Automated Plant Growth System
 
 ## Summary
-I am going to build a automated plant growth pod that automates plant care for indoor gardening. It has a water resevoir in the bottom of the pod with the planting soil 
+I am going to build an automated plant growth pod that automates plant care for indoor gardening. It has a water reservoir in the bottom of the pod with the planting soil 
 container above that redistributes water to the resevoir. A probe that measures soil moisture communicates data to a raspberry pi which triggers the water pump to water 
 the plant. A plant growth full spectrum LED light will be attached to an ajustable tooth support to provide light for the plant. I'm excited to build this because it'll 
 be a great way to try out new components and build a system that would help me grow plants. 
