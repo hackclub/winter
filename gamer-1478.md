@@ -19,19 +19,17 @@ I plan to use the arudino to execute simple commands given by the pi and use the
 
 ## Budget
 
-+--------------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------+
-| Product                                    | Supplier Link                                                                                                   | Cost    |
-+============================================+=================================================================================================================+=========+
-| Chess Set with Magnetic Pieces             | https://www.amazon.in/NSXEEN-Chessboard-Educational-Improving-Intelligence/dp/B096RKVKMR                        | 9.10$   |
-| Chess Set with a mat                       | https://www.amazon.in/Wigano-Roll-Up-Vinyl-Tournament-Queens/dp/B071CJBLPM                                      | 8.44$   |
-| Hall Effect Sensor - Linear - WSH49E * 70  | https://www.electronicscomp.com/wsh49e-hall-effect-sensor-linear                                                | 36.44$  |
-| Arduino Mega                               | https://robu.in/product/orange-basic-kit-for-arduino-mega/                                                      | 24.43$  |
-| LCD Display For Chess Timer                | https://www.electronicscomp.com/1602-blue-lcd-display-with-i2c-interface                                        | 5.11$   |
-| Buttons * 5                                | https://robu.in/product/green-electronic-building-blocks-big-key-button-module-high-level-output/               | 2.43$   |
-| Self Locking Buttons *5                    | https://robu.in/product/green-ds-429a-10mm-2pin-self-locking-square-push-button-switch-with-lock/               | 0.85$   |
-| Thin Wire                                  | https://robu.in/product/plusivo-24awg-hook-up-wire-kit-600v-pre-tinned-stranded-silicon-wire-of-6-colors-x-9m/  | 9.73$   |
-| Raspberry Pi                               | https://robu.in/product/raspberry-pi-4-model-b-with-8-gb-ram/                                                   | 97.28$  |
-| Raspberry Pi Starter Accessories           | https://robu.in/product/orange-raspberry-pi-4-beginner-kit/                                                     | 30$     |
-|                                            |                                                                                                                 |         |
-|                                            |                                                                                                                 | 223.81$ |
-+--------------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------+
+| Product                                   | Supplier Link                                                                                                  | Cost    |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------|
+| Chess Set with Magnetic Pieces            | https://www.amazon.in/NSXEEN-Chessboard-Educational-Improving-Intelligence/dp/B096RKVKMR                       | 9.10$   |
+| Chess Set with a mat                      | https://www.amazon.in/Wigano-Roll-Up-Vinyl-Tournament-Queens/dp/B071CJBLPM                                     | 8.44$   |
+| Hall Effect Sensor - Linear - WSH49E * 70 | https://www.electronicscomp.com/wsh49e-hall-effect-sensor-linear                                               | 36.44$  |
+| Arduino Mega                              | https://robu.in/product/orange-basic-kit-for-arduino-mega/                                                     | 24.43$  |
+| LCD Display For Chess Timer               | https://www.electronicscomp.com/1602-blue-lcd-display-with-i2c-interface                                       | 5.11$   |
+| Buttons * 5                               | https://robu.in/product/green-electronic-building-blocks-big-key-button-module-high-level-output/              | 2.43$   |
+| Self Locking Buttons *5                   | https://robu.in/product/green-ds-429a-10mm-2pin-self-locking-square-push-button-switch-with-lock/              | 0.85$   |
+| Thin Wire                                 | https://robu.in/product/plusivo-24awg-hook-up-wire-kit-600v-pre-tinned-stranded-silicon-wire-of-6-colors-x-9m/ | 9.73$   |
+| Raspberry Pi                              | https://robu.in/product/raspberry-pi-4-model-b-with-8-gb-ram/                                                  | 97.28$  |
+| Raspberry Pi Starter Accessories          | https://robu.in/product/orange-raspberry-pi-4-beginner-kit/                                                    | 30$     |
+|                                           |                                                                                                                |         |
+|                                           |                                                                                                                | 223.81$ |
