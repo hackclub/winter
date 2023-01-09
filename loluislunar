@@ -1,0 +1,39 @@
+---
+name: "@loluislunar"
+project: "Keyboard Built From The Ground Up Using 3D Printed Rotational Stand"
+---
+
+# Keyboard Built From The Ground Up Using 3D Printed Rotational Stand
+
+## Summary
+
+I am going to build a mechanical keyboard using switches, a hotswap PCB as opposed to sodering, and bought and 3D printed keycaps to make a keyboard that 
+is supported by a 3D printed rotational stand engineered by myself. The keyboard will act as a standard keyboard and the stand will act as a stable ground/desk 
+support that can be adjusted for different angles of elevation respective to its horizontal axis. I'm excited to build this because it will be my first time
+building a keyboard and implementing 3D printed parts with it. 
+
+
+## Plan
+I am going to first install the switches into the designated sockets on the hotswap pcb plate, testing for connections and functionality. I will then take 
+dimensions of the keyboard and sketch out a locked-gear rotational stand to base my CAD model off of. I will then CAD my sketch in ONSHAPE which has built in 
+simulated mechanical testing to determine whether the design works as intended. I will then print it off and use the curing station to solidfy each part, 
+printed individually and segmented as opposed to curing it with the sun which often takes whole days and leaves un-evenly cured parts. The cable is used to connect 
+the keyboard to the computer and the resin is used as material to print the models. 
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+Keyswitches-	    https://www.amazon.com/gp/product/B0B253K1YL/ref=ox_sc_act_title_2?smid=A1Y7NPMWVWL0XU&th=1					  $50.75
+Base plate      	https://www.amazon.com/gp/product/B09WHPNWC9/ref=ox_sc_act_title_3?smid=A31XCF3C216O31&th=1 					$59.39
+Key caps	        https://www.amazon.com/gp/product/B09NRK5B3L/ref=ox_sc_act_title_4?smid=A3QYV6D7K7553X&th=1 					$23.99
+Curing station	  https://www.amazon.com/gp/product/B08WS4QFVH/ref=ewc_pr_img_1?smid=AEC5I6MNQQHCG&th=1					        $49.99
+Cable	            https://www.amazon.com/Detachable-Connector-Double-Sleeved-Anti-Twist-Mechanical/dp/B09Y31M9XW/
+                  ref=sr_1_15?crid=1F6U013792MYH&keywords=mech%2Bkeyboard%2Bcable&qid=1673124914&s=industrial&spref
+                  ix=mech%2Bkeyboard%2Bcable%2Cindustrial%2C69&sr=1-15&th=1 					                                  $19.97
+Resin	            https://www.amazon.com/gp/product/B08S76Q27C/ref=ox_sc_act_title_1?smid=A2WWHQ25ENKVJ1&th=1					  $19.99
+Resin 3D Printer                                                                                                        $0
+(already owned) 
+
+GROSS TOTAL	                                                                                                            $224.08
+w/TAXES + SHIPPING	                                                                                                    $243.88
