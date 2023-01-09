@@ -52,12 +52,12 @@ I fortunately already have all of these tools. I will just need to buy parts.
 | Polycrylic Protective Wood Finish | [Amazon](https://www.amazon.com/Minwax-233334444-Polycrylic-Protective-Finishes/dp/B017NNJYBW/ref=sr_1_4?crid=2U32VHGLC9RSM&keywords=clear%2Bfinish%2Bwood&qid=1673042408&sprefix=clear%2Bfinish%2Bwood%2Caps%2C89&sr=8-4&th=1) | $12.98 |
 | Small hardware (screws, washers, etc) | Home Depot | ~$15.00 |
 | Measuring Square | [Amazon](https://www.amazon.com/Tools-Combination-Square-Metal-Body-1794469/dp/B005XUHIBG/ref=sr_1_2?keywords=square%2Bmetal&qid=1673232923&sr=8-2&th=1) | $18.27 |
-| Clamps | [Amazon](https://www.amazon.com/IRWINQUICK-GRIPOne-Handed-Micro-Clamp-Pack-1964747/dp/B00004SBCO/ref=sr_1_5?crid=1B71QW4B4LNPI&keywords=clamps%2Bquick%2Bgrip&qid=1673233280&sprefix=clamps%2Bquick%2Bgrip%2B%2Caps%2C159&sr=8-5&th=1) | $12.98 |
+| Clamps | [Amazon](https://www.amazon.com/IRWINQUICK-GRIPOne-Handed-Mini-Clamp-Pack-1964748/dp/B00TKIUL84/ref=sr_1_2?crid=2ZJSNE3T44UDF&keywords=clamps%2B6%2Bin%2Bgrip%2B12%2Binch&qid=1673233969&sprefix=clamps%2B6%2Bingrip%2B12%2Binch%2Caps%2C70&sr=8-2&th=1) | $24.99 |
 | Shipping | Amazon | Free |
 | Shipping | Home Depot | None. Driving |
-| Pre-tax total | | $189.12 |
-| Tax (MA) | | $ 11.82 |
-| Total           | | $200.94 |
+| Pre-tax total | | $201.13 |
+| Tax (MA) | | $12.57 |
+| Total           | | $213.70 |
 
 
 ---
