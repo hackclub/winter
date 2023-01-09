@@ -44,6 +44,7 @@ We're excited to build a CNC machine as we just love building things, especially
 or wood pieces for shawnn's model houses or dioramas. We may end up using wooden components milled on the MPCNC machine in our PLTW engineering class, 
 for our final products in Engineering Design Development. 
 
+The CNC will live in shawns garage, and as we all live near each other, any of us can use it for future projects.
 
 ---
 ## Project B) the Macropads
@@ -79,7 +80,7 @@ Only shawn has PC buiding experience, and so Project C will help introduce the f
 
 ### Plan
 Unlike the other two, this project is designed entirely by ourselves. after scouring for the best deals, Shawn and Jaylan put together a component list. Next, 
-Shawn will design a custom case on a budget, and print the components. We will then all meet to assemble the case and PC, and get either windows 10 or linux(Mint XFCE) up and running.
+Shawn will design a custom case on a budget, and print the components. We will then all meet to assemble the custom case and PC, and get either windows 10 or linux(Mint XFCE) up and running.
 
 If a detailed rundown of pc building is necessary:
 1) we will insert the processor into the motherboard, and clean the IHS surface. We will apply thermal paste, and install the CPU cooler (which we will have cleaned). 
@@ -97,25 +98,25 @@ The budget below will be split for clarity.
 
 Project A Budget
 |  Product                                       | Supplier/Link                                                                      		| Cost	    |
-|  --------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- |
+|  --------------------------------------------- | -------------------------------------------------------------------------------------------- | --------- |
 | Polymaker PolyLite PLA PRO                     |https://www.amazon.com/Polymaker-Filament-1-75mm-Rigidity-Cardboard/dp/B09J186Z13   		|  $49.98   |
-| Stepper motors			                     |https://www.amazon.com/Stepper-Motor-Bipolar-4-lead-Printer/dp/B00QEYADRQ			  		|  $55.00   |
-| 16 Teeth 2GT Timing Pulley                     |https://www.aliexpress.us/item/3256802495067578.html								  		|  $8.65    |
-| 20T W10 B5 without T Timing Pully              |https://www.aliexpress.us/item/2251832608763422.html								  		|  $8.24    |
-| POWGE 2MGT 2M 2GT Open Synchronous Timing belt |https://www.aliexpress.us/item/2251800716378037.html								  		|  $9.99    |
-| 12V 6A 72W Kastar AC Adapater                  |https://www.amazon.com/Kastar-Adapter-5-52-5mm-Wireless-Security/dp/B003TUMDWG	  		|  $13.99   |
-| 608 Ball Bearings								 |https://www.aliexpress.us/item/3256803779818763.html								  		|  $21.28   |
-| T8 Lead Screw									 |https://www.aliexpress.us/item/2251832509292162.html								  		|  $4.32    |
-| Coupler										 |https://www.aliexpress.us/item/3256803558253052.html								  		|  $7.06	|
-| Super Lube 									 |https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI/			  		|  $8.99	|
-| RAMPS 1.4 Controller							 |https://www.amazon.com/OSOYOO-Printer-Controller-Stepper-Heatsink/dp/B0111ZSS2O	  		|  $45.99   |
-| Dewalt 660									 |https://www.amazon.com/DEWALT-DW660-Cut-Out-Rotary-Collets/dp/B000051WQX			  		|  $65.99   |
-| Cable ties									 |https://www.aliexpress.us/item/3256804679472449.html								  		|  $0.99	|
-| Dupont Connectors								 |https://www.aliexpress.us/item/3256803472719944.html									    |  $9.39	|
-| M2.5x12mm Screws 						         |https://www.amazon.com/uxcell-M2-5x12mm-Phillips-Stainless-Fasteners/dp/B07MF41CZS/ 		|  $7.99	|
-| M5 metric locknut								 |https://www.amazon.com/Milliontronic-Nylon-Insert-Locknut-Metric/dp/B09582Q721	        |  $8.80	|
-| M5 x 30mm Screws 								 |https://www.amazon.com/Phillips-Suitable-Replacement-Mechanical-Equipment/dp/B08F7DZMNS/	|  $19.98   |
-| Cooling Fan									 |https://www.aliexpress.us/item/2251832675392477.html										|  $4.27	|
+| Stepper motors			         |https://www.amazon.com/Stepper-Motor-Bipolar-4-lead-Printer/dp/B00QEYADRQ			|  $55.00   |
+| 16 Teeth 2GT Timing Pulley                     |https://www.aliexpress.us/item/3256802495067578.html						|  $8.65    |
+| 20T W10 B5 without T Timing Pully              |https://www.aliexpress.us/item/2251832608763422.html						|  $8.24    |
+| POWGE 2MGT 2M 2GT Open Synchronous Timing belt |https://www.aliexpress.us/item/2251800716378037.html						|  $9.99    |
+| 12V 6A 72W Kastar AC Adapater                  |https://www.amazon.com/Kastar-Adapter-5-52-5mm-Wireless-Security/dp/B003TUMDWG	  	|  $13.99   |
+| 608 Ball Bearings				 |https://www.aliexpress.us/item/3256803779818763.html						|  $21.28   |
+| T8 Lead Screw					 |https://www.aliexpress.us/item/2251832509292162.html						|  $4.32    |
+| Coupler					 |https://www.aliexpress.us/item/3256803558253052.html						|  $7.06    |
+| Super Lube 					 |https://www.amazon.com/Super-Lube-21030-Synthetic-Grease/dp/B000XBH9HI/			|  $8.99    |
+| RAMPS 1.4 Controller				 |https://www.amazon.com/OSOYOO-Printer-Controller-Stepper-Heatsink/dp/B0111ZSS2O	  	|  $45.99   |
+| Dewalt 660					 |https://www.amazon.com/DEWALT-DW660-Cut-Out-Rotary-Collets/dp/B000051WQX			|  $65.99   |
+| Cable ties					 |https://www.aliexpress.us/item/3256804679472449.html						|  $0.99    |
+| Dupont Connectors				 |https://www.aliexpress.us/item/3256803472719944.html						|  $9.39    |
+| M2.5x12mm Screws 				 |https://www.amazon.com/uxcell-M2-5x12mm-Phillips-Stainless-Fasteners/dp/B07MF41CZS/ 		|  $7.99    |
+| M5 metric locknut				 |https://www.amazon.com/Milliontronic-Nylon-Insert-Locknut-Metric/dp/B09582Q721	        |  $8.80    |
+| M5 x 30mm Screws 				 |https://www.amazon.com/Phillips-Suitable-Replacement-Mechanical-Equipment/dp/B08F7DZMNS/	|  $19.98   |
+| Cooling Fan					 |https://www.aliexpress.us/item/2251832675392477.html						|  $4.27    |
 
 
 Project B Budget
@@ -136,27 +137,49 @@ Project B Budget
 
 
 Project C Budget
-| Product                                                                           | Supplier/Link                                                                            | Cost   |																							|
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------ |
-|TP-Link AC1200 PCIe Wireless Wifi PCIe Card (Archer T4E) (Refurbished)				|https://www.ebay.com/itm/143823963379													   |$18.99  |
-|ARCTIC MX-4 thermal paste | 														|https://www.amazon.com/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/	   |$5.45   |
-|SP 512GB 3D NAND A55 SLC Cache 7mm Internal Solid State Drive	 					|https://www.amazon.com/Silicon-Power-Performance-Internal-SP512GBSS3A55S25/dp/B07997QV4Z/ |$25.99  |
-|Enermax Cyberbron 500W Power Supply, 80 PLUS Bronze | 								|https://www.amazon.com/Enermax-Cyberbron-ECB500AWT-Non-Modular-Warranty/dp/B08K1ZBYPZ/	   |$34.99  |
-|1M Chassis Dust Cover Computer Mesh 30CM 											|https://aliexpress.us/item/3256803817263252.html										   |$4.27   |
-|PC Host Start Power SW Button Switch 												|https://www.ebay.com/itm/185682929981													   |$3.66   |
-|2PCS SATA 3.0 6Gb / s SSD Hard Drive Data Cable									|https://www.ebay.com/itm/314009883673													   |$1.00   |
-|Asus Q170M-C Motherboard i5-7400 @ 3.0Ghz 8GB Ram DDR4 LGA1151 +IO Shield DP125	|https://ebay.com/itm/266040999410														   |$105.65 |
-|uphere 3-Pack PWM 4PIN Long Life Computer Case Fan 120mm 							|https://www.amazon.com/uphere-3-Pack-Computer-Cooling-12BK4-3/dp/B098PZ19KX			   |$15.99  |
----																					|																						   |        |
-we will only buy 1 gpu, superfluous links are redundancies in case a listing ends.  |																						   |		|
-MSI Radeon RX 580 8GB GDDR5 Graphics Card (RX580ARMOR8GOC) 							|https://www.ebay.com/itm/125649176167													   |$96.00  |
-NVINDA Radeon RX 580 8GB															|https://www.ebay.com/itm/195514955615													   |$89.77  |
-MSI Gaming X AMD Radeon RX 580 8GB													|https://www.ebay.com/itm/125649203974													   |$106.00 |
----
+| Product                                                                           | Supplier/Link                                                                             | Cost   |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
+|TP-Link AC1200 PCIe Wireless Wifi PCIe Card (Archer T4E) (Refurbished)		    |https://www.ebay.com/itm/143823963379    						        |$18.99  |
+|ARCTIC MX-4 thermal paste | 							    |https://www.amazon.com/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/      |$5.45   |
+|SP 512GB 3D NAND A55 SLC Cache 7mm Internal Solid State Drive	 		    |https://www.amazon.com/Silicon-Power-Performance-Internal-SP512GBSS3A55S25/dp/B07997QV4Z/  |$25.99  |
+|Enermax Cyberbron 500W Power Supply, 80 PLUS Bronze | 				    |https://www.amazon.com/Enermax-Cyberbron-ECB500AWT-Non-Modular-Warranty/dp/B08K1ZBYPZ/     |$34.99  |
+|1M Chassis Dust Cover Computer Mesh 30CM 					    |https://aliexpress.us/item/3256803817263252.html					        |$4.27   |
+|PC Host Start Power SW Button Switch 						    |https://www.ebay.com/itm/185682929981						        |$3.66   |
+|2PCS SATA 3.0 6Gb / s SSD Hard Drive Data Cable				    |https://www.ebay.com/itm/314009883673						        |$1.00   |
+|Asus Q170M-C Motherboard i5-7400 @ 3.0Ghz 8GB Ram DDR4 LGA1151 +IO Shield DP125    |https://ebay.com/itm/266040999410							        |$105.65 |
+|uphere 3-Pack PWM 4PIN Long Life Computer Case Fan 120mm 			    |https://www.amazon.com/uphere-3-Pack-Computer-Cooling-12BK4-3/dp/B098PZ19KX	        |$15.99  |
+---										   ---											       ---	---																					   
+we will only buy 1 gpu, superfluous links are redundancies in case a listing ends.  |												|	 |
+MSI Radeon RX 580 8GB GDDR5 Graphics Card (RX580ARMOR8GOC) 			    |https://www.ebay.com/itm/125649176167							|$96.00  |
+NVINDA Radeon RX 580 8GB							    |https://www.ebay.com/itm/195514955615							|$89.77  |
+MSI Gaming X AMD Radeon RX 580 8GB						    |https://www.ebay.com/itm/125649203974							|$106.00 |
+---																					       ---	---
+1/8/23 Our motherboard combo listing has ended, and so we found a few more options. we will only buy one.									|	 |														
+Asus Q170M-C Motherboard i5-6400 @ 2.70Ghz 8GB Ram				    |https://www.ebay.com/itm/266039531773							|107.99	 |
+Asus H110M-C Motherboard i3-7100 @ 3.90GHz 8GB RAM				    |https://www.ebay.com/itm/266063317737							|79.00	 |
 
-TOTAL : 755.99
+TOTAL : ~755.99
 
 with a budget of 750 (250*3), we intend to pay for other out of pocket purchases as well as the overflow in the grand total shown above, as well as any other costs we did not initially account for.
+
+---
+1/8/23
+
+I(shawn) plan to start printing parts for the CNC machine as soon as the filament arrives following approval. This is because of the sheer amount of parts needed,
+as I'm not sure ill be able to finish printing everything in time for feburary. I'll also be printing components for the macropads and PC case out of a significantly less rigid filament
+that I own as soon as we have designed all of the parts. we'll save assembly for february. 
+---
+
+Here is the list of components we intend to buy locally. I have already purchased the dowel rods. 
+
+PC Case:
+1 in. x 4 in. x 8 ft. Wood 				| $2.98
+7/8 dowel						| $5.32
+
+CNC Machine:
+3/4 in. x 5 ft. Electrical Metallic Tubing (EMT)- Steel | $27.92
+Everbilt 5/16 x 1 1/2					| $16.93
+M3-0.5x10mm						| $5.20
 
 
 ### Conclusion
