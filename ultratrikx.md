@@ -17,7 +17,7 @@ The TLDR of the my steps is as follows
 1. Assemble Frame, attach motors and flight controller stack
 2. Solder motor connections with soldering iron
 3. Attach radio, VTX, camera to frame
-4. Solder radtio, VTX and camera connections to the frame
+4. Solder radio, VTX and camera connections to the frame
 5. Calibrate drone in BetaFlight
 6. Calibrate drone with controller
 7. Fly Away
