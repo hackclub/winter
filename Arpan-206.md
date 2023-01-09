@@ -11,7 +11,12 @@ We are going to build our own eBook Reader (like Kindle) using the Raspberry Pi 
 
 ## Plan
 
+I couldn't see anyone doing this online, so can't attach many sources. Kinda figuring this out on our own.
 I have quite a bit of experience with Raspi and electronics but want to take this as an opportunity to work with and teach my sister and a friend about hardware projects and RPIs.
+
+Here are a few links for individual components though:
+1. https://medium.com/swlh/create-an-e-paper-display-for-your-raspberry-pi-with-python-2b0de7c8820c
+2. https://www.youtube.com/watch?v=Gun07uy3Nf8
 
 1. Order all the parts as listed.
 2. Simultaneously, build the image and necessary softwares for storing, and managing the eBook files.
