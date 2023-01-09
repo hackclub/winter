@@ -51,9 +51,13 @@ I fortunately already have all of these tools. I will just need to buy parts.
 | 1" x 2" Walnut Planks | [Amazon](https://www.amazon.com/Barrington-Hardwoods-Walnut-Lumber-Pcs/dp/B07GJBM52K/ref=sr_1_6_mod_primary_new?crid=UCLYWATW9RY2&keywords=walnut%2Bplank&qid=1673041275&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=walnut%2Bplank%2Caps%2C156&sr=8-6&th=1) | $14.95 |
 | Polycrylic Protective Wood Finish | [Amazon](https://www.amazon.com/Minwax-233334444-Polycrylic-Protective-Finishes/dp/B017NNJYBW/ref=sr_1_4?crid=2U32VHGLC9RSM&keywords=clear%2Bfinish%2Bwood&qid=1673042408&sprefix=clear%2Bfinish%2Bwood%2Caps%2C89&sr=8-4&th=1) | $12.98 |
 | Small hardware (screws, washers, etc) | Home Depot | ~$15.00 |
-| Pre-tax total | | $157.87 |
-| Tax (MA) | | $ 9.87 |
-| Total           | | $167.74 |
+| Measuring Square | [Amazon](https://www.amazon.com/Tools-Combination-Square-Metal-Body-1794469/dp/B005XUHIBG/ref=sr_1_2?keywords=square%2Bmetal&qid=1673232923&sr=8-2&th=1) | $18.27 |
+| Clamps | [Amazon](https://www.amazon.com/IRWINQUICK-GRIPOne-Handed-Micro-Clamp-Pack-1964747/dp/B00004SBCO/ref=sr_1_5?crid=1B71QW4B4LNPI&keywords=clamps%2Bquick%2Bgrip&qid=1673233280&sprefix=clamps%2Bquick%2Bgrip%2B%2Caps%2C159&sr=8-5&th=1) | $12.98 |
+| Shipping | Amazon | Free |
+| Shipping | Home Depot | None. Driving |
+| Pre-tax total | | $189.12 |
+| Tax (MA) | | $ 11.82 |
+| Total           | | $200.94 |
 
 
 ---
