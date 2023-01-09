@@ -137,8 +137,8 @@ Project B Budget
 
 
 Project C Budget
-| Product                                                                           | Supplier/Link                                                                             | Cost   |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------ |
+| Product                     | Supplier/Link                                                                             | Cost   |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ------ |
 |TP-Link AC1200 PCIe Wireless Wifi PCIe Card (Archer T4E) (Refurbished)		    |https://www.ebay.com/itm/143823963379    						        |$18.99  |
 |ARCTIC MX-4 thermal paste | 							    |https://www.amazon.com/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/      |$5.45   |
 |SP 512GB 3D NAND A55 SLC Cache 7mm Internal Solid State Drive	 		    |https://www.amazon.com/Silicon-Power-Performance-Internal-SP512GBSS3A55S25/dp/B07997QV4Z/  |$25.99  |
@@ -149,48 +149,53 @@ Project C Budget
 |Asus Q170M-C Motherboard i5-7400 @ 3.0Ghz 8GB Ram DDR4 LGA1151 +IO Shield DP125    |https://ebay.com/itm/266040999410							        |$105.65 |
 |uphere 3-Pack PWM 4PIN Long Life Computer Case Fan 120mm 			    |https://www.amazon.com/uphere-3-Pack-Computer-Cooling-12BK4-3/dp/B098PZ19KX	        |$15.99  |
 ---										   ---											       ---	---																					   
-we will only buy 1 gpu, superfluous links are redundancies in case a listing ends.  |												|	 |
-MSI Radeon RX 580 8GB GDDR5 Graphics Card (RX580ARMOR8GOC) 			    |https://www.ebay.com/itm/125649176167							|$96.00  |
+we will only buy 1 gpu, superfluous links are redundancies in case a listing ends.  
+| Product                     | Supplier/Link                                                                             | Cost   |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ------ |
+| MSI Radeon RX 580 8GB GDDR5 Graphics Card (RX580ARMOR8GOC) 		 |https://www.ebay.com/itm/125649176167							|$96.00  |
 NVINDA Radeon RX 580 8GB							    |https://www.ebay.com/itm/195514955615							|$89.77  |
 MSI Gaming X AMD Radeon RX 580 8GB						    |https://www.ebay.com/itm/125649203974							|$106.00 |
----																					       ---	---
-1/8/23 Our motherboard combo listing has ended, and so we found a few more options. we will only buy one.									|	 |														
+---	
+1/8/23 Our motherboard combo listing has ended, and so we found a few more options. we will only buy one.				
+
+| Product                     | Supplier/Link                                                                             | Cost   |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ------ |
 Asus Q170M-C Motherboard i5-6400 @ 2.70Ghz 8GB Ram				    |https://www.ebay.com/itm/266039531773							|107.99	 |
 Asus H110M-C Motherboard i3-7100 @ 3.90GHz 8GB RAM				    |https://www.ebay.com/itm/266063317737							|79.00	 |
 
-TOTAL : ~755.99
+### TOTAL : ~755.99
 
 with a budget of 750 (250*3), we intend to pay for other out of pocket purchases as well as the overflow in the grand total shown above, as well as any other costs we did not initially account for.
 
 ---
 1/8/23
 
-I(shawn) plan to start printing parts for the CNC machine as soon as the filament arrives following approval. This is because of the sheer amount of parts needed,
-as I'm not sure ill be able to finish printing everything in time for feburary. I'll also be printing components for the macropads and PC case out of a significantly less rigid filament
-that I own as soon as we have designed all of the parts. we'll save assembly for february. 
+I (shawn) plan to start printing parts for the CNC machine as soon as the filament arrives following approval. This is because of the sheer amount of parts needed, as I'm not sure ill be able to finish printing everything in time for feburary. I'll also be printing components for the macropads and PC case out of a significantly less rigid filament that I own as soon as we have designed all of the parts. we'll save assembly for february. 
+
 ---
 
 Here is the list of components we intend to buy locally. I have already purchased the dowel rods. 
 
 PC Case:
-1 in. x 4 in. x 8 ft. Wood 				| $2.98
-7/8 dowel						| $5.32
+
+| Product                   | Cost   |
+| ------------------------- | ------ |
+| 1 in. x 4 in. x 8 ft. Wood 				| $2.98 |
+| 7/8 dowel						| $5.32 |
 
 CNC Machine:
-3/4 in. x 5 ft. Electrical Metallic Tubing (EMT)- Steel | $27.92
-Everbilt 5/16 x 1 1/2					| $16.93
-M3-0.5x10mm						| $5.20
+| Product                                               | Cost   |
+| ----------------------------------------------------- | ------ |
+| 3/4 in. x 5 ft. Electrical Metallic Tubing (EMT)- Steel | $27.92 |
+| Everbilt 5/16 x 1 1/2					| $16.93 |
+| M3-0.5x10mm						| $5.20  |
 
 
 ### Conclusion
 
-As engineering students, we feel we could learn a lot from each project, as they each tackle different topics (large scale machine design, digital electronics,
-and improved understanding of computers). They each have application in our lives outside of being learning experiences. Me and Jaylan will use our macropads for
-art and CAD, and Cleifton does not have a computer for programming and CAD design. The CNC will be freely usable by any of us in any of our projects, to mill wood, 
-foam, or PCBS. 
+As engineering students, we feel we could learn a lot from each project, as they each tackle different topics (large scale machine design, digital electronics, and improved understanding of computers). They each have application in our lives outside of being learning experiences. Me and Jaylan will use our macropads for art and CAD, and Cleifton does not have a computer for programming and CAD design. The CNC will be freely usable by any of us in any of our projects, to mill wood, foam, or PCBS. 
 
-We would also like to thank hack club for giving others like us the opportunity to learn and further oour computer sciences knowledge. I hope to be able to demonstrate my 
-love of computers and technology to others in this community. 
+We would also like to thank hack club for giving others like us the opportunity to learn and further oour computer sciences knowledge. I hope to be able to demonstrate my love of computers and technology to others in this community. 
 
 
 					
