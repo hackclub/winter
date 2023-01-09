@@ -20,8 +20,7 @@ to do the actual object-detection (people) in the camera's view While the UAV is
 ## Plan
 
 
-For the first day I will make all the neccessary equipment I would need to use.
-For the next 2 or 3 days I will write the programming code and build the AI model .
+For the first day I will make all the neccessary equipment I would need to use. and the next 2 or 3 days I will write the programming code and build the AI model .
 The rest of the days will be spent constructing and testing the project.
 
 I will use  NVIDIA Jetson Nano Developer Kit to run computer vision algorithms to detect people as the vehicle flies overhead. I will use an Edimax EW-7811Un 150Mbps 11n Wi-Fi USB Adapter that will allow me to connect to the Jetson Nano and monitor processes while the vehicle is in a flight setting. The CanaKit 5V 2.5A Power Supply will provide a stable power source while setting up the Jetson Nane. The Raspberry Pi Camera Module V2 will be mounted to the underside of the vehicle to capture video of the ground below. As for the Anker PowerCore 5000, this power pack was selected for its 2A output and compact size. Then, the PX4 Pixhawk on an autonomous drone or airplane will communicate with the Jetson Nano over a wired MAVLink connection  but you can use any autonomous drone or airplane in order to Mount your work on it.
