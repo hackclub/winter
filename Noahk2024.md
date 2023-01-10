@@ -14,7 +14,8 @@ be a great way to try out new components and build a system that would help me g
 ## Plan
 
 First: I'm going to connect all of my hardware on a breadboard to my raspberry pi
-Second: I will source sample code online for my hardware components
+Second: I will source sample code online for my hardware components. I will use the uhubctl utilty to power on and off the usb ports on my pi, turning on and off 
+the LEDS connected to the Raspberry Pi's USB port. https://funprojects.blog/2021/04/26/control-usb-powered-devices/ 
 Third: I will modify sample code to fit my needs in an all encompassing program.
 Fourth: I will CAD a case, resevoir, and tooth support beam with ONSHAPE
 Fifth: I will 3D print the case, resevoir, and tooth support beam in segments, connecting them with superglue and sealing the gaps with caulking
