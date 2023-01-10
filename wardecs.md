@@ -37,5 +37,6 @@ What materials will you need for your project? Where will you get them? How much
 | Self Tapping Screws   | https://www.amazon.com/BUYGOO-Stainless-Tapping-Assortment-Phillips/dp/B09Y5P7ZGQ/ref=sr_1_2?crid=1ZYCT5T0T5Y75&keywords=ENET+800pcs+Self-Tapping+Screws+M2+Stainless+Steel+Flat+Head+Assorted+Kit&qid=1673311064&sprefix=enet+800pcs+self-tapping+screws+m2+stainless+steel+flat+head+assorted+kit%2Caps%2C62&sr=8-2 | $9.99 + (3.20 Shipping)  |
 | Heat Shrink Tubing   | https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAiAk--dBhABEiwAchIwkf2tQ5cIa_rK8taiWADAF08SIIeNLKhuyikBqr9_L5M2Dy7JaWkakhoCiqYQAvD_BwE | $7.29 + (5.50 Shipping)  |
 | USB C Hub   | https://www.amazon.com/Hiearcool-MacBook-Multiport-Compatible-Nintendo/dp/B07WPTG7NX/ref=sr_1_3?crid=1Q5P24ESMP21K&keywords=usb%2Bc%2Bhub&qid=1673311731&sprefix=usb%2Bc%2Bhub%2Caps%2C101&sr=8-3&th=1 | $24.99 + (2.90 Shipping)  |
+| Camera   | https://www.amazon.com/Logitech-Calling-Noise-Canceling-Correction-Microsoft/dp/B01N5UOYC4/ref=sr_1_10?crid=YH5VQWBVC1CO&keywords=webcam&qid=1673309462&sprefix=webca%2Caps%2C136&sr=8-10&th=1 | $129.00 (Free Shipping)  |
 
 | Total           |                                       | $249.95 |
