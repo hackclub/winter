@@ -33,6 +33,11 @@ The TLDR of the my steps is as follows
 | SpeedyBee F405 V3 (Flight Controller + Power Controller) | https://www.amazon.ca/gp/product/B0BFQ3FBSB/ref=ox_sc_act_title_2?smid=A1CA0481MF6RWW&psc=1 | $42.37 |
 | Jumper T-Lite V2 ELRS Controller (Remote Control) | https://www.aliexpress.com/item/1005004519118358.html?spm=a2g0o.cart.0.0.34f838daxCZ6WD&mp=1 | $72.61 |
 | Additional Shipping Costs |                                                                      | $25.00 |
+| VTX | | |
+| Foxeer Camera | | | 
+| Batteries | | |
+| Goggles | | |
+| Battery Charger | | |
 |------------------------|----------------------------------------------------------------------|--------|
 | Total                  |                                                                      | $249.41 |
 
@@ -40,7 +45,6 @@ The TLDR of the my steps is as follows
 **Products I Already Own**
 | Product                |
 | ---------------------- |
-| GoPro (Camera)|
 | Batteries | 
 | Goggles |
 | Battery Charger | 
