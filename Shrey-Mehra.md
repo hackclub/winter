@@ -18,13 +18,20 @@ With the help of MSERMSA we will be able to save lives of hundreds of thousands 
 
 ## Plan
 
-In order to obtain or read the medical properties of one, we must first build a machine or an electrical circuit. In our situation, we are keeping track of the number of beats per minute.
-The project will be completed by fusing the reading from the apparatus with a user interface for medical practitioners.
+In order to read or to obtain the medical properties (In our case we are measuring with Beat Per Minute or BPM) of one, we must first build a machine for which we are going to connect Raspberry Pi with the pulse rate sensor by using jumper wires and ADS1115 16 bit. 
 
-In the third step, we are going to test our product on multiple users. Based on the reviews, we’ll continue to avoid as many errors and bugs as possible.
+The project will be completed by fusing the reading from the apparatus with a user interface for medical practitioners, for user interface, we are building a small and efficient website. In the later steps, we are going to test our product on multiple users. Based on the reviews, we’ll continue to avoid as many errors and bugs as possible.
+
+We’ll require flex sensors to  track and monitor the posture of an individual. For example, if a patient is in coma, if there is any physical movement in the body the sensor will immediately report this to the doctor. 
+
+
+We’ll also require 3D printers and filament in this project so we can build a sturdy and protective shell for our hardware and to add some more basic design features to it to make it more user friendly such as grip and water-proof casing. 
+
+Servo M16 is going to help us to open the box that we’ll make using 3D printers we are going to make.
+
 
 I will be looking after the Electronic component and programming.
-@Shreeya Rani will look after the Modeling and 3D designing of the project.
+@Shreeya2007 will look after the Modeling and 3D designing of the project.
 
 ## Budget
 
