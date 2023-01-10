@@ -2,33 +2,6 @@
 name: ["@jmuku", "@sohamdagoat"]
 project: "Holographic Virtual assistant, Smart monitor"
 ---
-Questions asked by @bellesea:
-both projects need a speaker and microphone but i believe the kit only has
-one? do y'all have a plan for this?
-Soham's already got a jbl speaker with built in mic, so he doesn't need the
-pi speakers
-
-do you have a screen for the holographic assistant?
-yes, its included in the kit i linked (we will only be making ine of these)
-
-do you have any plans for modifying the holographic assistant in anyway?
-yeah, the housing for it is 3d printed, we plan on modifying the 3d print
-files in fusion 360. We have a 3d printer available.
-
-what are your plans for the enclosure for the holographic assistant?
-written above!
-
-when you mention already having the power supply/sd cards etc. do you mean
-as part of the kit? if not, would it be better to just purchase the pi
-outside of the kit?
-I meant it as part of the kit, sorry for the confusion.
-
-are you following any guides for the mirror?
-what are your plans for the framing of the smart mirror?
-yeah we'll be following youtube videos for making it. We have a frame which
-is similarly sized to our monior. We will be using that
-
-
 
 ## Summary
 Me and one of my friends will are planning to make the same projects and help each other in case either of us get stuck. We will be making a magic mirror and a holographic virtual assistant.
@@ -59,6 +32,11 @@ thank you sm for giving us this opportunity!
 8) Package the Raspberry Pi, transparent display, and holographic pyramid into a suitable housing. This could be a custom-made enclosure or an off-the-shelf case with modifications.
 
 this tutorial: https://maria.awardwinninghuman.com/
+Soham's already got a jbl speaker with built in mic, so he doesn't need the
+pi speakers
+Screen for holographic included in the kit linked under products 
+we plan on modifying the 3d print
+files in fusion 360. We have a 3d printer available.
 
 ## Plan Smart mirror
 1) Gather materials:
@@ -86,6 +64,8 @@ A rasberry pi camera module
 8) Test the smart mirror and make any necessary adjustments. Make sure the display is displaying the correct information and the mirror is properly secured in place.
 
 Will also be looking through different youtube videos 
+we'll be following youtube videos for making it. We have a frame which
+is similarly sized to our monior. We will be using that
 
 ## Budget
 The Products Include Delivery And Taxes!
