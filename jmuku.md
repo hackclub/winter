@@ -101,7 +101,5 @@ We will be covering the remaining cost using our own money
 | 21 inch monitor | available already | $0|
 | Acrylic Sheets | https://amzn.asia/d/90DH9It | $25| 
 | Acetate sheets | https://amzn.asia/d/86fNeba | $10| 
-| Power Supply | Available | 0 |
 | Sd Cards | Available(already formatted them) | 0 |
-| Micro Hdmi Cable | Available | 0 |
 | Total           |                                       | $530 |
