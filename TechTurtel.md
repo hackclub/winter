@@ -8,13 +8,16 @@ project: "Resin Kinetic & Digital Clock"
 ## Summary
 
 <img src="https://cdn.shopify.com/s/files/1/0035/7443/1790/products/30401_left_1800x1800.jpg?v=1602201307" alt="digitalclock" width="150"/>
-What are you going to build? What does it do? Why are you excited to build it?
+
+I'm going to be working on this with my brother who is @addu2468, this is our first time doing anything with 3D printing or servos, we have done some raspberry pi projects before. This project is something I saw a while ago but reappeared in my mind recently, its a clock similar to the digital one in the photo above but it tells the time by pushing out the digit segments using servos which looks really cool. Hopefully this will be successful and maybe we can make something that tells the date as well.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+We are going to be making two of them, one for each of us. Starting off we will be using an arduino mega as the controller for moving the servos and the arduino mega sensor shield to hook each server up to the arduino. We will also attach a precision rtc in order to keep the time on the clock accurate and synced. We will be using a 3d printer and abs filament because it is quick to prototype with and abs allows you to create a nice finish. First we will design a outer housing with holes for the digit segments, and the digit segments themselves. Then 3d print them, then we will design a gear and screw like thing to attach to the digit segments to allow the servo to move them in and out. Then we will attach the servos to the arduino and combine the housing and digit segments. Then finally align all the servos and create a program to convert the time to which servo to activate.
 
 ## Budget
+
+For the 3d printer it is currently on sale for 3 days, if possible can I buy it now and get reinbursed for the purchase later, so we can catch the sale?
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
