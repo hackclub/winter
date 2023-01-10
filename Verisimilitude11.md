@@ -13,7 +13,7 @@ I am going to build a smart plant watering system that uses a microcontroller an
 
 3. Purchase the components and materials needed for the project.
 4. Assemble the system using the microcontroller, sensors, pump, and water reservoir.
-5. Write code for the microcontroller to control the pump based on the moisture levels detected by the sensors.
+5. Write code for the microcontroller to control the pump based on the moisture levels detected by the sensors in the Arduino IDE/MicroPython.
 6. Test the system to ensure that it is functioning correctly.
 7. Make any necessary adjustments or improvements to the system.
 
