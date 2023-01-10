@@ -1,5 +1,5 @@
 ---
-name: "@Shrey-Mehra"
+name: ["@Shrey-Mehra","@Shreeya2007"]
 project: "Medical SOS Emergency Recording and Monitoring System with AI"
 ---
 
