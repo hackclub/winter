@@ -26,10 +26,10 @@ What materials will you need for your project? Where will you get them? How much
 |Total| $79.99|
   
   
- #Virtual Assitant Hologram Alarm Clock
+ # Virtual Assitant Hologram Alarm Clock
  
  
- #Summary 
+ ## Summary 
  
  Virtual Assitant Hologram Alarm Clock or, VAHAC for short, is a virtual assitant just like Alexa or Google Home. This also funtions as a hologram Alarm clock.
  The rasberrypi will use a camera to detect facial expressions and faces using open-cv in order to suggest information or help. 
@@ -38,7 +38,8 @@ What materials will you need for your project? Where will you get them? How much
  This project also features an alarm clock which will play music until the user is awake and out of the room.
  
  
- #Plan
+ ## Plan
+ 
  Set up rasberry pi
  Connect the screen, camera, audio hat module
  Install a voice reconigition software to convert wavelengths into text
@@ -47,7 +48,7 @@ What materials will you need for your project? Where will you get them? How much
  Say the response from the speaker
  The clock software can be dowloaded from other pre-made clock sofware on git hub
  
- | Product         | Supplier/Link                         | Cost   |
+| Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Rasberry Pi 0 w | (https://www.amazon.com/gp/product/B07CMVDHWB/ref=ewc_pr_img_4?smid=A30ZYR2W3VAJ0A&psc=1)| $79.99 |
 | Audio HAT Module|https://www.amazon.com/gp/product/B08CCV3XVZ/ref=ewc_pr_img_1?smid=A3B0XDFTVR980O&th=1| $21.90|
