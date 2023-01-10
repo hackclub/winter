@@ -43,7 +43,10 @@ What materials will you need for your project? Where will you get them? How much
 | 30 AWG wire | https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B07P2HCKFJ | $8.43 |
 | 3d filament  | Already have | FREE |
 | 3d printer | Already have | FREE |
-
 | Total | Before tax | $237.85 |
 | Total | Tax | $14.87 |
 | Total | After tax | $252.72 |
+| Total | Shipping | $6.99 |
+| Total | After tax and shipping | $259.71 |
+
+
