@@ -23,6 +23,7 @@ I am really excited to complete this build because despite being a fun project i
 | The device should be powered 24/7 via mains.                                   | This is important since if the project was running of a LiPo battery it would quickly run out due to large power requirements. Consequently, a RPI USB-C adapter will be used that draws 3A, 5V and 15W. | Any USB-C wall adapter should work but the RPI one has been selected for most ease.                                           |
 
 ### Steps
+
 1. **Prepare the Adafruit Portal**
 Since a 64 x 64 LED matrix is being used this means that an E-Line jumper will have to be employed to ensure that the matrix works correctly. This means that the center-pad provided will need to be shorted to pin 8.
 *See image below*
