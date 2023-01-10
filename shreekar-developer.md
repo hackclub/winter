@@ -20,7 +20,7 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| CPU, Motherboard, Ram, Storage, Cooler| sshorturl.at/LRUW2 | $205  |
+| CPU, Motherboard, Ram, Storage, Cooler| shorturl.at/LRUW2 | $205  |
 | power supply |  shorturl.at/avAFM | $32 |
 | Powered Wood Saw |  shorturl.at/asOWX | Already Own |
 | Power Drill |  shorturl.at/bmpYZ | Already Own |
