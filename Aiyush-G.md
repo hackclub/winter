@@ -13,7 +13,6 @@ Furthermore, when not being used for sending messages (powered by a flask-server
 
 I am really excited to complete this build because despite being a fun project it will have real-world impact and hopefully make my grandparents daily lives more interesting and fun. From a technical perspective, interfacing the microcontroller with the web-server will provide a delightful challenge and allow me to employ best-practices that I've learnt through my other projects.
 
-
 ## Plan
 ### Specification
 
