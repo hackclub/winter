@@ -1,3 +1,4 @@
+```markdown
 ---
 name: "@gamer-1478"
 project: "Digital Chess Board"
@@ -13,11 +14,14 @@ The past month i have been a enthuisiast at the game of chess, and think DGT's m
 
 ## Plan
 
-First i would figure out a way to attach magnets and hall effect sensors on a real chess board. 
-Then i would work on the wiring on it all and how to connect it to a raspberry pi and arduino. 
-I plan to use the arudino to execute simple commands given by the pi and use the pi for stockfish or to connect to chess.com.
+1. I would attach hall effect sensors and configure them to work with the magnetic chess pieces. 
+2. I would work on the wiring the hall effect sensors such that they get adequate power from a power supply/Battery. 
+3. I would connect all the hall effect sensors to the arduino to read the voltage output. I would then send that data over serial bus to the rsapberry pi. 
+4. I would read the data in raspberry pi and configure the chess.com software in nodejs or python. Stockfish and other UI will also be added in the same software.
+5. The arduino will also be connected to some buttons and a display to make a chess clock timer. 
 
 ## Budget
+What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product                                   | Supplier Link                                                                                                  | Cost    |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------|
@@ -31,5 +35,7 @@ I plan to use the arudino to execute simple commands given by the pi and use the
 | Thin Wire                                 | https://robu.in/product/plusivo-24awg-hook-up-wire-kit-600v-pre-tinned-stranded-silicon-wire-of-6-colors-x-9m/ | 9.73$   |
 | Raspberry Pi                              | https://robu.in/product/raspberry-pi-4-model-b-with-8-gb-ram/                                                  | 97.28$  |
 | Raspberry Pi Starter Accessories          | https://robu.in/product/orange-raspberry-pi-4-beginner-kit/                                                    | 30$     |
-|                                           |                                                                                                                |         |
-|                                           |                                                                                                                | 223.81$ |
+| Battery                                   | https://robu.in/product/orange-11-1v-1800mah-3s-40c-lipo-battery-pack-xt60-connector/                          | 19$     |
+| Battery Charger                           | https://robu.in/product/b3-20w-compact-lipo-charger/                                                           | 13.38$  |
+|                                           |                                                                                                                | 256.65$ |
+```
