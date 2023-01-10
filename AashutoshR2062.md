@@ -4,7 +4,6 @@ project: "Portable FM Radio Station"
 ---
 
 # Portable FM radio Staion
-Portable FM radio Staion
 
 ## Summary
 I have planned to build a Portable FM Radio Station that will be able to broadcast 
