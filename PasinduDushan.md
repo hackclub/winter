@@ -1,7 +1,6 @@
 ---
 name: "@PasinduDushan"
 project: "Arduino CNC Plotter Machine & Advance Heart Rate Monitoring System With An Alert System"
-2nd project: "Advance Heart Rate Monitoring System With An Alert System"
 ---
 
 # Arduino CNC Plotter Machine with a Custom Dashboard
