@@ -30,5 +30,4 @@ I'm excited to build my own server, to learn mostly Proxmox, Route OS, load-bala
 | Kingston Fury Impact SO-DIMM DDR4 2666 Mhz 8GB CL15 | https://www.pccomponentes.com/kingston-fury-impact-so-dimm-ddr4-2666-mhz-8gb-cl15?offer=4b236881-d845-4f08-8545-1cf2ad66336c | $19.32 | 
 | Nanocable Cable de Red RJ-45 UTP AWG24 Cat.6 1m White | https://www.pccomponentes.com/nanocable-cable-de-red-rj-45-utp-awg24-cat6-1m-blanco | $2.22 |
 | x2 Kingston DataTraveler Exodia 128GB USB 3.2 | https://www.pccomponentes.com/kingston-datatraveler-exodia-128gb-usb-32 | $33,7550157  |
-|TP-Link UB400 Adaptador Nano USB Bluetooth 4.0 | https://www.pccomponentes.com/tp-link-ub400-adaptador-nano-usb-bluetooth-40 | $8,38| 
-| Total + Taxes| | $238,793444 |
+ Total + Taxes| | $236,233919 |
