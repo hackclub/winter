@@ -26,6 +26,8 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry PI 4B | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
+| Raspberry PI 4B | https://item.m.jd.com/product/57497424806.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $198.41  |
+| electric soldering iron | https://item.m.jd.com/product/10028240754328.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL  | $35.53 |
+| ESP-WROOM-32 x3 | https://m.tb.cn/h.UlITbib?tk=1RpUdUOdm2F | $10.28 |
+| SanDisk 64GB TF | https://item.m.jd.com/product/1887526.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $5.12 |
 | Total           |                                       | $21.90 |
