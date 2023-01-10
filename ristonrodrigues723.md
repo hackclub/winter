@@ -3,7 +3,7 @@ name: "@ristonrodrigues723"
 project: "Iot enabled home automation system"
 ---
 
-# Project Name home automation
+# Home automation
 
 ## Summary
 
