@@ -40,9 +40,10 @@ What materials will you need for your project? Where will you get them? How much
 | 700 leds | https://www.aliexpress.us/item/2251832642793119.html | $79.86 |
 | 300w power supplys | https://www.amazon.com/BTF-LIGHTING-Aluminum-WS2812B-LED8806-Modules/dp/B01D8FLZV6?th=1 | $27.99 |
 | 12 AWG wire | https://www.amazon.com/TYUMEN-Electrical-Extension-Flexible-Lighting/dp/B08MF7BN8H | $16.99 |
-| 30 AWG wire | https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B07P2HCKFJ | 8.43 |
-| Cl touch | ------------------------------------- | $39 |
-| 3d filament  | I already have | FREE |
-| 3d printer | I already have | FREE |
+| 30 AWG wire | https://www.amazon.com/BNTECHGO-AWG-Magnet-Wire-Transformers/dp/B07P2HCKFJ | $8.43 |
+| 3d filament  | Already have | FREE |
+| 3d printer | Already have | FREE |
 
-| Total           |                                       | A lot |
+| Total | Before tax | $237.85 |
+| Total | Tax | $14.87 |
+| Total | After tax | $252.72 |
