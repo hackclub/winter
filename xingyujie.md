@@ -29,4 +29,6 @@ Through this project, I will learn more about hardware and software. It's a very
 | electric soldering iron | https://item.m.jd.com/product/10028240754328.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL  | $35.53 |
 | ESP-WROOM-32 x3 | https://m.tb.cn/h.UlITbib?tk=1RpUdUOdm2F | $10.28 |
 | SanDisk 64GB TF | https://item.m.jd.com/product/1887526.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $5.12 |
+| Dupont wire     | already own 
+| LED lights      | already own
 | Total           |                                       | $249.34 |
