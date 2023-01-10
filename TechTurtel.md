@@ -18,6 +18,7 @@ We are going to be making two of them, one for each of us. Starting off we will 
 ## Budget
 
 For the 3d printer it is currently on sale for 3 days, if possible can I buy it now and get reinbursed for the purchase later, so we can catch the sale?
+We will cover shipping, taxes, and anything extra
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
