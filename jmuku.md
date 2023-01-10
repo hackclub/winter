@@ -1,5 +1,5 @@
 ---
-name: "@jmuku"
+name: ["@jmuku", "@sohamdagoat"]
 project: "Holographic Virtual assistant, Smart monitor"
 ---
 
