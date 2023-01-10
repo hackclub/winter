@@ -66,7 +66,6 @@ I've yet to decide whether any external software GUI will be as a webpage or I m
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product                                                                     | Supplier / Link                                                                                    | GBP - Unit Cost Ex Vat | USD - Unit Cost Ex Vat | Number | GBP - Unit Cost x Number (incl Vat) | USD - Unit Cost x Number (incl Vat) |
 |-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------|------------------------|--------|-------------------------------------|-------------------------------------|
