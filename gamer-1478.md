@@ -1,4 +1,3 @@
-```markdown
 ---
 name: "@gamer-1478"
 project: "Digital Chess Board"
@@ -38,4 +37,3 @@ What materials will you need for your project? Where will you get them? How much
 | Battery                                   | https://robu.in/product/orange-11-1v-1800mah-3s-40c-lipo-battery-pack-xt60-connector/                          | 19$     |
 | Battery Charger                           | https://robu.in/product/b3-20w-compact-lipo-charger/                                                           | 13.38$  |
 |                                           |                                                                                                                | 256.65$ |
-```
