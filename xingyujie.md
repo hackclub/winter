@@ -22,7 +22,6 @@ Through this project, I will learn more about hardware and software. It's a very
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
