@@ -1,5 +1,5 @@
 ---
-name: "@i-m-karanagarwal"
+name: "Parth Agarwal"
 project: "Nvidia Jetbot"
 ---
 
@@ -29,12 +29,9 @@ Next on I will follow the examples given on the above mentioned site to complete
 | Caster Ball     |https://robu.in/product/wheel-of-metal/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNmK4hd0EWhRQ4ghPwx1Aydilg9Y4lvEWmT9SyFQ6pbXQOQfIgWJdI8aAnxqEALw_wcB| $0.60|
 | Battery         |https://amzn.to/2WRcIUe                                       | $15.99|
 | USB cable pack  |       Already own                                            |       |
-| PiOLED display  |http://adafru.it/3527                                         | $14.95|
-| PiOLED header   |http://adafru.it/1541                                         | $5.95 |
-| Camera          |https://www.adafruit.com/product/3099                         | $30.00|
-| Camera Attachment|https://ebay.us/Fz7HGd                                       | $15.83|
+| PiOLED display  |http://adafru.it/3527                                         | $7.00|
+| Camera          |https://robu.in/product/waveshare-imx219-160-camera-160-fov-applicable-for-jetson-nano/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNmd4DwC95Nn4rrtpp0XVk0rD5Tr0LzZBC5iy1_d7fONXt7HtirXfcAaAvybEALw_wcB                        | $27.00|
 |WiFi Dongle - TP-Link Archer T2U Nano|https://a.co/d/9mO5wSD                    | $17.57|
 | Wheels  65mm    |http://adafru.it/3757                                         | $3.00 |
 | Screws, Nuts, jumper wires and Adhresive pads | Local Market                   | $5.00|
-| Delivery Charges and Taxex  |                                                  | $5.00|
-| Total           |                                                              |$288.24|
+| Total           |                                                              |$250.24|
