@@ -39,3 +39,5 @@ I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plan
 | Shipping | | $0.00 |
 | Taxes | | $14.28 |
 | Total | | $155.67 |
+
+All parts are guaranteed by Amazon to arrive within 5-6 days of ordering.
