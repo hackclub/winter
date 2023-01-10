@@ -1,3 +1,8 @@
+---
+name: "@Troupmaster313"
+project: "3d printed all terrain vehicle test"
+---
+
 # 3d printed all terrain vehicle test
 ## Summary
 I am going to build an all terrain Rc model(about a foot long with caterpillars) and test it on its durability and how well it can handle different terrains. This RC model will be made of 3d printed material. This RC model will function and it will move around in different terrain and climates. I am very excited to build this becasue i have been very intrested in RC vehicles and want a job including robers and unmanned vehicles in the future. I also want to find out the prons and cons of all terrain vehicles as well with their limits. The vehicle i will make will be tested on its performance and how well it suits the enviroment it will be tested in. 
