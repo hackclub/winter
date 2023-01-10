@@ -2,29 +2,6 @@
 name: "@YashasSingh"
 project: "RPI Ad blocker, Virtual Assitant Hologram Alarm Clock, "
 ---
-
-# RPI ad blocker
-
-## Summary
-Internet ads are always annoying so why not create a network wide ad blocker. This will allow me moniter the Wifi as well as block ads.
-## Plan
-
-Use pi hole to create on the Raspberry pi zero 
-Install Pi hole 
-connect the rasberry pi to the wifi so it blocks all ads on the network
-
-## Budget
-
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Rasberry Pi 0 w | (https://www.amazon.com/gp/product/B07CMVDHWB/ref=ewc_pr_img_4?smid=A30ZYR2W3VAJ0A&psc=1)| $79.99 |
-| Wifi router/moderm| Already own|$0.00|
-| Amazon shipping| none | free|
-  
-|Total| $79.99|
-  
   
  # Virtual Assitant Hologram Alarm Clock
  
@@ -53,13 +30,13 @@ What materials will you need for your project? Where will you get them? How much
 | Rasberry Pi 0 w | (https://www.amazon.com/gp/product/B07CMVDHWB/ref=ewc_pr_img_4?smid=A30ZYR2W3VAJ0A&psc=1)| $79.99 |
 | Audio HAT Module|https://www.amazon.com/gp/product/B08CCV3XVZ/ref=ewc_pr_img_1?smid=A3B0XDFTVR980O&th=1| $21.90|
 |Raspberry pi Camera Day & Night Vision|https://www.amazon.com/gp/product/B07VSPSNL8/ref=ox_sc_act_title_2?smid=AF7ERVVKLDA4G&psc=1||$16.99|
-|Hologram pyrimid| Already own| $0.00|
+|Hologram pyrimid|https://www.amazon.com/gp/product/B01CO0EW34/ref=ox_sc_act_title_1?smid=A1FYYUX4EMPHQ6&psc=1| $0.00|
 |Touch Screen|https://www.amazon.com/gp/product/B0852NW9FM/ref=ewc_pr_img_3?smid=A3B0XDFTVR980O&psc=1|$50.69|
-|Caseing box|Already own|$0.00|
+|Caseing box|Already own|$10.49|
 | Amazon shipping| none | free|
-|Total|169.57|
+|Total|180.06|
 
 
-#Total----------------249.59
+#Total----------------180.06
  
  
