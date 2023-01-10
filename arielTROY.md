@@ -25,10 +25,11 @@ Finally, maybe added a user application in swift ui
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Bone Conductor Transducer| https://www.adafruit.com/product/1674  | $8.95 |\
-| wires | at home  | 0 |
-| raspberry pi pico | amazon.com/seeed-studio-Raspberry-Microcontroller-Dual-core/dp/B08TQSDP28/ref=sr_1_3?crid=3KWJGU3HWA1UA&keywords=raspberry+pi+pico&qid=1673357380&sprefix=raspberry+pi+pi%2Caps%2C1885&sr=8-3  | $7.60 |
-| raspberry pi pico cam|https://www.amazon.com/Arducam-Raspberry-Camera-HM01B0-Module/dp/B093KBQB1C#customerReviews | $22.99 | 
-| resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 |
+| bluetooth headphones|at home   | $0 |\
+| wires | at home  | $0 |
+| raspberry pi pico | amazon.com/seeed-studio-Raspberry-Microcontroller-Dual-core/dp/B08TQSDP28/ref=sr_1_3?crid=3KWJGU3HWA1UA&keywords=raspberry+pi+pico&qid=1673357380&sprefix=raspberry+pi+pi%2Caps%2C1885&sr=8-3  | $7.60 | free shipping
+| raspberry pi pico cam|https://www.amazon.com/Arducam-Raspberry-Camera-HM01B0-Module/dp/B093KBQB1C#customerReviews | $12.99 | free shipping  
+| resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 | paid shipping
+| resin|https://www.amazon.com/ELEGOO-UV-Curing-Standard-Photopolymer-Printing/dp/B07Z986566/| $22.49 | free shipping beacuse i  have prime
 | Total           |                                       | $239.54 |
 calculated price is with shipping and import fees
