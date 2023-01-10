@@ -8,7 +8,6 @@ project: "LED Matrix to Connect the Elderly to the Young"
 ## Summary
 I am planning to build three LED matricies each powered by an Adafruit Matrix Portal which features both an ATSAMD51J19 Cortex M4 processor and an ESP-32 Wifi co-processor allowing me both the computational power needed and wifi connectivitiy for the three devices to communicate between each other. 
 
-
 The aim of the project is to have three separate 64 x 64 matricies that display messages between each other so the end-user (both my grandparents) who don't have access to mobile phones (which have low-accessibility due to their small screen size) can still communicate with their loved ones easily.
 Furthermore, when not being used for sending messages (powered by a flask-server hosting a REST-API ) the device can display artwork, album art (my grandparents love music) & reminders ie. when to take medicine / meal times / carer times etc...
 
