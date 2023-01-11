@@ -20,7 +20,7 @@ With the help of MSERMSA we will be able to save lives of hundreds of thousands 
 
 In order to read or to obtain the medical properties (In our case we are measuring with Beat Per Minute or BPM) of one, we must first build a machine for which we are going to connect Raspberry Pi with the pulse rate sensor by using jumper wires and ADS1115 16 bit. 
 
-The project will be completed by fusing the reading from the apparatus with a user interface for medical practitioners, for user interface, we are building a small and efficient website. In the later steps, we are going to test our product on multiple users. Based on the reviews, we’ll continue to avoid as many errors and bugs as possible.
+The project will be completed by fusing the reading from the apparatus with a user interface for medical practitioners, for user interface, we are using HDMI screen for pi. In the later steps, we are going to test our product on multiple users. Based on the reviews, we’ll continue to avoid as many errors and bugs as possible.
 
 We’ll require flex sensors to  track and monitor the posture of an individual. For example, if a patient is in coma, if there is any physical movement in the body the sensor will immediately report this to the doctor. 
 
