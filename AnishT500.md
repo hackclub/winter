@@ -6,7 +6,7 @@ project: "Record Player"
 # Record Player
 ## Summary
 
-I'm planning to build an RFID record player. It will allow me to tap cards on to the record player to automatically play albums/playlists, play, pause, and skip a song. The record player will use python to switch the song based on the value it recieves from the RFID card, it will use spotify's api to source the music. The RFID scanner and all other wiring will be mounted inside of a box. The sound will play out of a bluetooth speaker that is connected to an amazon echo. This is because an amazon echo is always on, so the spotify connect won't go offline. I'm excited to build this project because I think it would be very cool to play music from tapping cards, it would also me to experiment further with a raspberry pi. Here is a youtube video I used for reference while planning out this project: https://www.youtube.com/watch?v=H_9H8qFnDr
+I'm planning to build an RFID record player. It will allow me to tap cards on to the record player to automatically play albums/playlists, play, pause, and skip a song. The record player will use python to switch the song based on the value it recieves from the RFID card, it will use spotify's api to source the music. The RFID scanner and all other wiring will be mounted inside of a box. The sound will play out of a bluetooth speaker that is connected to an amazon echo. This is because an amazon echo is always on, so the spotify connect won't go offline. I'm excited to build this project because I think it would be very cool to play music from tapping cards, it would also me to experiment further with a raspberry pi. Here is a youtube video I used for reference while planning out this project: https://www.youtube.com/watch?v=H_9H8qFnDr8
 
 ## Plan
 
