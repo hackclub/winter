@@ -13,7 +13,7 @@ I'm going to be working on this with my brother who is @addu2468, this is our fi
 
 ## Plan
 
-We are going to be making two of them, one for each of us. Starting off we will be using an arduino mega as the controller for moving the servos and the arduino mega sensor shield to hook each server up to the arduino. We will also attach a precision rtc in order to keep the time on the clock accurate and synced. We will be using a 3d printer and abs filament because it is quick to prototype with and abs allows you to create a nice finish. First we will design a outer housing with holes for the digit segments, and the digit segments themselves. Then 3d print them, then we will design a gear and screw like thing to attach to the digit segments to allow the servo to move them in and out. Then we will attach the servos to the arduino and combine the housing and digit segments. Then finally align all the servos and create a program to convert the time to which servo to activate.
+We are going to be making two of them, one for each of us. Starting off we will be using an arduino mega as the controller for moving the servos and the arduino mega sensor shield to hook each server up to the arduino. We will also attach a precision rtc in order to keep the time on the clock accurate and synced. We will be using a 3d printer and abs filament because it is quick to prototype with and abs allows you to create a nice finish. First we will design a outer housing with holes for the digit segments, and the digit segments themselves. Then 3d print them, then we will design a gear and screw like thing to attach to the digit segments to allow the servo to move them in and out. Then we will attach the servos to the arduino and combine the housing and digit segments. Then finally align all the servos and create a program to convert the time to which servo to activate. If this is successful we will also be adding a button to toggle between displaying different sensors like, carbon monoxide, light, temperature, sound. The extra modules will be soldered to a prototype board that we will buy later.
 
 ## Budget
 
@@ -22,10 +22,11 @@ We will cover shipping, taxes, and anything extra
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 2 Arduino Mega   | [https://store-usa.arduino.cc/products/arduino-mega-2560-rev3](https://store-usa.arduino.cc/products/arduino-mega-2560-rev3) | $82.28  |
-| 2 Arduino Mega Sensor Shield | [https://a.co/d/8rcUPc8](https://a.co/d/8rcUPc8) | $14.98 |
-| 2 DS3231 Precision RTC | [https://www.adafruit.com/product/3013](https://www.adafruit.com/product/3013) | $35 |
-| SG90 9G Micro Servo (6x10pcs) | [https://a.co/d/3RtnLyD](https://a.co/d/3RtnLyD) | $119.88 |
+| Arduino Mega + Sensors  | [https://www.amazon.com/dp/B016PZO2LQ](https://www.amazon.com/dp/B016PZO2LQ) | $71.99  |
+| Arduino Mega Sensor Shield | [https://a.co/d/8rcUPc8](https://a.co/d/8rcUPc8) | $7.49 |
+| DS3231 Precision RTC | [https://www.adafruit.com/product/3013](https://www.adafruit.com/product/3013) | $17.50 |
+| SG90 9G Micro Servo (3x10pcs) | [https://www.aliexpress.us/item/3256804845912768.html](https://www.aliexpress.us/item/3256804845912768.html) | $59.13 |
 | SV06 3D Printer | [https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?variant=40106603774040](https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?variant=40106603774040) | $239.00 |
 | ABS Filament | [https://www.matterhackers.com/store/l/175mm-abs-filament-silver-1-kg/sk/M5A2YT7Z](https://www.matterhackers.com/store/l/175mm-abs-filament-silver-1-kg/sk/M5A2YT7Z) | $20.87 |
-| Total           |                                       | $512.01 |
+| Soldering Station | [https://www.amazon.com/dp/B09WQVH5FB](https://www.amazon.com/dp/B09WQVH5FB) | 129.99 |
+| Total           |                                       | $545.98 |
