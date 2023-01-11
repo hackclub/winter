@@ -43,11 +43,9 @@ Everything is in USD
 |Electromagnets| [link](https://www.amazon.com/KEYESTUDIO-Electromagnet-Module-Arduino-Environmental-Friendly/dp/B07H3V8N2Q) |$10.00|
 |Raspberry Pi 4 Model B| [link](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/ref=sr_1_3?crid=1ETXZIZ3CYHOU&keywords=raspberry%2Bpi%2B4&qid=1673416760&sprefix=raspberry%2Bpi%2B4%2B%2Caps%2C151&sr=8-3&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&th=1) | $119.00 |
 |Webcam Module| [link](https://www.amazon.com/Microphone-Calling-Conferencing-Streaming-Computer/dp/B09TKCBWZ2/ref=sr_1_2_sspa?crid=3J732YPQOKCW0&keywords=1080p+webcam&qid=1673416998&sprefix=1080p+webc%2Caps%2C150&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSFZGV0dXUUxISTNOJmVuY3J5cHRlZElkPUEwOTcyNjk4MVVZQ040OUxDR1Q5NCZlbmNyeXB0ZWRBZElkPUEwMzIxMzE0M0tLVDE1VTQ2SzBCNSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |$19.99|
-|3d Printer| Already own | |$0.00|
+|3d Printer| Already own |$0.00|
 |Computer-Microcontroller connection wires| Already own |$0.00|
-
-|Subtotal:|  |$223.48 USD|
-|Tax:| |$20.01 USD|
-|Coupon for Webcam:| |-$4 USD|
-
+|Subtotal:| -  |$223.48 USD|
+|Tax:| - |$20.01 USD|
+|Coupon for Webcam:|-|-$4 USD|
 |**Total:**| |$239.28 USD|
