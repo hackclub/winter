@@ -1,5 +1,5 @@
 ---
-name: "@TechTurtel and @addu2468"
+name: ["@TechTurtel", "@addu2468"]
 project: "3D Printed Kinetic & Digital Clock"
 ---
 
