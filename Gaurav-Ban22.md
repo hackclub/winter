@@ -46,8 +46,8 @@ Everything is in USD
 |3d Printer| Already own | |$0.00|
 |Computer-Microcontroller connection wires| Already own |$0.00|
 
-Subtotal: $223.48 USD
-Tax: $20.01 USD
-Coupon for Webcam: -$4 USD
+|Subtotal:|  |$223.48 USD|
+|Tax:| |$20.01 USD|
+|Coupon for Webcam:| |-$4 USD|
 
-Total: $239.28 USD
+|**Total:**| |$239.28 USD|
