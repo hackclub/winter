@@ -17,7 +17,7 @@ We are going to build a single motor robot that is able to read and execute mech
 
 3) Print out all of the parts on the 3D printer
 
-4) Assmemble all of the parts and test!
+4) Assmemble all of fthe parts and test!
 
 ## Budget
 
