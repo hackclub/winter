@@ -8,6 +8,7 @@ project: "AI assistant cum home automation system"
 ## Summary
 
 My aim is to build a AI assistant (like google home, alexa) along with hardware to control my appliances such as light, ac, etc, with raspberry pi, esp32, relays, etc. The next step is to build a AI assistant.
+
 For a reference: https://www.youtube.com/watch?v=Z5rdSA0lvNo
 
 ## Plan
