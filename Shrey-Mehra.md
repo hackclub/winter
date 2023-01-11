@@ -47,10 +47,10 @@ I will be looking after the Electronic component and programming.
 | Servo m16*5| https://www.electronicscomp.com/mg90s-metal-gear-servo-motor?gclid=CjwKCAiAqt-dBhBcEiwATw-ggGjyX5DJ0I3HNszM4a8V1tQ2SmTPWa_a1iSWdPG5rUKb1asaLLLP8hoC_PUQAvD_BwE  | $9.25|
 | Fishing Thread| https://www.amazon.in/Fishing-Transparent-Casting-20-Meters/dp/B0B9N8LR6M/ref=asc_df_B0B9N8LR6M/?tag=googleshopdes-21&linkCode=df0&hvadid=619412026290&hvpos=&hvnetw=g&hvrand=17679179516095364323&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20458&hvtargid=pla-1817196009519&th=1 | $1.84|
 | Flex Sensor| https://www.hnhcart.com/products/flex-sensor-2-2a-bend-sensor-for-hand-gesture-recognition?gclid=CjwKCAiAqt-dBhBcEiwATw-ggDVrkm0_o9EYU6i1yTN18iATlqAet08RwDnIJOGtL9zuivSCN5jsQxoC6LUQAvD_BwE| $18.54|
-| Elastic Rope| https://www.amazon.in/HUNNY-BUNCH%C2%AE-Premium-Elastic-Multipurpose-Measuring/dp/B09RZTNFLK/ref=asc_df_B09RZTNFLK/?tag=googleshopdes-21&linkCode=df0&hvadid=619462865950&hvpos=&hvnetw=g&hvrand=4262819118521404970&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20458&hvtargid=pla-1897512379597&psc=1 | $1.44|
+| HDMI Screen For Raspberry Pi|https://www.electronicscomp.com/7-inch-lcd-touch-screen-display-with-hdmi-for-raspberry-pi-800x480-resolution?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNnxMhdFS2GdCjyaAF2GfCoSrZqL5mec0D3dsvyyN5EbiZXBSFFBYWgaAnreEALw_wcB | $45.24|
 | Jumper wire M-F| https://www.electronicscomp.com/male-to-female-jumper-wires-20cm-40-pieces-pack?gclid=CjwKCAiAqt-dBhBcEiwATw-ggAVg8EcAcj6kvPZ0kNjmP4F0unNc7xySmg0Gbx_8hS3YUvLjt0e1_RoCrygQAvD_BwE | $0.70|
 | Jumper Wire F-F| https://robu.in/product/20cm-dupont-wire-color-jumper-cable-2-54mm-1p-1p-female-female-40pcs/?gclid=CjwKCAiAqt-dBhBcEiwATw-ggHt1UolOkvW4Gg3qe-PF-7M43p6vHxPUwHminIo1Vc4tOvAPNc9PPRoCAOQQAvD_BwE | $0.64|
 | Jumper wire M-M| https://www.electronicscomp.com/male-to-male-jumper-wires-20cm-40-pieces-pack?gclid=CjwKCAiAqt-dBhBcEiwATw-ggKJdL1nyGy5I1fIyIErYz0ZxW87M0OGnG2_no1eNeo_gIpHlwii7XhoCUs4QAvD_BwE | $0.82|
-| Total           |                                       | $429.58 |
+| Total           |                                       | $473.38 |
 
-The conversion rate for rate from dollar to inr $429.58 = 35,344.83 and all cost include shipping and 18% GST tax.
+The conversion rate for rate from dollar to inr $473.38 = 38,663.83 and all cost include shipping and 18% GST tax.
