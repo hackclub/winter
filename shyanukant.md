@@ -1,4 +1,3 @@
-![Mini PC Kit](https://how2electronics.com/wp-content/uploads/2022/12/Components-Required-1.jpg)
 ---
 name: "@shyanukant"
 project: "Vani"
