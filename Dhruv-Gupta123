@@ -2,7 +2,9 @@
 name: Dhruv-Gupta123
 project: The all in one robo
 
-I an going to build a robot car that will have the following features-
+#summary
+
+I am going to build a robot car that will have the following features-
 1. can be controlled by mobile using bluetooth
 2. can be controlled by a wireless remote
 3. can avoid any obstacle in between
@@ -10,17 +12,17 @@ I an going to build a robot car that will have the following features-
 5. can move away from your hand
 6. can be controlled using a wearable glove by moving your fingers
 7. has a weapon which can shoot
-8. can follow a back line
+8. can follow a black line
 9. can follow light
 10. can be controlled by voice
 
 The above featues in the car can be switched form one to another by the remote, bluetooth, glove, a board present in the car
 ## PlAN
 
-first i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect
+First i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect
 the motors to the motor driver and the motor driver to arduino after that i will connect the sensors to the arduino then i will code them then i will use a glove to connect the flex sensors
  rf module, arduino, etc. and code for making the car gesture controlled and the 3d print a remote and connect the joystick module, arduino, rf module,
-switches,etc and code it.for controlling it with phone i will add a bluetooth(bt) module in it.
+switches,etc and code it.for controlling it with phone i will add a bluetooth(bt) module in it. After that i will attach the weapon
 
 ## Budget
 
@@ -32,7 +34,7 @@ switches,etc and code it.for controlling it with phone i will add a bluetooth(bt
 |  l293d driver   | https://www.amazon.in/xcluma-Driver-Shield-Arduino-Others/dp/B071S9W3HS/ref=sr_1_14?crid=1Z98VUPW1U7IK&keywords=l293d+motor+shield&qid=1673441003&sprefix=l293d+%2Caps%2C306&sr=8-14                                                                                                                            | $3.062  |
 |  rf moduleX2    | https://www.amazon.in/Robotbanao-Wireless-Transmitter-Compatible-Raspberry/dp/B07DZCJRJ6/ref=sr_1_1_sspa?crid=2LZ42M7GE0XJF&keywords=rf+module&qid=1673441372&sprefix=rf+module%2Caps%2C237&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1                                                                   | $8.866  |
 |  bt module      | https://www.amazon.in/Robotbanao-Bluetooth-Transceiver-Module-Outputs/dp/B08DV4CDXX/ref=sr_1_1_sspa?crid=2UQQW7QJIJAQ5&keywords=bluetooth+module&qid=1673441569&sprefix=bluetooth+modu%2Caps%2C232&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1                                                            | $7.421  |
-|  bo motorX4     | https://www.amazon.in/Robotbanao-Duel-shaft-motor-wheel/dp/B07CVYWYQ7/ref=sr_1_23_sspa?crid=21PMM6L6YV3LM&keywords=bo+motor+high+torque+and+rpm&qid=1673441708&sprefix=bo+motor+high+trque+and+rpm%2Caps%2C219&sr=8-23-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1                                               | $6.123  |
+|  bo motorX8     | https://www.amazon.in/Robotbanao-Duel-shaft-motor-wheel/dp/B07CVYWYQ7/ref=sr_1_23_sspa?crid=21PMM6L6YV3LM&keywords=bo+motor+high+torque+and+rpm&qid=1673441708&sprefix=bo+motor+high+trque+and+rpm%2Caps%2C219&sr=8-23-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1                                               | $12.246 |
 |  jumper wires   | https://www.amazon.in/Electrobot-Jumper-Wires-120-Pieces/dp/B071VQLQQQ/ref=sr_1_6_mod_primary_new?crid=1A1E5E8I4TIMJ&keywords=jumper+wires&qid=1673441860&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=jumper+wire%2Caps%2C395&sr=8-6                                                                         | $2.449  |
 |  breadboard     | https://www.amazon.in/Electronic-Spices-Solderless-Breadboard-Prototype/dp/B0BN7X7FFT/ref=sr_1_15?crid=PCMIE8C9NPRP&keywords=breadboard&qid=1673441968&sprefix=bread%2Caps%2C238&sr=8-15                                                                                                                        | $1.102  |
 |  joystick module| https://www.amazon.in/rees52-JoyStick-Module-Breakout-Sensor/dp/B01HTH9ITK/ref=sr_1_6?crid=NTAK74JYHUQO&keywords=joystick+module+for+arduino&qid=1673442135&sprefix=joystick+module+for+arduino%2Caps%2C225&sr=8-6                                                                                              | $4.384  |
