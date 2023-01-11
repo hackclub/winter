@@ -7,7 +7,7 @@ project: "Humidifier with moisture sensor"
 
 ## Summary
 
-Especially during the winter, the air in my room gets really dry. I am building an air humidifier with an adjustable humidity level based on [this](https://github.com/AlexGyver/EnglishProjects/tree/master/autoHumidifier). It will have a small display to show the temperature and humidity levels. Also, a rotary encoder to set the wanted humidity level. I will 3D-print the case. I will be leaving out the water level sensor because the tank will be reasonably big.
+Especially during the winter, the air in my room gets really dry. I am building an air humidifier with an adjustable humidity level based on [this](https://github.com/AlexGyver/EnglishProjects/tree/master/autoHumidifier). I will modify the design to have a small display to show the temperature and humidity levels. Also, a rotary encoder to set the wanted humidity level. I will 3D-print the case. I will be leaving out the water level sensor because the tank will be reasonably big.
 
 ## Plan
 
