@@ -31,5 +31,5 @@ What materials will you need for your project? Where will you get them? How much
 | raspberry pi pico cam|https://www.amazon.com/Arducam-Raspberry-Camera-HM01B0-Module/dp/B093KBQB1C#customerReviews | $12.99 | free shipping  
 | resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 | paid shipping
 | resin|https://www.amazon.com/ELEGOO-UV-Curing-Standard-Photopolymer-Printing/dp/B07Z986566/| $22.49 | free shipping beacuse i  have prime
-| Total           |                                       | $239.54 |
-calculated price is with shipping and import fees
+| Total           |                                       | $163 |
+calculated price is with shipping and import fees 243
