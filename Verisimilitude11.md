@@ -16,9 +16,12 @@ I am going to build a smart plant watering system that uses a microcontroller an
 5. Write code for the microcontroller to control the pump based on the moisture levels detected by the sensors in the Arduino IDE/MicroPython.
 6. Test the system to ensure that it is functioning correctly.
 7. Make any necessary adjustments or improvements to the system.
-8. Cover all parts in a custom cut wood frame
+8. Make a web server for the NodeMCU ESP8266 to allow me to control and view the sensor data at all times via the internet
+9. Cover all parts in a custom cut wood frame
 
-I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plant-watering-system-project/
+I'm planning on following the following guides: 
+- https://www.iotstarters.com/iot-smart-plant-watering-system-project/
+- https://lastminuteengineers.com/creating-esp8266-web-server-arduino-ide/
 
 ## Budget
 
