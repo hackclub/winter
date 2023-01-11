@@ -18,12 +18,14 @@ firstly i plan on developing a centralautomation hub using rasberry pi and apach
 i want to  develop different modules such as:
 
 Control camera
-Central unit for weather and water tank
+ unit for water tank  weather level ant to check its lid status
 Lighting management
 Heating management
 Pet food management
  Remotely controlled electric shutters.
+ Gas detection module- in the kitchen
  they all wil make use of esp 32 boards
+ boards vwill be reused for newer modles as the modules are more compared to the esp boards the modules are more.
  
  modules can be increased or decresed as per need,time  and avaibility of hardware components and further modules can be easily added in the future.
  they will be connected o the central hub built using rasberry pi and can be accessed through web for now and can be manipulated theough mobile phones in the future.
@@ -39,7 +41,13 @@ Pet food management
  
  
 
+ApTechDeals 60W /100 Watt Dual Watt Glue Gun will be used to bulid the box for the pet food  odule i aleady have the wood available with me.
+GLUN 11 mm Transparent HOT MELT glue sticks will be put in the glue gun
 
+
+
+ D10 3.7V Rechargeable Lithium ion Battery Power Bank Cell  X 3 will be conndected to the esp 32 modules 
+ 
 
  
  
@@ -47,7 +55,7 @@ Pet food management
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
-| ApTechDeals 60W /100 Watt Dual Watt Glue Gun with 5 Milky Glue Stick| [Supplier/Link                   ](https://www.amazon.in/gp/product/B076CRTD7H/ref=ox_sc_act_image_2?smid=A2K5VGK3OPN02U&th=1)      | $7.86   |
+| ApTechDeals 60W /100 Watt Dual Watt Glue Gun | [Supplier/Link                   ](https://www.amazon.in/gp/product/B076CRTD7H/ref=ox_sc_act_image_2?smid=A2K5VGK3OPN02U&th=1)      | $7.86   |
 
 | GLUN 11 mm Transparent HOT MELT glue sticks       |    https://www.amazon.in/gp/cart/view.html?ref_=nav_cart  | $2.24   |
 
