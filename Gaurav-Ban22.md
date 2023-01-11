@@ -35,7 +35,7 @@ Everything is in USD
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| esp32s          | https://www.amazon.com/Teyleten-Robot-ESP-WROOM-32-Development-Microcontroller/dp/B08246MCL5/ref=sr_1_3?crid=3N6W6ZGMUDTIL&keywords=esp32&qid=1673331848&sprefix=esp32%2Caps%2C159&sr=8-3&th=1 | $17.88  |
+| esp32s          | [link]https://www.amazon.com/Teyleten-Robot-ESP-WROOM-32-Development-Microcontroller/dp/B08246MCL5/ref=sr_1_3?crid=3N6W6ZGMUDTIL&keywords=esp32&qid=1673331848&sprefix=esp32%2Caps%2C159&sr=8-3&th=1 | $17.88  |
 | 2.9" e-paper display | https://www.amazon.com/2-9inch-Module-Resolution-Display-Electronic/dp/B07P6MJPTD/ref=sr_1_2_sspa?crid=3075U8PPF2RUA&keywords=epaper+module&qid=1673331940&sprefix=epaper+modul%2Caps%2C139&sr=8-2-spons&psc=1&smid=A2SA28G0M1VPHD&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOUVVBSk1ZNjY1QVQmZW5jcnlwdGVkSWQ9QTA4NTk4NTIzMVIzN0QxSk1VNURMJmVuY3J5cHRlZEFkSWQ9QTAxMTMyMDNVSUY3TU9BN1FGMTEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl | $22.65 |
 | Steppers+drivers   |https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A/ref=sr_1_3?crid=NXEWAG8D1VOD&keywords=stepper+motor&qid=1673332024&sprefix=stepper+moto%2Caps%2C140&sr=8-3                                | $13.99 |
 |Dupont Wires | https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_3?crid=21OQ3Z22NQ4T7&keywords=long%2Bconnection%2Bwires%2Besp32&qid=1673332285&sprefix=long%2Bconnection%2Bwires%2Besp3%2Caps%2C163&sr=8-3&th=1 |6.98|
