@@ -1,21 +1,25 @@
 ---
-name: "@xhaidendsouza"
-project: "Your Project Name Here"
+name: ["@xhaidendsouza", "@daSeaTurtle", "@lolguineapig"]
+project: "Mechanically Codable Robot"
 ---
 
-# Project Name
+# Mechanically Codable Robot
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
+We are going to build a single motor robot that is able to read and execute mechanical "code" on a wheel. It will use gears to rotate the wheel around, and extrusions around the wheel will physical manipulate the robot such that it is able to turn and move. We have always loved the idea of mechanical coding, and we really want to be able to making a robot that can use it. This is our first every project anything like this, so we are excited to see how it turns out.
 
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
+1) Brainstorm how the robot will read the mechanical wheel and turn it into an output
+
+2) Use Fusion 360 to design the components of the robot. This will include a holder for the motor, multiple interchangable wheels that can each code the robot to to diffferent things, and a system of gears and other parts that will be able to turn that code into motion. 
+
+3) Print out all of the parts on the 3D printer
+
+4) Assmemble all of the parts and test!
 
 ## Budget
-
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
