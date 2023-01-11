@@ -13,12 +13,19 @@ For a reference: https://www.youtube.com/watch?v=Z5rdSA0lvNo
 ## Plan
 
 Step 1 : Build the circuitry to control the appliances.
+
 Step 2 : Code for the esp32 to read the data from firebase and operate correspondingly.
+
 Step 3 : Step-up the raspberry pi.
+
 Step 4 : Connect the pi with the server(firebase) and build the UI and code for the speech commands and reponses.
+
 Step 5 : Test everything.
+
 Step 5 : Build case for all the open circuitry (in Fusion 360) and print them in 3D Printer.
+
 Step 6 : Connect everything with the AC wiring.
+
 Step 7 : Take the next step to build a complete AI assistant to help me in my other projects
 
 Hidden steps : Brain storming, error correction, multiple testing, reading the documentation, documenting each step, etc.
