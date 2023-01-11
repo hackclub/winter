@@ -1,6 +1,6 @@
 ---
 name: "@TechTurtel and @addu2468"
-project: "Resin Kinetic & Digital Clock"
+project: "3D Printed Kinetic & Digital Clock"
 ---
 
 # Project Name
