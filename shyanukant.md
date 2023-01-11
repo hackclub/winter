@@ -1,42 +1,38 @@
 ![Mini PC Kit](https://how2electronics.com/wp-content/uploads/2022/12/Components-Required-1.jpg)
 ---
 name: "@shyanukant"
-project: "Mini PC"
+project: "Vani"
 ---
 
-# TinyPC
+# Vani
 
 ## Summary
 
-I'm about to build a DIY customized mini PC using a Raspberry Pi 4 and the SunFounder Pironman Mini PC Kit. I will do Linux on this any pc I know python language which but I haven't worked on IoT yet this will be my first project with raspberry and I will follow these instructions from Pironman and his GitHub repo so this project is really amazing and Exciting and I want to do more exciting things with Raspberry Pi, for example, create my AI own assistant. 
+I'd want to build my own ai assistant with raspberry pi. this is an AI home assistant like Alexa or google home. I will write this assistance from scratch with python. I will use python modules and free APIs like music, weather, calendar, Wikipedia, tweet, etc. I also try to use ChatGPT API in this project. 
 
 ## Plan
 
-Here, i will use Sounfounder Mini PC Kit. The kit comes with an instruction manual that guides how i can assemble all the parts together to build a complete PC Setup.
-Using raspberry Pi and HDMI Portable Mini Monitor. [My resource]( https://how2electronics.com/build-a-diy-customized-mini-pc-using-raspberry-pi-4/)
-The build DIY Raspberry Pi 4 Mini PC has following features:
-
-- Small size of 4.43’’ x 2.69’’ x 4.68’’
-- Raspberry Pi mini PC
-- The tower cooler can cool a 100% CPU load Pi to 39°C at 25°C room temperature
-- 0.96” OLED Display showing CPU usage, temperature, disk usage, IP address, RAM usage
-- Onboard USB to M.2 SATA SSD, TRIM supported
-- RGB Fan, with GPIO control
-- 16 WS2812 Addressable RGB LEDs
-- IR Receiver for a multi-media center like Kodi or Volumio
-- External GPIO extender with pin name label
-- Power status memory, remembers power status, automatically boots after accident power cut off
-- Aluminum main body with clear Acrylic side panel
+I start with raspberry setup software, then coding and assembling.
+1. Setup raspberry - coding environment and necessary software and modules
+2. Start coding with python - create a template using pyaudio, speech-recognition, pyttsx3, and more.
+3. Add plugin and APIs like whether(geopy library for graphical data), Spotify, etc
+4. Make dynamic for adding more plug-ins in the future.
+5. Also create a user interface for dynamic features and plugins using the flask framework.
+6. connect hardware - mic, speaker with raspberry pi and two led which will indicates listening and speaking .
 
 ## Budget
 These materials will i need for my project.
 
-| Product                           | Supplier/Link                                                              | Cost    |
-| --------------------------------- | ---------------------------------------------------------------------      | ------  |
-| Raspberry Pi 4                    | https://www.adafruit.com/product/4296                                      | $55.00  |
-| Pironman Mini PC Kit              | https://www.sunfounder.com/products/raspberry-pi-4-case?ref=IwL7c2vH       | $63.99  |
-| 7 inch Display or HDMI Screen     | https://www.sunfounder.com/products/7inch-ips-touchscreen?ref=IwL7c2vH     | $$71.99 |
-|	5V, 3A DC Adapter for RPi         | https://www.sunfounder.com/products/power-supply-with-switch?ref=IwL7c2vH  | $8.50   |
-| SD Card 16/32 GB                  |  own |  |
-| Mouse & Keyboard                  |  own |  |
-| Total                             |                                                                            | $246.99 |
+| Product                           | Supplier/Link                                           | Cost   |
+| --------------------------------- | --------------------------------------------------------| ------ |
+| Raspberry Pi 4                    | [Raspberry Pi 4](https://www.adafruit.com/product/4564) | $75.00 |
+|	5V, 3A DC Adapter for RPi         | [adapter](https://www.adafruit.com/product/4298)        | $8.50  |
+| SD Card 32 GB                     | [Micro SD card](https://a.co/d/93nO0U8)                 | $8.42  |
+| USB Microphone                    | [Microphone](https://a.co/d/iacY4aj)                    | $7.99  |
+| Jumper Wires                      | [Jumper Wires](https://www.adafruit.com/product/758)    | $3.95  |
+| Breadboard                        | [Breadboard](https://www.adafruit.com/product/64)       | $4.95  |
+| Speacker and LED                  | Own                                                     |        |
+| Total                             |                                                         | $108.99|
+
+I didn't work on IoT before but I will really enjoy creating this project and it's helping me to improve my coding and learn AI with raspberry pi.
+### Thank You ❤
