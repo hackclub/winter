@@ -15,9 +15,15 @@ the FM Radio Station works.
 
 
 ## Plan
+
 First things first, I will do it to power the Raspberry Pi through micro USB cable using a powerbank, 
-as it will be the brain of the radio station, and it will run the software needed to transmit audio through
-the FM transmitter and receive audio input from the USB audio adapter. Then I will require a 
+as it will be the brain of the radio station.Then,I will set up Raspberry Pi OS and then clone a 
+script for broadcasting the audio from the microphone. 
+Script link: https://github.com/markondej/fm_transmitter 
+GPIO pin 4 of Raspberry Pi is used by the software to emit the signals. I have a jumper wire for the
+antenna whose one end will be connected to the pin and the other end wired up in the Antenna's end.
+I will run the script which will transmit audio through
+the antenna received as input from the USB audio adapter. Then I will require a 
 microphone headset to transmit live audio. After that I will be using 
 a micro HDMI cable to connect the pi to the monitor then I will connect it to internet and install the 
 software of the FM station. I will broadcast the audio through the FM station and test the station by
@@ -25,6 +31,10 @@ receiving the signal through an FM radio Speaker. We will be able to play the au
 and the FM radio speaker can pick those signals and play via speakers or even an FM Radio enabled 
 smartphone can be used for that. If everything is working fine, then I will make custom 
 cardboard enclosure for the radio station and wrap all the tools in single unit.
+
+
+
+
 
 ## Budget
 
