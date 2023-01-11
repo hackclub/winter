@@ -34,14 +34,13 @@ The TLDR of the my steps is as follows
 | Jumper T-Lite V2 ELRS Controller (Remote Control) | https://www.aliexpress.com/item/1005004519118358.html?spm=a2g0o.cart.0.0.34f838daxCZ6WD&mp=1 | $72.61 |
 | VTX |https://www.banggood.com/JHEMCU-VTX20-600-5_8Ghz-40CH-PIT-or-25mW-or-100mW-or-200mW-or-400mW-or-600mW-IRC-FPV-Transmitter-20x20mm-MMCX-For-RC-Racing-Drone-p-1901555.html?cur_warehouse=CN | $19.46 |
 | Foxeer Razer Mini (Camera) | https://www.racedayquads.com/products/foxeer-razer-mini-1200tvl-4-3-pal-nstc-cmos-fpv-camera-2-1mm-black?keyword=foxeer%20razer%20mini&aff=58 | $19.90 | 
-| Batteries | https://www.amazon.ca/CNHL-Quadcopter-Helicopter-Airplane-Multi-Motor/dp/B0B5LHC6YG/ref=sr_1_39?keywords=4s+lipo+batteries&qid=1673384795&sprefix=4s+%2Caps%2C915&sr=8-39 | $40.97 |
-| Goggles | https://www.banggood.com/Eachine-EV100-720+540-5_8G-72CH-FPV-Goggles-With-Dual-Antennas-Fan-18650-Battery-Case-For-RC-Drone-p-1182469.html?cur_warehouse=CN&ID=5324906157199&rmmds=search | $128.31 |
-| Battery Charger | https://www.banggood.com/IMax-B6-80W-6A-Battery-Balance-Charger-T-Plug-Output-for-1-6S-Lipo-Battery-p-1864581.html?cur_warehouse=CN&ID=47757&rmmds=search | $40.73 |
-| Smoke Stopper | https://www.racedayquads.com/products/smoke-stopper-by-rdq-and-bengineeringlabs?keyword=smoke%20stopper | $6.95 |
+| Smoke Stopper | https://www.racedayquads.com/products/smoke-stopper-by-rdq-and-bengineeringlabs?keyword=smoke%20stopper | $6.90 |
+| Batteries | https://www.amazon.ca/CNHL-Quadcopter-Helicopter-Airplane-Multi-Motor/dp/B0B5LHC6YG/ref=sr_1_39?keywords=4s+lipo+batteries&qid=1673384795&sprefix=4s+%2Caps%2C915&sr=8-39 | $0 |
+| Goggles | https://www.banggood.com/Eachine-EV100-720+540-5_8G-72CH-FPV-Goggles-With-Dual-Antennas-Fan-18650-Battery-Case-For-RC-Drone-p-1182469.html?cur_warehouse=CN&ID=5324906157199&rmmds=search | $0 |
+| Battery Charger | https://www.banggood.com/IMax-B6-80W-6A-Battery-Balance-Charger-T-Plug-Output-for-1-6S-Lipo-Battery-p-1864581.html?cur_warehouse=CN&ID=47757&rmmds=search | $0 |
 | Additional Shipping Costs |                                                                      | $25.00 |
 ||||
-| Total                  |                                                                      | $485.83 |
-| Amount Spent Using Grant | | $249.91 | 
+| Total                  |                                                                      | $276.71 |
 
 
 **Products I Already Own**
