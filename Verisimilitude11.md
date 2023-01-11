@@ -27,7 +27,6 @@ I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plan
 | Jumper Cables | https://www.amazon.com/gp/product/B01EV70C78/ref=ox_sc_act_title_1?smid=A2WWHQ25ENKVJ1&th=1 | $6.98 |
 | 6V DC Submersible Pump with pipe | https://www.amazon.com/gp/product/B08PBQ1N1G/ref=ox_sc_act_title_2?smid=A3GUS9YEHW5TXN&psc=1 | $11.39 |
 | Relay Module (Single Channel) | https://www.amazon.com/gp/product/B07BVXT1ZK/ref=ox_sc_act_title_3?smid=A32A7V0ESA8D26&psc=1 | $8.99 |
-| 2-Channel Relay Module | https://www.amazon.com/gp/product/B0057OC6D8/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1 | $7.39 |
 | DHT11 sensor | https://www.amazon.com/gp/product/B01DKC2GQ0/ref=ox_sc_act_title_4?smid=A30QSGOJR8LMXA&psc=1 | $10.29 |
 | Soil moisture sensor | https://www.amazon.com/gp/product/B01DKISKLO/ref=ox_sc_act_title_5?smid=A30QSGOJR8LMXA&psc=1 | $7.89 |
 | NodeMCU ESP8266 | https://www.amazon.com/gp/product/B081CSJV2V/ref=ox_sc_act_title_6?smid=A30QSGOJR8LMXA&th=1 | $16.39 |
@@ -37,7 +36,7 @@ I'm planning on following this guide: https://www.iotstarters.com/iot-smart-plan
 | Balsa Wood Sheets | https://www.amazon.com/gp/product/B09Z24Y4WG/ref=ewc_pr_img_2?smid=A2V60AOUIG17MN&psc=1 | $24.99 |
 | Exacto knife | https://www.amazon.com/gp/product/B08GKJ8Q8T/ref=ewc_pr_img_1?smid=A2CYWKJ3NZMGG9&th=1 | $4.99 |
 | Shipping | | $0.00 |
-| Taxes | | $14.28 |
-| Total | | $155.67 |
+| Taxes | | $14.18 |
+| Total | | $154.62 |
 
 All parts are guaranteed by Amazon to arrive within 5-6 days of ordering.
