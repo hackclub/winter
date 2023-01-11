@@ -22,7 +22,7 @@ This project is inspired by Tom Stanton's designs - https://youtube.com/playlist
 5. 3D print parts - pulley will be printed in two parts and attached with epoxy and alignment grooves
 6. Assemble motor to bracket and bracket to back left of bike frame or rear rack - depends on frame interference
 7. Assemble pulley to left of rear wheel spokes with high strength zip ties
-8. Put tensioner roller on rear left of bike frame
+8. Assemble tensioner roller with bearings and 7/8 ID tube and put on rear left of bike frame
 9. Attach esc to rear inside of the bike's triangle frame
 10. Attach throttle control to handlebar
 11. Attach battery bracket to inside bottom of frame triangle
@@ -35,7 +35,7 @@ This project is inspired by Tom Stanton's designs - https://youtube.com/playlist
 18. Set up wireless settings tuning with vesc-tool
 19. Adjust throttle curves, motor sensors, and regenerative braking to preference
 20. Test ride again, this time receiving metrics from vesc-tool
-21. Readjust if necessary - First revision is complete!
+21. Reajust if necessary - First revision is complete!
 
 ## Budget
 
@@ -44,6 +44,15 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Turnigy SK8 6374-192kV Sensored Brushless Motor   | https://hobbyking.com/en_us/turnigy-sk8-6374-192kv-sensored-brushless-motor-14p.html | $59.99  |
-| VESC 6 MkVI | https://trampaboards.com/vesc-6-mkvi-the-amazing-trampa-vesc-6-mkvi-gives-maximum-power-original-p-27536.html  | $281.98 |
-| 48v 13Ah eBike battery with BMS | https://www.amazon.com/Unit-Pack-Power-Ebike-Battery/dp/B081N8TLP4/ref=sxin_14_pa_sp_search_thematic_sspa?crid=1S9R7F2I0RWCZ&cv_ct_cx=48v%2B20ah%2Blithium%2Bbattery&keywords=48v%2B20%2Bah%2Blithium%2Bbattery&pd_rd_i=B081N8WYMX&pd_rd_r=acd4bd83-ae6d-4ebb-9a03-b0ade1fc7af2&pd_rd_w=u70K3&pd_rd_wg=GDeZh&pf_rd_p=e2fbde06-fdfe-405b-9a4a-aa3a1757321c&pf_rd_r=9Q3H8QZRGF3621CKGH40&qid=1647278112&sprefix=4v%2B20%2Bah%2Blithium%2Bbattery%2Caps%2C143&sr=1-2-a73d1c8c-2fd2-4f19-aa41-2df022bcb241-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySUJKUUtOVjFDMlVMJmVuY3J5cHRlZElkPUEwNTc4NzU0Mlk4ODBCMFlPNTBNTiZlbmNyeXB0ZWRBZElkPUEwMDQxODkwUUxJOUc5MjAxUjhBJndpZGdldE5hbWU9c3Bfc2VhcmNoX3RoZW1hdGljJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1 | $269.00 |
-| Total           |                                       | $21.90 |
+| FSESC 6 | https://flipsky.net/products/fs-esc-6-6  | $199.00 |
+| 48v 13Ah eBike battery with BMS | https://a.co/d/hnFedn9 | $269.00 |
+| Anderson to XT90 Registration | https://a.co/d/3ScajGd | $7.99 |
+| HTD5M 8mm Bore 14t 15mm Wide Timing Pulley | https://www.rubberbeltsonline.com/8mm-Bore-Aluminum-Timing-Pulley-5mm-Pitch-14-Teeth-p/8mm-14t-15mm-htd5m-pulley.htm | $8.99 |
+| 7/8" OD 3/8" ID Flanged Steel Ball Bearing | https://a.co/d/hO4m7wB | $9.99 |
+| Throttle Grip | https://a.co/d/ip5SoOV | $15.99 |
+| 0.6mm Steel 3D Printer Nozzle | https://a.co/d/d6JLZ4j | $14.99 |
+| 120A 48V Circuit Breaker | https://a.co/d/fvOP99G | $16.99 |
+| 7/8" ID Aluminum Tube |  | Owned |
+| 3D Printer |  | Owned |
+| Street Cruiser Bike |  | Owned |
+| Total           |                                       | $602.73 |
