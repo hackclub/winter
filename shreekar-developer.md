@@ -28,9 +28,9 @@ What materials will you need for your project? Where will you get them? How much
 | Fine Mesh | shorturl.at/mM124 | $8 |
 | PC Fans | shorturl.at/gmuxQ | $16 |
 | Dowel | https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Pine-Round-Dowel-10001808/203334068 | $7 |
-| Creality 3D Printer | https://www.creality3dofficial.com/products/official-creality-ender-3-3d-printer | $204 |
+| Creality 3D Printer | https://www.creality3dofficial.com/products/ender-3-v2-3d-printer | $213 | (after 6% student discount and taxes)
 | Filament | shorturl.at/inCG2 | $22 |
 | 1TB Hard Drive | shorturl.at/efvL1 | Already Owned |
 
 
-| Total           |                                       | $510 |
+| Total           |                                       | $519 |
