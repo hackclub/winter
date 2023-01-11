@@ -20,6 +20,10 @@ I will put all the components together and print a case on a resin 3D printer.
 I will create a short program that uses python and recognizes voice commands with the help of voice recognition ai model and then takes a picture and processes it and plays it on the device's speakers. 
 Finally, maybe added a user application in swift ui
 
+## Note
+Probably I will use tensor flow micro for rpi
+I that doesn't work the device will connect to phone for getting data
+
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
@@ -31,5 +35,5 @@ What materials will you need for your project? Where will you get them? How much
 | raspberry pi pico cam|https://www.amazon.com/Arducam-Raspberry-Camera-HM01B0-Module/dp/B093KBQB1C#customerReviews | $12.99 | free shipping  
 | resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 | paid shipping
 | resin|https://www.amazon.com/ELEGOO-UV-Curing-Standard-Photopolymer-Printing/dp/B07Z986566/| $22.49 | free shipping beacuse i  have prime
-| Total           |                                       | $163 |
-calculated price is with shipping and import fees 243
+| Total           |                                       | $173 |
+calculated price is with shipping and import fees 245
