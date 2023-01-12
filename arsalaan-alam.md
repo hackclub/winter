@@ -15,6 +15,7 @@ I'm building AirDrop, which would be a state-of-the-art drone delivery system th
 ## Plan
 
 1. Assemble the following components to form a hexacopter 
+
    *1 x Ardupilot APM 2.8 Flight Control Board
    *1 x DJI F550 Hexacopter Frame Kit
    *6 x A2212 1000KV Brushless Motor For RC Airplane / Quadcopter
@@ -38,6 +39,7 @@ I'm building AirDrop, which would be a state-of-the-art drone delivery system th
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
 | Hexacopter Drone Kit | https://www.flyrobo.in/hexacopter-drone-combo-with-apm | Rs 21,000 |
 | Drone Gimbal  | https://www.flyrobo.in/2-axis-brushless-drone-camera-gimbal-with-controller| Rs 4200 |
 | Lipo Battery 11.1v 5500 mah | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c | Rs 4000 |
