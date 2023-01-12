@@ -1,6 +1,6 @@
 ---
 name: "@Spartoons"
-project: "Smart screen"
+project: "TodayDisplay"
 ---
 
 # Smart screen
