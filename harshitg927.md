@@ -11,7 +11,7 @@ I am going to build an mechanical keyboard. It is a mechanical keboard with brow
 
 ## Plan
 
-I have researched and listed the items I will need for this build below. Tools to be used in making of this will be included in the items listed. First, I will unbox all the items and organize them, then i will check whether all the socket of the PCB are working or not, then I will take the switches and stabilizers and lube them. Since i have ordered a hot sawppable PCB, now I will place all the switches in it. Then, I will place the keycaps on the switches to complete the build. At last,** i will flash the firmware i made** onto the PCB so that the keyboard works.
+I have researched and listed the items I will need for this build below. Tools to be used in making of this will be included in the items listed. First, I will unbox all the items and organize them, then i will check whether all the socket of the PCB are working or not, then I will take the switches and stabilizers and lube them. Since i have ordered a hot sawppable PCB, now I will place all the switches in it. Then, I will place the keycaps on the switches to complete the build. At last,** i will flash the firmware i made** (The firmware would enable me to flash my own layout onto the keyboard, for example I am learning how to code on c++ and would change the commonly used keys like the triangle brackets so that they don't require me to press shift to type them, similarly i can do this for any language, like in a language where I wanna use brackets repeatedly, i could switch the key for the brackets to a more accessible place on the keyboard, like switching them for the left shift and question mark key) onto the PCB so that the keyboard works.
 
 ## Budget
 
