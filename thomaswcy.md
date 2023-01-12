@@ -1,6 +1,6 @@
 ---
 name: "@thomaswcy"
-project: "Your Project Name Here"
+project: "Home-Environment-Monitor"
 ---
 
 # Home-Environment-Monitor (HEV)
