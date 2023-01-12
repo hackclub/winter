@@ -29,14 +29,15 @@ I have checked and reviewed all the components, that are compatible with this bu
 
 | Product                                                                     | Supplier / Link                                                                                    | Cost (USD) |
 | --------------- | ------------------------------------- | ------ |
-| Rekon 6 6 Inch Mini Long Range Frame                     | https://www.quadkart.in/rekon-6-6-inch-mini-long-range-frame-kit/                 | 41.63                  | 
-| HGLRC Zeus F745 V2 STACK FPV Racing Drone 3-6S F722 FC 45A BL_S 4in1 ESC                    | https://www.drkstore.in/hglrc-zeus-f745-v2-stack-fpv-racing-drone-3-6s-f722-fc-45a-bl_s-4in1-esc/                 | 20.79                  |
-| HGLRC Zeus Pro 1.6W long Range VTX                    | https://www.quadkart.in/hglrc-zeus-pro-1-6w-long-range-vtx/                 | 20.79                  |
-| HGLRC AEOLUS 2105.5 Motor                    | https://www.quadkart.in/hglrc-aeolus-2105-5-motor/                 | 20.79                  |
-| Gemfan Hurricane SL 6026 6" Prop (Set Of 4)                    | https://www.quadkart.in/gemfan-hurricane-sl-6026-6-prop-set-of-4/                 | 20.79                  |
-| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-radio-transmitter-w-hall-gimbals-elrs/                 | 20.79                  |
-| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 20.79                  |
-| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 20.79                  |
-| DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 20.79                  |
+| Rekon 6 6 Inch Mini Long Range Frame                     | https://www.quadkart.in/rekon-6-6-inch-mini-long-range-frame-kit/                 | 51.28                 | 
+| HGLRC Zeus F745 V2 STACK FPV Racing Drone 3-6S F722 FC 45A BL_S 4in1 ESC                    | https://www.drkstore.in/hglrc-zeus-f745-v2-stack-fpv-racing-drone-3-6s-f722-fc-45a-bl_s-4in1-esc/                 | 101.1                 |
+| HGLRC Zeus Pro 1.6W long Range VTX                    | https://www.quadkart.in/hglrc-zeus-pro-1-6w-long-range-vtx/                 | 49.31                  |
+| HGLRC AEOLUS 2105.5 Motor                    | https://www.quadkart.in/hglrc-aeolus-2105-5-motor/                 | 83.8                  |
+| Gemfan Hurricane SL 6026 6" Prop (Set Of 4)                    | https://www.quadkart.in/gemfan-hurricane-sl-6026-6-prop-set-of-4/                 | 2.8                  |
+| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-radio-transmitter-w-hall-gimbals-elrs/                 |117.13                  |
+| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.65                  |
+| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.483                  |
+| DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 43.14                  |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
+|Total |              | 491.69|
