@@ -22,15 +22,27 @@ Finally, maybe added a user application in swift ui
 
 ## Note
 Probably when the button on the device will be pressed then it will capture a photo and send the photo to mobile app that will procces the image with tensorflow and will read with tts what infront of you.
-but maybe i will test tensorflow for micro devices without phone and compare the latency and results between the two methods to see which better
-
+### updating 
+could you please expand on how this would work technically? 
+the espcam will seat inside 3d printed case with small battery i have and a basic button. the case will slide on existing sunglsses side frame .
+would you simultaneously run the ocr model, the image classification model, and the voice reognition model on your board? if so, does the esp32 cam board have the capabilties to do it all real time?
+as mentioned when the blind press a button on the side of the glasses that say he want to check what infront of him the espcam will send photo to phone through bluetooth and then the phone will procces the image and will return the results to the esp and the headphones
+would you be designing the glasses yourself? if they are sunglasses do you need special film or smth?
+the case will slide on existing sunglsses(i have one at home) side frame so there is no need for special film.
+do you need a tf card?
+no
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| bluetooth headphones|at home   | $0 |\
+| bluetooth headphones|at home   | $0 |
 | wires | at home  | $0 |
+| phone|at home   | $0 |
+| sunglasses|at home   | $0 |
+| phone|at home   | $0 |
+| tiny battery |at home   | $0 |
+| push button|at home   | $0 |
 | esp32cam board |https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/| $12.99 | free shipping  
 | resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 | paid shipping
 | resin|https://www.amazon.com/ELEGOO-UV-Curing-Standard-Photopolymer-Printing/dp/B07Z986566/| $22.49 | free shipping beacuse i  have prime
