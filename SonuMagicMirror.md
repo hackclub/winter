@@ -3,7 +3,11 @@ name: "@sunilkumarchoudari"
 project: "SmartMirror"
 ---
 
-# Smart_Mirror_List
+## Project Guide
+Project Guide : (https://www.youtube.com/watch?v=WQR0fv9C5dU&ab_channel=Grensom)
+Project Referecne (https://all3dp.com/2/raspberry-pi-magic-mirror-smart-best-project/)
+
+## Smart_Mirror_List
 * *Monitor*
 * *2 Way Film*
 * *Rasberry PI*
