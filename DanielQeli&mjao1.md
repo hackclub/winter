@@ -1,15 +1,15 @@
 ---
 name: ["@DanielQeli", "@mjao1"]
-project: "Modular eBike"
+project: "Non Invasive eBike"
 ---
 
-# Modular eBike
+# Non Invasive eBike
 
 Every bike can be an eBike
 
 ## Summary
 
-Me and my friend Michael would love to build a custom ebike. I've had this project in mind for a while but have never had the money to do it. I have the goal of designing/building it as an easy add-on to almost any standard bike. It will have regenerative braking, an emergency kill switch, variable throttle assist, and a battery life adequate to go to school and back ~ at least 15 miles. On top of this, the throttle settings can be changed on the esc using the desc-tool Android app.
+Me and my friend Michael would love to build a custom ebike. I've had this project in mind for a while but have never had the money to do it. My goal is to design and build it as an easy add-on to almost any standard bike. It will have regenerative braking, an emergency kill switch, variable throttle assist, and a battery life adequate to go to school and back ~ at least 15 miles. On top of this, the esc settings can be changed on the esc using the vesc-tool Android app.
 
 This project is inspired by [Tom Stanton's designs](https://youtube.com/playlist?list=PLj3Bh6Krv9CWdRwVFwF1xS_-IQH9GBHyo)
 
