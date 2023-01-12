@@ -36,16 +36,16 @@ I have quite a good experience of building robots with Raspi and electronics but
 | Servo (360°)| https://robu.in/product/towerpro-mg995-continuous-rotation-360-metal-gear-servo-motor-9-2kg/ | $3.95  |
 | Servo (180°) | https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/  | $3.12 |
 | Rpi case|https://robu.in/product/aluminum-heat-sink-case-with-double-fans-for-raspberry-pi-4b-black/ | $10.79  |
-| motor driver |https://robu.in/product/enhanced-13amp-dc-motor-driver-30a-peak-10-seconds/  | $28.62 |
+| motor driver x2pieces |https://robu.in/product/enhanced-13amp-dc-motor-driver-30a-peak-10-seconds/  | $28.62 |
 | Battery | https://robu.in/product/orange-5200mah-4s-40c-lithium-polymer-battery-pack-lipo/ | $65.03  |
 | Battery charger| https://robu.in/product/imax-b6ac-v2-professional-balance-chargerdischarger/  | $57.56 |
-| voltage tester | https://robu.in/product/lipo-battery-voltage-checker-1s-8s-with-buzzer/ | $0.48  |
-| lipo battery connector |https://robu.in/product/xt60h-connector-with-housing-male/ | $2.81 |
+| voltage tester | https://robu.in/product/lipo-battery-voltage-checker-1s-8s-with-buzzer/ | $2.81  |
+| lipo battery connector x2pieces |https://robu.in/product/xt60h-connector-with-housing-male/ | $0.96 |
 | Remote controler| https://robu.in/product/flysky-fs-t6-6ch-transmitter-with-fs-r6b-receiver/ | $67.40  |
-| AAA rechargeable battery | https://robu.in/product/panasonic-eneloop-aaa-bk-4mcce-2bn-rechargeable-battery-pack-of-4/ | $19.64 |
+| AAA rechargeable battery x2pack | https://robu.in/product/panasonic-eneloop-aaa-bk-4mcce-2bn-rechargeable-battery-pack-of-4/ | $19.64 |
 | AAA rechargeable battery charger |https://robu.in/product/panasonic-bq-cc55n-eneloop-smart-and-quick-charger-for-ni-mh-battery-cell/ | $18.40  |
 | glue gun |https://robu.in/product/standard-temperature-corded-glue-gun/| $2.81 |
-| glue sticks | https://robu.in/product/all-purpose-hot-melt-glue-sticks-for-glue-gun-5pcs/ | $1.69  |
+| glue sticks x2packs| https://robu.in/product/all-purpose-hot-melt-glue-sticks-for-glue-gun-5pcs/ | $1.69  |
 | Arduino mega Board| https://robu.in/product/atmel-mcu-atmega16u2-mega-2560-r3-improved-version-ch340g-cable-arduino-mega-2560-transparent-acrylic-case-arduino-mega-2560/  | $23.68 |
 | Arduino uno mini Board|https://robu.in/product/arduino-uno-mini-limited-edition/|$46.25|
 | chassis| https://thinkrobotics.in/products/shock-absorption-metal-robot-tank-chassis?variant=16420917870664 | $175.55  |
@@ -54,4 +54,4 @@ I have quite a good experience of building robots with Raspi and electronics but
 | 3d printer filament white  | https://www.amazon.in/gp/product/B06Y35GHT8/ref=ewc_pr_img_3?smid=A265UAHVFOFJA3&th=1  | $10.42 |
 | 3d printer filament black |https://www.amazon.in/gp/product/B08ZHN584T/ref=ewc_pr_img_4?smid=A3MCB9NUD1CPCV&th=1 | $12.21 |
 | ups for 3d printer|https://www.amazon.in/gp/product/B087K438YF/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&psc=1 | $30.67 |
-| Total           |                                       | $21.90 |
+| Total           |                                       | $955.84 |
