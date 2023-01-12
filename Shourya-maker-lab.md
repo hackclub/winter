@@ -52,4 +52,4 @@ I have quite a good experience of building robots with Raspi and electronics but
 | 3d printer filament white  | https://www.amazon.in/gp/product/B06Y35GHT8/ref=ewc_pr_img_3?smid=A265UAHVFOFJA3&th=1  | $10.42 |
 | 3d printer filament black |https://www.amazon.in/gp/product/B08ZHN584T/ref=ewc_pr_img_4?smid=A3MCB9NUD1CPCV&th=1 | $12.21 |
 | Ups for 3d printer|https://www.amazon.in/gp/product/B087K438YF/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&psc=1 | $30.67 |
-| Total           |                                       | $955.84 |
+| Total           |                                       | $932.17 |
