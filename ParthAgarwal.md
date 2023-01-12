@@ -30,6 +30,7 @@ Next on I will follow the examples given on the above mentioned site to complete
 | Battery         |https://amzn.to/2WRcIUe                                       | $15.99|
 | USB cable pack  |       Already own                                            |       |
 | PiOLED display  |http://adafru.it/3527                                         | $7.00|
+| PiOLES Header   | Already Have                                                 |       |
 | Camera          |https://robu.in/product/waveshare-imx219-160-camera-160-fov-applicable-for-jetson-nano/?gclid=Cj0KCQiAtvSdBhD0ARIsAPf8oNmd4DwC95Nn4rrtpp0XVk0rD5Tr0LzZBC5iy1_d7fONXt7HtirXfcAaAvybEALw_wcB                        | $27.00|
 |WiFi Dongle - TP-Link Archer T2U Nano|https://a.co/d/9mO5wSD                    | $17.57|
 | Wheels  65mm    |http://adafru.it/3757                                         | $3.00 |
