@@ -44,7 +44,7 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Turnigy SK8 6374-192kV Sensored Brushless Motor   | https://hobbyking.com/en_us/turnigy-sk8-6374-192kv-sensored-brushless-motor-14p.html | $59.99  |
-| FSESC 6 | https://flipsky.net/products/fs-esc-6-6  | $199.00 |
+| FSESC 6 | https://flipsky.net/products/fs-esc-6-6  | $189.00 |
 | 48v 13Ah eBike battery with BMS | https://a.co/d/hnFedn9 | $269.00 |
 | Anderson to XT90 Registration | https://a.co/d/3ScajGd | $7.99 |
 | HTD5M 8mm Bore 14t 15mm Wide Timing Pulley | https://www.rubberbeltsonline.com/8mm-Bore-Aluminum-Timing-Pulley-5mm-Pitch-14-Teeth-p/8mm-14t-15mm-htd5m-pulley.htm | $8.99 |
@@ -55,4 +55,7 @@ What materials will you need for your project? Where will you get them? How much
 | 7/8" ID Aluminum Tube |  | Owned |
 | 3D Printer |  | Owned |
 | Street Cruiser Bike |  | Owned |
+| HobbyKing Shipping + Tax |  | $33.85 |
+| Amazon Shipping + Tax |  | $27.63 |
+| Flipsky Shipping + Tax |  | $9.90 |
 | Total           |                                       | $602.73 |
