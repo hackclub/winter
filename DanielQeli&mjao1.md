@@ -1,9 +1,9 @@
 ---
 name: ["@DanielQeli", "@mjao1"]
-project: "Non Invasive eBike"
+project: "Non Invasive eBike Conversion"
 ---
 
-# Non Invasive eBike
+# Non Invasive eBike Conversion
 
 Every bike can be an eBike
 
