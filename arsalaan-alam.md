@@ -16,15 +16,15 @@ I'm building AirDrop, which would be a state-of-the-art drone delivery system th
 
 1. Assemble the following components to form a hexacopter 
 
-   *1 x Ardupilot APM 2.8 Flight Control Board
-   *1 x DJI F550 Hexacopter Frame Kit
-   *6 x A2212 1000KV Brushless Motor For RC Airplane / Quadcopter
-   *6 x 30A Brushless ESC
-   *3 x 1045 Propeller 10in 10x4.5 For Drone
-   *1 x Flysky FS-i6 2.4G 10CH TX-RX
-   *1 x APM Pixhawk Power Module with XT60
-   *1 x Nylon Strap Belt for RC Lipo Battery
-   *1 x 3D printed Shock Absorber Anti-vibration Set for APM Pixhawk
+   - 1 x Ardupilot APM 2.8 Flight Control Board
+   - 1 x DJI F550 Hexacopter Frame Kit
+   - 6 x A2212 1000KV Brushless Motor For RC Airplane / Quadcopter
+   - 6 x 30A Brushless ESC
+   - 3 x 1045 Propeller 10in 10x4.5 For Drone
+   - 1 x Flysky FS-i6 2.4G 10CH TX-RX
+   - 1 x APM Pixhawk Power Module with XT60
+   - 1 x Nylon Strap Belt for RC Lipo Battery
+   - 1 x 3D printed Shock Absorber Anti-vibration Set for APM Pixhawk
 
    
 2. Attach the camera gimball and insert the drone camera.
