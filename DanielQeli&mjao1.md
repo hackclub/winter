@@ -60,3 +60,5 @@ What materials will you need for your project? Where will you get them? How much
 | Amazon Shipping + Tax                           |                                                                                      | $30.42  |
 | Flipsky Shipping + Tax                          |                                                                                      | $9.90   |
 | Total                                           |                                                                                      | $691.78 |
+
+Amazon wishlist here: https://www.amazon.com/hz/wishlist/ls/1M8CN612LA18D?ref_=wl_share
