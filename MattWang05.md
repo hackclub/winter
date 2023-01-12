@@ -1,5 +1,5 @@
 ---
-name: "@MattWang05"
+name: ["@MattWang05", "@choy1015"]
 project: "PunchMe,Modern Spotify Music Player"
 ---
 
