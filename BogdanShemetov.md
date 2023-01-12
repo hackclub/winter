@@ -17,10 +17,6 @@ We plan on using Arduino Nano as a brain for a display (to graph data), a keypad
 ## Budget
 
 
-## Budget
-
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
 | Product         | Supplier/Link                                                                          | Quanity | Cost    |
 | --------------- | ---------------------------------------------------------------------------------------| ------- | ------- |
 | pH Meter        | https://arduino.ua/prod3490-gravity-analogovii-datchikizmeritel-ph-v2-ot-dfrobot 	   | 1 pc    | $49,19  |
