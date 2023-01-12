@@ -20,6 +20,7 @@ For the hardware, we need a Raspberry Pi 4B to control the IoT devices, a 64G TF
 
 Through this project, I will learn more about hardware and software. It's a very interesting experience. After this, I will be testing our IRCS project and I will be very excited to control our home devices from anywhere in the world
 
+For this project, I didn't follow any guides, but I saw some similar guides, I found it very interesting, I originally implemented a similar project using esp8266, but esp8266 is a microcontroller, so it is not based on Linux, there is no intuitive visualization panel, and it is also impossible for one terminal device to control devices in multiple rooms, etc. But this new project has achieved these
 ## Budget
 
 
@@ -31,6 +32,6 @@ Through this project, I will learn more about hardware and software. It's a very
 | SanDisk 64GB TF | https://item.m.jd.com/product/1887526.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $5.12 |
 | Dupont wire     | already own 
 | LED lights      | already own
-| voltage converter | already owm
+| voltage converter | already own
 | shipping and taxes|                                     | $0.00 |
 | Total           |                                       | $249.34 |
