@@ -28,5 +28,5 @@ We will cover shipping, taxes, and anything extra
 | SG90 9G Micro Servo (3x10pcs) | [https://www.aliexpress.us/item/3256804845912768.html](https://www.aliexpress.us/item/3256804845912768.html) | $59.13 |
 | SV06 3D Printer | [https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?variant=40106603774040](https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer?variant=40106603774040) | $239.00 |
 | PLA Filament | [https://www.matterhackers.com/store/l/175mm-pla-filament-silver-1-kg/sk/M2JWHYCY](https://www.matterhackers.com/store/l/175mm-pla-filament-silver-1-kg/sk/M2JWHYCY) | $20.87 |
-| Soldering Station | [https://www.amazon.com/dp/B09WQVH5FB](https://www.amazon.com/dp/B09WQVH5FB) | 129.99 |
-| Total           |                                       | $545.98 |
+| Soldering Station | [https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG?ref_=ast_sto_dp](https://www.amazon.com/YIHUA-Soldering-Station-Multiple-Functions/dp/B07RY5XWVG?ref_=ast_sto_dp) | 119.95 |
+| Total           |                                       | $535.94 |
