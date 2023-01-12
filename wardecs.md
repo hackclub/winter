@@ -7,7 +7,7 @@ project: "Auto Webcam Tracker"
 
 ## Summary
 
-I am going to build an Arduino webcam face tracker. It is a system that uses an Arduino microcontroller and a webcam to track the movement of a person's face. The webcam captures video images of the person's face and sends them to the microcontroller, which processes the images to determine the position of the face. The microcontroller can then use this information to control some kind of output, such as a motor or a servo.
+I am going to build an Arduino webcam face tracker. It is a system that uses an Arduino microcontroller and a webcam to track the movement of a person's face. The webcam captures video images of the person's face and sends them to the microcontroller, which processes the images to determine the position of the face. The microcontroller can then use this information to control some kind of output, such as a motor or a servo.  plan on making some sort of custom 3D printed mount for it, so I can place the mount on the motors to create a rotating mechanism. The webcam wouldn't actually clip onto my computer monitor. I have a shelf directly above my monitor which I will be putting the whole system on.
 
 I am excited about this project because it allows me to combine my interests in microcontroller programming and computer vision. I think it will be a fun and challenging project that will teach me new skills and help me create something unique and interactive. Overall, I think this project has a lot of potential and I am looking forward to getting started.
 
