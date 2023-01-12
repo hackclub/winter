@@ -16,6 +16,17 @@ it up with hardware to automate my common tasks and open source it so everyone c
 I will use Raspberry Pi 4 as main controller of the board running RUST (for key performance areas) and Python (for AI / ML). With that
 I proceed by connecting to hardware by wifi or wires or bluetooth to control and get data and make variety of features such as intruder detection (servo motor), turn on lights, integrate it with ChatGPT and my own chat model to communicate, make a beautifull GUI'S, create a server to communicate over call through Azure and control my room from anywhere in the world and to store stuff by just saying "JARVIS SAVE THIS FILE" to a harddrive using raspberry PI ( just like airdrop ) and incrementally add features time to time.
 
+Features that I will be making:
+
+1) Apple Airdrop feature with Harddrive and Raspberry PI
+2) Face Recognition Door lock using Servo Motor ( Here Raspberry PI send commands to Arduino with SSE Events ) and Potentiometer
+3) Ultra sonic sensor for intruder detection and taking picture if it is not me
+4) Advance chat assistant using Open AI API's and my own custom trained model
+5) Controlling my LED Lights using Wifi 
+6) Based on the pitch of the Chatbot LED Strips would be calliibrated
+7) Temperature sensor ( INCLUDED IN UNO KIT ) for detecting accurate temperature that will be displayed on my webapp
+8) Will create a web app that would be connected by Azure services, with Server sent events all the components can be controlled from anywhere in the world !
+
 
 ## Budget
 | Product             | Supplier/Link                         | Cost   |
