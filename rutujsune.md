@@ -40,4 +40,4 @@ I have checked and reviewed all the components, that are compatible with this bu
 | DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 43.14                  |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total |              | 491.69|
+|Total | (Including Shipping)             | 497.8|
