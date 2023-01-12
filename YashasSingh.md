@@ -23,7 +23,9 @@ Install a voice reconigition software to convert wavelengths into text
 Create a word that starts the program ex. Alexa or Ok Google
 Use Open Ai that runs when start word is said (Alexa, Ok Goolgle)
 Say the response from the speaker
-The clock software can be dowloaded from other pre-made clock sofware on git hub
+The clock software can be dowloaded from other pre-made clock sofware on GitHub.
+
+## Budget
  
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
