@@ -4,21 +4,23 @@ project: Home Automation
 
 #  Home Automation
 
-## Summary- I am going to build a home automation setup for automating my room and give my project a practical use, 
-            i choose to work on home automation because i am enthuastic about how technology can be used to automate
-            the day to day easy tasks with the help of technology.
+## Summary
 
+I am going to build a home automation setup for automating my room and give my project a practical use, 
+i choose to work on home automation because i am enthuastic about how technology can be used to automate
+the day to day easy tasks with the help of technology.
 
-## Plan - step 1- I will start with the Node-Mcu (NodeMCU ESP8266 (AMICA-CP2102 driver)) and connecting it with the 5V 4Channel- Relay module.
-          step 2- i will connect the switches and the appliances according to the circuit diagram to the switches and the other two components which is the node mcu and the relay module.
-          step 3- i will program the node mcu (with reference to the video) and connect it to the smart speaker (amazon alexa).
-          step 4- its ready to work and it can be setup in the room.
+## Plan
 
+1. I will start with the Node-Mcu (NodeMCU ESP8266 (AMICA-CP2102 driver)) and connecting it with the 5V 4Channel- Relay module.
+2. i will connect the switches and the appliances according to the circuit diagram to the switches and the other two components which is the node mcu and the relay module.
+3. i will program the node mcu (with reference to the video) and connect it to the smart speaker (amazon alexa).
+4. its ready to work and it can be setup in the room.
 
-## Budget- 
+## Budget
 
 | Product         | Supplier/Link                         | Cost   |
-
+|-----------------|---------------------------------------|--------|
 | 4-Channel 5V Relay Board | https://robocraze.com/products/4-channel-5v-relay-board?variant=40192687014041                        | $2.45 |
 | NodeMCU ESP8266 (AMICA-CP2102 driver)| https://robocraze.com/products/nodemcu-esp8266-amica-cp2102-driver?variant=40192563806361 | $4.17 |
 | F2F Jumper Wires (20cm) 20pcs       |https://robocraze.com/products/f2f-jumper-wires-20cm-20pcs?variant=40192483950745           |$0.36  |
