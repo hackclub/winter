@@ -45,7 +45,6 @@ I have quite a good experience of building robots with Raspi and electronics but
 | AAA rechargeable battery charger |https://robu.in/product/panasonic-bq-cc55n-eneloop-smart-and-quick-charger-for-ni-mh-battery-cell/ | $18.40  |
 | Glue gun |https://robu.in/product/standard-temperature-corded-glue-gun/| $2.81 |
 | Glue sticks x2packs| https://robu.in/product/all-purpose-hot-melt-glue-sticks-for-glue-gun-5pcs/ | $1.69  |
-| Arduino mega Board| https://robu.in/product/atmel-mcu-atmega16u2-mega-2560-r3-improved-version-ch340g-cable-arduino-mega-2560-transparent-acrylic-case-arduino-mega-2560/  | $23.68 |
 | Arduino uno mini Board|https://robu.in/product/arduino-uno-mini-limited-edition/|$46.25|
 | Chassis| https://thinkrobotics.in/products/shock-absorption-metal-robot-tank-chassis?variant=16420917870664 | $175.55  |
 | Raspberry pi 4 | https://rees52.com/product/3911-raspberry-pi-4-model-b-with-1gb-2gb-4gb-lpddr4-sdram-rs2237#/36-ram-8_gb  | $161.99 |
