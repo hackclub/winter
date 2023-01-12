@@ -17,9 +17,9 @@ The keyboard comes with many other features as well, making it much more than a 
 
 ## Plan
 
-First, I will use the pyserial library to write a python script which I can run from my laptop to detect keyboard inputs, which I will then send to the arduino board using the serial port. 
+First, I will connect the keyboard to the arduino to intercept the keystrokes and use the Keyboard library in arduino to write a program to detect which keyes and how fast the user is typing. 
 
-Then, the arduino will take these keyboard inputs and calculate how fast the user is typing and then display these values on the LCD screen. 
+Then, the arduino will then take these values and display them the LCD screen. 
 
 Secondly, I will have a web application set up where the user is able to set how they want the lights and speaker to function such as what color schemes and patterns they want.
 
@@ -30,8 +30,8 @@ Finally, I will assemble all of these parts in a portable and compact keyboard.
 Useful links:
 https://github.com/garyhtou/Desk-Lights
 https://projecthub.arduino.cc/Isaac100/7cabe1ec-70a7-4bf8-a239-325b49b53cd4
-https://pythonforundergradengineers.com/python-arduino-potentiometer.html
 https://forum.arduino.cc/t/serial-input-basics-updated/382007/3
+https://docs.arduino.cc/built-in-examples/usb/KeyboardSerial
 
 ## Budget
 
