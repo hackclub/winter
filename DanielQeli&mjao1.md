@@ -41,21 +41,22 @@ This project is inspired by [Tom Stanton's designs](https://youtube.com/playlist
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Turnigy SK8 6374-192kV Sensored Brushless Motor   | https://hobbyking.com/en_us/turnigy-sk8-6374-192kv-sensored-brushless-motor-14p.html | $59.99  |
-| FSESC 6 | https://flipsky.net/products/fs-esc-6-6  | $189.00 |
-| 48v 13Ah eBike battery with BMS | https://a.co/d/hnFedn9 | $269.00 |
-| Anderson to XT90 Registration | https://a.co/d/3ScajGd | $7.99 |
-| HTD5M 8mm Bore 14t 15mm Wide Timing Pulley | https://www.rubberbeltsonline.com/8mm-Bore-Aluminum-Timing-Pulley-5mm-Pitch-14-Teeth-p/8mm-14t-15mm-htd5m-pulley.htm | $8.99 |
-| 7/8" OD 3/8" ID Flanged Steel Ball Bearing | https://a.co/d/hO4m7wB | $9.99 |
-| Throttle Grip | https://a.co/d/ip5SoOV | $15.99 |
-| 0.6mm Steel 3D Printer Nozzle | https://a.co/d/d6JLZ4j | $14.99 |
-| 120A 48V Circuit Breaker | https://a.co/d/fvOP99G | $16.99 |
-| 7/8" ID Aluminum Tube |  | Owned |
-| 3D Printer |  | Owned |
-| Street Cruiser Bike |  | Owned |
-| HobbyKing Shipping + Tax |  | $33.85 |
-| Amazon Shipping + Tax |  | $27.63 |
-| Flipsky Shipping + Tax |  | $9.90 |
-| Total           |                                       | $602.73 |
+| Product                                         | Supplier/Link                                                                        | Cost    |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------ | ------- |
+| Turnigy SK8 6374-192kV Sensored Brushless Motor | https://hobbyking.com/en_us/turnigy-sk8-6374-192kv-sensored-brushless-motor-14p.html | $59.99  |
+| FSESC 6                                         | https://flipsky.net/products/fs-esc-6-6                                              | $189.00 |
+| 48v 13Ah eBike battery with BMS                 | https://a.co/d/hnFedn9                                                               | $269.00 |
+| Anderson to XT90 Adapter                        | https://a.co/d/3ScajGd                                                               | $7.99   |
+| HTD5M 8mm Bore 14t 15mm Wide Timing Pulley      | https://a.co/d/isJZLS2                                                               | $12.99  |
+| 7/8" OD 3/8" ID Flanged Steel Ball Bearing      | https://a.co/d/hO4m7wB                                                               | $9.99   |
+| Throttle Grip                                   | https://a.co/d/ip5SoOV                                                               | $15.99  |
+| 0.6mm Steel 3D Printer Nozzle                   | https://a.co/d/d6JLZ4j                                                               | $14.99  |
+| 120A 48V Circuit Breaker                        | https://a.co/d/fvOP99G                                                               | $16.99  |
+| 288t HTD5m Belt                                 | https://a.co/d/gOULoaI                                                               | $20.88  |
+| 7/8" ID Aluminum Tube                           |                                                                                      | Owned   |
+| 3D Printer                                      |                                                                                      | Owned   |
+| Street Cruiser Bike                             |                                                                                      | Owned   |
+| HobbyKing Shipping + Tax                        |                                                                                      | $33.85  |
+| Amazon Shipping + Tax                           |                                                                                      | $30.42  |
+| Flipsky Shipping + Tax                          |                                                                                      | $9.90   |
+| Total                                           |                                                                                      | $691.78 |
