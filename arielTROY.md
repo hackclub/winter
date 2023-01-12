@@ -21,8 +21,8 @@ I will create a short program that uses python and recognizes voice commands wit
 Finally, maybe added a user application in swift ui
 
 ## Note
-Probably I will use tensor flow micro for esp32
-I that doesn't work the device will connect to phone for getting data
+Probably when the button on the device will be pressed then it will capture a photo and send the photo to mobile app that will procces the image with tensorflow and will read with tts what infront of you.
+but maybe i will test tensorflow for micro devices without phone and compare the latency and results between the two methods to see which better
 
 ## Budget
 
