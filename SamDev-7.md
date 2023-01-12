@@ -31,7 +31,7 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | Servo (MG996R 360deg) | [AliExpress](https://www.aliexpress.com/item/32954365576.html) | $3.79 |
 | DC Power Supply | [Amazon](https://www.amazon.ca/gp/product/B06Y64QLBM/) | $18.88 |
 | Thrust Bearing (51107) (x2) | [AliExpress](https://www.aliexpress.com/item/1005004382521768.html) | $8.14 |
-| Steel Rod (10mm 400mm) (x4) | [AliExpress](https://www.aliexpress.com/item/1005001355250604.html) | $15.12 |
+| 4pc Steel Rod (10mm 400mm) | [Amazon](https://www.amazon.ca/gp/product/B09KH8TZT2) | $28.28 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
 | PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDW6X99/) | $19.99 |
 | 8pcs 3D printer Nozzles | [Amazon](https://www.amazon.ca/gp/product/B0B7NL58XT/) | $7.99 |
@@ -42,8 +42,12 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | M Bolts (M3/M4/M5) | [AliExpress](https://www.aliexpress.com/item/1005003594879155.html) | $5.37 |
 | M Nuts (M3/M4/M5/M8) | [AliExpress](https://www.aliexpress.com/item/33012003529.html) | $11.43 | 
 | Steel Rods (6mm 150mm) (x2) | [AliExpress](https://www.aliexpress.com/item/32332798910.html) | $9.01 | 
-| **Subtotal** | - | **$207.66** = $46.86(Amazon) + $160.80(AliExpress) |
-| **Shipping** | - | **$73.37** = $11.60(Amazon) + $61.77(AliExpress) |
-| **Pre-Tax** | - | **$281.03** (Approx **US$205.91**) |
-| **Tax Estimate** (13%) | - | **$36.53** |
-| **Total** | - | **$317.56** (Approx **US$232.68**) |
+| **Subtotal** | - | **$220.82** = $75.14(Amazon) + $145.68(AliExpress) |
+| **Shipping** | - | **$110.35** = $19.86(Amazon) + $90.49(AliExpress) |
+| **Discounts** | - | **$31.79** = $7.28(Amazon) + $24.51(AliExpress) |
+| **Pre-Tax** | - | **$299.38** (Approx **US$221.00**) |
+| **Tax Estimate\*** (13%) | - | **$12.35** |
+| **Total** | - | **$311.73** (Approx **US$230.12**) |
+
+\* AliExpress does not charge the buyer for tax <br>
+Prices and totals might differ due to promotions, discounts, import fees/tax.
