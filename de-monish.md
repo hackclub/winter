@@ -27,7 +27,7 @@ step 4 : attaching helmet pads and we are ready!!
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials,
 including components you already own. Make sure to factor in shipping costs and sales tax.
 
-| Product         	 | Supplier/Link                                                                             | Cost   |
+| Product         	 | Supplier/Link                                                                                 | Cost   |
 | -------------------| ----------------------------------------------------------------------------------------------| ------ |
 | slide switch       | https://www.amazon.in/gp/product/B08L56VG5B/ref=ox_sc_act_title_10?smid=A1UUD7CBBVVXIG&psc=1  | $1.20  |
 | push button        | https://www.amazon.in/gp/product/B07NCZJX3M/ref=ox_sc_act_title_9?smid=A1UUD7CBBVVXIG&psc=1   | $1.08  |
@@ -43,6 +43,6 @@ including components you already own. Make sure to factor in shipping costs and 
 | 3d printer         | https://www.amazon.in/gp/product/B07GYRQVYV/ref=ox_sc_act_title_14?smid=A265UAHVFOFJA3&psc=1  | $230.14|
 | arduino nano every | https://www.amazon.in/gp/product/B07VX7MX27/ref=ox_sc_act_title_11?smid=A2PAIMNRE7S3TW&psc=1  | $56.00 |
 | emax es08MA servo  | https://www.amazon.in/gp/product/B07KYK9N1G/ref=ox_sc_act_title_12?smid=A21MK2YQ3TL19F&psc=1  | $48.57 |
-| shipping           |                                                                                               | $1.08  |
-| Total              |                                                                                               | $1.08  |
+| shipping           |                                                                                               | $1.10  |
+| Total              |                                                                                               | $415.71|
 
