@@ -43,8 +43,8 @@ What materials will you need for your project? Where will you get them? How much
 | phone|at home   | $0 |
 | tiny battery |at home   | $0 |
 | push button|at home   | $0 |
-| esp32cam board |https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/| $12.99 | free shipping  
+| esp32cam board |https://www.amazon.com/Hosyond-ESP32-CAM-Bluetooth-Development-Compatible/dp/B09TB1GJ7P/| $13.99 | free shipping  
 | resin 3d printer|https://www.amazon.com/Phrozen-Printer-Monochrome-Jewelry-Making-Miniatures/dp/B084FBNLHS| $199.00 | paid shipping
 | resin|https://www.amazon.com/ELEGOO-UV-Curing-Standard-Photopolymer-Printing/dp/B07Z986566/| $22.49 | free shipping beacuse i  have prime
-| Total           |                                       | $163.50 |
-calculated price is with shipping and import fees 233.50
+| Total           |                                       | $164.50 |
+calculated price is with shipping and import fees 234.50
