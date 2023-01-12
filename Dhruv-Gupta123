@@ -19,10 +19,15 @@ I am going to build a robot car that will have the following features-
 The above featues in the car can be switched form one to another by the remote, bluetooth, glove, a board present in the car
 ## PlAN
 
-First i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect
-the motors to the motor driver and the motor driver to arduino after that i will connect the sensors to the arduino then i will code them then i will use a glove to connect the flex sensors
- rf module, arduino, etc. and code for making the car gesture controlled and the 3d print a remote and connect the joystick module, arduino, rf module,
-switches,etc and code it.for controlling it with phone i will add a bluetooth(bt) module in it. After that i will attach the weapon
+First i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect the 
+motors to the motor driver and the motor driver to arduino after that i will connect the sensors, bluetooth module, rf module(for communicating wirelessly with 
+the glove and the remote) The car will have two arduinos as one arduino can only send and recieve signal from a single rf so as we are using 2 rf module to control
+the car with both remote and gesture so the first arduino will control the motors using glove and the second one will recieve signal from the remote and then send 
+it to the second arduino and that arduino will recieve the signal and controll the motors acording to it then i will use a glove to connect the flex sensors rf module
+(for communicating wirelessly with the car), arduino, etc. and code for making the car gesture controlled and then i will 3d print a remote and connect the joystick 
+module, arduino, rf module(for communicating wirelessly with the car) switches,etc and code it.for controlling it with phone i will add a bluetooth(bt) module 
+(for establihing bluetooth communication) in it. After that i will make the weapon using bo motors then i will attach the weapon on the car. The weapon 
+will be able to shoot 3d printed balls,etc. The balls will be hollow so that no one will be harmed from it.
 
 ## Budget
 
@@ -43,5 +48,6 @@ switches,etc and code it.for controlling it with phone i will add a bluetooth(bt
 |  LDR            | https://www.amazon.in/Photosensitive-digital-Arduino-Raspberry-projects/dp/B07CW9Q189/ref=sr_1_8?crid=24FCQ6341T8UL&keywords=ldr&qid=1673443285&sprefix=ld%2Caps%2C365&sr=8-8&th=1                                                                                                                              | $2.779  |
 |  lithium battery| https://www.amazon.in/Rechargeable-Battery-Lithium-Single-Holder/dp/B09DPWBYYK/ref=sr_1_2?crid=1YX93WZOS9EZ8&keywords=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650&qid=1673445123&refinements=p_90%3A20912642031&rnid=6741116031&sprefix=lithium%2B18650%2Brechargeable%2B3.7v%2Caps%2C211&sr=8-2&th=1 | $13.774 |
 |  battery charger| https://www.amazon.in/M-Enterprises-Lithium-Battery-Protection/dp/B01M5IGW85/ref=sr_1_10?crid=UOWDZ1ALGIZI&keywords=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charger&qid=1673447480&sprefix=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charge%2Caps%2C295&sr=8-10                       | $1.494  |
-|  pla            | https://www.amazon.in/Filament-Dimensional-Accuracy-Compatible-Printers/dp/B0BFVZXQ2P/ref=sr_1_2_sspa?crid=8P93YAS902GY&keywords=pla&qid=1673447706&sprefix=pla%2Caps%2C232&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1                                                                                    | $11.007  |
+|  pla            | https://www.amazon.in/Filament-Dimensional-Accuracy-Compatible-Printers/dp/B0BFVZXQ2P/ref=sr_1_2_sspa?crid=8P93YAS902GY&keywords=pla&qid=1673447706&sprefix=pla%2Caps%2C232&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1                                                                                    | $11.007 |
+|  3D printer     | ALready OWN
 
