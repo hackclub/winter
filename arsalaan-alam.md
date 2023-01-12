@@ -7,26 +7,45 @@ project: "AirDrop"
 AirDrop
 
 ## Summary
-AirDrop is a state-of-the-art drone delivery system that brings convenience and efficiency to the forefront. Equipped with GPS navigation, this autonomous drone has the capability to carry small packages weighing up to 50 grams for distances of up to 100 meters. The AirDrop drone features advanced ultrasonic sensing technology and a miniaturized Arduino processor, all weighing less than 10 grams, to ensure precise and safe delivery. With AirDrop, receiving packages and goods has never been easier. Whether you're a busy individual, a family or a business looking for a more streamlined delivery experience, AirDrop is the solution you need.
+Since my childhood I've always tried to make things fly. From building paper planes to flying kites, I love everything that flies. I remember how I used to expirement with different kinds of paper and shapes to make paper planes, or attaching tails with messages on my kite and then flying it. I've built mulitple low cost drones before but NONE have ever worked :(, So I'm really excited to make one now. With the help of the grant, I'd buy proper materials and build a powerful hexacopter. I've written a professional description of my project in the next paragraph. 
+
+
+I'm building AirDrop, which would be a state-of-the-art drone delivery system that brings convenience and efficiency to the forefront. This autonomous hexacopter has the capability to carry small packages weighing up to 300 grams for distances of up to 1 kilo metre. The AirDrop drone features advanced ultrasonic sensing technology and contains anArduino, all weighing less than 10 grams, which ensure precise and safe delivery. With AirDrop, receiving packages and goods has never been easier. Whether you're a busy individual, a family or a business looking for a more streamlined delivery experience, AirDrop is the solution you need.
 
 ## Plan
 
-1. Research and purchase a high-quality, programmable drone with a stable PCB and 2.4 GHz remote control. This drone should have enough capacity to support additional components such as a GPS module.
-2. Obtain a 3D-printed cube with an open top, measuring 5x5x5 cm. This cube should be made out of a durable material such as metal or plastic.
-3. Modify the drone by attaching the 3D-printed cube to its top. The cube could also be hung down from the bottom of the drone, depending on the design and overall weight distribution.
-4. Integrate an ultrasonic sensor and a nano Arduino (combined weight under 10 grams) into the drone. The ultrasonic sensor will be used for obstacle detection and avoidance, while the nano Arduino will serve as the controller for the sensor.
-5. Overwrite the drone's original firmware with custom software that enables semi-automatic operation, such as obstacle detection and avoidance, as well as GPS navigation. Make sure to do all necessary testing to ensure the drone is able to fly safely and effectively
-6. Repeat step 5 to integrate a communication system between the drone and the remote control, to allow you to monitor the delivery progress and if necessary give manual commands
+1. Assemble the following components to form a hexacopter 
+   *1 x Ardupilot APM 2.8 Flight Control Board
+   *1 x DJI F550 Hexacopter Frame Kit
+   *6 x A2212 1000KV Brushless Motor For RC Airplane / Quadcopter
+   *6 x 30A Brushless ESC
+   *3 x 1045 Propeller 10in 10x4.5 For Drone
+   *1 x Flysky FS-i6 2.4G 10CH TX-RX
+   *1 x APM Pixhawk Power Module with XT60
+   *1 x Nylon Strap Belt for RC Lipo Battery
+   *1 x 3D printed Shock Absorber Anti-vibration Set for APM Pixhawk
+
+   
+2. Attach the camera gimball and insert the drone camera.
+3. Obtain a 3D-printed cube with an open top, measuring 10X10X10 cm. 
+4. The cube would be hung down from the bottom of the drone, depending on the design and overall weight distribution.
+5. Integrate a light LiDAR ToF (time of flighet) sensor  and an Arduino (combined weight under 30grams) into the drone. The ToF sensor will be used for obstacle detection and avoidance, while the nano Arduino will serve as the controller for the sensor.
+6. Modify the drone's original codebase with custom code that enables semi-automatic operation, such as obstacle detection and avoidance. Then I will do all necessary testing to ensure the drone is able to fly safely and effectively
+7. Repeat step 5 to integrate a communication system between the drone and the remote control, to allow you to monitor the delivery progress and if necessary give manual commands (connect transmitter and receiver
 
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Programmable drone (With GPS & 2.4 GHZ remote & 200 grams)  | https://www.amazon.in/Foldable-Beginners-Quadcopter-Gesture-Transmission/dp/B0BRFRHZQQ/ref=sr_1_1_sspa?crid=3Q00WOSI3Z7LJ&keywords=gps+drone&qid=1673355787&sprefix=gps+dro%2Caps%2C280&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 | $183.39  |
-| Nano Arduino | https://www.amazon.in/Arduino-A000062-Due-Microcontroller-Board/dp/B00A6C3JN2/ref=sr_1_13?crid=1GQGQZ1EZ4NWI&keywords=nano+arduino&qid=1673355374&sprefix=nano+arduin%2Caps%2C278&sr=8-13  | $37.91 |
-| Soldering kit | https://www.amazon.in/Walkers-Complete-Soldering-Machine-Multimeter/dp/B09GLVLV3H/ref=sr_1_7?crid=1YMNP828AO47P&keywords=soldering+set&qid=1673355539&sprefix=soldering+se%2Caps%2C244&sr=8-7#customerReviews  | $8.77 |
-| Light TOF sensor | https://www.amazon.in/VL53L0X-Flight-Breakout-GY-VL53L0XV2-Distance/dp/B08F7T4GYB/ref=sr_1_2?crid=2ZWRQHJXOSVC0&keywords=tof+sensor&qid=1673355505&sprefix=tof+sens%2Caps%2C288&sr=8-2  | $3.06 |
-| 3-D Printing          | Most Probably will be free          | $0|
-| Total           |                                       | $232|
+| Hexacopter Drone Kit | https://www.flyrobo.in/hexacopter-drone-combo-with-apm | Rs 21,000 |
+| Drone Gimbal  | https://www.flyrobo.in/2-axis-brushless-drone-camera-gimbal-with-controller| Rs 4200 |
+| Lipo Battery 11.1v 5500 mah | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c | Rs 4000 |
+| B6AC Lipo Charger |https://www.flyrobo.in/imax_b6-ac_b6ac_lipo_nimh_3s_rc | Rs 2800 |
+|Procus Viper Action Camera| https://www.amazon.in/Procus-Viper-Action-Camera-Waterproof/dp/B07X25MNXF/ref=sr_1_1_sspa?crid=88TO5028MELQ&keywords=action%2Bcamera%2Bfor%2Bdrone&qid=1673522451&sprefix=action%2Bcamera%2Bfor%2Bdrone%2Caps%2C270&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1 | Rs 5200|
+| Noel 25W 230V Soldering Iron & 0.1 mm copper |https://www.flyrobo.in/solder-iron-25w-yellow ,
+https://www.flyrobo.in/0.1mm-copper-soldering-solder-ppa-enameled-wire | Rs 300 |
+| Arduino Uno | https://www.flyrobo.in/index.php?route=product/product&product_id=3 | Rs 711|
+| Laser ToF sensor | https://www.flyrobo.in/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module | Rs 800 |
+| Shipping Charges |          | Rs 800 |
+| Total |           | Rs 4000 or $493 |
