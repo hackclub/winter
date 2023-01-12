@@ -3,7 +3,7 @@ name: "@Arsalaan-Alam"
 project: "AirDrop"
 ---
 
-# Project Name
+# AirDrop
 AirDrop
 
 ## Summary
