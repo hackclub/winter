@@ -3,7 +3,7 @@ name: ["@TechTurtel", "@addu2468"]
 project: "3D Printed Kinetic & Digital Clock"
 ---
 
-# Project Name
+# 3D Printed Kinetic & Digital Clock
 
 ## Summary
 
