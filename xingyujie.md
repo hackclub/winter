@@ -31,4 +31,6 @@ Through this project, I will learn more about hardware and software. It's a very
 | SanDisk 64GB TF | https://item.m.jd.com/product/1887526.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $5.12 |
 | Dupont wire     | already own 
 | LED lights      | already own
+| voltage converter | already owm
+| shipping and taxes|                                     | $0.00 |
 | Total           |                                       | $249.34 |
