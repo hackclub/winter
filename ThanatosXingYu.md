@@ -22,7 +22,7 @@ At the same time, its own 3.5" screen will also display the current status, such
 
 ## Plan
 ### STEP 1
-Apply for some apis, such as Chat-GPT, weather, or stocks
+Test for apis, such as Chat-GPT, weather, or stocks
 
 ### STEP 2
 Find the right place, connect the raspberry pie to the TV, and connect it to a stable power supply
@@ -50,6 +50,7 @@ Assemble All!
 | 40" TV display | Already Own | $0 |
 |Laptop | Already Own | $0 |
 | Dupont Line | Already Own | $0 |
+| All Apis | Already Own | $0 |
 | Shipping | FREE | $0|
 | Tax | FREE | $0 |
 | Total | | $248.28 |
