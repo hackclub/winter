@@ -19,7 +19,7 @@ This project is inspired by [Tom Stanton's designs](https://youtube.com/playlist
 2. Buy all parts on list
 3. CAD brackets for, esc, motor, and tensioner
 4. CAD large pulley for back wheel
-5. 3D print parts - pulley will be printed in two parts and attached with epoxy and alignment grooves
+5. 3D print parts - pulley will be printed in two parts and attached with epoxy and alignment grooves - 3D printer nozzle will need to be changed first
 6. Assemble motor to bracket and bracket to back left of bike frame or rear rack - depends on frame interference
 7. Assemble pulley to left of rear wheel spokes with high strength zip ties
 8. Assemble tensioner roller with bearings and 7/8 ID tube and put on rear left of bike frame
