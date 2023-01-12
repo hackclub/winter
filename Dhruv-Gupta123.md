@@ -31,9 +31,8 @@ will be able to shoot 3d printed balls,etc. The balls will be hollow so that no 
 
 ## Budget
 
-
 | Product         | Supplier/Link                                                                                                                                                                                                                                                                                                   | Cost    |
-| --------------- | -------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 |  flex sensorX5  | https://www.amazon.in/Robodo-Electronics-FSENS-Sensor-Inches/dp/B00QV9Q1SE/ref=sr_1_2?crid=ZTNQ6GY8QB2B&keywords=flex+sensor+adafruit&qid=1673439517&sprefix=flex+sensor+adafrui%2Caps%2C231&sr=8-2                                                                                                             | $30.615 |
 |  Arduino UNOX4  | https://www.amazon.in/Arduino-Uno-ATmega328P-USB-Cable/dp/B01LCN8IRK/ref=sr_1_10?crid=S5XCRDJXAYUS&keywords=arduino&qid=1673440090&sprefix=arduino%2Caps%2C221&sr=8-10                                                                                                                                          | $54.372 |
 |  l293d driver   | https://www.amazon.in/xcluma-Driver-Shield-Arduino-Others/dp/B071S9W3HS/ref=sr_1_14?crid=1Z98VUPW1U7IK&keywords=l293d+motor+shield&qid=1673441003&sprefix=l293d+%2Caps%2C306&sr=8-14                                                                                                                            | $3.062  |
@@ -49,5 +48,4 @@ will be able to shoot 3d printed balls,etc. The balls will be hollow so that no 
 |  lithium battery| https://www.amazon.in/Rechargeable-Battery-Lithium-Single-Holder/dp/B09DPWBYYK/ref=sr_1_2?crid=1YX93WZOS9EZ8&keywords=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650&qid=1673445123&refinements=p_90%3A20912642031&rnid=6741116031&sprefix=lithium%2B18650%2Brechargeable%2B3.7v%2Caps%2C211&sr=8-2&th=1 | $13.774 |
 |  battery charger| https://www.amazon.in/M-Enterprises-Lithium-Battery-Protection/dp/B01M5IGW85/ref=sr_1_10?crid=UOWDZ1ALGIZI&keywords=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charger&qid=1673447480&sprefix=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charge%2Caps%2C295&sr=8-10                       | $1.494  |
 |  pla            | https://www.amazon.in/Filament-Dimensional-Accuracy-Compatible-Printers/dp/B0BFVZXQ2P/ref=sr_1_2_sspa?crid=8P93YAS902GY&keywords=pla&qid=1673447706&sprefix=pla%2Caps%2C232&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1                                                                                    | $11.007 |
-|  3D printer     | ALready OWN
-
+|  3D printer     | ALready OWN | |
