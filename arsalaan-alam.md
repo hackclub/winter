@@ -45,8 +45,7 @@ What materials will you need for your project? Where will you get them? How much
 | Lipo Battery 11.1v 5500 mah | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c | Rs 4000 |
 | B6AC Lipo Charger |https://www.flyrobo.in/imax_b6-ac_b6ac_lipo_nimh_3s_rc | Rs 2800 |
 |Procus Viper Action Camera| https://www.amazon.in/Procus-Viper-Action-Camera-Waterproof/dp/B07X25MNXF/ref=sr_1_1_sspa?crid=88TO5028MELQ&keywords=action%2Bcamera%2Bfor%2Bdrone&qid=1673522451&sprefix=action%2Bcamera%2Bfor%2Bdrone%2Caps%2C270&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1 | Rs 5200|
-| Noel 25W 230V Soldering Iron & 0.1 mm copper |https://www.flyrobo.in/solder-iron-25w-yellow ,
-https://www.flyrobo.in/0.1mm-copper-soldering-solder-ppa-enameled-wire | Rs 300 |
+| Noel 25W 230V Soldering Iron & 0.1 mm copper |https://www.flyrobo.in/solder-iron-25w-yellow ,| Rs 300 |
 | Arduino Uno | https://www.flyrobo.in/index.php?route=product/product&product_id=3 | Rs 711|
 | Laser ToF sensor | https://www.flyrobo.in/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module | Rs 800 |
 | Shipping Charges |          | Rs 800 |
