@@ -25,3 +25,7 @@ What materials will you need for your project? Where will you get them? How much
 | Monitor         | https://www.amazon.es/dp/B09J165FJ6   | $108,48|
 | DAKboard CPU v3 | https://shop.dakboard.com/collections/dakboard-cpu/products/dakboard-cpu-v3  | $119.95 |
 | Total           |                                       | $228.43 |
+
+*Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
+
+
