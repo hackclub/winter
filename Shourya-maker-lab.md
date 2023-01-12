@@ -7,9 +7,8 @@ project: "Jungle Shoot"
 
 ## Summary
 
-We are going to build a rover that can help us get picture of wild-life in dense woods near our place we really like wildlife observation.
-We are excited about this project as we will learn new tech and real life hardware skills. This will also help us to motivate other people in our 
-localty to see the real beauty of the nature and in campings to protect the wildlife.
+We are going to build a rover that can help us get a picture of wild-life in dense woods near our place. We really like wildlife observation. We are excited about this project as we will learn new tech and real life hardware skills. This will also help us to motivate other people in our locality to see the real beauty of nature and in campaigns to protect the wildlife.
+
 
 
 ## Plan
