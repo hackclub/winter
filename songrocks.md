@@ -17,19 +17,11 @@ I am building this project with my friend @unblinding
 I have experience working with 3d printers and soldering, and is greatly excited to help out with the project. I'm focused on teaching David the basics of 3d printing and improving the quality of my skills along the way. 
 
 ## Plan
-
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
-
 We'll be following this youtube guide: https://www.youtube.com/watch?v=CfirQC99xPc&t=278s, but rather than working with a plywood design, we will be creating our own display and control board housing using blender. We want to use USB-C to power the display, which includes the use of a USB-C power board where soldering will be required. We'll power this display, with a powerbank, which should give it its portability. Our first iteration will try to have the display stand on its own. If that suceeds, while try our hands at attatching the screen to a display of a laptop, where it can fold out. 
 
  
 
 ## Budget
-
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
-
-
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen
