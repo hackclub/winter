@@ -63,7 +63,7 @@ will use the following:
 - 1 DHT22 : Sensor for humidity and temperature 
 - 1 x | HC-SR04-Ultrasonic Range Finder |: Ultrasonic sensor for the level of the watertank (
 - Some “Dupont” wires x | 	Female to Female DuPont Line 40 Pin 30cm |- to connect the components together
-- 1 x |37-1K - Resistance:1kohm |- will be conne cted in the module for resistenc.
+- 1 x |37-10K - Resistance:10kohm |- will be conne cted in the module for resistenc.
  
 
 3) Module Light:Lighting management-This module allows you to control as many lights as you want. There are two types of control : ON/OFF with a relay or a PWM to dim the brightness between 0 and 100%.
