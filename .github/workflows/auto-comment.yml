@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: wow-actions/auto-comment@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           pullRequestOpened: |
             👋 @{{ author }}
             Thank you for opening a pull request and submitting your project. We’re back on Tuesday (1/17) and will start reviewing PRs in the order that they came in. If you submitted your PR before Jan 15 11:59pm ET, we will review your PR. Thank you for your patience and we can't wait to build with you :)
