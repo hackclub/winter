@@ -1,5 +1,5 @@
 ---
-name: ["@DanielQeli", "@mjao1", "Cameron-Dongal"]
+name: ["@DanielQeli", "@mjao1", "@Cameron-Dongal"]
 project: "Non Invasive eBike Conversion"
 ---
 
