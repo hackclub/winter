@@ -1,9 +1,9 @@
 ---
 name: "@sanjus-robotic-studio"
-project: "Autonomous Self Driving CyberTruck Tesla"
+project: "Autonomous Self Driving Tesla CyberTruck "
 ---
 
-# Autonomous Self Driving CyberTruck Tesla
+# Autonomous Self Driving Tesla CyberTruck 
 
 ## Summary
 
