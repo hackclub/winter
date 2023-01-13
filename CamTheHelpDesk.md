@@ -23,6 +23,8 @@ On top of all of that, having a laser cutter would support future ideas and inno
 
 **An important clarification:** I understand your stipulation that these projects should be technically challenging, and you may be having reservations after noticing that the hardware is all kit-based. However, as you'll see below, the coding/software development is quite extensive, and I already ran this by Ella Xu over email and she said it qualifies!
 
+**An update on why I want the laser cutter:** A majority of the project certainly is setting up the connectivity features for the business cards, but I've seen a few laser cut business cards before (minus the connectivity features), and they're really unique and memorable so that certainly is a priority. While I could, in theory, simply print the cards, I also see this as a fantastic opportunity to learn digifab software, hardware, and techniques. In addition, I've been eyeballing a few other projects, such as a wooden globe as a gift for a teacher I've had for most of my life, a custom stand to integrate my dock for my laptop, a laser pointer projector with some motors and mirrors, wooden mechanical sculptures, along with other miscellaneous art projects created to further my learning.
+
 ## Plan
 
 - Obtain and set up all of the purchased equipment
