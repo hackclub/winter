@@ -1,21 +1,21 @@
 ---
 name: "@kaiz715"
-project: "Super Accurate Electronic Scale"
+project: "Super Accurate Waterproof Electronic Scale"
 ---
 
-# Super Accurate Electronic Scale
+# Super Accurate Waterproof Electronic Scale
 
 ## Summary
 
-I am planning on building an electronic scale that can read up to 0.01 grams accuracy. I was inspired to do this because my kitchen scale broke, and I was wondering how electronic scales measured weight. By doing this, I can create a functional scale to replace the broken one I have while expanding my knowledge on electrical engineering and CS, which I plan on majoring in when I go to college.
+I am planning on building an electronic scale that can read up to 0.01 grams accuracy. I was inspired to do this because my kitchen scale broke from water damage, and I was wondering how electronic scales measured weight. By doing this, I can create a functional scale to replace the broken one I have while expanding my knowledge on electrical engineering and CS, which I plan on majoring in when I go to college.
 
 ## Plan
 
-First, I'll use the breadboard and wires to hook up the resistor, and load cell in a voltage divider. This allows me to read the voltage across the load cell using the adc, which will correspond to the force (weight) that is being applied on the load cell.
+First, I'll use the breadboard and wires to hook up the resistor, and load cell in a voltage divider. This allows me to read the voltage across the load cell using the adc, which will correspond to the force (weight) that is being applied on the load cell. For the load cell to function correctly, I will 3d print a precise platform to adjust for uncentered weights. This part needs to be precise, hence the need for a resin 3d printer as opposed to using a traditional FDM printer. 
 
 Second, I will calibrate the scale using standardized masses and hook up the arduino and code in the calibration equation to convert the voltage to a weight. I will also code a user interface which allows the calculated weight to be displayed on a computer.
 
-Third, I will 3d print an enclosure to put the breadboard, arudino, and all the other materials into to make it look nice and finish the project.
+Third, I will 3d print an enclosure to put the breadboard, arudino, and all the other materials into to make it look actually like a scale and finish the project. I hope to make this scale also waterproof, which is possible because the resin enclosure should be waterproof due to the resin printing process.
 
 ## Budget
 
