@@ -40,6 +40,7 @@ Ok, that was a lot of words and probably not the clearest wall of text but below
 	- Will utilize AMD's ROCm to utilize the GPU for processing for faster response times.
 - Wireless Carbon Monoxide, Smoke, and Gas Alarm
 	- Wirelessly connected through either an Arduino or a Raspberry Pi 4b (we have both but can't decide yet which one to use)
+		- The Particle Photon is to turn the alarm into an IOT device.
 	- Will leverage the connected Bluetooth speakers to sound an alarm
 	- Will also send a text alarm whenever it is trigerred.
 - Android TV support
@@ -61,5 +62,5 @@ Ok, that was a lot of words and probably not the clearest wall of text but below
 | Case|Owned|Owned|
 | 750w Power Supply|Owned|Owned|
 | Taxes      |                                       | $75.3|
-| Shipping | $9.45|
+| Shipping | | $9.45|
 |Total           |                                       | $1,012.09|
