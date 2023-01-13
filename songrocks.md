@@ -9,6 +9,7 @@ DIY Portable Monitor
 
 ## Summary
 **@songrocks:** - David
+
 I'm building a portable monitor that you can use with your laptop. It's a DIY project that I'm excited to tackle. I've always been curious about how displays work and I finally decided to take the plunge and build one from scratch. It'll give me an extra screen to use anywhere and make multitasking easier. I'm looking forward to the challenge of building it and the learning experience that comes with it. The added screen will increase productivity and make multitasking easier, it also gives you the flexibility to work and move around, you could take it to a library, classroom or even while traveling. I am building this project with my  [@unblinding](https://github.com/unblinding).  -David
 
 **@unblinding** - Andrew
