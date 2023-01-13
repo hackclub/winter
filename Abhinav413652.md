@@ -11,7 +11,7 @@ Project Desktop Computer with DIY Monitor
 
 Me and my sister are going to build our first ever pc along with DIY Monitor. Building a PC will be a valuable learning experience that will teach us about computer hardware and software, as well as problem-solving and troubleshooting skills. We will learn about the different components that make up a computer, such as the processor, motherboard, memory, and storage, and how they work together to run a computer. We will also learn about different operating systems and how to install and configure them, as well as how to install and update software. In building a monitor, we will learn about the various electronic components that are used in a monitor, such as the display panel, circuit board, and power supply.. Overall, building a PC and a monitor will give us a solid understanding of the various hardware components that make up a computer and how they work together to run a system. And it will also be a fun and educational experience.
 
-It is a team of two, me and my sister.
+It is a team of two, me and my sister. A Huge Thanks!! to hackclub for providing this opportunity.
 
 ## Plan
 
@@ -53,6 +53,8 @@ THE DIY MONITOR:
         3. Manage the cables of the monitor.
         4. All Done!! We will check if it is working.
         
+By following the steps we will successfully build a DIY Monitor.
+
 To complete this project in exactly 10 days :
     Day 1: Gather the tools required to build the monitor and the PC.
     Day 2: We will check if we have every components including tools.
