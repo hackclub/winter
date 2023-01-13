@@ -36,8 +36,9 @@ Features that I will be making:
 | WIfi LED bulb       | https://amzn.eu/d/hj7LCNl             | $9.72  |
 | Robotics kit PI     | https://amzn.eu/d/5qkD6j4             | $35.72 |
 | LED Strips          | https://amzn.eu/d/4psSm6O             | $29.17 |
+| Raspberry PI Pico   | https://amzn.eu/d/f5pxZ7Y             | $10.17 |
 | LCD Display         | https://amzn.eu/d/fCHksqU             | $30.37 |
-| Total               |                                       | $277.55|
+| Total               |                                       | $287.55|
 
 ## All prices are converted from INR TO USD
 
