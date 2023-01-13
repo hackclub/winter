@@ -34,10 +34,10 @@ Features that I will be making:
 | Raspberry Pi 4      | https://amzn.eu/d/0p12Hmk             | $168.95|
 | Ultra sonic sensors | https://amzn.eu/d/3Vz6ldi             | $3.62  |
 | WIfi LED bulb       | https://amzn.eu/d/hj7LCNl             | $9.72  |
-| Robotics kit        | https://amzn.eu/d/12N9aFO             | $30.72 |
+| Robotics kit PI     | https://amzn.eu/d/5qkD6j4             | $35.72 |
 | LED Strips          | https://amzn.eu/d/4psSm6O             | $29.17 |
 | LCD Display         | https://amzn.eu/d/fCHksqU             | $30.37 |
-| Total               |                                       | $272.55|
+| Total               |                                       | $277.55|
 
 ## All prices are converted from INR TO USD
 
