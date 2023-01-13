@@ -7,17 +7,16 @@ project: "simplo-vr"
 
 ## Summary
 
-Simplo VR is a cheap virtual reality headset with 6-dof and hand tracking with support for steamvr. made for the community by the community, simplo is the easiest way to enter in the virtual reality worlds without paying a fortune...
+Simplo VR is a cheap virtual reality headset with 6-dof and support for steamvr. made for the community by the community, simplo is the easiest way to enter in the virtual reality worlds without paying a fortune...
 
 Fully open-source and customizable, made to be refined and improved.
 
 ## Plan
 
 Simplo is gonna be roadmaped based on "modules". which is basically the functions necessary till it gets ready.
-- chasis - the basic process of building a pretty simple frame just to support the screen and cameras. gonna make it from cardboard or popsticks at first but when i finally make a final design i'm gonna 3d print it.
+- chasis - the basic process of building a pretty simple frame just to support the screen. gonna make it from cardboard or popsticks at first but when i finally make a final design i'm gonna 3d print it.
 - 6-dof -  Code the accelerometer/gyroscope in a arduino and the webcam app to full-body tracking and positioning the headset to make the headset go 6-dof.
 - steamvr - Code the main thing. A communication with steam to transfer the headset information to the game. gonna try to offer support for all games but i don't promise it lol.
-- hand-tracking - Finally, code the hand tracking thing using computer vision and cameras, which is supposed to be a replacement for the controllers. using gestures instead of buttons.
 - Simplo-software/website - code the website to present the project to the world and the software for configuration, calibration, setup, etc...
 - Finishing - gonna make the new frame (probably 3D printed), make the code more readable, etc...
 
@@ -30,12 +29,16 @@ Simplo is developed based on other open-source vr headsets out there. Here are s
 
 ## Budget
 
+## Headset
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 1x Arduino Micro | https://store-usa.arduino.cc/products/arduino-micro | $38.61 |
-| 1x Acelerometer and gyroscope mpu6050 | https://www.ebay.com/itm/295005468005?chn=ps&mkevt=1&mkcid=28&srsltid=AeTuncrx8Nd6PKD56swU6q1U-7z0kxZe6F_kvLrvcyVwZBaKHMdjDY9cypM | $0.99 |
-| 1x 5-inch Raspberry Pi LCD Screen with HDMI interface | https://www.crowpi.cc/products/rr050-5-inch-raspberry-pi-screen-touchscreen-monitor-tft-display-for-raspberry-pi-4b-3b-3b-2b-bb-black-banana-pi-windows-10-8-7?variant=39701621014661&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AeTuncr8B4F9Q7yh7FjVHqnMsxJRtYMvFLyGgjXL76QPDOjYqyzIV27kEU8 | $53.10 |
-| 4x Arduino camera module | https://tinkersphere.com/arduino-compatible-components/944-ov7670-vga-camera-module-for-arduino.html | $44.95 |
+| 1x Arduino Micro | https://store-usa.arduino.cc/products/arduino-micro | $38.51 |
+| 1x mpu9250 | https://pt.aliexpress.com/item/1005004439490641.html?pdp_npi=2%40dis%21BRL%21R%24%2040%2C57%21R%24%2038%2C94%21%21%21%21%21%402101d1b616734837560467175eee53%2112000029185573027%21btf&_t=pvid%3A3bc2cc48-d54b-4dd2-8a53-a41f212935b8&afTraceInfo=1005004439490641__pc__pcBridgePPC__xxxxxx__1673483756&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra | $11.29 |
+| 2x Fresnel-lens | https://pt.aliexpress.com/item/33029909783.html?gatewayAdapt=glo2bra | $8.46 |
+| 1x HDMI VR Display | https://pt.aliexpress.com/item/32981354673.html?gatewayAdapt=glo2bra | $30.35 |
+| 4x Arduino camera module | https://tinkersphere.com/arduino-compatible-components/944-ov7670-vga-camera-module-for-arduino.html | $50.65 |
+| 3D Print | gonna made it using jlcpcb | $32.67 |
 | 5x Led | gonna buy, close here :) | $2.00 |
 | Jumper wires | gonna buy, close here :) | $7.00 |
 | Total | Changed a lot of itens cause everything is way expansive where i live | $146.65 |
