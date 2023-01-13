@@ -43,6 +43,8 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 ## Budget
 
+What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
@@ -69,10 +71,7 @@ Ask in `#hardware-party` on Slack if you have any questions!
 - 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
 - [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
 
-or check out these example projects for inspiration:
-
-- [Desk Lights](/docs/examples/led-lights.md)
-- [Mechanical Keyboard](/docs/examples/mechanical-keyboard.md)
+or check out these example [Desk Lights](/docs/examples/led-lights.md) for inspiration!
 
 ## 💰 What happens after your project is approved?
 
