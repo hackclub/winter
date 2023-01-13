@@ -8,12 +8,12 @@ project: "DIY Portable Monitor"
 DIY Portable Monitor
 
 ## Summary
-@songrocks - David
-I'm building a portable monitor that you can use with your laptop. It's a DIY project that I'm excited to tackle. I've always been curious about how displays work and I finally decided to take the plunge and build one from scratch. It'll give me an extra screen to use anywhere and make multitasking easier. I'm looking forward to the challenge of building it and the learning experience that comes with it. The added screen will increase productivity and make multitasking easier, it also gives you the flexibility to work and move around, you could take it to a library, classroom or even while traveling. I am building this project with my  [@unblinding](https://github.com/unblinding).
+**@songrocks:**
+I'm building a portable monitor that you can use with your laptop. It's a DIY project that I'm excited to tackle. I've always been curious about how displays work and I finally decided to take the plunge and build one from scratch. It'll give me an extra screen to use anywhere and make multitasking easier. I'm looking forward to the challenge of building it and the learning experience that comes with it. The added screen will increase productivity and make multitasking easier, it also gives you the flexibility to work and move around, you could take it to a library, classroom or even while traveling. I am building this project with my  [@unblinding](https://github.com/unblinding).  -David
 
-@unblinding - Andrew
+**@unblinding**
 
-I've always complained about wishing to have multiple screens while studying at the local Starbucks. Slicing the display into multiple windows leaves little screen real estate for work to be done well. I hope to work together with this project I'm really curiosu how this turns out. I have experience working with 3d printers and soldering, and is greatly excited to help out with the project. I'm focused on teaching David the basics of 3d printing and improving the quality of my skills along the way. I am building this project with my  [@songrocks](https://github.com/songrocks).
+I've always complained about wishing to have multiple screens while studying at the local Starbucks. Slicing the display into multiple windows leaves little screen real estate for work to be done well. I hope to work together with this project I'm really curiosu how this turns out. I have experience working with 3d printers and soldering, and is greatly excited to help out with the project. I'm focused on teaching David the basics of 3d printing and improving the quality of my skills along the way. I am building this project with my  [@songrocks](https://github.com/songrocks).  -Andrew
 
 ## Plan
 We'll be following this youtube guide: https://www.youtube.com/watch?v=CfirQC99xPc&t=278s, but rather than working with a plywood design, we will be creating our own display and control board housing using blender. We want to use USB-C to power the display, which includes the use of a USB-C power board where soldering will be required. We'll power this display, with a powerbank, which should give it its portability. Our first iteration will try to have the display stand on its own. If that suceeds, while try our hands at attatching the screen to a display of a laptop, where it can fold out. 
