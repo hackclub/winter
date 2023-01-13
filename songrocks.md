@@ -31,6 +31,8 @@ We'll be following this youtube guide: https://www.youtube.com/watch?v=CfirQC99x
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
+
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen
@@ -44,4 +46,5 @@ What materials will you need for your project? Where will you get them? How much
 |Flex Super Glue Gel, Clear, 20 Gram Bottle | shorturl.at/bnBES | $7.99 |
 | Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function | shorturl.at/enrx3 | $219 | 
 | Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch | shorturl.at/kqF29 | $59.99 | 
-| Total           |                                       | $485.15 |
+|Tax and Shipping |                                       | $20.00  |
+| Total           |                                       | $505.15 |
