@@ -15,7 +15,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 1. Buy all required items listed in the budget. I already own most of the items needed for this project (connectors, many other arduino components. 
 2. Connect the Prototyping Board to the Flipper Zero using the GPIO ports
 3. Connect a distance sensor (already own) to the flipper and once the sensor's distance from the door jam & the door changes by 1cm, it will trigger the send signal
-4. Design and flash a custom software to the flipper to trigger a 500 MHz signal to be sent via an ` connected to the flipper (already own)
+4. Design and flash a custom software to the flipper to trigger a 500 MHz signal to be sent via an antenna connected to the flipper (already own)
 5. Configure the arduino uno (already own) to recieve this signal sent by the flipper via an antenna.
 6. Set up the software on the arduino to run a program sending a request to the twilio API to send an SMS message to my phone saying "Front door opened at: TIME"
 
