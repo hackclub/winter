@@ -24,8 +24,7 @@ We'll be following this youtube guide: https://www.youtube.com/watch?v=CfirQC99x
 ## Budget
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen
-| shorturl.at/DMUW3 | $169.00 |
+| 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen| shorturl.at/DMUW3 | $169.00 |
 | YIHUA 926 III 60W LED Display Soldering Iron Station Kit w 2 Helping Hands, 6 Extra Iron Tips, Roll of Lead-Free Solder, Solder Sucker, S/S Tweezers, °C/ºF Conversion, Auto Sleep & Calibration Support | shorturl.at/fLMP0 | $39.99 |
 |QC3.0 Type USB-C Lithium Li-ion 18650 Battery Quick Charging Board | shorturl.at/gILV1 | $4.96 |
 | 8 Pack Basswood Sheets 1/8 Plywood Sheet for Circuit Maker Craft Wood Burning 6” | shorturl.at/kowMW |$10.99 |
