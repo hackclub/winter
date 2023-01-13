@@ -1,5 +1,5 @@
 ---
-name: "@Arsalaan-Alam"
+name: ["@Arsalaan-Alam", "@farhanalam25"]
 project: "AirDrop"
 ---
 
