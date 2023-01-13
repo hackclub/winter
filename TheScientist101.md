@@ -3,7 +3,7 @@ name: "@TheScientist101"
 project: "Smart RC Car With AI Camera"
 ---
 
-# Project Name
+# Smart RC Car With AI Camera
 
 ## Summary
 
