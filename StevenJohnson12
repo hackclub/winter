@@ -15,7 +15,7 @@ What steps are you going to take to build it? What tools are you going to use? W
 1. Buy all required items listed in the budget. I already own most of the items needed for this project (connectors, many other arduino components. 
 2. Connect the Prototyping Board to the Flipper Zero using the GPIO ports
 3. Connect a distance sensor (already own) to the flipper and once the sensor's distance from the door jam & the door changes by 1cm, it will trigger the send signal
-4. Design and flash a custom software to the flipper to trigger a 500 MHz signal to be sent via an antenna connected to the flipper (already own)
+4. Design and flash a custom software to the flipper to trigger a 500 MHz signal to be sent via an ` connected to the flipper (already own)
 5. Configure the arduino uno (already own) to recieve this signal sent by the flipper via an antenna.
 6. Set up the software on the arduino to run a program sending a request to the twilio API to send an SMS message to my phone saying "Front door opened at: TIME"
 
@@ -29,9 +29,9 @@ What materials will you need for your project? Where will you get them? How much
 | WIFI Dev Board | https://shop.flipperzero.one/products/wifi-devboard  | $29.00  + $3.60 shipping cost & $1.84 in taxes |
 | Prototyping Boards   | https://shop.flipperzero.one/products/proto-boards | $10.00 + $4.10 shipping cost & $0.60 in taxes |
 | Arduino Uno   | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us | $0.00 (Already Own)  |
-| Cables   | ALREADY OWN | $0.00  |
-| Distance Sensor   | ALREADY OWN | $0.00  |
-| 2x Antenna Reciever/Transmitter   | ALREADY OWN | $0.00  |
+| Cables/Connectors   | ALREADY OWN | $0.00  |
+| HC-SR04 Distance Sensor   | ALREADY OWN | $0.00  |
+| 2x Antenna SX1278 LoRa Radio Wireless Transmitter/Receiver   | ALREADY OWN | $0.00  |
 | Soldering Equipment   | ALREADY OWN | $0.00  |
 | Twilio Subscription   | ALREADY OWN | $0.00  |
 
