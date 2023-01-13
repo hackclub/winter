@@ -26,7 +26,6 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | AA Batteries | https://www.adafruit.com/product/3349 | $2.95 |
 | Jumper Wire | https://www.adafruit.com/product/1956 | $1.95 |
 | Jumper Wire Extender | https://www.adafruit.com/product/1954 | $1.95 |
-| Breadboard | https://www.adafruit.com/product/64 | $4.95 |
 | Shield Stacking Headers | https://www.adafruit.com/product/85 | $1.95 |
 | Small Screwdriver For Electronics | https://www.adafruit.com/product/3284 | $1.50 |
 | Bump Absorber For Electronics | https://www.adafruit.com/product/550 | $0.95 |
