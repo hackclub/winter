@@ -1,5 +1,5 @@
 ---
-name: ["@jmuku", "@sohamdagoat"]
+name: ["@jmuku", "@zhingzhangzhung"]
 project: "Holographic Virtual assistant, Smart monitor"
 ---
 
@@ -32,8 +32,6 @@ thank you sm for giving us this opportunity!
 8) Package the Raspberry Pi, transparent display, and holographic pyramid into a suitable housing. This could be a custom-made enclosure or an off-the-shelf case with modifications.
 
 this tutorial: https://maria.awardwinninghuman.com/
-Soham's already got a jbl speaker with built in mic, so he doesn't need the
-pi speakers
 Screen for holographic included in the kit linked under products 
 we plan on modifying the 3d print
 files in fusion 360. We have a 3d printer available.
