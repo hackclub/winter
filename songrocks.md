@@ -42,8 +42,6 @@ What materials will you need for your project? Where will you get them? How much
 | 270Pcs M2 3-25mm Male to Female Brass PCB Standoff Screw Nut Assortment Kit Set | shorturl.at/juTW5 | $7.36 |  
 | CRAFTSMAN Hand Saw, 12-Inch Hacksaw (CMHT20138) | shorturl.at/aclI5 | $19.98 |
 |Flex Super Glue Gel, Clear, 20 Gram Bottle | shorturl.at/bnBES | $7.99 |
-| Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function
- | shorturl.at/enrx3 | $219 | 
-| Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch
- | shorturl.at/kqF29 | $59.99 | 
+| Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function | shorturl.at/enrx3 | $219 | 
+| Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch | shorturl.at/kqF29 | $59.99 | 
 | Total           |                                       | $485.15 |
