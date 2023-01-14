@@ -13,23 +13,19 @@ A smart plug is a device that can be built to allow users to remotely control an
  Because i building a smart plug can be a challenging and interesting project for individuals with an interest in electrical engineering, programming, and smart home technology. The process of creating a smart plug would involve designing and implementing a circuit to control the power to the outlet, writing software to control the device and integrate it with existing smart home systems, and testing and troubleshooting the device to ensure it functions correctly. Building a smart plug can be a great way to learn about the inner workings of smart home technology and gain hands-on experience with electrical engineering and programming.
 
 ## Budget
-|  product                       | Supplier/Link                                                                                           | Cost |
-	
-|Espressif ESP8266 ESP-01        | https://www.hackster.io/Espressif/products/esp8266-esp-01?ref=project-e643ed                            | $15   |
- ESP WiFi Module                
-  	                           
-| 5V 1 Amp Power Supply Board    | https://amzn.eu/d/6epusa7                                                                               | $10  |
-  220V AC to 5V DC
-  AC to DC Converter             
+SN       Product                       Supplier/Link                                                                                cost
+1.       ESP Wifi Module              https://www.sparkfun.com/products/17146                                                       $10
 
-| Energy Meter HLW8012           | https://www.alibaba.com/product-detail/Energy-Meter-HLW8012-Breakout-Board-Single_62033225587.html#     | $7.00 |
- Measuring Voltage and Current   
+2.       AC to DC Converter           https://www.amazon.com/Transformer-MKASYON-Switching-Converter-Security/dp/B07GFLFTV2          $15
 
-	
-| Smart Wi-Fi Plug
-  Mechanical Box                  | https://www.bigbasket.com/media/uploads/p/l/40237751_1-syska-mwp-003-smart-wi-fi-plug-controls-        | $24   |
-                                    devices-using-the-mobile-app-supports-google-assistant-white.jpg
+3.       Measuring Voltage and Current  https://electrobist.com/product/hlw8012-based-energy-metering-module-arduino/                 $7
 
-|Arduino Nano Motor Carrier|      |https://store-usa.arduino.cc/products/arduino-nano-motor-carrier                                        |$77.80 | 
+4.       Smart Wi-Fi Plug               https://bestdealsnepal.com.np/product/tp-link-smart-wi-fi-plug/                               $27
+         Mechanical Box
 
+5 .      Arduino Nano Motor Carrier       https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/       $77.15
+
+
+                                                                                                                               Total=$136.15
+                                                                                                                                                                                                            
            
