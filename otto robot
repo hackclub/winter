@@ -1,0 +1,6 @@
+githubname:chen98013
+projectname:otto robot
+summary:I want to build a robot that can climb to a certain height, can control the robot's movement trajectory at the computer terminal, and can also do some difficult and complex actions, such as push-ups and squats. When I saw Iron Man in Marvel movies, I thought it was inevitable in the future, so now I start with a simple robot and study step by step
+plane:Let's first design the shape of the robot. The shape must be enough to install various electronic components, and then write the program to prepare electronic originals, motherboards, and steering gear drive. Because the robot uses a total of 8 servos and two degrees of freedom, the PCA9685 module is used to uniformly control these servos, and it also reduces the occupation of I / O. Module and 18650 battery, relay module, active buzzer module, ultrasonic ranging module <Note: The use of active buzzer, passive buzzer control is more troublesome, not necessary here>
+budget:Products: main control LPC845-BRK, US $ 32.5, three-D printing material US $ 10, 3D printer US $ 103, PCA9685 module and servo drive, US $ 41, LM2596 buck stabilization module 25 USD, battery USD 10, relay module 15 USD, active buzzer module 3.5 US dollars, ultrasonic ranging ranging, ultrasonic ranging ranging Module, $ 10
+
