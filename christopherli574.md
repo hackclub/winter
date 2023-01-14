@@ -1,6 +1,6 @@
 ---
-name: @christopherli574, @mocer123
-project: Custom Keyboard with Desoldered Lighting
+name: "@christopherli574, @mocer123"
+project: "Custom Keyboard with Desoldered Lighting"
 ---
 
 Custom Keyboard with Desoldered Lighting
