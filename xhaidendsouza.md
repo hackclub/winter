@@ -24,7 +24,6 @@ We are going to build a single motor robot that is able to read and execute mech
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 |3D Print Tools Kit|https://www.amazon.com/dp/B09TD8RBSG/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B09TD8RBSG&pd_rd_w=UVm92&content-id=amzn1.sym.88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_p=88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_r=S89Y8JX4NFD4AEN3BBK8&pd_rd_wg=rOsGm&pd_rd_r=d7d980e4-40eb-4b48-b99e-62460fbb2e4a&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5TzQyTEdRVFkzUTAmZW5jcnlwdGVkSWQ9QTA4MzQ0NzgyVFFRWTFYQ01YNVpLJmVuY3J5cHRlZEFkSWQ9QTA0NTkwMjMyMklFNU9JNFUzVFRaJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==| $25.26|
-|3d Printer|https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/ref=sr_1_3?keywords=3D+printer&qid=1673149458&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840|$199.00|
-|Other 3d Printer|https://www.amazon.com/Flashforge-Adventurer-Leveling-Removable-Precision/dp/B07ZR467YR/ref=sr_1_2_sspa?crid=1L4R841HAIW3Y&keywords=3d+printer+less+than+750+dollars&qid=1673404655&s=industrial&sprefix=3d+printer+less+than+750+dollar%2Cindustrial%2C109&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQUg0RzBGQzZRRUQzJmVuY3J5cHRlZElkPUEwNzY1MjYxM0UwNTA0WFU4RUo2TCZlbmNyeXB0ZWRBZElkPUEwMTQzNDAzMlJMWEJXMVI1UUxNWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=|$369.00|
-|Filament (PLA)|https://www.amazon.com/1-75mm-Printer-Filament-Popular-Material/dp/B07VY3PXJ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SGJ35R7ZOIW5|$149.99|
-| Total           |                                       | $616.64 |
+|Creality Ender-3 S1 Pro 3D Printer|https://store.creality.com/products/ender-3-s1-pro-3d-printer|$510.73|
+|Filament (PLA)|https://www.amazon.com/1-75mm-Printer-Filament-Popular-Material/dp/B07VY3PXJ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SGJ35R7ZOIW5|$159.93|
+| Total           |                                       | $695.92 |
