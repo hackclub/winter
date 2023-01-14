@@ -10,9 +10,9 @@ I am going to build a smart plug3.0.This device will  allow users to remotely co
 
  
 ## Plan
+To create a Smart Plug3.0 following  using the specified components, I will follow these steps:
 
- This Device can be a challenging and interesting project for individuals with an interest in electrical engineering, programming, and smart home technology. The process of creating a smart plug would involve designing and implementing a circuit to control the power to the outlet, writing software to control the device and integrate it with existing smart home systems, and testing and troubleshooting the device to ensure it functions correctly. Talking about Tools they are ESP wifi Module,AC to DC Converter,Measuring Voltage and Current,Mechanical Box etc.
-
+First I will make the Smart plug with remote monitoring (current, voltage, energy), control (automatic, manual), and notification.thenAfter I will first control appliances remotely. No matter where you are, integrate your device with the web server ThenAfter I will attach the 	Espressif ESP8266 ESP-01ESP WiFi Module.ThenAfter I will connect the 	5V 1 Amp Power Supply Board 220V AC to DC Converter. I will also use a switch to control the power. ThenAfter I will connect the 	Energy Meter HLW8012.Measuring Voltage and Current cables.ThenAfter will upload the necessary code to the Arduino Uno to control the smart Plug. that I am currently working on. This code will include instructions for detecting the presence of a human in the vicinity of the car and adjusting the car's movement accordingly. Then comes the testing part the Smartg plug3.0 
 ## Budget
 
 |[ Product                      | Supplier/Link                         | Cost    |
