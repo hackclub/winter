@@ -1,5 +1,5 @@
 ---
-name: "@Songrocks"
+name: ["@Songrocks" , "@unblinding"]
 project: "DIY Portable Monitor"
 ---
 
