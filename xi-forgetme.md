@@ -3,7 +3,7 @@ name: "@xi-forgetme"
 project: "Mini Home NAS"
 ---
 
-# Mini Home NAS - It can also be a mobile host
+# Mini Home NAS - It can also be a portable server.
 
 ## Summary
 
@@ -21,24 +21,29 @@ By the way, they store the data on the cloud and the sync of the data is very sl
 
 Programmers can also build a local git repo.
 
+The last one, it can also be a game server for people to build mobile cloud game station everywhere.
+
 ## Plan
 ### STEP 1
-Assemble a server
+Install Linux and necessary software in SSD driver with another computer, and plugin in the X99M.
 
 ### STEP 2
-Install Linux on SSD, I gotta use Ubuntu and install useful tools like Python3, Nginx, MySQL, Libreoffice etc.
+Plugin CPU, GPU and RAM in the mother board.
 
 ### STEP 3
-Install private cloud websites like ownCloud (http://owncloud.org/), Gitea (https://gitea.io/), or write by self lol.
+Install the power，put there hardware in a suitcase so that you can plugin in anywhere you want.
 
 ### STEP 4
-Set a static IP address, (forwarding if you need to visit from the Internet but you don't have an public IP).
+Boot, and connect to the Internet, **set IP address to be static**.
 
 ### STEP 5
-Setup your passwords, and something else (if you need).
+Log in and configure what you need.
 
 ### STEP 6
-That all (^_^)
+Then you can connect or access the server everywhere.
+
+### STEP 7
+Now you can move the server everywhere as long as you are able to use electricity.
 
 ## Budget
 
