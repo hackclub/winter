@@ -30,24 +30,24 @@ I'll mainly be following [this guide](https://howtomechatronics.com/projects/sca
 | 20pcs Micro Switch | [AliExpress](https://www.aliexpress.com/item/32812476561.html) | $3.29 | 
 | Servo (MG996R 360deg) | [AliExpress](https://www.aliexpress.com/item/32954365576.html) | $3.79 |
 | DC Power Supply | [Amazon](https://www.amazon.ca/gp/product/B06Y64QLBM/) | $18.88 |
-| Thrust Bearing (51107) (x2) | [AliExpress](https://www.aliexpress.com/item/1005004382521768.html) | $8.14 |
+| Thrust Bearing (51107) (x4) | [AliExpress](https://www.aliexpress.com/item/1005004382521768.html) | $16.25 |
 | 4pc Steel Rod (10mm 400mm) | [Amazon](https://www.amazon.ca/gp/product/B09KH8TZT2) | $28.28 |
 | Lead Screw (8mm 400mm) | [AliExpress](https://www.aliexpress.com/item/32507277503.html) | $10.53 |
 | PLA Fillament | [Amazon](https://www.amazon.ca/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PDW6X99/) | $19.99 |
 | 8pcs 3D printer Nozzles | [Amazon](https://www.amazon.ca/gp/product/B0B7NL58XT/) | $7.99 |
 | GT2 Belts (200/300/400mm) | [AliExpress](https://www.aliexpress.com/item/1005004309993673.html) | $3.62 |
 | Bearing (6807ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003399460456.html) | $4.09 |
-| Bearing (6806ZZ) | [AliExpress](https://www.aliexpress.com/item/1005003943918727.html) | $2.82 |
+| Bearing (6806ZZ) (x2) | [AliExpress](https://www.aliexpress.com/item/1005003943918727.html) | $6.97 |
 | 5pcs M8 Bolts (45mm) | [AliExpress](https://www.aliexpress.com/item/1005002320975566.html) | $6.66 |
 | M Bolts (M3/M4/M5) | [AliExpress](https://www.aliexpress.com/item/1005003594879155.html) | $5.37 |
 | M Nuts (M3/M4/M5/M8) | [AliExpress](https://www.aliexpress.com/item/33012003529.html) | $11.43 | 
 | Steel Rods (6mm 150mm) (x2) | [AliExpress](https://www.aliexpress.com/item/32332798910.html) | $9.01 | 
-| **Subtotal** | - | **$220.82** = $75.14(Amazon) + $145.68(AliExpress) |
-| **Shipping** | - | **$110.35** = $19.86(Amazon) + $90.49(AliExpress) |
+| **Subtotal** | - | **$227.82** = $75.14(Amazon) + $152.68(AliExpress) |
+| **Shipping** | - | **$115.60** = $19.86(Amazon) + $95.74(AliExpress) |
 | **Discounts** | - | **$31.79** = $7.28(Amazon) + $24.51(AliExpress) |
-| **Pre-Tax** | - | **$299.38** (Approx **US$221.00**) |
+| **Pre-Tax** | - | **$311.64** (Approx **US$232.58**) |
 | **Tax Estimate\*** (13%) | - | **$12.35** |
-| **Total** | - | **$311.73** (Approx **US$230.12**) |
+| **Total** | - | **$323.99** (Approx **US$241.79**) |
 
 \* AliExpress does not charge the buyer for tax <br>
 Prices and totals might differ due to promotions, discounts, import fees/tax.
