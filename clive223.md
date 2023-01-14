@@ -49,6 +49,7 @@ Design, Size 24 X 12 Inches (Black) - will be usedcd to cover the pvcpipe
 1 x Audio Jack – 3.5mm TRRS (SMD), will be connected to aux cable from raspi module
 1 x TPA3116D2 12 to 24V DC Dual Channel 2 x 80W Audio Power Amplifier,amplifier board
 1 x Bluetooth 4.0 CSR8645 Amplifier Board 5W+5W APT-X Stereo Receiver Amp Module- will enable the speaker to work wirelessly
+1 x Ambrane Lithium Polymer Stylo Max 50000mAh Power Bank - Blue- i plan on using this as my batterey as it makes use of li poly battries 
 
 refrances
 https://www.youtube.com/watch?v=Mu_qqW3nwrI
