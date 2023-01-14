@@ -23,4 +23,4 @@ I am going to build a smart plug3.0.This device will  allow users to remotely co
 | Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $40.00 |
 |Arduino Nano Motor Carrier      | https://store.arduino.cc/products/arduino-nano-motor-carrier  |$95.80|
 Subtotal
-| Total (After Tax + Shipping) |                                       | $220.79 |
+| Total                        |     (After Tax + Shipping) |                                       | $220.79 |
