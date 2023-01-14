@@ -18,8 +18,7 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product                           | Supplier/Link                                                                                                    | Cost    |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|---------|
-| JLCPCB 3D Printing                | https://jlcpcb.com/                                                                                              | $21.94  |
-| JLCPCB Shipping                   |                                                                                                                  | $9.69   |
+| Ender 3 V2 Printer                | https://www.microcenter.com/product/623606/creality-ender-3-v2-3d-printer                                        | $199.00 |
 | wires                             | https://www.adafruit.com/product/1957                                                                            | $1.95   |
 | Diodes                            | https://www.amazon.com/Switching-Schottky-Glasversiegeltes-Kleinsignalschaltendes-Schottky-Dioden/dp/B09FFC7FTG/ | $11.06  |
 | Shipping for Diodes               |                                                                                                                  | $4.54   |
@@ -32,6 +31,6 @@ What materials will you need for your project? Where will you get them? How much
 | Aliexpress Tax                    |                                                                                                                  | $0.47   |
 | POM Compact Keycaps               | https://esckeyboard.com/products/pom-sugarcube-keycaps-1?variant=39392592920660                                  | $15.76  |
 | POM Shipping                      |                                                                                                                  | $8.98   |
-| Total                             |                                                                                                                  | $129.94 |
+| Total                             |                                                                                                                  | $298.30 |
 
 
