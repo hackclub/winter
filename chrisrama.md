@@ -7,17 +7,19 @@ project: "GPS tracking device"
 
 ## Summary
 
-What are you going to build? What does it do? Why are you excited to build it?
-I am buidling a GPS tracking device using arduino to be able to record and track the location of somewhere. this gps tracker can be use in high altitude ballon to track where it went and how it travel. i am most exicted about this project beccause it going to be a step by step process that i will be able to understand working with arduino and learning to decord data from the Arduino to read it on the map.
+
+I am buidling a GPS tracking device using arduino to be able to record and track the location of where a person was. This GPS tracker can also be use in high altitude ballon to track how far it travel. I am most exicted about this project because it going to be a step by step process that i will be able to understand working with arduino and learning to read data GPS module onto google earth, I will also used it to track where my I cycle with my bike at home,like when i borrow it to someone.
+
+
 ## Plan
 
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
-my step of building this project, i will be using a guide from a youtuber. 
+
+my step of building this project, I will be using a guide from a youtuber name [Paul McWhorter](https://www.youtube.com/watch?v=OsMoowoB2Rg) that explain step by step how to build a GPS Tracker. FIrst I will be using the aruino uno to connect to the GPS module and SD card, then I will program to the arduino to reocrd the data from The GPS module into the SD Card. after that all the recording is done,i will be able to read the GPS NMEA sentences and display in on google earth. 
+MY next plan after this is to make the tracker ortal using a small power bank, and arduino mini, after all the  code are done. I plan to also expand it to use the GSM module to be able to transmit Data from the tracker to phone or a device, but this is part of the expansion of the project.
+
+
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
- 
 
 | Product         | Supplier/Link                         | Cost   |
 | ----------------| ------------------------------------- | ------ |
@@ -29,8 +31,9 @@ What materials will you need for your project? Where will you get them? How much
 | SD Memory Card(16GB) | https://www.adafruit.com/product/2693 | $19.95 |
 | Wire Wrap(280 meters) | https://www.adafruit.com/product/4730 | $6.95 |
 | Wire Strippers and Cutter | https://www.adafruit.com/product/4747 | $11.95 |
-| SD card reader| | |
-| Total|                                       | $152.75 |
+| SD card reader| https://botshop.co.za/products/sd-card-module?variant=42891647615216 | $3.15 |
+| GSM Module | https://botshop.co.za/products/gsm-module | $11.30 |
+| Total|  Bot shop - $19.10, Adafruit - $200.46    | $219.56 |
 
 
 
