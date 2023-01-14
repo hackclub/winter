@@ -15,7 +15,7 @@ I am buidling a GPS tracking device using arduino to be able to record and track
 
 
 my step of building this project, I will be using a guide from a youtuber name [Paul McWhorter](https://www.youtube.com/watch?v=OsMoowoB2Rg) that explain step by step how to build a GPS Tracker. FIrst I will be using the aruino uno to connect to the GPS module and SD card, then I will program to the arduino to reocrd the data from The GPS module into the SD Card. after that all the recording is done,i will be able to read the GPS NMEA sentences and display in on google earth. 
-MY next plan after this is to make the tracker ortal using a small power bank, and arduino mini, after all the  code are done. I plan to also expand it to use the GSM module to be able to transmit Data from the tracker to phone or a device, but this is part of the expansion of the project.
+MY next plan after this is to make the tracker ortal using a small power bank, and arduino mini, after all the  code are done. I plan to also expand it to use the GSM module to be able to transmit Data from the tracker to a phone or any devices, this is part of my expansion of this project.
 
 
 ## Budget
