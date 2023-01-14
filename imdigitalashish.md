@@ -19,7 +19,7 @@ I proceed by connecting to hardware by wifi or wires or bluetooth to control and
 Features that I will be making:
 
 1) Apple Airdrop feature with Harddrive and Raspberry PI
-    - ![image](https://user-images.githubusercontent.com/61198989/212450962-ae5cc8a8-1598-4218-b200-0ab6b40f259d.png)
+     ![image](https://user-images.githubusercontent.com/61198989/212450962-ae5cc8a8-1598-4218-b200-0ab6b40f259d.png)
 
 3) Face Recognition Door lock using Servo Motor ( Here Raspberry PI send commands to Arduino with SSE Events ) and Potentiometer
     - For Doorlocking a raspberry PI Pico would be mounted on the door and connected through wifi
