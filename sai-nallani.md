@@ -3,8 +3,8 @@ name: "@sai-nallani"
 project: "Connected LED Speakers"
 ---
 
-# Project Name
-LED Network Speakers
+# LED Network Speakers
+
 ## Summary
 Basically a ton of microcontrollers and speakers in a small lamp that can send data to each other through a phone. Useful as a gift to a friend so you can scream
 in their room while they're sleeping.
