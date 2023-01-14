@@ -25,14 +25,14 @@ Budget
 
 | Product         | Cost | Supplier/Link
 
-| HyperX Alloy Elite | $0 | Already Owned
-| 3D Printer PLA Filament |  $48.72 | https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07ZNHTZ2T/ref=sr_1_4?crid=109NRD19DPC17&keywords=3d%2Bprinter%2Bmaterial&qid=1673670885&sprefix=3d%2Bprinter%2Bmaterial%2Caps%2C52&sr=8-4&th=1
-| Gateron Oil King Switches | $56.16 | https://divinikey.com/collections/switches/products/gateron-oil-king-linear-switches
-| Keyboard Switch Opener | $13.76 | https://www.amazon.com/Switch-Openers-Mechanical-Keyboard-Switches/dp/B07XQGLP8H
-| 205G0 Switch Lubricant | $14.98 | https://divinikey.com/products/205-grade-0-switch-lubricant
-| Deskeys V2 Switch Film | $6.95 | https://divinikey.com/products/deskeys-switch-film
-| Soldering Kit| $26.48 | https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=31MU0R8P93UJF&keywords=soldering+kit&qid=1673671960&sprefix=soldering+ki%2Caps%2C89&sr=8-5
-| Switch Stabilizer| $6.63| https://divinikey.com/collections/keyboard-stabilizers/products/durock-plate-mount-stabilizers?variant=32316615557185
-| PCB | $65 | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9055 
-| Ender 3 Neo 3D Printer | $259.69 | https://www.amazon.com/Ender-Neo-Full-metal-Carborundum-220x220x250mm/dp/B083ZPVX77/ref=sr_1_4?keywords=ender+3+neo&qid=1673672914&s=industrial&sr=1-4
+| HyperX Alloy Elite | $0 | Already Owned |
+| 3D Printer PLA Filament |  $48.72 | https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07ZNHTZ2T/ref=sr_1_4?crid=109NRD19DPC17&keywords=3d%2Bprinter%2Bmaterial&qid=1673670885&sprefix=3d%2Bprinter%2Bmaterial%2Caps%2C52&sr=8-4&th=1 |
+| Gateron Oil King Switches | $56.16 | https://divinikey.com/collections/switches/products/gateron-oil-king-linear-switches |
+| Keyboard Switch Opener | $13.76 | https://www.amazon.com/Switch-Openers-Mechanical-Keyboard-Switches/dp/B07XQGLP8H |
+| 205G0 Switch Lubricant | $14.98 | https://divinikey.com/products/205-grade-0-switch-lubricant |
+| Deskeys V2 Switch Film | $6.95 | https://divinikey.com/products/deskeys-switch-film |
+| Soldering Kit| $26.48 | https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/ref=sr_1_5?crid=31MU0R8P93UJF&keywords=soldering+kit&qid=1673671960&sprefix=soldering+ki%2Caps%2C89&sr=8-5 |
+| Switch Stabilizer| $6.63| https://divinikey.com/collections/keyboard-stabilizers/products/durock-plate-mount-stabilizers?variant=32316615557185 |
+| PCB | $65 | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9055 |
+| Ender 3 Neo 3D Printer | $259.69 | https://www.amazon.com/Ender-Neo-Full-metal-Carborundum-220x220x250mm/dp/B083ZPVX77/ref=sr_1_4?keywords=ender+3+neo&qid=1673672914&s=industrial&sr=1-4 |
 | Total | $498.37 |
