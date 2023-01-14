@@ -4,7 +4,7 @@
 
 ## Hack Club Slack handle
 
-<!-- Join the Hack Club Slack at https://hackclub.com/slack -->
+<!-- Join the Hack Club Slack at https://hackclub.com/slack - please write your handle ABOVE this line :)-->
 
 ## Checklist before submitting proposal:
 
