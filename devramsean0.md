@@ -8,7 +8,7 @@ Pico-temp
 ## Summary
 This is a temperature monitor for water filled environments,
 the waterproof sensor is the only thing that will go into the water, and all the control equipment sits next to it, on dry land
-has relay support in order to provide a on / off function. and a new heater because i can't turn off the old one or it will kill my fish
+has relay support (and associated safety stuff, like making sure 240v can't get water on) in order to provide a on / off function. and a new heater because i can't turn off the old one or it will kill my fish as this project is going to manage the heating of my tank aswell as measuring temperature. I need the usb cable sto power the three Pico's that power it. (2 to measure temperature, and one to manage the screen / relay)
 
 ## Plan
 
@@ -48,7 +48,7 @@ my steps will be approximatly:
 | Jewel automatic heater | https://www.amazon.co.uk/gp/product/B0030HJY5C/ref=ox_sc_act_title_5?smid=A2MYEVYTNLKQFQ&psc=1 | $34.95 |
 | Nylon cable glands | https://www.amazon.co.uk/gp/product/B07WHBZ1ZS/ref=ox_sc_act_title_6?smid=A3P5ROKL5A1OLE&psc=1 | $7.12 |
 | Double weatherproof power socket | https://www.amazon.co.uk/gp/product/B082KZ1JPP/ref=ox_sc_act_title_7?smid=A3P81ISNL53U0E&psc=1 | $12.68 |
-| 3 x New 1 x 20 headers... | https://thepihut.com/products/female-header-set-for-raspberry-pi-pico | £6 |
+| 3 x New 1 x 20 headers... | https://thepihut.com/products/female-header-set-for-raspberry-pi-pico | $6 |
 | Total with shipping or taxes | | $252.02 |
 
 Will try to get the sensor from pimoroni, if it is back in stock by time of ordering
