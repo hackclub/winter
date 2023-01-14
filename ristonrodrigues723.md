@@ -167,6 +167,6 @@ What materials will you need for your project? Where will you get them? How much
 |RPI4-MODBP-8GB| https://in.element14.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503) | $73.79 |
 | I2C ADS1115 16 Bit ADC 4 channel Module with Programmable Gain Amplifier | [https://robu.in/product/i2c-ads1115-16-bit-adc-4-channel-module-with-programmable-gain-amplifier/](https://robu.in/product/i2c-ads1115-16-bit-adc-4-channel-module-with-programmable-gain-amplifier/) | $9.07|
 |37-1K - Resistance:1kohm |[https://in.element14.com/mcm/37-1k/resistance-1kohm/dp/2784369](https://in.element14.com/mcm/37-1k/resistance-1kohm/dp/2784369) | $2.14 |
-| Orange Raspberry Pi 4 Advance Kit   | [https://www.adafruit.com/product/1957](https://robu.in/product/orange-raspberry-pi-advance-kit/#reviews) | $55.59  |
+| Orange Raspberry Pi 4 Advance Kit   | [https://robu.in/product/orange-raspberry-pi-advance-kit](https://robu.in/product/orange-raspberry-pi-advance-kit/) | $55.59  |
 |Plusivo Soldering Kit with Multimeter (EU Plug) | (https://robu.in/product/plusivo-soldering-kit-with-multimeter-eu-plug/) | $21.26 |
 | Total           |                                       | $249.95|
