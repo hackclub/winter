@@ -2,6 +2,7 @@
 ---
 name: "@rachwel"
 project: "Rc tracked vehicle"
+
 ---
 
 # Project Name
@@ -12,7 +13,7 @@ The tank
 
 What are you going to build? What does it do? Why are you excited to build it?
 
-I plan on building a (SnowCat)[https://www.youtube.com/watch?v=UdL4M4JpdsU] like rc vehicle. It will be controlable with a 2.4gh rc controller and be powered by 2 moters. Im exited to build it as I have never build something like this before and want to learn the experience. 
+I plan on building a [SnowCat](https://www.youtube.com/watch?v=UdL4M4JpdsU) like rc vehicle. It will be controlable with a 2.4gh rc controller and be powered by 2 moters. Im exited to build it as I have never build something like this before and want to learn the experience. 
 ## Plan
 
 What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
