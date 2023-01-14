@@ -22,4 +22,5 @@ I am going to build a smart plug3.0.This device will  allow users to remotely co
 | Measuring Voltage and Current|  https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/      | $14.00 |
 | Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $40.00 |
 |Arduino Nano Motor Carrier      | https://store.arduino.cc/products/arduino-nano-motor-carrier  |$95.80|
+Subtotal
 | Total (After Tax + Shipping) |                                       | $220.79 |
