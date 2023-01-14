@@ -20,10 +20,12 @@ Run the web interface on the local device and that's all!
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
-| Product         | Supplier/Link                         | Cost   |
+| Product         | Supplier/Link                         | Cost*   |
 | --------------- | ------------------------------------- | ------ |
 | Monitor         | https://www.amazon.es/dp/B0798QSKB1   | $113,71|
 | DAKboard CPU v3 | https://shop.dakboard.com/collections/dakboard-cpu/products/dakboard-cpu-v3  | $119.95 |
+| HDMI cable | Already have one  | $00,00 |
+| Shipping | Amazon premium  | $00,00 |
 | Total           |                                       | $233.66 |
 
 *Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
