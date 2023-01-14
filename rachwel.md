@@ -40,4 +40,5 @@ What steps are you going to take to build it? What tools are you going to use? W
 | Cr touch | https://www.creality3dparts.com/product/cr-touch-auto-leveling-standard-kit-wide-compatibility/ | 32.98 |
 | 3d Printer | Already have | 0 |
 | Toal Cost | All | 255.73 |
+
 Note, I will pay the remaining cost
