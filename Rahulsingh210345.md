@@ -13,11 +13,23 @@ A smart plug is a device that can be built to allow users to remotely control an
  Because i building a smart plug can be a challenging and interesting project for individuals with an interest in electrical engineering, programming, and smart home technology. The process of creating a smart plug would involve designing and implementing a circuit to control the power to the outlet, writing software to control the device and integrate it with existing smart home systems, and testing and troubleshooting the device to ensure it functions correctly. Building a smart plug can be a great way to learn about the inner workings of smart home technology and gain hands-on experience with electrical engineering and programming.
 
 ## Budget
+|  product                       | Supplier/Link                                                                                           | Cost |
+	
+|Espressif ESP8266 ESP-01        | https://www.hackster.io/Espressif/products/esp8266-esp-01?ref=project-e643ed                            | $15   |
+ ESP WiFi Module                
+  	                           
+| 5V 1 Amp Power Supply Board    | https://amzn.eu/d/6epusa7                                                                               | $10  |
+  220V AC to 5V DC
+  AC to DC Converter             
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+| Energy Meter HLW8012           | https://www.alibaba.com/product-detail/Energy-Meter-HLW8012-Breakout-Board-Single_62033225587.html#     | $7.00 |
+ Measuring Voltage and Current   
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+	
+| Smart Wi-Fi Plug
+  Mechanical Box                  | https://www.bigbasket.com/media/uploads/p/l/40237751_1-syska-mwp-003-smart-wi-fi-plug-controls-        | $24   |
+                                    devices-using-the-mobile-app-supports-google-assistant-white.jpg
+
+|Arduino Nano Motor Carrier|      |https://store-usa.arduino.cc/products/arduino-nano-motor-carrier                                        |$77.80 | 
+
+           
