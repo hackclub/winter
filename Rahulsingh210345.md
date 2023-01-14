@@ -6,7 +6,7 @@ project: "Smart Plug3.0"
 # Smart Plug3.0
 
 ## Summary
-A smart plug is a device that can be built to allow users to remotely control and schedule the power to an electrical outlet through a smartphone app or voice assistant. The device would typically include a plug that can be inserted into any standard electrical outlet, and a small device that connects to the plug and allows the user to control the power to the outlet. The device could also be built with energy monitoring capabilities that allow users to track how much power their devices are using. Building a smart plug would require an understanding of electrical engineering, programming, and the ability to integrate with existing smart home systems.
+I am going to build a smart plug.This device will  allow users to remotely control and schedule the power to an electrical outlet through a smartphone app or voice assistant. The device would typically include a plug that can be inserted into any standard electrical outlet, and a small device that connects to the plug and allows the user to control the power to the outlet. The device could also be built with energy monitoring capabilities that allow users to track how much power their devices are using. Building a smart plug would require an understanding of electrical engineering, programming, and the ability to integrate with existing smart home systems.
  
 ## Plan
  Talking about Tools they are ESP wifi Module,AC to DC Converter,Measuring Voltage and Current,Mechanical Box etc.
@@ -16,9 +16,9 @@ A smart plug is a device that can be built to allow users to remotely control an
 
 |[ Product                      | Supplier/Link                         | Cost    |
 | ---------------------------- | ------------------------------------- | ------- |
-| ESP Wifi Module              | https://www.sparkfun.com/products/17146          | $15.00  |
-| AC to DC Converter           |  https://www.amazon.com/Transformer-MKASYON-Switching-Converter-Security/dp/B07GFLFTV2     | $13.00|
-| Measuring Voltage and Current|  https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/      | $7.00 |
-| Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $27.99  |
-|Arduino Nano Motor Carrier      | https://store.arduino.cc/products/arduino-nano-motor-carrier  |%77.80|
-| Total (After Tax + Shipping) |                                       | $140.79 |
+| ESP Wifi Module              | https://www.sparkfun.com/products/17146          | $30.00  |
+| AC to DC Converter           |  https://www.amazon.com/Transformer-MKASYON-Switching-Converter-Security/dp/B07GFLFTV2     | $23.00|
+| Measuring Voltage and Current|  https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/      | $14.00 |
+| Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $40.00 |
+|Arduino Nano Motor Carrier      | https://store.arduino.cc/products/arduino-nano-motor-carrier  |$95.80|
+| Total (After Tax + Shipping) |                                       | $220.79 |
