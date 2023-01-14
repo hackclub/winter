@@ -30,8 +30,8 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 4x Raspberry Pi Pico W + Breadboard + Headerset  | https://www.pishop.us/product/raspberry-pi-pico-w/ | $12.40 * 4 = $49.60  |
-| 4x Shelly Duo | https://www.shelly.cloud/en-us/products/product-overview/shelly-duo-rgbw-gu10/4xbulbrgbwgu10-us  | $44.90 |
+| 4x Raspberry Pi Pico W + Breadboard + Headerset  | https://www.pishop.us/product/raspberry-pi-pico-w/ | $12.40 * 4 = $49.60 |
+| 4x Shelly Duo | [https://www.shelly.cloud/en-us/products/product-overview/shelly-duo-rgbw-gu10/4xbulbrgbwgu10-us]  | $47.96 |
 | Raspberry Pi Starter Kit to learn stuff| https://www.amazon.com/SunFounder-Raspberry-Tutorials-MicroPython-Compatible/dp/B09Z6DJ633/ref=sr_1_4?crid=37LNYZBN813O2&keywords=raspberry+pi+pico+kit&qid=1673671751&sprefix=raspberry+pi+pico+ki%2Caps%2C118&sr=8-4 | $58.88 |
 | 4x Speakers | https://www.amazon.com/MakerHawk-Full-Range-Advertising-Connector-Separating/dp/B07GJ4GH67/ref=sr_1_3?crid=2OWCEXGU0418U&keywords=raspberry+pi+speakers&qid=1673672099&sprefix=raspberry+pi+speaker%2Caps%2C134&sr=8-3 | $25.98 |
-| Total           |                                       | $170.36 |
+| Total with tax and shipping |                                       | $209.10 |
