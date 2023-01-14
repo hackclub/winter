@@ -30,8 +30,15 @@ For this project, I didn't follow any guides, but I saw some similar guides, I f
 | electric soldering iron | https://item.m.jd.com/product/10028240754328.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL  | $35.53 |
 | ESP-WROOM-32 x3 | https://m.tb.cn/h.UlITbib?tk=1RpUdUOdm2F | $10.28 |
 | SanDisk 64GB TF | https://item.m.jd.com/product/1887526.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $5.12 |
+| Raspberry camera | https://item.m.jd.com/product/10036679097361.html?gx=RnFkkTZcamffmtRP--txCDpbRe2Q8d80DZje&ad_od=share&utm_source=androidapp&utm_medium=appshare&utm_campaign=t_335139774&utm_term=CopyURL | $26.85 |
+| relay | https://m.tb.cn/h.UORuWGF?tk=VfR3d53xkBt | $5.31 |
+| rosin | https://m.tb.cn/h.UkDXvKW?tk=afrmd53yITL | $1.14 |
+| Tin wire | https://m.tb.cn/h.UlQQaLu?tk=TL9dd53BzYa | $3.42 |
+| M3 copper pillar | https://m.tb.cn/h.UkDWeho?tk=Txtsd53AvUC | $2.3 |
+| TP4056 TypeC power supply module (for ESP32) | https://m.tb.cn/h.UORy9OL?tk=A3wnd5eZMUG | $0.58 |
+| 0.96 SPI OLED（show system status) | https://m.tb.cn/h.UkD4IOe?tk=ulvJd5ebrQT | $3.07 |
 | Dupont wire     | already own 
 | LED lights      | already own
 | voltage converter | already own
-| shipping and taxes|                                     | $0.00 |
-| Total           |                                       | $249.34 |
+| shipping and taxes|                                     | $4.50 |
+| Total           |                                       | $296.51 |
