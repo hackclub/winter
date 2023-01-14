@@ -34,5 +34,6 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | Camera For Raspberry Pi | https://www.adafruit.com/product/5658 | $35.00 |
 | Raspberry Pi 4 | https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/ref=mp_s_a_1_3_mod_primary_new | $115.99 |
 | Battery Pack For Raspberry Pi | https://www.adafruit.com/product/1959 | $14.95 |
-| Tax | | $18.80 |
-| Total           |                                       | $246.65 |
+| Tax + Shipping (Adafruit) | | $29.82 |
+| Tax (Amazon) | | $9.57 |
+| Total           |                                       | $311.23 |
