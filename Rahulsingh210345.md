@@ -11,36 +11,6 @@ A smart plug is a device that can be built to allow users to remotely control an
 ## Plan
  Talking about Tools they are ESP wifi Module,AC to DC Converter,Measuring Voltage and Current,Mechanical Box etc.
  Because i building a smart plug can be a challenging and interesting project for individuals with an interest in electrical engineering, programming, and smart home technology. The process of creating a smart plug would involve designing and implementing a circuit to control the power to the outlet, writing software to control the device and integrate it with existing smart home systems, and testing and troubleshooting the device to ensure it functions correctly. Building a smart plug can be a great way to learn about the inner workings of smart home technology and gain hands-on experience with electrical engineering and programming.
- 
- Step 1: Turn on Smart Plug.blue LED Toggles 5 Seconds.
- Step 2: Connect WiFI access point named DEVxxxx. Open Chrome and type 192.168.4.1. You'll get the WiFi Manager page.
-          Click Configure WiFI. You'll get available WiFi which is nearby.
- Step 3: Configure your home network SSID and PASSWORD as shown above. Once your configuration is done it'll automatically change from access point to station and              tries  to connect to your home access point network.Once you have given the SSID and PASSWORD your web page will notify as given below
- Step 4: Once ESP is connected to your network it'll try to connect to broker.mqttdashboard.com:1883 and start sending device Data(voltage, current, Power, and       Energy).
- Step 5: Open MQTTBOX to check your device is posting. Configure your MQTT client setting as shown below
- 
-Step 1:  Turn on Smart Plug.blue LED Toggles 5 Seconds.
-Step 2:  Connect WiFI access point named DEVxxxx. Open Chrome and type 192.168.4.1. You'll get the WiFi Manager page.
-          Click Configure WiFI. You'll get available WiFi which is nearby.
-Step 3: Connect the antenna to the computer via usb.
-Step 4: Wait for flights to be detected and test if the system works properly.
-Step 5: 3D model a inclosure for the project on blender.
-Step 6: 3D print the inclosure you designed.
-Step 7: Install the hardware into the case.
-Step 8: See the flights above you on a monitor.
-
-      username               : 1
-password               : 1
-Topic to Publish       : DEVxxxx/Data
-Topic to Subscribe     : DEVxxxx/Relay
-In my case device id is DEVxxxx - DEV0001. You are done with this all things good to go for remote controlling your home appliances.
- Please make ensure the device status connected as shown below.
- Finally your device is ready and the information is sent to the webserver. You can see the data in MQTTBOX as well.
-
-
-
-
-
 
 ## Budget
 
