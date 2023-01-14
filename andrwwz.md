@@ -17,7 +17,7 @@ CAD Cross section (to scale). Circles are CF rods and rectangles are GT2 9mm bel
 ## Plan
 
 Build and Design Process: 
-	
+
 1. Design the arm in Fusion 360, including all electronics and hardware
     a. Design gear reduction mechanism, likely harmonic drive due to low backlash
     b. Ensure parts all fit together properly and in a satisfactory form factor
