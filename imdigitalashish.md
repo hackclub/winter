@@ -19,13 +19,27 @@ I proceed by connecting to hardware by wifi or wires or bluetooth to control and
 Features that I will be making:
 
 1) Apple Airdrop feature with Harddrive and Raspberry PI
-2) Face Recognition Door lock using Servo Motor ( Here Raspberry PI send commands to Arduino with SSE Events ) and Potentiometer
-3) Ultra sonic sensor for intruder detection and taking picture if it is not me
-4) Advance chat assistant using Open AI API's and my own custom trained model
-5) Controlling my LED Lights using Wifi 
-6) Based on the pitch of the Chatbot LED Strips would be calliibrated
-7) Temperature sensor ( INCLUDED IN UNO KIT ) for detecting accurate temperature that will be displayed on my webapp
-8) Will create a web app that would be connected by Azure services, with Server sent events all the components can be controlled from anywhere in the world !
+3) Face Recognition Door lock using Servo Motor ( Here Raspberry PI send commands to Arduino with SSE Events ) and Potentiometer
+    - For Doorlocking a raspberry PI Pico would be mounted on the door and connected through wifi
+    - After the recognition has been done by the Main Raspberry PI, commands would be sent over wifi to raspberry PI pico
+    - After receiving the commands, raspberry Pi pico will turn the servo motor to open the door !
+5) Ultra sonic sensor for intruder detection and taking picture if it is not me
+6) Advance chat assistant using Open AI API's and my own custom trained model
+7) Controlling my LED Lights using Wifi 
+8) Based on the pitch of the Chatbot LED Strips would be calliibrated
+9) Temperature sensor ( INCLUDED IN UNO KIT ) for detecting accurate temperature that will be displayed on my webapp
+10) Will create a web app that would be connected by Azure services, with Server sent events all the components can be controlled from anywhere in the world !
+
+
+
+### Block diagram for AirDrop Feature
+
+![image](https://user-images.githubusercontent.com/61198989/212450835-bbfc861a-3ce9-4767-b261-395c385db1c9.png)
+
+
+
+
+
 
 
 ## Budget
