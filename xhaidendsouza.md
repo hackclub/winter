@@ -7,7 +7,7 @@ project: "Mechanically Codable Robot"
 
 ## Summary
 
-We are going to build a single motor robot that is able to read and execute mechanical "code" on a wheel. It will use gears to rotate the wheel around, and extrusions around the wheel will physical manipulate the robot such that it is able to turn and move. We have always loved the idea of mechanical coding, and we really want to be able to making a robot that can use it. This is our first every project anything like this, so we are excited to see how it turns out.
+We are going to build a single motor robot that is able to read and execute mechanical "code" on a wheel. It will use gears to rotate the wheel around, and extrusions around the wheel will physical manipulate the robot such that it is able to turn and move. We have always loved the idea of mechanical coding, and we really want to be able to make a robot that can use it. This is our first ever project that is anything like this, so we are excited to see how it turns out.
 
 ## Plan
 
