@@ -50,7 +50,6 @@ but I'm open to any plans on how I can execute this. So the budget that I have h
 | Breadboard    			               | https://a.co/d/6PR6NTC 	             | 13.99      |
 | Capacitors/Diodes/Resistors        | To be decided or own                  | TBD        |
 | User Interface Display			       | To be decided or own                  | TBD        |
-| USB audio Adapter			             | https://amzn.to/3GnQiSj        		   | $2.49      |
 | Cooking Range                      | (I own)                               | $0.00      |
 | Heat Valve/Cooking Gas             | (I own)                               | $0.00      | 
 | Shipping								           |                                       | $35.64     |
