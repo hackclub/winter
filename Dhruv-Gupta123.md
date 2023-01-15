@@ -60,6 +60,6 @@ Second project
 | EMG SensorX2    |https://store.upsidedownlabs.tech/product/muscle-bioamp-patchy/|$24.615|
 | Arduino UNOX2   |https://www.amazon.in/REES52-ATmega328P-Devlopment-Compatible-Arduino/dp/B08Y95CMRH/ref=sr_1_16?crid=QELTUO8GYDDK&keywords=arduino+uno&qid=1673793385&sprefix=arduino+un%2Caps%2C333&sr=8-16|$24.591|
 | RF module      |https://www.amazon.in/Robotbanao-Wireless-Transmitter-Compatible-Raspberry/dp/B07DZCJRJ6/ref=sr_1_1_sspa?crid=NO9YCF29H2YK&keywords=rf+module&qid=1673793491&sprefix=rf+modu%2Caps%2C343&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|$4.111|
-| ECG electrodes  |https://store.upsidedownlabs.tech/product/msgst-37/|$8.615|
+| ECG electrodes  |https://store.upsidedownlabs.tech/product/msgst-37/| $8.615 |
 | jumper wires  |ALready Own||
 TOTAL=$239.241
