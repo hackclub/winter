@@ -59,6 +59,7 @@ Rear wings in F1 cars are used to direct the wind flow above the car thus giving
 |PLA Wood-filled Filament| https://www.3dqf.co.uk/product-page/woodchucker-1-75mm-wood-filled-uk-made-3d-printer-filament | 1 | $29.34 *(converted GBP)*| Free |$29.34 *(converted GBP)*|
 | ABS Filament 1kg| https://www.3dqf.co.uk/abs-product   |    2 *(1xLEMON YELLOW,1xBRILLIANT WHITE)*    |    $26.89 *(converted GBP)*   |        Free       |        $53.79 *(converted GBP)*       |
 | TPU Filament 500g| https://www.amazon.co.uk/Geeetech-Printer-Filament-1-75mm-Printing/dp/B07PGP4L5R            |             1             |         $20.86         |        Free       |        $20.86       |
+| Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$36.83| Free |$36.83|
 | RC Car Chasis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
 | Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $696.77       |
