@@ -63,3 +63,5 @@ Rear wings in F1 cars are used to direct the wind flow above the car thus giving
 | RC Car Chasis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
 | Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $733.60       |
+
+*Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
