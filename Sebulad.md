@@ -62,4 +62,4 @@ Rear wings in F1 cars are used to direct the wind flow above the car thus giving
 | Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$36.83| Free |$36.83|
 | RC Car Chasis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
-| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $696.77       |
+| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $733.60       |
