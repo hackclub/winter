@@ -11,7 +11,7 @@ We are going to build a single motor robot that is able to read and execute mech
 
 ## Plan
 
-1) Brainstorm how the robot will read the mechanical wheel and turn it into an output (https://www.youtube.com/watch?v=TD_MLuMvkNw - Reference for Mechanical Coding Robots, https://www.youtube.com/watch?v=tBi0ecy5kPs - Gear source)
+1) Brainstorm how the robot will read the mechanical wheel and turn it into an output (https://www.youtube.com/watch?v=TD_MLuMvkNw - Reference for Mechanical Coding Robots, https://www.youtube.com/watch?v=tBi0ecy5kPs - Reverse Gear Directions)
 
 2) Use Fusion 360 to design the components of the robot. This will include a holder for the motor, multiple interchangable wheels that can each code the robot to to diffferent things, and a system of gears and other parts that will be able to turn that code into motion. 
 
@@ -23,7 +23,8 @@ We are going to build a single motor robot that is able to read and execute mech
 
 |Product                | Supplier/Link         | Cost    |
 | --------------- | ------------------------------------- | ------ |
-|3D Print Tools Kit|https://www.amazon.com/dp/B09TD8RBSG/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B09TD8RBSG&pd_rd_w=UVm92&content-id=amzn1.sym.88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_p=88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_r=S89Y8JX4NFD4AEN3BBK8&pd_rd_wg=rOsGm&pd_rd_r=d7d980e4-40eb-4b48-b99e-62460fbb2e4a&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5TzQyTEdRVFkzUTAmZW5jcnlwdGVkSWQ9QTA4MzQ0NzgyVFFRWTFYQ01YNVpLJmVuY3J5cHRlZEFkSWQ9QTA0NTkwMjMyMklFNU9JNFUzVFRaJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==| $25.26|
-|Creality Ender-3 S1 Pro 3D Printer|https://store.creality.com/products/ender-3-s1-pro-3d-printer|$510.73|
-|Filament (PLA)|https://www.amazon.com/1-75mm-Printer-Filament-Popular-Material/dp/B07VY3PXJ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SGJ35R7ZOIW5|$159.93|
-| Total           |                                       | $695.92 |
+|3D Print Tools Kit|https://www.amazon.com/dp/B09TD8RBSG/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B09TD8RBSG&pd_rd_w=UVm92&content-id=amzn1.sym.88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_p=88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_r=S89Y8JX4NFD4AEN3BBK8&pd_rd_wg=rOsGm&pd_rd_r=d7d980e4-40eb-4b48-b99e-62460fbb2e4a&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5TzQyTEdRVFkzUTAmZW5jcnlwdGVkSWQ9QTA4MzQ0NzgyVFFRWTFYQ01YNVpLJmVuY3J5cHRlZEFkSWQ9QTA0NTkwMjMyMklFNU9JNFUzVFRaJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== | $25.26|
+|Creality Ender-3 S1 Pro 3D Printer|https://store.creality.com/products/ender-3-s1-pro-3d-printer|$510.73 |
+|Filament (PLA)|https://www.amazon.com/1-75mm-Printer-Filament-Popular-Material/dp/B07VY3PXJ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SGJ35R7ZOIW5|$159.93 |
+|Motor|https://www.amazon.com/dp/B07558GQN8/ref=syn_sd_onsite_desktop_71?ie=UTF8&psc=1&pd_rd_plhdr=t | $10.19|
+| Total           |                                       | $706.11 |
