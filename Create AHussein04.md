@@ -32,12 +32,13 @@ What materials will you need for your project? Where will you get them? How much
 | Tracing Paper | https://www.amazon.com/Darice-Artists-Tracing-Paper-Sheets/dp/B004GXBXSK | $17 |
 | USB Audio Converter| https://www.amazon.com/gp/product/B00OJ5AV8I/ | $8 |
 | 2 x 4 x 16in block of wood |https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-Prime-Standard-and-Better-Douglas-Fir-Lumber-2167-16/206019456 | $9.67 x 2 |
-| Smaller Light Strip for headphones |https://www.amazon.com/dp/B01CDTED80/ref=twister_B0BM5K1TCV?_encoding=UTF8&psc=1 | $10.99 x 4 |
+| ESP32-C3-DevKitM-1 |https://www.amazon.com/ESP32-C3-DevKitM-1-Development-ESP32-C3-MINI-1-Module-ESP32-C3FN4/dp/B09F5XRK12/ | $21.98 |
 | Sodering kit |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $40 |
+| Adressable LED Strip for headphones |https://www.amazon.com/Addressable-Aclorol-Magnetic-Compatible-Motherboard/dp/B08TWBFCRT/ | $13.99 |
 | Hat for RPI |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $5 |
 
 
 
-| Tax  | | $27.36 |
+| Tax  | | $26.95 |
 | Shipping | | $0.0|
-| Total | | $483.36 |
+| Total | | $476.21 |
