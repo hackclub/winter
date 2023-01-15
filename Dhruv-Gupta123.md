@@ -17,8 +17,11 @@ I am going to build a robot car that will have the following features-
 10. can be controlled by voice
 
 The above featues in the car can be switched form one to another by the remote, bluetooth, glove, a board present in the car
-## PlAN
 
+
+I am also making a second project in which a user can control any appliance by the movement of their hand wirelessly.
+## PlAN
+First Project------------------------------------------
 First i will 3d design the sturcture of the car and the 3d print it after that i will attach the motors on the 3d printed parts after that i will connect the 
 motors to the motor driver and the motor driver to arduino after that i will connect the sensors, bluetooth module, rf module(for communicating wirelessly with 
 the glove and the remote) The car will have two arduinos as one arduino can only send and recieve signal from a single rf so as we are using 2 rf module to control
@@ -28,7 +31,10 @@ it to the second arduino and that arduino will recieve the signal and controll t
 module, arduino, rf module(for communicating wirelessly with the car) switches,etc and code it.for controlling it with phone i will add a bluetooth(bt) module 
 (for establihing bluetooth communication) in it. After that i will make the weapon using bo motors then i will attach the weapon on the car. The weapon 
 will be able to shoot 3d printed balls,etc. The balls will be hollow so that no one will be harmed from it.
-
+--------------------------------------------------------
+Second Project------------------------------------------
+In this first i will use a emg sensor to sense the signals of the brain then it will send it to the arduino and then the arduino will trainsmit the siganl wirellesssly to the other arduino and then that arduino will turn the appliance on or off the appliance can be a bulb, fan, heater,etc. 
+--------------------------------------------------------
 ## Budget
 
 | Product         | Supplier/Link                                                                                                                                                                                                                                                                                                   | Cost    |
@@ -49,3 +55,10 @@ will be able to shoot 3d printed balls,etc. The balls will be hollow so that no 
 |  battery charger| https://www.amazon.in/M-Enterprises-Lithium-Battery-Protection/dp/B01M5IGW85/ref=sr_1_10?crid=UOWDZ1ALGIZI&keywords=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charger&qid=1673447480&sprefix=lithium%2Bion%2Bbattery%2B3.7v%2Brechargeable%2B18650+charge%2Caps%2C295&sr=8-10                       | $1.494  |
 |  pla            | https://www.amazon.in/Filament-Dimensional-Accuracy-Compatible-Printers/dp/B0BFVZXQ2P/ref=sr_1_2_sspa?crid=8P93YAS902GY&keywords=pla&qid=1673447706&sprefix=pla%2Caps%2C232&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1                                                                                    | $11.007 |
 |  3D printer     | ALready OWN | |
+Second project
+| relay moduleX2  |https://www.amazon.in/Robotbanao-Channel-Module-Shield-Arduino/dp/B08T77P3T4/ref=sr_1_1_sspa?crid=6IEN37VYAKBT&keywords=relay+module&qid=1673793026&sprefix=relay+modu%2Caps%2C410&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|$6.997|
+| EMG SensorX2    |https://store.upsidedownlabs.tech/product/muscle-bioamp-patchy/|$24.615|
+| Arduino UNOX2   |https://www.amazon.in/REES52-ATmega328P-Devlopment-Compatible-Arduino/dp/B08Y95CMRH/ref=sr_1_16?crid=QELTUO8GYDDK&keywords=arduino+uno&qid=1673793385&sprefix=arduino+un%2Caps%2C333&sr=8-16|$24.591|
+| RF module      |https://www.amazon.in/Robotbanao-Wireless-Transmitter-Compatible-Raspberry/dp/B07DZCJRJ6/ref=sr_1_1_sspa?crid=NO9YCF29H2YK&keywords=rf+module&qid=1673793491&sprefix=rf+modu%2Caps%2C343&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|$4.111|
+| jumper wires  |ALready Own||
+TOTAL=$230.626
