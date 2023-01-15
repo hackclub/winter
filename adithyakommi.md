@@ -14,7 +14,7 @@ In conclusion, i’ll be converting my existing cycle to an electric one. I’ve
 
 Plan
 
-Tools i'll be using - wrenches, allen keys, pliers, a bunch of zipties and wrenches
+Tools i'll be using - wrenches, allen keys, pliers, zipties and wrenches
 Components - A hub motor(36v), break levers, Pedal Assistant sensor, Motor Controller, Battery pack(36v) and a box for the motor controller
 
 Step 1 - We need to first remove the rear wheels by unscrewing the derailleur and pulling the chain of the sprocket, now unscrew the nuts on either ends of
@@ -27,6 +27,9 @@ step 4 - Place the battery and the motor controller(boxed) in your cycle frame a
 step 5 - connect the motor controller to the battery, motor, breaks, pedal assist and the break levers accordingly
 It's ready!
 
+note: though attaching it to the front tyre may be an easier option, but i wouldn't do it because it's more unsafe since if you'd loose traction on the front you're almost guaranteed a crash.
+
+edit: added the note
 
 Budget
 
@@ -42,5 +45,5 @@ Budget
 | Brakes                                                        | https://robu.in/product/brake-for-my1016/                                                 |  380         |   |   |
 | Motor controller box                                          | https://motorkit.in/ebicycle-controller-box                                               | 550          |   |   |
 | Wrenches, allen keys, pliers, a bunch of zipties and wrenches | Already present                                                                           | 2500         |   |   |
-|                                                               | Shipping                                                                                  |1500          |   |   |
+|                                                               | Shipping                                                                                |1500          |   |   |
 |                                                               | Total in USD                                                                              |   $365       |   |   |
