@@ -1,22 +1,31 @@
 ---
 name: "@sanjay-nagesh"
-project: "LED Strips Soldering"
+project: "LED Cube"
 ---
 
-# LED Strips Soldering
+# LED Cube
 
 ## Summary
 
-I am going to build LED strip lights. They can be used for a variety of purposes such as lighting up a room or creating unique lighting effects. I am excited to build it because it is a fun and interesting project that will allow me to learn more about soldering and electronic circuits. Additionally, LED strip lights can be very cool and can add a unique touch to any space.I will be learning about soldering by joining different components together to create a functional circuit. This will include learning about different types of LED lights, resistors and other components that are used in LED strip lights. Additionally, I will learn about power supply and how to properly wire the LED strip lights. I am excited to take on this project as it will allow me to learn new skills and create something cool and unique that can be used to enhance any space.!
+I will be to constructing a cube-shaped object with a 4x4 array of Light-Emitting Diodes (LEDs). This LED 4x4 cube can be used for various purpose like display, decoration, etc. It will involve soldering and programming to control the LEDs and bring the cube to life.
 
 ## Plan
 
-1. Gathering supplies.
-2. Learning about the components- Before starting I will learn about the different components and what their functions are. I will learn how to solder and also practice soldering.
-3. I will decide on the layout and design of my LED STRIP LIGHTS. I will deteermine where the resistors and the power supply will be placed. 
-4. I will carefully use my soldering skills to solder the led strips and the resistors and also make sure that all connections are working.
-5. Once everything is build I will test the circuit and fix anything if required
-6. Add it to my room. 
+Gather materials: You will need 64 LEDs, a soldering iron, soldering wire, a microcontroller (such as an Arduino), wires for connecting the microcontroller to the LEDs, and a power source.
+
+Plan the wiring: Sketch out a diagram of the cube, showing where each LED will be placed and how it will be wired to the microcontroller.
+
+Solder the LEDs: Carefully solder the LEDs to a circuit board, making sure to connect the anodes and cathodes correctly.
+
+Connect the microcontroller: Wire the microcontroller to the circuit board, connecting the appropriate pins to the anodes and cathodes of the LEDs.
+
+Write the code: Use a programming language such as C++ to write code that will control the LEDs, determining when and how they will light up.
+
+Assemble the cube: Carefully connect the circuit board to the structure of the cube, connecting all the LEDs and making sure the wiring is correct.
+
+Test and debug: Test the cube to make sure it functions correctly, and debug any issues that may arise.
+
+Power on: Connect a power source to the cube, and power it on. The cube should now be fully functional, displaying different patterns and animations.
 
 
 ## Budget
@@ -26,7 +35,7 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Solder Wire     | https://www.amazon.com/gp/product/B0943RVQ5W/ref=ox_sc_act_title_1?smid=A2L1VF9N696CKB&psc=1 | $1.95  |
-| 450 pcs LED     | https://www.amazon.com/gp/product/B073QMYKDM/ref=ox_sc_act_title_2?smid=A4796MTJVO3KW&psc=1  | $12.99 |
+| 450 pcs LED (x2)| https://www.amazon.com/gp/product/B073QMYKDM/ref=ox_sc_act_title_2?smid=A4796MTJVO3KW&psc=1  | $25.98 |
 | Wire stripper   | https://www.amazon.com/gp/product/B073YG65N2/ref=ox_sc_act_title_3?smid=A26I79OO3YFR4X&psc=1 | $8.00  |
 | Helping hand    |https://www.amazon.com/gp/product/B000P42O3C/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1   | $8.49  |
 |Soldering Station| https://www.amazon.com/gp/product/B087832Y16/ref=ox_sc_act_title_5?smid=A1G6RYZRZJ1HSS&psc=1 |$44.99  |
@@ -35,6 +44,6 @@ What materials will you need for your project? Where will you get them? How much
 |Wire conductor   |https://www.amazon.com/gp/product/B07RV6Q7ND/ref=ox_sc_act_title_8?smid=A2O30CO8D3AY3D&psc=1  | $19.98 |
 | Wire Spool      |https://www.amazon.com/gp/product/B089CW7YSR/ref=ox_sc_act_title_9?smid=AMHYOXF0C8EDF&psc=1   | $29.49 |
 | Smoke remover   |https://www.amazon.com/gp/product/B08FCMH3VF/ref=ox_sc_act_title_10?smid=A3G9VP67MXSVER&psc=1 | $24.58 |
-| BTF LIGHT STRIPS|https://www.amazon.com/gp/product/B01CDTEJBG/ref=ox_sc_act_title_11?smid=A35UAT07QG3EC6&psc=1 |$32.99  |
 | Shipping & Tax  | Shipping is free. Tax                                                                        | $25.42 |
-|Total            |$242.29|                                                                                      | $242.29|
+| Wood- Indepenent| Provided by RSC                                                                              | $00    |
+|Total            |                                                                                              | $183.49|
