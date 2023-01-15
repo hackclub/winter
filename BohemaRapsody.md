@@ -6,7 +6,7 @@ Project: "DESIGNING AND BUILDING AN RC CAR"
 # BUILDING AN RC CAR – BRINGING TOGETHER ELECTORNICS AND FLUID MECHANICS
 
 ## Project Overview
-We are going to be constructing a high-speed RC car with the aim of optimising the body car shape to maximise its speed. This will be achieved by completing fluid simulations in Fusion 360 to optimise the aerodynamics on the shell. To manufacture the shell, we will employ FDM 3D printing in a range of materials, furthermore, we will utilise our school's CNC machine to experiment in other materials such as polycarbonate, acrylic etc... We will also complete generative design studies to generate a chassis that is both lightweight and strong.
+We are going to be constructing a high-speed RC car with the aim of optimising the body car shape to maximise its speed. This will be achieved by completing fluid simulations in Fusion 360 to optimise the aerodynamics on the shell. To manufacture the shell, we will employ FDM 3D printing in a range of materials. Furthermore, we will utilise our school's CNC machine to experiment in other materials such as polycarbonate, acrylic etc... We will also complete generative design studies to generate a chassis that is both lightweight and strong.
 
 ![image](https://user-images.githubusercontent.com/122684674/212546059-f4ffac8b-df99-4251-bbe7-8c26e6216cc6.png)
 
