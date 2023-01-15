@@ -35,6 +35,6 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | Raspberry Pi 4 (Ordered, but need reimbursement, have receipt) | https://mycroft.ai/product/raspberry-pi-4-model-b-2gb/ | $45.00 |
 | SD Card for RPi | https://www.adafruit.com/product/2820 | $9.95 |
 | Battery Pack For Raspberry Pi | https://www.adafruit.com/product/1959 | $14.95 |
-| Tax + Shipping (Adafruit) | | $29.82 |
+| Tax + Shipping (Adafruit) | | $29.38 |
 | Tax + Shipping (Mycroft) | | $6.88 |
-| Total           |                                       | $237.55 |
+| Total           |         | $247.06 |
