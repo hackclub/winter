@@ -39,6 +39,19 @@ We will also use a front wing to direct the air flow around the car allowing the
 Rear wings in F1 cars are used to direct the wind flow above the car thus giving the car more downforce so they can turn round corners at high speeds. Although we do not need to turn corners, we still need to have high downforce to get the best friction so that our motors can work at optimum efficiency. Wings also reduce the aerodynamic smoothness of the car thus slowing the car down (which is why F1 cars open their rear wing on the straight, leaving gap to decrease the drag but still have stability). Therefore, our rear wing should have a very slight angle at about 20° to the horizontal and be thin. This allows for our car to have increased downforce without gaining too much drag and ruining the aerodynamics of the car. 
 
 ## What will this require?
+
+There are several materials and products that we will require in order to complete the project efficiently, and this section will act as a justification for each component labelled in our Budget requirement list *(below)*: 
+
++ Firstly, we have decided to utilise ready built RC car models and disassemble them for the electronics parts and chassis structure. It is important to get several models so that we can test different shell shapes against each other simultaneously to ensure fair trails. For this we will require four RC car models – using them to study the disassembly process and internal hardware, make relevant modifications, and test different shell shapes and materials for the most efficient motor outputs. 
+
++ Our next crucial piece of equipment for this project is the 3D Printer, we choose the Flashforge because it has a dual extruder allowing for support material to be printer in soluble PVA meaning when we wash the model in warm water the supports dissolve away. This means that no long-term marks or scratches will be created by attempting to remove difficult support material. Furthermore, by having dual extruders we can improve aesthetics of the prototype and be able to visually segment the design. The Flashforge also has an enclosure allowing us to maintain relatively high temperatures to print in both ABS & TPU, also, by having an enclosure the printer is safer to use overall. The printer bed is heated allowing food good first layer adhesion which is essential for good quality output. Finally, for our experiments the material choice (weight, texture etc...) is very important and this printer allows us to print in a range of materials. 
+
++ Finally, we decided to consider the materials that we would need to create our shell models and prototypes in the form of 3D filaments.  The main materials that we were keen on using were ABS – a rigid polymer with high tensile strength – and PLA – a biodegradable polymer known for its light weight and ease of printing due to its low melting point. Furthermore, we have decided to explore the use of high traction TPU filament and wood-filled PLA for an even lighter design. In order to print the complex shell shapes that we require, we need to also design stable printing support structures – for which we have decided to test out a soluble PVA filament (easily removed from 3D printed shells) with the dual extruder system of the 3D printer. 
+
+ 
+
+**Furthermore, we will be donating the 3D printer and excess materials to our school after using it for this project. This will allow for others to use the printer for their own projects and further their education in engineering, design & technology. ** 
+
 ## Project Plan
 
 **Build RC Car**: 
