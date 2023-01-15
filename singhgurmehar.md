@@ -9,9 +9,9 @@ project: "Secure VPN Travel Router"
 
 ## Summary
 
-In Winter Hardware Wonderland, I plan to build a Secured Wifi Router using Raspberry Pie for travel with its own VPN server for providing an advanced security layer over public Wifi's.
+In Winter Hardware Wonderland, I plan to build a Secured Wifi Router using Raspberry Pie for travel with its own Dns Server & VPN server for providing an advanced security layer over public Wifi's.
 
-Whenever we connect to any public wifi networks , being a Open Wifi, Wifi at coffee shops or Hotels. There's a always high risk to our privacy. To safegaurd our privacy and maintain our Anonymity, this router will let us connect to the internet over VPN. It will be connecting with the public Wifi network and will broadcast its own Wifi network that will be over a VPN server.
+Whenever we connect to any public wifi networks , being a Open Wifi, Wifi at coffee shops or Hotels. There's a always high risk to our privacy. To safegaurd our privacy and maintain our Anonymity, this router will let us connect to the internet over VPN. It will be connecting with the public Wifi network and will broadcast its own Wifi network that will be over a VPN server.With our own DNS server we will be able to safeguard our devices from ads & trackers by blocking them.
 
 ## Plan
 
