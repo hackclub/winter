@@ -45,6 +45,18 @@ Ok, that was a lot of words and probably not the clearest wall of text but below
 	- Will also send a text alarm whenever it is trigerred.
 - Android TV support
 	- Can sit right beside your TV and work as your Smart TV!
+
+Extra Notes:
+	- This project is extremely technical in nature and requires a lot of jerry rigging, modification to software, as well as custom solutions. 
+	- The first inherent problem with this is the designation of a custom LAN. This should in theory work, but we have to ensure that it is isolated from the actual network of the system. We would also have to use our Wi-Fi Adapter in order to create a Wi-Fi network for the phones to connect to
+	- The next part is modifying the current Linux App for [Droidcam](https://github.com/dev47apps/droidcam) to support the connection of multiple devices and bind them to different "virtual" cameras as well as microphones. Furthermore, we would have to create a way to link these microphones to the bluetooth speakers that they will be alongside, that way, they will function like "nodes" and respond only in the same speaker. 
+		- After this, we then need to work on a way to capture the audio as well as the image that is detected from the phones then place it into a TensorFlow Algorithm. This will require some adaptation to TensorFlow as it does not do real time image detection, only from stills. Additionally, we will also have the develop a script that will listen at all microphones at the same time and detect for speech. After it detects this speech, it will check whether or not it is the activation words. If it is indeed the activation word, it will play a little activation sound and continue listening and actively take input. This way it brings it closer to the design of Amazon Alexa and Google Home. 
+		- The next part of this is the image detection. This is currently only being done one at a time by TensorFlow, so we'd have to adapt our script to it and create a solution for it to process multiple videos at the same time from different camera sources.
+		- TensorFlow will all be processed under the GPU through AMD's ROCm. Whilst it is most definitely possible to downgrade the hardware or even remove the GPU all together, it will increase the processing time of the overall system. Since the goal is to replace what Google Home and Amazon Alexa does, having to wait a minute for a response from the system is simply outrageous. Hence, we picked both the 6600xt and the 12700K in order to run these operations both in parallel as this system will require a lot of processing both for images and voice.
+	- Another fundamental part of our system is the Wireless Carbon Monoxide, Smoke, and Gas Alarm. This will be assembled into a Arduino or a Raspberry Pi 4b where we will develop a little script to let us know when any of these are triggered. It will wirelessly connect to the system through either a Particle Photon or a Raspberry Pi 4.
+	- The most important part of the project is the website. Through this website, you'll be able to add custom commands for the voice assistant, indicate what to do when people are detected, and view the cameras anytime.
+	- Lastly, the whole system will be running Android TV which will be emulated.
+	
 	
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
