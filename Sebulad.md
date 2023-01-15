@@ -14,7 +14,7 @@ We are going to be building a high-speed RC car with the aim of optimising the b
 As a group, we are extremely excited to complete this build as it brings together our love for electronics whilst providing a fulfilling challenge. Furthermore, by employing a range of manufacturing techniques to build the shell of the car we can learn about how different CNC machines work and the advantages / disadvantages of different manufacturing techniques.
 
 ## A focus on Electronics
-Although this project has a heavy focus on understanding what factors affect the aerodynamics of a cars speed, we also want to get stuck into some electronics. We found that the best way to assemble the RC car whilst not getting bogged down by overcomplicated electronics and wiring was to purchase a disassembled chasis of an RC!
+Although this project has a very heavy focus on understanding what factors affect the aerodynamics of a cars speed, we also want to get stuck into some electronics. We found that the best way to assemble the RC car whilst not getting bogged down by overcomplicated electronics and wiring was to purchase a disassembled chasis of an RC!
 car and heavily modify it to suit our needs: both ensuring that the manufacturing process of the electronics will be relatively smooth and allow us to disassemble and reassemble it to understand how it works.
 
 ![image](https://user-images.githubusercontent.com/122684674/212545802-0824ac49-8dcc-4b66-9b13-73c342de18d0.png) 
