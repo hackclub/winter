@@ -16,6 +16,6 @@ Materials
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 |
-| Switches        | [Gateron Oil King](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9460) | $50.19 |
+| Switches        | [Gateron Oil King](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9460) | $50.68 |
 | Keycaps         | [Gray/Yellow](https://www.amazon.com/dp/B09T2QPR2H) | $39.99 |
-| Total           |                                       | $250.17 |
+| Total           |                                       | $250.66 |
