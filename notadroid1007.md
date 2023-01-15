@@ -48,7 +48,8 @@ These are the things I need to make my amazing project...
 | Battery connectors   | Owned                                                                                    | £ ---  |
 | Bluetooth Keyboard   | Owned                                                                                    | £ ---  |
 | Shipping             | ------------------------------- Shipping ----------------------------------------------- | £37.20 |
-| Total                |                                                                                          | £205.80|
+| Tax                  |                                                                                          | £4.10  |
+| Total                |                                                                                          | £209.90|
 
 
 ## £205.80 GBP is $246.57 USD
