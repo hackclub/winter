@@ -1,9 +1,9 @@
 ---
 name: "@cytronicoder"
-project: "Sprig gaming case"
+project: "Sprig gaming controller"
 ---
 
-# Sprig gaming case
+# Sprig gaming controller
 
 ## Summary
 
