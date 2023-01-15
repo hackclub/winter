@@ -20,7 +20,7 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Home Server (old dell optiplex)   | n/a | Owned  |
-| Ethernet Cable   | https://www.amazon.ca/AmazonBasics-Cat-5e-Network-Ethernet-Cable/dp/B001TH7GVO | 15.60  |
+| Ethernet Cable   | https://www.amazon.ca/AmazonBasics-Cat-5e-Network-Ethernet-Cable/dp/B001TH7GVO | $15.60  |
 |  Samsung s6 Tablet| https://www.facebook.com/marketplace/item/606919971242436/?hoisted=false  | $220 |
 | Total           |                                       | $235.60 |
 
