@@ -25,7 +25,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Project box case| https://www.amazon.com/dp/B0B5QG83RC/ |  $15.99   |
-| Mounting screws |  https://www.amazon.com/dp/B07ZH9GJWP/ |  $11.79  |
+| Mounting screws |  https://www.amazon.com/dp/B07ZH9GJWP/ |  $11.99  |
 | Power supply |    https://www.amazon.com/dp/B07MXXXBV8/ | $20.99 |
 | DC jack |  https://www.amazon.com/dp/B07XSQP3CT/ |  $4.88  |
 | Input selector switch | https://www.amazon.com/dp/B07JM3M2B4/ |  $13.49  |
@@ -37,6 +37,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | Volume control potentiometer | https://www.amazon.com/dp/B07DJ7H1YC/ | $9.99 |
 | Line in cables | N/A | Already have |
 | Speakers | N/A | Already have |
-| Subtotal |  | $107.35 |
-| Tax (8%) |  | $8.60 |   
+| Subtotal |  | $107.54 |
+| Tax (8%) |  | $8.61 |
+| Shipping | Amazon Prime free shipping over $25 | $0 |
 | Total |  | $115.95 |
