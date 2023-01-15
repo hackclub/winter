@@ -13,8 +13,8 @@ What are you going to build? What does it do? Why are you excited to build it?
 i plan to build  a smart music system using rasbery
 pi , speaker parts and amplifiers, balena sound software , will later be
 integrated with google voice assistant using linear mic array on rasberry pi. I
-feel excited music systems have been made sing raspi but voice enabled ones have
-never been tried before i want integrate it into a single system.
+feel excited music systems have been made using raspi but voice enabled ones have
+never been tried before. I want integrate it into a single system.
 
 ## Plan
 
@@ -29,7 +29,7 @@ already owened-
 1 aux cable - already owened - to connect the raspi module to our speaker module
 parts to buy- 1 x Raspberry Pi 4 Model B with 2 GB RAM- main computing circut which will connect to bluetooth and host ai assisrtant in the future
 1 x Sipeed MAIX R6+1 Microphone Array- mic and ai circut enabling us to run real time conversations as ai assistants do
-1 x ShivExim 25 in 1 Precision Screwdriver Set Multi Pocket Repair Tool Kit  will be used to remove the battery from my phone to connect to the mobile phone
+1 x ShivExim 25 in 1 Precision Screwdriver Set Multi Pocket Repair Tool Kit  will be used to remove the battery from my phone to connect to the ras-pi
 
 
 refrances
@@ -49,7 +49,8 @@ Design, Size 24 X 12 Inches (Black) - will be usedcd to cover the pvcpipe
 1 x Audio Jack – 3.5mm TRRS (SMD), will be connected to aux cable from raspi module
 1 x TPA3116D2 12 to 24V DC Dual Channel 2 x 80W Audio Power Amplifier,amplifier board
 1 x Bluetooth 4.0 CSR8645 Amplifier Board 5W+5W APT-X Stereo Receiver Amp Module- will enable the speaker to work wirelessly
-1 x Ambrane Lithium Polymer Stylo Max 50000mAh Power Bank - Blue- i plan on using this as my batterey as it makes use of li poly battries 
+1 x Ambrane Lithium Polymer Stylo Max 50000mAh Power Bank - Blue- i plan on using this as my batterey as it makes use of li poly battries and gives same voltage as normal li-poly battries do yet is cheaper and offers more charging ports, power  and same voltage.
+2 x 2 x YLY-2088 400W Treble-Bass Crossover Dual 2-Way Speaker Audio Crossover Module- crosssovers used in speakers will connect the speakers and amplifiers together
 
 refrances
 https://www.youtube.com/watch?v=Mu_qqW3nwrI
