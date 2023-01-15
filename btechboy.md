@@ -5,12 +5,11 @@ project: "QUADCOPTER"
 # QUADCOPTER
 
 ## Summary
-I am going to build a quadcopter which will help revolutionize the arena of automated farming.
-I wanted to make it because it will open up many possibilities in my current field of study.
+I am going to build a QUADCOPTER that will help me to understand the basics of drones' structure and working. 
 
-This project will help me survey and monitor huge fields and produce actionable data which can further be used in my current field of study. As Drones are already used in agriculture, so this will help me in monitoring the crops' health.
+From this project, I will be able to aquire hands-on experience over the concepts that I learnt so-far and will definitely learn new things. This project can further help me survey and monitor huge fields and produce actionable data which can further be used in my current field of study. As Drones are already used in agriculture, so this will help me in monitoring the crops' health and many futuristic possiblities.
 
-Building a quadcopter is not just my dream but my father's as well. My dad is fascinated by technological advancements and aircraft that soar the skies. One day he told me about how well the drone was used by Amazon and Food Delivery Partners to deliver packages without the need for human intervention and with minimum pollution. This sparked my interest in me and I wanted to explore it further and expand it by using it in my field of study.
+ This will be a great jump-start in the journey of my career and I am really excited to build it.
 
 ## Plan
 
