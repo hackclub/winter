@@ -15,7 +15,7 @@ We are going to build a single motor robot that is able to read and execute mech
 
 2) Use Fusion 360 to design the components of the robot. This will include a holder for the motor, multiple interchangable wheels that can each code the robot to to diffferent things, and a system of gears and other parts that will be able to turn that code into motion. 
 
-3) Print out all of the parts on the 3D printer
+3) Print out all of the parts on the 3D printer (youtube.com/watch?v=iF5TEdEGyg8 - 3D Printer Review, https://www.youtube.com/watch?v=CpM5pSSYq2c - Unboxing and Setup)
 
 4) Assmemble all of the parts and test!
 
