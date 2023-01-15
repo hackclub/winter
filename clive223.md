@@ -50,7 +50,9 @@ Design, Size 24 X 12 Inches (Black) - will be usedcd to cover the pvcpipe
 2 x 2 x YLY-2088 400W Treble-Bass Crossover Dual 2-Way Speaker Audio Crossover Module- crosssovers used in speakers will connect the speakers and amplifiers together
 
 refrances
+https://www.instructables.com/40W-Bluetooth-Portable-Speaker-Improved-Version/
 https://www.youtube.com/watch?v=Mu_qqW3nwrI
+https://www.youtube.com/watch?v=Xh8o9rZyH0A
 
 
 ## Budget
