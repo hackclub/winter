@@ -23,7 +23,7 @@ Me and my sister are going to build a multipurpose home server and lab, which wi
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+Everything will be from amazon so shipping is free, and extra cost will be sponsored by our parents
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
