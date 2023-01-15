@@ -41,22 +41,22 @@ Rear wings in F1 cars are used to direct the wind flow above the car thus giving
 ## What will this require?
 ## Project Plan
 
-**Build RC Car**
+**Build RC Car**: 
 Assemble RC Car by employing the components mentioned in the B.O.M, this will be completed by following a number of guides online (ie. https://www.instructables.com/How-to-Make-a-Remote-Control-Car/ ). We hope that this stage of the project will be the most rapid allowing us to focus on the design of the car body. The RC car we will remove the wheels and 3d print new wheels out of TPU and maintain an ABS center with reduced diameter allowing the frame of the car to be closer to the ground.
 
-**Air-Flow Analysis**
+**Air-Flow Analysis**: 
 Air flow analysis will be completed in MATLAB or Fusion 360. As we have experience in Fusion 360 after completing an online course in simulations in Fusion we will probably be going down this route. Firstly, we will model the chasis of the car in F360 and then complete the simulation analysis for it.
 
-**Design Car Bodies**
+**Design Car Bodies**: 
 We will design the car bodies by looking at existing solutions, drawing inspiration from nature and experimenting with a range of shapes and forms. We will also employ generative design to create forms that we wouldn't have been able to materialise otherwise. Furthermore, the generative design will allow us to maximise the overall strength of the design whilst minimising weight.
 
-**Manufacture Car Bodies**
+**Manufacture Car Bodies**: 
 The car bodies will be printed using ABS / PLA (and possibly machines out of MDF using our school's CNC), we will employ the dual extruder to aid in printing support materials out of PVA so that they are soluble and can be easily removed. We will post-process the moulds using abrasive paper and IPA for the ABS which will be something that we've not tried out before but will provide a valuable learning experience.
 
-**Attach Car Body Onto Car**
+**Attach Car Body Onto Car**: 
 This will be done via M8 bolts that will go onto the modified chassis so that the shells can be easily swapped out and can be replaced easily so we can make modifications readily.
 
-**Measure Speed using Light Gates**
+**Measure Speed using Light Gates**: 
 Once we have the bodies manufactured and printed we will test them by using a 5 meter rule and light-gates. Using speed = distance / time we can find which car body is fastest and continually improve our car design so that it is the fastest it can be.
 
 
