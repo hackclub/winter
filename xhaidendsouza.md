@@ -11,7 +11,7 @@ We are going to build a single motor robot that is able to read and execute mech
 
 ## Plan
 
-1) Brainstorm how the robot will read the mechanical wheel and turn it into an output (https://www.youtube.com/watch?v=TD_MLuMvkNw - Reference for Mechanical Coding Robots)
+1) Brainstorm how the robot will read the mechanical wheel and turn it into an output (https://www.youtube.com/watch?v=TD_MLuMvkNw - Reference for Mechanical Coding Robots, https://www.youtube.com/watch?v=tBi0ecy5kPs - Gear source)
 
 2) Use Fusion 360 to design the components of the robot. This will include a holder for the motor, multiple interchangable wheels that can each code the robot to to diffferent things, and a system of gears and other parts that will be able to turn that code into motion. 
 
