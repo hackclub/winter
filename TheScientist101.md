@@ -33,6 +33,7 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | Bump Absorber For Electronics | https://www.adafruit.com/product/550 | $0.95 |
 | Camera For Raspberry Pi | https://www.adafruit.com/product/5658 | $35.00 |
 | Raspberry Pi 4 (Ordered, but need reimbursement, have receipt) | https://mycroft.ai/product/raspberry-pi-4-model-b-2gb/ | $45.00 |
+| SD Card for RPi | https://www.adafruit.com/product/2820 | $9.95 |
 | Battery Pack For Raspberry Pi | https://www.adafruit.com/product/1959 | $14.95 |
 | Tax + Shipping (Adafruit) | | $29.82 |
 | Tax + Shipping (Mycroft) | | $6.88 |
