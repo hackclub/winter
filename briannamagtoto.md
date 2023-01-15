@@ -53,6 +53,7 @@ We will be following several online guides to build our project. The first is a 
 | 6oz Spray Gloss Finish | https://www.amazon.com/Aleenes-Spray-Finish-Acrylic-Sealer/dp/ (Amazon)  | $6.07 |
 | Sandpaper | https://www.amazon.com/24PCS-Variety-Sandpaper-Assorted-Sanding/dp/B07R64PZ8N/  (Amazon)  | $5.99 |
 | UV Resin | https://www.amazon.com/UV-Resin-300g-Upgraded-Ultraviolet/dp/B09WHYH66X/ (Amazon)  | $13.99 |
+| USB 2.0 Cable Type A/B | https://www.amazon.com/gp/product/B00P0FO1P0/ (Amazon | $6.99 |
 | Acrylic Paint | Owned | $0.00 |
 | 16-Channel 12-bit PWM/Servo Driver | https://www.adafruit.com/product/815 (Adafruit)  | $14.95 |
 | 10k Ohm Resistors | https://www.adafruit.com/product/2784  (Adafruit)  | $0.75 |
@@ -60,4 +61,4 @@ We will be following several online guides to build our project. The first is a 
 | Tax | Amazon | $30.11 |
 | Tax | Adafruit | $1.99 |
 | Shipping | Adafruit | $14.36 | 
-| Total           |                                       | $465 |
+| Total || ~$470 |
