@@ -7,7 +7,7 @@ project: "Simple Stereo Amp"
 
 ## Summary
 
-I am going to build a simple stereo amplifier. This amplifier will be able to play audio from a CD player, smartphone, TV, etc. on various speakers I have salvaged from broken electronics. I am excited because I really enjoy listening to and making music but currently have some old cheap computer speakers, and this amplifier would have much higher sound quality.
+I am going to build a simple stereo amplifier. This amplifier will be able to play audio from a CD player, smartphone, TV, etc. on various speakers I have salvaged from broken electronics. I am excited to build this because I really enjoy listening to and making music but currently have some old cheap computer speakers, and this amplifier would have much higher sound quality.
 
 
 ## Plan
