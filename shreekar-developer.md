@@ -20,7 +20,10 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| CPU, Motherboard, Ram, Storage, Cooler| shorturl.at/LRUW2 | $205  |
+| CPU R5 5600G| Microcenter In store | $120  |
+| Ram 8GB| Microcenter In store | $22  |
+| Motherboard| Microcenter In store | $60  |
+
 | power supply |  shorturl.at/avAFM | $32 |
 | Powered Wood Saw |  shorturl.at/asOWX | Already Own |
 | Power Drill |  shorturl.at/bmpYZ | Already Own |
@@ -33,5 +36,5 @@ What materials will you need for your project? Where will you get them? How much
 | 1TB Hard Drive | shorturl.at/efvL1 | Already Owned |
 
 
-| Total           |                                       | $519 |
+| Total           |                                       | $520 |
  
