@@ -15,6 +15,10 @@ We are going to build an IoT scoreboard for the foosball club at our high school
 - Once all the stuff is 3d printed, and test wired up so we know what to do, we will bring it to the school for final assembly.
 - Then I will write the new API for the rating system, and code the microcontroller to make everything work.
 
+### User interface mockups
+![image](https://user-images.githubusercontent.com/19589006/212565372-3a674f2f-6224-4938-bd32-59bc7ffc7b55.png)
+
+
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
