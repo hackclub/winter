@@ -15,11 +15,11 @@ I'm also excited to share my progress and design process when creating a new ant
 
 1. I've already CADed a 9 element biquad yagi design using Fusion 360 and uploaded it to printables here: https://www.printables.com/model/358225-24-ghz-biquad-yagi-wifi-antenna.
 
-2. I'll 3D print the parts necessary using my baby aka the best combined birthday+Chirstmas gift ever, my Ender 3 Pro.
+2. I'll 3D print parts out of PLA using my baby aka the best combined birthday+Chirstmas gift ever, my Ender 3 Pro.
 
 3. Then, through a great amount of pain, I'll somehow bend 9 biquad elements out of gauge 14 copper wire. I made a 5 element biquad yagi during winter break as a proof-of-concept and bending those biquads precisely was HARD.
 
-4. I'll super glue the copper wire into the guides and cover the reflector with copper tape. (Copper is very good for antennas due to it's high conductivity).
+4. I'll super glue the copper wire into the guides and cover the reflector with copper tape. (Copper is very good for antennas due to its high conductivity).
 
 5. I'll prep the RG402 coax and the driven element of the antenna and solder them together.
 
