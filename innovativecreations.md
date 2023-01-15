@@ -37,6 +37,12 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry pi 4 - owned  |  | $0 |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+| Raspberry pi 4 with accessories - owned  |  | $0 |
+| Accessories of raspberry pi - owned | | $0 |
+| ESP32 - owned |  | $0 |
+| Relays - owned |  | $0 |
+| Prototyping stuffs - owned |  | $0 
+| SD Card | (https://amzn.eu/d/exmtUtB) | $6.30 |
+| WS2812b LED strip | (https://amzn.eu/d/4nfmZzv) | $15.40 |
+| Monitor | (https://www.flipkart.com/marq-flipkart-27-inch-full-hd-led-backlit-va-panel-2-x-3w-inbuilt-speakers-monitor-27fhdmvqiizb/p/itmd929dcd96de1a?q=monitors&marketplace=FLIPKART&iid=2abd3e0f-ef42-4990-b540-87a5077f16ce.MONGEPNDWVFKYF5E.SEARCH&lid=LSTMONGEPNDWVFKYF5EKDJS5X&srno=s_2_30&qH=4cbba110d06cbe92&pid=MONGEPNDWVFKYF5E&affid=prashuana&store=6bo%2Fg0i%2F9no&ssid=mfv4kcbz9s0000001663994511321&otracker1=search)  | $116.90 |
+| Total           |                                       | $138.1 |
