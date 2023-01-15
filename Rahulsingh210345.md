@@ -1,12 +1,12 @@
 ---
 name: "Rahulsingh210345"
-project: "Smart Plug3.0"
+project: "Smart Plug"
 ---
 
-# Smart Plug3.0
+# Smart Plug
 
 ## Summary
-I am going to build a smart plug3.0.This device will  allow users to remotely control and schedule the power to an electrical outlet through a smartphone app or voice assistant.y.A smart plug3.0 is way to learn about the inner workings of smart home technology and gain hands-on experience with electrical engineering and programming.
+I am going to build a smart plug.This device will  allow users to remotely control and schedule the power to an electrical outlet through a smartphone app or voice assistant.y.A smart plug3.0 is way to learn about the inner workings of smart home technology and gain hands-on experience with electrical engineering and programming.
 
  
 ## Plan
