@@ -35,6 +35,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | Line in jacks | https://www.amazon.com/dp/B07TY8XNRS/ | $5.99 |
 | Power switch | https://www.amazon.com/dp/B07QQ21QQS/ | $6.99 |
 | Volume control potentiometer | https://www.amazon.com/dp/B07DJ7H1YC/ | $9.99 |
+| Soldering tools | N/A | Already have |
 | Line in cables | N/A | Already have |
 | Speakers | N/A | Already have |
 | Subtotal |  | $107.54 |
