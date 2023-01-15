@@ -40,4 +40,4 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | Subtotal |  | $107.54 |
 | Tax (8%) |  | $8.61 |
 | Shipping | Amazon Prime free shipping over $25 | $0 |
-| Total |  | $115.95 |
+| Total |  | $116.15 |
