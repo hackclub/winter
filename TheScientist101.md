@@ -22,7 +22,7 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | Temperature & Humidity Sensor Breakout Board | https://www.adafruit.com/product/1899 | $10.95 |
 | Robot Chassis | https://www.adafruit.com/product/3244 | $24.95 |
 | Lithium Ion Battery | https://www.adafruit.com/product/1578 | $7.95 |
-| AA Battery Holder | https://www.adafruit.com/product/830 | $2.95 |
+| AA Battery Holder | https://www.digikey.com/en/products/detail/adafruit-industries-llc/830/5353623 | $2.95 |
 | AA Batteries | https://www.adafruit.com/product/3349 | $2.95 |
 | Jumper Wire | https://www.adafruit.com/product/1956 | $1.95 |
 | Jumper Wire Extender | https://www.adafruit.com/product/1954 | $1.95 |
@@ -35,6 +35,7 @@ Once my parts arrive, I will first assemble the chassis without the camera and r
 | Raspberry Pi 4 (Ordered, but need reimbursement, have receipt) | https://mycroft.ai/product/raspberry-pi-4-model-b-2gb/ | $45.00 |
 | SD Card for RPi | https://www.adafruit.com/product/2820 | $9.95 |
 | Battery Pack For Raspberry Pi | https://www.adafruit.com/product/1959 | $14.95 |
-| Tax + Shipping (Adafruit) | | $29.38 |
+| Tax + Shipping (Adafruit) | | $28.19 |
 | Tax + Shipping (Mycroft) | | $6.88 |
-| Total           |         | $247.06 |
+| Tax + Shipping (Digikey) | | $5.65 |
+| Total           |         | $249.52 |
