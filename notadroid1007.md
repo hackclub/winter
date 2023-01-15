@@ -45,6 +45,7 @@ These are the things I need to make my amazing project...
 | Heat sink for RPI    | https://shop.pimoroni.com/products/aluminium-heatsink-case-for-raspberry-pi-4            | £12.00 |
 | Acrylic sheets 12"   | Local shop                                                                               | £6.00  |
 | Mouse                | Owned                                                                                    | £ ---  |
+| Battery connectors   | Owned                                                                                    | £ ---  |
 | Bluetooth Keyboard   | Owned                                                                                    | £ ---  |
 | Shipping             | ------------------------------- Shipping ----------------------------------------------- | £37.20 |
 | Total                |                                                                                          | £205.80|
