@@ -20,6 +20,7 @@ Firstly, I can use a simple string-based hand that can be 3D printed. My brother
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
 | 6 x 2 way nitinol springs | https://nexmetal.com/products/nitinol-2-way-memory-spring-w075-d65?variant=31857719672874 | $146.77|
 | Arduino Uno| https://www.amazon.co.uk/ELEGOO-Arduino-Arduino-Compatible-Transfer-Operation/dp/B09JWFTZ2V/ref=sr_1_4?crid=8WR048OJR0MU&keywords=arduino+uno&qid=1673816874&sprefix=arduino+uno%2Caps%2C81&sr=8-4 | $18.33|
 | Rainbow filament| https://www.amazon.co.uk/Flashforge-Rainbow-1-75mm-Printer-Filaments/dp/B08ZNBGQ2S/ref=sr_1_1_sspa?crid=1V5RR8JALRWLI&keywords=3d%2Bprinter%2Bglow%2Bin%2Bthe%2Bdark%2Bfilament&qid=1673816981&sprefix=3d%2Bprinter%2Bglow%2Bin%2Bthe%2Bdark%2Bfilament%2Caps%2C64&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1 | $24.45 |
