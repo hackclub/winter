@@ -97,4 +97,4 @@ Once we have the bodies manufactured and printed we will test them by using a 5 
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
 | Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $733.60       |
 
-*Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
+*Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4).*
