@@ -9,7 +9,7 @@ Proxmox Home Server and Lab
 
 ## Summary
 
-Me and my sister are going to build a multipurpose home server and lab, which will be running Proxmox a type 1 hypervisor that runs on Debian Linux. We will be using it for home assistant and node-red, which I will use to create an app to integrate our garage door and front door locks to close when we leave the house, and fun things with the lights. We will also be using it as a home lab for prototyping and creating our own flavor of Linux as with Proxmox we won't have to replace the operating system on our laptop. Additionally, we are interested in cybersecurity so it will be an isolated environment for testing cryptography, forensics, bruteforce, cross site scripting, and etc. This will also be our first time building a computer ourselves.
+Me and my sister are going to build a multipurpose home server and lab, which will be running Proxmox a type 1 hypervisor that runs on Debian Linux. We will be using it for home assistant and node-red, which I will use to create an app to integrate our garage door and front door locks to close when we leave the house, and fun things with the lights. We will also be using it as a home lab for prototyping and creating our own flavor of Linux as with Proxmox we won't have to replace the operating system on our laptop. Additionally, we are interested in cybersecurity so it will be an isolated environment for testing cryptography, forensics, bruteforce, cross site scripting, and etc. This will also be our first time building a computer ourselves. We also want to design and learn how to make our own docker containers as well as networking and load balancing.
 
 ## Plan
 
