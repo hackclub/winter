@@ -17,7 +17,5 @@ Materials
 | --------------- | ------------------------------------- | ------ |
 | Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 |
 | Switches        | [Gateron Oil King](https://divinikey.com/products/gateron-oil-king-linear-switches) | $51.73 |
-| Keycaps         | [Matcha](https://www.amazon.com/dp/B09QSSR7TZ) | $29.99 |
-| Puller Tool     | [Keycap & Switch Puller](https://www.amazon.com/dp/B09L59DNH2) | $4.99 |
-| Coupons         | Keycaps                               | -$5     |
-| Total           |                                       | $241.70 |
+| Keycaps         | [Gray/Yellow](https://www.amazon.com/dp/B09T2QPR2H) | $39.99 |
+| Total           |                                       | $251.71 |
