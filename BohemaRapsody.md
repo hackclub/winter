@@ -6,7 +6,7 @@ Project: "DESIGNING AND BUILDING AN RC CAR"
 # BUILDING AN RC CAR – BRINGING TOGETHER ELECTORNICS AND FLUID MECHANICS
 
 ## Project Overview
-We are going to be constructing a high-speed RC car with the aim of optimising the body car shape to maximise its speed. This will be achieved by completing fluid simulations in Fusion 360 to optimise the aerodynamics on the shell. To manufacture the shell we will employ FDM 3D printing in a range of materials, furthermore, we will utilise our school's CNC machine to experiment in other materials such as polycarbonate, acrylic etc... We will also complete generative design studies to generate a chassis that is both lightweight and strong.
+We are going to be constructing a high-speed RC car with the aim of optimising the body car shape to maximise its speed. This will be achieved by completing fluid simulations in Fusion 360 to optimise the aerodynamics on the shell. To manufacture the shell, we will employ FDM 3D printing in a range of materials, furthermore, we will utilise our school's CNC machine to experiment in other materials such as polycarbonate, acrylic etc... We will also complete generative design studies to generate a chassis that is both lightweight and strong.
 
 ![image](https://user-images.githubusercontent.com/122684674/212546059-f4ffac8b-df99-4251-bbe7-8c26e6216cc6.png)
 
@@ -14,13 +14,13 @@ We are going to be constructing a high-speed RC car with the aim of optimising t
 As a group, we are extremely excited to complete this build as it brings together our love for electronics whilst providing a fulfilling challenge. Furthermore, by employing a range of manufacturing techniques to build the shell of the car we can learn about how different CNC machines work and the advantages / disadvantages of different manufacturing techniques.
 
 ## A focus on Electronics
-Although this project has a very heavy focus on understanding what factors affect the aerodynamics of a cars speed, we also want to get stuck into some electronics. We found that the best way to assemble the RC car whilst not getting bogged down by overcomplicated electronics and wiring was to purchase a disassembled chasis of an RC!
+Although this project has a very heavy focus on understanding what factors affect the aerodynamics of a cars speed, we also want to get stuck into some electronics. We found that the best way to assemble the RC car whilst not getting bogged down by overcomplicated electronics and wiring was to purchase a disassembled chassis of an RC
 car and heavily modify it to suit our needs: both ensuring that the manufacturing process of the electronics will be relatively smooth and allow us to disassemble and reassemble it to understand how it works.
 
 ![image](https://user-images.githubusercontent.com/122684674/212545802-0824ac49-8dcc-4b66-9b13-73c342de18d0.png) 
 
 **How we plan for the electronics to work together: a high-level overview.**
-The RC Car / Chasis / ESC section in out budget encompasses the required parts in that. By disassembling it we hope to further understand the inner workings of electronics required.
+The RC Car / Chassis / ESC section in our budget encompasses the required parts in that. By disassembling it we hope to further understand the inner workings of electronics required.
 
 ![imageShowingFlowchart](https://i.ibb.co/MDPZP55/Untitled-Diagram-drawio-2.png)
 
@@ -55,7 +55,7 @@ There are several materials and products that we will require in order to comple
 ## Project Plan
 
 **Build RC Car**: 
-Assemble RC Car by employing the components mentioned in the B.O.M, this will be completed by following a number of guides online (ie. https://www.instructables.com/How-to-Make-a-Remote-Control-Car/ ). We hope that this stage of the project will be the most rapid allowing us to focus on the design of the car body. The RC car we will remove the wheels and 3d print new wheels out of TPU and maintain an ABS center with reduced diameter allowing the frame of the car to be closer to the ground.
+Assemble RC Car by employing the components mentioned in the B.O.M, this will be completed by following a number of guides online (ie. https://www.instructables.com/How-to-Make-a-Remote-Control-Car/ ). We hope that this stage of the project will be the most rapid allowing us to focus on the design of the car body. The RC car we will remove the wheels and 3d print new wheels out of TPU and maintain an ABS centre with reduced diameter allowing the frame of the car to be closer to the ground.
 
 **Air-Flow Analysis**: 
 Air flow analysis will be completed in MATLAB or Fusion 360. As we have experience in Fusion 360 after completing an online course in simulations in Fusion we will probably be going down this route. Firstly, we will model the chasis of the car in F360 and then complete the simulation analysis for it.
