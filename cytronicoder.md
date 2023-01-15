@@ -7,7 +7,7 @@ project: "Sprig gaming case"
 
 ## Summary
 
-At the start, we have the [Sprig console](https://sprig.hackclub.com). It's a great hardware development kit, but... it's has yet become an actual gaming console. So, I'm going to make it one. Why? Good question. I hope to answer that in the next section.
+At the start, we have the [Sprig console](https://sprig.hackclub.com). It's a great hardware development kit, but... it's has yet become an actual gaming controller. So, I'm going to make it one. Why? Good question. I hope to answer that in the next section.
 
 ## Problem
 
@@ -86,3 +86,9 @@ So, tl;dr, I'm going to learn a lot from this project both in software and hardw
 P.S. I'm very open to suggestions of possible designs and improvements. Please let me know if you have any ideas!
 
 P.P.S. I designed a logo for the project involving Orpheus... I will send it in the Slack channel soon™.
+
+## Appendix
+
+This is a very rough estimate of what the case might look like. I'm not sure if I'll use this design, but it's a good starting point.
+
+![Inspiration](https://lzd-img-global.slatic.net/g/p/5e984a6e8f3dee9cf3e30348ceca4680.jpg_720x720q80.jpg_.webp)
