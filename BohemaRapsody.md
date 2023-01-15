@@ -25,7 +25,7 @@ The RC Car / Chassis / ESC section in our budget encompasses the required parts 
 ![imageShowingFlowchart](https://i.ibb.co/MDPZP55/Untitled-Diagram-drawio-2.png)
 
 
-## A focus on Aerodynamics
+## A Focus on Aerodynamics
 We want the shell to resemble an F1 car as we want our RC car to be as fast as possible in a straight line in perfect conditions (no wind, ideal smooth racetrack). We want to accomplish this without using a "better" motor therefore we can make the car faster by making it slicker (aerodynamics). 
 
 To decrease the air resistance, we need to have the smallest possible cross-sectional area. We can accomplish this by reducing the height of our shell as much as possible. However, we also need to consider the how air can move round our car smoothly, for example if we were to make our shell a square, there would be a greater drag as a square is not an aerodynamically smooth shape, reducing efficiency and reducing top speed. Instead, our shell should be as smooth as a curve we can make it whilst fitting the electronics and chassis. This smooth shape will allow the air to flow over the car with little drag as possible as shown in the diagram.
