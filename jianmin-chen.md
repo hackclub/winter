@@ -39,6 +39,7 @@ What I'm paying for:
 | --------------------------------- | ------------------------------------------------------------------------------------------- | ------- |
 | Ryobi 40V 4Ah lithium-ion battery | https://www.amazon.com/gp/product/B07QYH36TC/ref=ox_sc_act_title_1?smid=AKM2QHJF28L6F&psc=1 | $113.90 |
 | Adapter for Ryobi battery         | https://terrafirmatechnology.com/products/ry40?_pos=1&_sid=2c4514cfd&_ss=r                  | $25     |
+| Charger for Ryobi battery         | https://www.amazon.com/Replacement-Dewalt-Battery-DC9096-DC9098/dp/B07VCF2QGH               | $29.99  |
 | Drok meter                        | https://www.amazon.com/gp/product/B07QYH36TC/ref=ox_sc_act_title_1?smid=AKM2QHJF28L6F&psc=1 | $15.99  |
 | Neodymium magnets                 | https://www.amazon.com/DIYMAG-Neodymium-Magnets-Double-Sided-Adhesive/dp/B07WCBDPMJ/?th=1   | $9.99   |
-| Total                             |                                                                                             | $170    |
+| Total                             |                                                                                             | $200    |
