@@ -7,7 +7,7 @@ project: "FSC (full self cycling) Bike"
 
 ## Summary
 
-We're building an ebike that has full self cycling – you can press a button (on touchscreen) and it will cruise at ~8mph on a trail, detecting lanes and the side of the trail, and automatically steer.
+Ishan and I are building an ebike that has full self cycling – you can press a button (on touchscreen) and it will cruise at ~8mph on a trail, detecting lanes and the side of the trail, and automatically steer.
 
 ## Plan
 
@@ -30,10 +30,12 @@ What materials will you need for your project? Where will you get them? How much
 | 7" Raspberry Pi Touchscreen  | https://www.adafruit.com/product/2718   | OWNED  |
 | Bike (lol)                   | OWNED                                   | OWNED  |
 | Raspberry Pi                 | OWNED                                   | OWNED  |
-| Electronic Speed Controller  | ADD                                     | [ADD]  |
-| Brushless Motor              | ADD                                     | [ADD]  |
-| Servo                        | ADD                                     | [ADD]  |
-| Battery                      | ADD                                     | [ADD]  |
 | Duct Tape/Filiament          | OWNED                                   | OWNED  |
-| Training wheels              | ADD                                     | [ADD]  |
-| Total                        |                                         | [ADD]  |
+| Electronic Speed Controller  | https://amzn.to/3Xd0AM5                 | $117   |
+| Brushless Motor              | https://amzn.to/3iB2l73                 | $90    |
+| Battery                      | https://amzn.to/3iFHcZc                 | $170   |
+| Servo                        | https://www.adafruit.com/product/1142   | $20    |
+| Training wheels              | https://amzn.to/3iFHy1Y                 | $33    |
+| Taxes                        |                                         | $43    |
+| Shipping                     |                                         | $15    |
+| Total                        |                                         | $488   |
