@@ -1,6 +1,6 @@
 ---
 name: "@sathesh77"
-project: "Project name: Brain computer interface(BCI)"
+Project name: "Brain computer interface(BCI)"
 ---
 
 ## Summary
