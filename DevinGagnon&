@@ -1,0 +1,54 @@
+---
+name: ["@DevinGagnon", "@Kiruchan", "Elliot1221"]
+project: "High Altitude Balloon"
+---
+
+# High Altitude Balloon Project
+
+
+
+## Summary
+
+Me and my friends Mathew  and elliot have wanted to build a high altitude balloon for a long time, but we havn't had the resources.
+Our goal is to make a system which uses a hydrogen filled balloon to transport a payload roughly 60,000 feet high. The payload will contain an accelorometer, a barometric altimeter, 
+so that we can measure the height and distance the balloon trravels over time. It will also use a GPS and transponder to send its location to a smartphone, allowing us to track it down after it lands.
+
+This project is inspired by [this video](https://www.youtube.com/watch?v=-QudqzI2iKk).
+
+## Plan
+
+1. Finalize my calculations for volume of gas, radius of balloon, and necessary acceloration rate
+2. Buy all parts on list
+3. CAD payload container and mounts for hardware.
+5. 3D print parts
+6. assemble payload
+7. Write code for operating scientifc instruments.
+8. Write code for GPS pings
+8. Test electronics
+9. Go to desert
+10. Assemble Entire system, fill with hydrogen
+11. Launch
+
+
+
+
+## Budget
+
+What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
+https://www.kaymont.com/product-page/hab-600 	50
+Parachute (3ft) 	45
+H2	200
+Knockoff GoPro (x2)	100
+Backup Battery	0
+Pi Zero knockoff	40
+Tranceiver	20
+GPS	30
+Accelorometer	25
+Barometer	11
+soldering iron	0
+solder	0
+Wires	0
+Styrofoam Box	0
+QWIIC adapter	3
+QWIIC Cable x2	2
+
