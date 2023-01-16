@@ -37,9 +37,10 @@ What materials will you need for your project? Where will you get them? How much
 | Sodering kit |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $40 |
 | Adressable LED Strip for headphones |https://www.amazon.com/Addressable-Aclorol-Magnetic-Compatible-Motherboard/dp/B08TWBFCRT/ | $13.99 |
 | Hat for RPI |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $5 |
+| Headers for ESP32 |https://www.adafruit.com/product/400 | $3 |
 
 
 
 | Tax  | | $26.95 |
 | Shipping | | $0.0|
-| Total | | $476.21 |
+| Total | | $479.21 |
