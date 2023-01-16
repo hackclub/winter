@@ -9,11 +9,11 @@ project: "Project Oreo"
 
 A fleet of USB Rubber Duckies that change everyone's background into Oreos (or something else funny). 
 I have previously made some with Digisparks, but having to download the images from the internet makes injection slower and less reliable.
-So, I plan to make v2.0 with RP2040 based boards, which have 8MB of flash to store the image locally and enough processing power to be a USB Mass Storage device at the same time as HID.
+So, I plan to make v2.0 with RP2040 based boards which have 8MB of flash. They store the image locally and have enough processing power to be a USB Mass Storage device at the same time as two HID devices (Mouse and Keyboard).
 
 There are two main challenges:
 1. Technical: Implement OS Detection based on USB Fingerprints in CircuitPython (maybe even contribute it upstream depending on how complicated it is).
-2. Logistical: giving these to all my friends and acquaintances for them to deploy it on prank day, and teaching them to make sure they only prank people consensually.
+2. Logistical: giving these to all my friends and acquaintances for them to deploy it on prank day, and teaching them to make sure they only prank people consensually, and safely, to avoid accidentally causing data loss.
 
 ## Plan
 
@@ -26,6 +26,7 @@ Will do before the 10 days:
 Will do during the 10 days:
 - Ask my friend to design and 3D print cases for the Trinkeys.
 - Write OS Detection - different keystroke sequences for different operating systems - based on USB field order fingerprinting in TinyUSB (the library CircuitPython uses).
+- Add old wallpaper backup to scripts, just in case people lost it.
 - Assemble the Trinkeys, USB Ports, and cases.
 
 After the 10 days:
