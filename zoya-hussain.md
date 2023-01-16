@@ -18,6 +18,7 @@ The E-Reader display will reduce eyestrain, which is especially useful for my de
 4. Installing Raspbian onto a Raspberry Pi, enable SPI, build and install the logkeys, and build ultimate writer (an open design for an e-ink writer).
 
 Likely, I will at some point reach out to the creator of the Open Digitial Typewriter for advice/guidance throughout the project, and consult my father, who had computer engineering experience.
+Here is the link for the guide which I will be primarily following throughout this project: https://alternativebit.fr/posts/ultimate-writer/
 
 ## Budget
 
