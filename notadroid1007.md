@@ -52,7 +52,7 @@ These are the things I need to make my amazing project...
 | Total                |                                                                                          | £209.90|
 
 
-## £205.80 GBP is $246.57 USD
+## £209.90 GBP is $256.73 USD (approx.)
   **Thank you for this opportunity to build my dream project that I wanted to make from a long time.**
   Thanks,
   Neerav
