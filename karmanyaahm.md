@@ -45,4 +45,5 @@ After the 10 days:
 | Adafruit Sales Tax | | $13.94 |
 | PLA 1kg | https://www.amazon.com/dp/B01EKEMFQS/ | $22.99 | 
 | Amazon Tax | | $1.90 |
+| 20x USB Jacks | https://www.aliexpress.us/item/3256801442936921.html | Already have |
 | Total           |                                       | $207.83 |
