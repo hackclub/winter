@@ -3,7 +3,7 @@ project: "Racing FPV Drone Build"
 
 #rhythmfpv
 # "Racing FPV Drone Build"
-
+THESE ARE NOT PRE ASSEMBLED KITS, IT REQUIRES A LOT OF EXPERIENCE AND IS A TOUGH, COMPETETIVE AND EXPENSIVE HOBBY WHICH EVERYONE WOULD LOVE 
 (FPV - First Person View)
 ## I am building a racing fpv drone. So basically fpv is a whole new hobby in itself. Everyone builds thier own quadcopters does freestyle, The FPV community has recently started to grow in various parts of country.Companies like DJI, caddx, foxeer, TBS are a big contribution to this. New technologies like elrs are evolving and these superfast small compact drones are a huge oppurtunity for someone looking to enter a competetive and challenging hobby. The drone i am planning to make will fit well under 250usd.
 
