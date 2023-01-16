@@ -26,10 +26,10 @@ Slack handle: Brician Belizaire
 
 ## Checklist before submitting proposal:
 
-- [ Y ] I am a current high school student (or younger).
-- [ Y ] I have submitted an RSVP at <https://hackclub.com/winter>
-- [ Y ] I am a member of the Hack Club Slack (Join at <https://hackclub.com/slack>)
-- [ Y ] I have self-reviewed my project proposal.
+- [x] I am a current high school student (or younger).
+- [x] I have submitted an RSVP at <https://hackclub.com/winter>
+- [x] I am a member of the Hack Club Slack (Join at <https://hackclub.com/slack>)
+- [x] I have self-reviewed my project proposal.
 
 Materials Required:
 Arduino nano board: https://www.amazon.com/gp/aw/d/B07R9VWD39/ref=ox_sc_act_image_10?smid=A2QTZX14X1D97I&psc=1 Price: $12.99 + free shipping w/ prime/ orders > $25
