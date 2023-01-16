@@ -12,7 +12,8 @@ I would like to make a smarth screen for my room, to have the calendar, the agen
 ## Plan
 
 Create subjections that allow me to keep all of the tech parts together.
-Assemble the device and plug all of the tech in.
+Dissasemble the monitor
+Assemble the device and plug all of the tech in, on the wall.
 Design a web interface that connects to the Notion to show the calendar, the clock, the weather, some interesting news, the emails received (and maybe something more I’m not thinking about it now)..
 Run the web interface on the local device and that's all!
 
@@ -21,11 +22,11 @@ Run the web interface on the local device and that's all!
 | Product         | Supplier/Link                         | Cost*   |
 | --------------- | ------------------------------------- | ------ |
 | Monitor         | https://www.amazon.es/dp/B0798QSKB1   | $113,71|
-| Pine 64 (mother base) x2 | https://www.amazon.es/dp/B01LWUNWNR  | $86.62 |
+| Pine 64 (mother base) x2 | https://www.amazon.es/dp/B09M8N614J  | $105.10 |
 | Controller for the screen | https://es.aliexpress.com/item/32365651706.html?gatewayAdapt=glo2esp  | $37.90 |
 | HDMI cable x2 | Already have | $00,00 |
 | Shipping | Amazon premium  | $00,00 |
-| Total           |                                       | $238.23 |
+| Total           |                                       | $256.71 |
 
 *Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
 
