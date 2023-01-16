@@ -1,25 +1,36 @@
 ---
 name: "@YodaLightsabr"
-project: "Your Project Name Here"
+project: "Smart Alarm Clock"
 ---
 
-# Smart Gift Card
+# Smart Alarm Clock
 
 ## Summary
 
-Gift cards are nice, but annoying. They can only be spent in one place, and often times you'll forget you have them. This smart gift card will be re-writable and essentially act as the last gift card you'll ever need. It'll use a magnetic stripe reader/writer along with a mobile app to store all of your gift cards in one place. Then, when you want to use one, you just swipe your smart card to set the value, and you can use it. This will work great on the go since you won't have to carry all your gift cards around.
+This smart alarm clock will use a Raspberry PI, 7 inch display, and a physical button. Here's what it'll do:
+
+* Display time
+* Show weather
+* Show calendar events
+* Control smart home devices with Homebridge
+* Set alarms
 
 ## Plan
 
-The plan is to buy a megnetic stripe reader/writer to handle reading and modifying the card's data. It'll plug into an Arduino UNO (I already have one) that'll control the card reader/writer. Then I'll 3D-print a case for it (I already have a 3d printer).
+After getting materials, I plan to wire up the button, raspberry pi, and display to build the clock. Then I'll measure it and 3d print a case so I can put it on my nightstand. Then, I'll program the display with React and use chromuium in kiosk mode to render it.
 
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Magnetic stripe reader/writer   | https://www.amazon.com/Deftun-Bluetooth-MSRX6BT-Magnetic-Portable/dp/B0105YP5NW/ref=sr_1_4?keywords=magnetic+stripe+reader+writer&qid=1673843720&sr=8-4&ufe=app_do:amzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0 (or comparable item) | $195.00  |
-| USB cable | https://www.walmart.com/ip/Micro-USB-Cable-USB-2-0-A-Male-to-Micro-B-Cable-Fast-Charging-Cord-High-Speed-USB-Durable-Android-Charger-Cable--Pack-8-5in/323241592 | $5.99 |
-| USB cable 2 | https://www.monoprice.com/product?p_id=364&srsltid=AeTuncrui-ZbUyMReYI2riiqISd4Z1OQrDW1vWrNbGN_lXMUvNiSt_NseOg | $4.49 |
-| Total           |                                       | $205.48 |
+
+Product name |	Link	| Price
+--- | --- | ---
+Rugged Metal Pushbutton - 22mm 6V RGB Momentary |	https://www.adafruit.com/product/3423 | 	$16.50
+7" IPS Capacitive HDMI Touch Screen LCD (1024×600)	| https://thepihut.com/collections/raspberry-pi-screens/products/7-ips-capacitive-hdmi-touch-screen-lcd-1024x600	| $63.19
+Black PLA Filament |	https://www.microcenter.com/product/485634/inland-175mm-black-pla-3d-printer-filament-1kg-spool-(22-lbs)	| $17.99
+3D-printer	| -	| -
+Raspberry PI 4B 4GB Ram | - | -
+Jumper wires | - | -
+Breadboard | - | -
+Total	| - | $97.68
