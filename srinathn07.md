@@ -51,17 +51,16 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product                     | Supplier/Link                         | Cost   |
 | ---------------             | ------------------------------------- | ------ |
-| 3D Printer                  | | 3D Printer                  | https://www.amazon.com/Official-Creality-3D-Printer-Source/dp/B07D218NX3/ref=sr_1_14?crid=305GT9JEIY1FZ&keywords=3D+printers&qid=1673892660&refinements=p_72%3A1248921011&rnid=1248919011&s=industrial&sprefix=3d+printers+%2Cindustrial%2C141&sr=1-14&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0 | $222.00 w/ tax and handling|
+| 3D Printer                  | https://www.elegoo.com/products/neptune2s-fdm-printer?variant=39681380286512 | $165.00|
+|1.75 Filament | https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07XG3RM58/ref=sr_1_3?crid=159HAWRN0NN3I&keywords=PLA+3D+printer+filament&qid=1673898305&sprefix=pla+3d+printer+filament%2Caps%2C139&sr=8-3 | $20.89
+| Soil Moisture Sensor        | https://www.amazon.com/Capacitive-Moisture-Corrosion-Resistant-Detection/dp/B07SYBSHGX/ref=sr_1_5?crid=3FWS1KQQN9GTW&keywords=arduino+moisture+sensor+for+plants&qid=1673847069&sprefix=%2Caps%2C243&sr=8-5  | $10.99 |
+| Temperature Probe           | https://www.amazon.com/Gikfun-DS18B20-Waterproof-Digital-Temperature/dp/B08V93CTM2/ref=sr_1_3?crid=L8SXB8EV6I36&keywords=temperature+sensor+for+arduino&qid=1673847103&sprefix=temperature+sensor+for+arduino%2Caps%2C417&sr=8-3 | $14.94 |
+| Photoresistor Sensor Module | https://www.amazon.com/uxcell-Photosensitive-Digital-Intensity-Detection/dp/B07V3QJ8G2/ref=sr_1_1?crid=N59MV43IJEE4&keywords=photoresistor+sensor+for+arduino+light+intensity&qid=1673847149&sprefix=photoresistor+sensor+for+arduino+light+intensit%2Caps%2C199&sr=8-1 | $8.79 
+| Small Submersable Pumps with tube | https://www.amazon.com/Gikfun-Submersible-Fountain-Aquarium-EK1893/dp/B07BHD6KXS/ref=sr_1_5?keywords=small+submersible+pump+arduino&qid=1673893047&sr=8-5 | $12.49 |
+| 5V Relay Module | https://www.amazon.com/Gikfun-Submersible-Fountain-Aquarium-EK1893/dp/B07BHD6KXS/ref=sr_1_5?keywords=small+submersible+pump+arduino&qid=1673893047&sr=8-5 | $8.13 |
+| Arduino UNO | currently own | N/A |
+| Jumper Wires | currently own | N/A |
+| Breadboard| currently own | N/A |
 
-1.75 Filament  || 3D Printer                  | | 3D Printer                  | https://www.amazon.com/Official-Creality-3D-Printer-Source/dp/B07D218NX3/ref=sr_1_14? 25.89 with tax and handling
- 
-| Soil Moisture Sensor        | https://www.amazon.com/Capacitive-Moisture-Corrosion-Resistant-Detection/dp/B07SYBSHGX/ref=sr_1_5?crid=3FWS1KQQN9GTW&keywords=arduino+moisture+sensor+for+plants&qid=1673847069&sprefix=%2Caps%2C243&sr=8-5  | $9.99 | 10.99 w/ tax and handling|
 
-| Temperature Probe           | https://www.amazon.com/Gikfun-DS18B20-Waterproof-Digital-Temperature/dp/B08V93CTM2/ref=sr_1_3?crid=L8SXB8EV6I36&keywords=temperature+sensor+for+arduino&qid=1673847103&sprefix=temperature+sensor+for+arduino%2Caps%2C417&sr=8-3 | $13.58 | 19.94 with tax and handling|
-
-| Photoresistor Sensor Module | https://www.amazon.com/uxcell-Photosensitive-Digital-Intensity-Detection/dp/B07V3QJ8G2/ref=sr_1_1?crid=N59MV43IJEE4&keywords=photoresistor+sensor+for+arduino+light+intensity&qid=1673847149&sprefix=photoresistor+sensor+for+arduino+light+intensit%2Caps%2C199&sr=8-1 | $7.99 |8.79 with tax|
-
-| Small Submersable Pumps with tube | (https://www.amazon.com/Gikfun-Submersible-Fountain-Aquarium-EK1893/dp/B07BHD6KXS/ref=sr_1_5?keywords=small+submersible+pump+arduino&qid=1673893047&sr=8-5) $12.49 with tax|
-
-
-TOTAL COST (w/ tax and handling (SHIPPING WITH AMAZON PRIME (NO SHIPPING COSTS))): $300.20
+TOTAL COST (w/ tax and handling (SHIPPING WITH AMAZON PRIME (NO SHIPPING COSTS))): $241.23
