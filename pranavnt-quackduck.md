@@ -30,5 +30,10 @@ What materials will you need for your project? Where will you get them? How much
 | 7" Raspberry Pi Touchscreen  | https://www.adafruit.com/product/2718   | OWNED  |
 | Bike (lol)                   | OWNED                                   | OWNED  |
 | Raspberry Pi                 | OWNED                                   | OWNED  |
-| Electronic Speed Controller  | OWNED                                   | OWNED  |
-| Total                        |                                         | $21.90 |
+| Electronic Speed Controller  | ADD                                     | [ADD]  |
+| Brushless Motor              | ADD                                     | [ADD]  |
+| Servo                        | ADD                                     | [ADD]  |
+| Battery                      | ADD                                     | [ADD]  |
+| Duct Tape/Filiament          | OWNED                                   | OWNED  |
+| Training wheels              | ADD                                     | [ADD]  |
+| Total                        |                                         | [ADD]  |
