@@ -14,7 +14,7 @@ I would like to make a smarth screen for my room, to have the calendar, the agen
 1. Create subjections that allow me to keep all of the tech parts together.
 2. Dissasemble the monitor.
 3. Assemble the device and plug all of the tech in, on the wall.
-4. Design a web interface that connects to the Notion to show the calendar, the clock, the weather, some interesting news, the emails received (and maybe something more I’m not thinking about it now).
+4. Design a web interface that connects to the Notion to show the calendar, the clock, the weather, some interesting news, the emails received, it can even tell what clothes weare from my closet deppending of the wheater (and maybe something more I’m not thinking about it now).
 5. Run the web interface on the local device and that's all!
 
 ## Budget
