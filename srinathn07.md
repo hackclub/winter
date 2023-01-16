@@ -43,7 +43,8 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product                     | Supplier/Link                         | Cost   |
 | ---------------             | ------------------------------------- | ------ |
-| 3D Printer                  | https://www.amazon.com/Voxelab-Structure-Certified-Removable-8-66x8-66x9-84in/dp/B09BNG5884/ref=sr_1_5?crid=3NAKE11WNI7D4&keywords=3D+printer&qid=1673846858&sprefix=3d+printer%2Caps%2C152&sr=8-5&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0 | $190.00  |
+| 3D Printer                  | | 3D Printer                  | [https://www.amazon.com/Voxelab-Structure-Certified-Removable-8-66x8-66x9-84in/dp/B09BNG5884/ref=sr_1_5?crid=3NAKE11WNI7D4&keywords=3D+printer&qid=1673846858&sprefix=3d+printer%2Caps%2C152&sr=8-5&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad](https://www.amazon.com/gp/product/B09YD7XPXX/ref=ewc_pr_img_1?smid=A2WAAA3MFMEI5L&psc=1)0 | $190.00  |
+ | $210.00  |
 | Soil Moisture Sensor        | https://www.amazon.com/Capacitive-Moisture-Corrosion-Resistant-Detection/dp/B07SYBSHGX/ref=sr_1_5?crid=3FWS1KQQN9GTW&keywords=arduino+moisture+sensor+for+plants&qid=1673847069&sprefix=%2Caps%2C243&sr=8-5  | $9.99 |
 | Temperature Probe           | https://www.amazon.com/Gikfun-DS18B20-Waterproof-Digital-Temperature/dp/B08V93CTM2/ref=sr_1_3?crid=L8SXB8EV6I36&keywords=temperature+sensor+for+arduino&qid=1673847103&sprefix=temperature+sensor+for+arduino%2Caps%2C417&sr=8-3 | $13.58 |
 | Photoresistor Sensor Module | https://www.amazon.com/uxcell-Photosensitive-Digital-Intensity-Detection/dp/B07V3QJ8G2/ref=sr_1_1?crid=N59MV43IJEE4&keywords=photoresistor+sensor+for+arduino+light+intensity&qid=1673847149&sprefix=photoresistor+sensor+for+arduino+light+intensit%2Caps%2C199&sr=8-1 | $8.99 |
