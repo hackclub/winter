@@ -4,7 +4,7 @@ project: "Interactive Digital Art Installation + MIDI Controller"
 ---
 
 # 🌟 Interactive Digital Art Installation + MIDI Controller
-
+<img src="https://cloud-mxdckwlcu-hack-club-bot.vercel.app/0winterbanner2.png" width="500px" />
 
 ## 🙋‍♀️ Summary
 Using **TouchDesigner** I will create a **Camera**, **Touch**, and **Audio** reactive art installation that will be displayed through a projector on a 100 inch screen.
