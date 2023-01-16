@@ -13,11 +13,29 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 ## Plan
 
 1. Receive parts
-2. Assemble and solder amplifier board
-3. Test amplifier board
-4. Assemble rest of circuit
-5. Drill holes in case
-6. Mount all items in case
+2. Assemble and solder amplifier board (day 1-2)
+3. Test amplifier board (day 2)
+4. Assemble rest of circuit (day 3-7)
+5. Drill holes in case (day 8)
+6. Mount all items in case (day 9)
+7. Final assembly and testing (day 10)
+
+#### Circuitry plan:
+DC jack + connected to power switch
+DC jack gnd connected to gnd
+Line in LR jacks + connected to input selector switch
+Input selector connected to volume control knob potentiometer
+Volume control potentiometer - one pole to ground, one pole to output, wiper to signal
+Output of volume control connected to amplifier
++12V connected to amplifier +12V
+Speaker output terminals connected to amplifier speaker output
+
+#### Physical plan:
+
+DC jack, input switch, speaker terminals, line in jacks, power switch, and volume control have hole drilled in the plastic box and screw/bolt mounted
+Heat sinks adhered to amplifier chip
+Amplifier mounted with screws in box
+
 
 ## Budget
 
