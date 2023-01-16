@@ -26,8 +26,8 @@ This project is inspired by [this video](https://www.youtube.com/watch?v=-QudqzI
 7. Write code for operating scientifc instruments.
 8. Write code for GPS pings
 8. Test electronics
-9. Go to desert
-10. Assemble Entire system, fill with hydrogen
+9. Go to launch site
+10. Assemble entire system, fill with hydrogen
 11. Launch
 
 
@@ -59,3 +59,6 @@ What materials will you need for your project? Where will you get them? How much
 | external gps antenna| https://www.adafruit.com/product/960	                                                                                      | 20   |
 | spring antenna      | https://www.adafruit.com/product/4269	                                                                                      | 1    |
 | Total               |                                                                                                                             | 551  |
+
+
+**(All proper safety precautons will be taken. Hydrogen is flammable, but the balloon is specifically designed for it, and it will be kept clear of sparks and open flame. All laws will be followed, so the payload will be less than four ponds and approved to launch. Other than the balloon, which bursts at the maximum atitude, everything can and will be reused for future launches.)**
