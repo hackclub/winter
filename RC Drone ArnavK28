@@ -7,23 +7,32 @@ project: "RC Drone"
 
 ## Summary
 
-I am going to build an RC Drone because I have built RC cars in the past but a drone is something I have always been wanting to built. I'm fascinated by drone technology because of its innumerable applications. I'm buying a bundle as it includes most of the parts that i require such as ESC's, propellers, motors, boards, radio controllers, etc. If I buy each of the parts separately, ordering each of them will consume a lot of time. I will purchase the charger and batteries separately. Eventually, my quadcopter will have a camera and GPS as well. 
+I am going to build an RC Drone because I'm fascinated by drone technology and its innumerable applications. Since this is my first drone project, my drone will be pretty basic and will not perform functions other than flying. Eventually, I plan to have attach a camera so that my quadcopter can be used for filming or photography purposes. I'm really excited to make it because I've been wanting to make this since a really long time. 
 
 ## Plan
 
-First, I will assemble the drone's frame and then attach the propellers and motors. I'll then code and connect the remaining components such as vibration absorbers, radio systems, etc. Finally, I will connect the batteries and my drone will be ready to fly.
-Videos I've watched to help me make it:
-https://www.youtube.com/watch?v=UW1-gSySgxg
-https://www.youtube.com/watch?v=bVc4P_2EklQ
+First, I will assemble the drone's frame and solder the ESC's. Then, I will attach the propellers and motors. I will then program the arduino uno and connect the batteries and accelerometer. Finally, my drone will be ready to fly.
+I've watched a lot of videos to be able to make my quadcopter, here are a couple of them:
+https://www.youtube.com/watch?v=zLdw0reI86o
+https://www.youtube.com/watch?v=K05UwsiqZ_E
+https://www.youtube.com/watch?v=SfFl_-tof4Y
 
 ## Budget
 
-Conversion rate: 1$ = ₹81.33
+
+Conversion rate: 1$ = ₹81.47
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Quadcopter Drone Bundle  | https://www.flyrobo.in/quadcopter-drone-combo-with-apm-2.8-kit-for-beginner-motor-plus-esc-plus-propeller-plus-flight-controller-plus-frame-plus-tx-rx-plus-power-module-plus-belt-flyrobo?tracking=ads&gclid=Cj0KCQiAn4SeBhCwARIsANeF9DKbRABd5ImIbbZdCxOwUy8_-gBlC_kkBEUR3jbZJXvUHudJvdrhi0EaAsDBEALw_wcB | ₹15,499  |
-| Lipo Power Battery | https://www.flyrobo.in/build-power-lipo-battery-11.1v-5500mah-3s-30c?tracking=5b853f18ae9a2  | ₹3,989 |
+| Lipo battery  | https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo | ₹1699  |
+| Drone frame | https://www.flyrobo.in/drone-f450-450-quadcopter-frame-arm-with-landing-gear-4-axis-multicopter-kit-450f-quadx-quad-multicopter-kk-mk-mwc?tracking=ads&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWISz5CMDuPrg7I58WC-aYnMMPdam82-_Wqn6RxFw8nWSfwUGDapj9zhoCoOEQAvD_BwE  | ₹949 |
 | Lipo Power Charger | https://www.flyrobo.in/imax-b3-lipo-balance-charger-for-2-3-cell-lipo-battery?tracking=5b853f18ae9a2  | ₹519 |
-| Total           |                                       | ₹20,007 | 
-                                                          | $246.01 |
+| Motors |https://www.flyrobo.in/A2212_1000KV_Brushless_Motor_For_RC_Airplane?tracking=5b853f18ae9a2 | ₹469*4 = ₹1876 |
+| ESC's | https://www.electronicscomp.com/30-amp-esc-brushless-motor-india?gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIa7Wjh6HB-4VaMgSLxX9N4A5biFbndvfblyrjOIalc4A7nceCiYEQRoCAhIQAvD_BwE | ₹349*4 = ₹1396 |
+| Propellers | https://www.flyrobo.in/1045_Propeller_10in_10x4.5_For_Drone?tracking=5b853f18ae9a2 | ₹85*4 = ₹340 |
+| Transmitter & Receiver | https://www.flyrobo.in/FlySky_FS-i6_2.4G_6CH_AFHDS_RC_Transmitter?tracking=5b853f18ae9a2| ₹5499 |
+| Accelerometer | https://www.flyrobo.in/MPU_6050_6DOF_3_Axis_Gyro_With_Accelerometer_Sensor_Module?tracking=5b853f18ae9a2 | ₹229 |
+| Arduino Uno | https://robu.in/product/arduino-uno-r3/?gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWIbVKYbWjPw8K4-4BwKqUEqrFb6SnceXUa5zsiCBATlYzhwdw85JeVxoCpMwQAvD_BwE | ₹782 |
+| Soldering iron | https://thinkrobotics.in/products/929d-ii-soldering-and-rework-station?variant=39626347348054&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=googleads&utm_medium=cpc&gclid=CjwKCAiA5Y6eBhAbEiwA_2ZWITR2Z7LJ5wiMxJu7sqlhc2h1EdcTwhFpKp7HdbiRsvezDFlZ_f04whoC5mwQAvD_BwE| ₹3149
+| Total           |                                       | ₹16438 | 
+                                                          | $201.76 |
