@@ -58,4 +58,4 @@ What materials will you need for your project? Where will you get them? How much
 | SMA to uFL Adapter	| https://www.adafruit.com/product/851	                                                                                      | 4    |
 | external gps antenna| https://www.adafruit.com/product/960	                                                                                      | 20   |
 | spring antenna      | https://www.adafruit.com/product/4269	                                                                                      | 1    |
-Total: $551
+| Total               |                                                                                                                             | 551  |
