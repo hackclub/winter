@@ -33,4 +33,4 @@ What materials will you need for your project? Where will you get them? How much
 | Solar Turntable | https://www.amazon.com/FUNGDO-Turntable-360%C2%B0Rotating-Printed-Included/dp/B07ZR4B9YH/ | $13.99 |
 | UV Light Strip | https://www.amazon.com/YGS-Tech-395nm-405nm-Non-Waterproof-Blacklight-Sterilization/dp/B07K6BK639/ | $13.99 |
 | CRTouch Auto Bed Level | https://www.amazon.com/Creality-Leveling-3D-Printer-Mainboard/dp/B09DVYZSYJ/ | $39.99 |
-| Total           |                                       | $21.90 |
+| Total           |                                       | $144.96 |
