@@ -23,25 +23,25 @@ Goals:
 ## Plan
 
 Pt. 1 Keyboard:
-- Gain familiarity with Fusion360 via online tutorials
-- 3D-design  keycaps (with 3D texture/design) for W, A, S, D keys + F, J keys + Numeric Row to allow for more accessible typing experience (the non-customized keycaps will be purchased)
-- 3D-print keycaps using school's or friend's 3D-printer
-- Paint keycaps using paint + add some type of acrylic sealer to make sure paint doesnt chip + increase aesthetics
-- Cut foam for sound dampening
-- Lube switches & stabilizers
-- Assemble switches & remaining keyboard components
-- Create keyboard firmware with Vial
-- Flash smart plug (connected to my room's RGB lights) with open source Tasmota firmware for local control
-- Use AutoHotkey to code scripts to create automation / shortcuts (not 100% this will work; may use a different method)
+1. Gain familiarity with Fusion360 via online tutorials
+2. 3D-design  keycaps (with 3D texture/design) for W, A, S, D keys + F, J keys + Numeric Row to allow for more accessible typing experience (the non-customized keycaps will be purchased)
+3. 3D-print keycaps using school's or friend's 3D-printer
+4. Paint keycaps using paint + add some type of acrylic sealer to make sure paint doesnt chip + increase aesthetics
+5. Cut foam for sound dampening
+6. Lube switches & stabilizers
+7. Assemble switches & remaining keyboard components
+8. Create keyboard firmware with Vial
+9. Flash smart plug (connected to my room's RGB lights) with open source Tasmota firmware for local control
+10. Use AutoHotkey to code scripts to create automation / shortcuts (not 100% this will work; may use a different method)
 
 Pt. 2 Cable:
-- Sleeve cable with paracord sheath & secure PET sleeve using hair dryer or lighter
-- Coil cable around metal rod + apply heat
-- Strip cable tips using wire stripper
-- Strip the 4 inner wire tips to reveal metal tips
-- Solder USB connectors onto the cable
-- Install heat shrinks
-- Reverse coil using tape & metal rod
+1. Sleeve cable with paracord sheath & secure PET sleeve using hair dryer or lighter
+2. Coil cable around metal rod + apply heat
+3. Strip cable tips using wire stripper
+4. Strip the 4 inner wire tips to reveal metal tips
+5. Solder USB connectors onto the cable
+6. Install heat shrinks
+7. Reverse coil using tape & metal rod
 
 ## Budget
 
