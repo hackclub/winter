@@ -26,8 +26,8 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product                      | Supplier/Link                           | Cost   |
 | ---------------------------- | --------------------------------------- | ------ |
-| OAK-D Camera                 | https://store.opencv.ai/products/oak-d  | OWNED  |
-| 7" Raspberry Pi Touchscreen  | https://www.adafruit.com/product/2718   | OWNED  |
+| OAK-D Camera                 | OWNED                                   | OWNED  |
+| 7" Raspberry Pi Touchscreen  | OWNED                                   | OWNED  |
 | Bike (lol)                   | OWNED                                   | OWNED  |
 | Raspberry Pi                 | OWNED                                   | OWNED  |
 | Duct Tape/Filiament          | OWNED                                   | OWNED  |
