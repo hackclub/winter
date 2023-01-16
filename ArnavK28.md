@@ -21,7 +21,7 @@ wanting to make this since a really long time.
 - I will program the arduino uno for flight control and attach the accelerometer
 - I will connect the batteries and then make the drone robust by taping the wires.
 - Finally, I will calibrate the accelerometer and my drone will be ready to fly.
-- I will work on additional features such as drone stunts.
+- I will work on additional features such as simple drone stunts.
 
 I've watched a lot of videos to be able to make my quadcopter, here are a few of
 them: 
