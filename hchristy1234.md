@@ -1,5 +1,5 @@
 ---
-name: "@hchristy1234"
+name: "Christy Huang"
 project: "Multi-Function Mechanical Keyboard"
 ---
 
@@ -29,13 +29,13 @@ Pt. 1 Keyboard:
 - Paint keycaps using paint + add some type of acrylic sealer to make sure paint doesnt chip + increase aesthetics
 - Cut foam for sound dampening
 - Lube switches & stabilizers
-- Solder switches to the PCB
-- Assemble remaining keyboard components
+- Assemble switches & remaining keyboard components
 - Create keyboard firmware with Vial
 - Flash smart plug (connected to my room's RGB lights) with open source Tasmota firmware for local control
+- Use AutoHotkey to code scripts to create automation / shortcuts (not 100% this will work; may use a different method)
 
 Pt. 2 Cable:
-- Sleve cable & secure sleeves using hair dryer or lighter
+- Sleeve cable with paracord sheath & secure PET sleeve using hair dryer or lighter
 - Coil cable around metal rod + apply heat
 - Strip cable tips using wire stripper
 - Strip the 4 inner wire tips to reveal metal tips
@@ -47,22 +47,18 @@ Pt. 2 Cable:
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Keyboard PCB | https://kbdfans.com/collections/pcb/products/dz60-60-pcb  | $38 |
-| Keyboard Case | https://www.adafruit.com/product/358  | $19.95 |
-| Paint | https://www.adafruit.com/product/358  | $19.95 |
-| Switches | https://www.adafruit.com/product/358  | $19.95 |
-| Keycaps | https://www.adafruit.com/product/358  | $19.95 |
-| Stabilizers | https://www.adafruit.com/product/358  | $19.95 |
-| Lube | https://www.adafruit.com/product/358  | $19.95 |
-| Wire Stripper | https://www.adafruit.com/product/358  | $19.95 |
-| Plate | https://www.adafruit.com/product/358  | $19.95 |
-| Soldering Iron | https://www.adafruit.com/product/358  | $19.95 |
-| Soldering Wire | https://www.adafruit.com/product/358  | $19.95 |
-| SONOFF Smart Plug      | https://www.amazon.com/Sonoff-S31-SONOFF-Plug-White/dp/B08TNF4835?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER | $7.87  |
-| Heat Shrinks | https://www.adafruit.com/product/358  | $19.95 |
-| Cable | https://www.adafruit.com/product/358  | $19.95 |
-| PET Sleeve | https://www.adafruit.com/product/358  | $19.95 |
-| Paracord Type III | https://www.adafruit.com/product/358  | $19.95 |
-| USB Type C Connector | https://www.adafruit.com/product/358  | $19.95 |
-| USB Type A Connector | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
+| Case, PCB, Plate | https://kprepublic.com/collections/keyboard/products/gk64x-hot-swappable-pcb-custom-mechanical-keyboard-rgb-smd-switch-leds-type-c-usb?variant=29717450784812 | $99 |
+| Gateron Switches | https://www.aliexpress.us/item/3256803885699109.html  | $21.82 |
+| Additional Keycaps | https://www.aliexpress.us/item/3256804164748949.html  | $20.84 |
+| Stabilizers | https://divinikey.com/collections/keyboard-stabilizers/products/tx-stabilizers?variant=40091113259073  | $18 |
+| Keyboard Lube | https://www.amazon.com/Keyboard-Universal-Lubricant-Mechanical-Stabilizer/dp/B09GFNX3TT/ref=sr_1_14  | $11.59 |
+| Wire Stripper | https://www.amazon.com/WGGE-Professional-crimping-Multi-Tool-Multi-Function/dp/B073YG65N2 | $7.99 |
+| Soldering Iron + Soldering Wire | https://www.amazon.com/YIHUA-Soldering-194%C2%BAF-896%C2%BAF-Adjustable-Calibration/dp/B082F1WKP9 | $11.68 |
+| SONOFF Smart Plug | https://www.amazon.com/Sonoff-S31-SONOFF-Plug-White/dp/B08TNF4835 | $7.87  |
+| Heat Shrink Tubes | https://www.aliexpress.us/item/3256801207251630.html  | $3.00 |
+| UL2464 26 AWG Cable | https://www.aliexpress.us/item/3256801484028828.html  | $3.00 |
+| PET Sleeve | https://www.aliexpress.us/item/2255800513677318.html  | $3.21 |
+| Paracord Type III | https://www.aliexpress.us/item/3256803725050810.html  | $0.99 |
+| USB Type C Connector | https://www.aliexpress.us/item/2255800354785875.html  | $8.85 |
+| USB Type A Connector |https://www.aliexpress.us/item/2251832559509462.html  | $3.72 |
+| Total           |                                       | $249.88 |
