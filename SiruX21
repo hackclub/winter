@@ -1,0 +1,46 @@
+---
+name: ["@SiruX21", "@Look-Its-Sky", "@RartedRussian", "@Cimbobimb"]
+project: "Dual Compute Workstation"
+---
+# Dual Compute Workstation
+## Summary
+
+Full fledged desktop PCs are big, you need to always have this huge case and a large monitor all at the same desk all the time! What's worse even is that if you go outside and completely forget something on your computer, you'd have to run all the way back home to even access it. With this system, we intend to make it accessible to the cloud while functioning as a full fledged system all in one package. It essentially acts as a Monitor all in one except it's a little bit bigger and can fit two people at the same time.
+
+## Plan
+
+
+For the hardware, we have a Ryzen 9 5950x because of it's vast amount of cores. It comes with 16 cores and 32 threads, which makes this whole thing a lot easier. Running it on a base Ryzen chip with 8 cores would simply be unfeasible when splitting it between two Virtual Machines as we still need some cores for the Host. This configuration will be 6 cores and 12 threads per VM, with the Host having 4 cores and 8 threads to itself. We have a total of 32 gigabytes of RAM, this way, we can split it 15 gigabytes for one system and 15 gigabytes for the other. Next, we have 4 SSDs, we will partition one of the NVMes to serve as the boot drive for the host. The rest will go to the VMs as their boot drive, and the two SATA SSDs will function as the VM's storage drives. The RTX 3070 and RTX 3060 will both serve as the main GPUs for VM1 and VM2. The GTX 970 serves as a display card for the host. There will also be two USB Hubs which will be directly attached to the VMs. This way, rather than plugging in a USB device and assigning it to a VM, there are dedicated USB Hubs that plug in directly to VM1 and VM2. In addition, to help with the cloud part of the system, we'll install a PiKVM like system. This will connect a Raspberry Pi4b directly from its' GPIO pins to the CMOS pins on the motherboard which will allow it to handle power/reset pins, BIOS reset, and hard drive activity.
+
+
+The next major part of this is the designing of a 3D Printable case to host all of these components. For this we have a couple of design specifications, first, is that it can hold two 15.6 inch laptop displays on both sides. The next part is that it has some form of housing for the Embedded Display Port adapters that are needed to use these laptop displays. Next, we need to have a place where we can place a USB Hub within the case, to make IO for the two VMs feasible. After this, we need to figure out the most optimal fan placement on the GPUs in order to alleviate the thermal problems we will most likely experience with them. We also want to have some sort of fan to be next to the systems VRM heatsinks to ensure that for the most part, it doesn't overheat. We will have to keep these key design specifications in mind and ensure that it fits an ATX motherboard, 6 PCIe slots, housing for 2 SATA SSDs, and appropriate holes for cables. There is an inherent thermal problem that stems from stacking GPUs on top of each other, as it means they'll exhaust their heat on one another. To alleviate this, as mentioned previously, we are making a case with fans pointing specifically at the GPUs to help move air through them. This isn't the only thing we'll be doing however. We'll additionally flash our GPUs with a custom VBIOS that sets the clock speeds back to stock whilst also setting a hard 200W Power limit on the RTX 3070 and a 150W power limit on the RTX 3060. Since the GTX 970 only serves as a display card, there is no point in having a custom VBIOS for it. We'll also test how stable our CPU is by undervolting it to further limit the total power consumption of the system.
+
+
+Another part of this project is that we're going to attempt to build our own PCB for the Embedded Display Adapter. This is an unconfirmed part, as we aren't actually sure whether or not we can finish it. This is because unlike in the previously mentioned part of the project, we actually had someone who has some experience in CAD, but this time, it's uncharted waters for us. For this part of the project, none of us know exactly how to design our own PCB. However, what helps us is that there's a lot of [available resources](https://jlcpcb.com/) to build these and if we do succeed, the price could be cheaper than buying an adapter online. What helps more is that we've found a lot of documentation on the Embedded DisplayPort standard and how it actually works, which helps us immensely. We will however plan for designing our own PCB, and as soon as we get approved, we'll put our time and effort to designing one by February. This is because this undertaking will probably take a majority of our time and we don't even know if we'll succeed. However, if all else fails, we do have one that we can buy off of Amazon. For now, the prices listed below assume we are buying our own. However, if we do succeed in making our own design, it will be cheaper than this version.
+
+For the more technical side, we intend on using Arch Linux as the Host OS for the VMs. The VMs will be running Windows 10 Home Edition in a custom built cut down version in order to minimize load on the PC. We will use QEMU and Virt-Manager to manage the VMs. We will pass through the RTX 3070 to one VM and the RTX 3060 to another. As for the streaming side of things, the PC will be placed in a home with access to gigabit networking in order to minimize latency and delay. In order to further help with this delay and image quality problem with cloud gaming, we intend on using the AV1 codec through software based methods in order to achieve better image quality and require less network bandwidth for the same image. For the game host, because NVIDIA Gamestream is being sunset, we are instead using [Sunshine](https://github.com/LizardByte/Sunshine), an open-source alternative that functions much like Gamestream. For the client, we will use [Moonlight](https://github.com/moonlight-stream), a collection of a plethora of GameStream clients that's also compatible with Sunshine. In this way, we can leverage Moonlight's great support for devices ranging from Android, iOS, Apple TV, PC, Mac, PS Vita, Wii U, Chromebook, and LG WebOS TV. This level of device support is simply unparalleled compared to other streaming alternatives.
+
+
+## Budget
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| AMD Ryzen 9 5950x | https://www.microcenter.com/product/630282/amd-ryzen-9-5950x-vermeer-34ghz-16-core-am4-boxed-processor-heatsink-not-included | $499.99 |
+| Silicon Power DDR4 2 x 16GB |https://www.amazon.com/dp/B07PV7GL6C?tag=pcpapi-20&linkCode=ogi&th=1| $65.97 |
+| PNY 1 TB SSD x 2 |https://www.amazon.com/dp/B08KGXVXGM?tag=pcpapi-20&linkCode=ogi&th=1 | $159.98 |
+| Teamgroup AX2 SSD x 2 | https://www.amazon.com/dp/B08CKFDPJ3?tag=pcpapi-20&linkCode=ogi&th=1 | $89.98 |
+| EDP Adapter x 2 | https://www.amazon.com/VSDISPLAY-Controller-1920x1080-B140HAN01-LTN156HL01/dp/B07SDG8SBR/ref=sr_1_8?crid=1CN462DKPFLL1&keywords=edp+adapter&qid=1673652026&s=electronics&sprefix=edp+adapter%2Celectronics%2C85&sr=1-8 | 55.98|
+| Laptop Panel #1 |Owned|Owned|
+| Laptop Panel #2 |Owned|Owned|
+| USB Hub x2 | Owned|Owned|
+| 3D Printer (Owned through School| Owned | Owned|
+| Asus ROG B450-F Gaming |Owned|Owned|
+| Thermaltake Core P3 |Owned|Owned|
+| Gigabyte UD 850w PSU |Owned|Owned|
+| Gigabyte  RTX 3070 |Owned|Owned|
+| EVGA RTX 3060 |Owned|Owned|
+| Zotac GTX 970 |Owned|Owned|
+| 3D Printer | Owned|Owned|
+| Taxes      |                                       | $75.57|
+| Shipping | |$0|
+|Total           |                                       | $981.50 |
