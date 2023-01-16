@@ -38,7 +38,7 @@ This project is inspired by [this video](https://www.youtube.com/watch?v=-QudqzI
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 |Object	Supplier	Est. Price
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------|-----|
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |---- |
 | Balloon             | https://www.kaymont.com/product-page/hab-600	                                                                              | 50  |
 | Parachute (3ft)    	| https://the-rocketman.com/recovery.html/	                                                                                  | 45  |
 | H2                	| https://www.jjstech.com/m1049.html?gclid=EAIaIQobChMI4Ley26HL_AIVhiytBh3rIQIpEAQYASABEgL_O_D_BwE	                          | 200 |
