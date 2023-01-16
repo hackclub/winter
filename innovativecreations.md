@@ -40,8 +40,8 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | Accessories of raspberry pi - owned | | $0 |
 | ESP32 - owned |  | $0 |
 | Relays - owned |  | $0 |
-| Prototyping stuffs - owned |  | $0 
-| SD Card | (https://amzn.eu/d/exmtUtB) | $6.30 |
+| Prototyping stuffs(soldering station,  hot glue, prototyping board,  etc)   - owned |  | $0 
+| SD Card (os of pi)  | (https://amzn.eu/d/exmtUtB) | $6.30 |
 | WS2812b LED strip | (https://amzn.eu/d/4nfmZzv) | $15.40 |
-| Monitor ( to view the multiple process at the same time (like the firebase working, working of text to speech, etc) and for the UI for the AI and it comes with inbuilt speakers ) | (https://www.flipkart.com/marq-flipkart-27-inch-full-hd-led-backlit-va-panel-2-x-3w-inbuilt-speakers-monitor-27fhdmvqiizb/p/itmd929dcd96de1a?q=monitors&marketplace=FLIPKART&iid=2abd3e0f-ef42-4990-b540-87a5077f16ce.MONGEPNDWVFKYF5E.SEARCH&lid=LSTMONGEPNDWVFKYF5EKDJS5X&srno=s_2_30&qH=4cbba110d06cbe92&pid=MONGEPNDWVFKYF5E&affid=prashuana&store=6bo%2Fg0i%2F9no&ssid=mfv4kcbz9s0000001663994511321&otracker1=search)  | $116.90 |
+| Monitor ( to view the multiple process at the same time (like the firebase working, working of text to speech, etc) and for the UI for the AI with some data(date, time, etc)  floating over the screen and beside these the monitor comes with inbuilt speakers which can used to get feedback from the pi) | (https://www.flipkart.com/marq-flipkart-27-inch-full-hd-led-backlit-va-panel-2-x-3w-inbuilt-speakers-monitor-27fhdmvqiizb/p/itmd929dcd96de1a?q=monitors&marketplace=FLIPKART&iid=2abd3e0f-ef42-4990-b540-87a5077f16ce.MONGEPNDWVFKYF5E.SEARCH&lid=LSTMONGEPNDWVFKYF5EKDJS5X&srno=s_2_30&qH=4cbba110d06cbe92&pid=MONGEPNDWVFKYF5E&affid=prashuana&store=6bo%2Fg0i%2F9no&ssid=mfv4kcbz9s0000001663994511321&otracker1=search)  | $116.90 |
 | Total           |                                       | $138.1 |
