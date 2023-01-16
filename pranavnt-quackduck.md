@@ -31,6 +31,7 @@ What materials will you need for your project? Where will you get them? How much
 | Bike (lol)                   | OWNED                                   | OWNED  |
 | Raspberry Pi                 | OWNED                                   | OWNED  |
 | Duct Tape/Filiament          | OWNED                                   | OWNED  |
+| Various wires                | OWNED                                   | OWNED  |
 | Electronic Speed Controller  | https://amzn.to/3Xd0AM5                 | $117   |
 | Brushless Motor              | https://amzn.to/3iB2l73                 | $90    |
 | Battery                      | https://amzn.to/3iFHcZc                 | $170   |
