@@ -34,13 +34,13 @@ What materials will you need for your project? Where will you get them? How much
 | USB Audio Converter| https://www.amazon.com/gp/product/B00OJ5AV8I/ | $8 |
 | 2 x 4 x 16in block of wood |https://www.homedepot.com/p/2-in-x-4-in-x-16-ft-Prime-Standard-and-Better-Douglas-Fir-Lumber-2167-16/206019456 | $9.67 x 2 |
 | ESP32-C3-DevKitM-1 |https://www.amazon.com/ESP32-C3-DevKitM-1-Development-ESP32-C3-MINI-1-Module-ESP32-C3FN4/dp/B09F5XRK12/ | $21.98 |
-| Sodering kit |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $40 |
+| Sodering kit |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $50 |
 | Adressable LED Strip for headphones |https://www.amazon.com/Addressable-Aclorol-Magnetic-Compatible-Motherboard/dp/B08TWBFCRT/ | $13.99 |
 | Hat for RPI |https://www.amazon.com/YIHUA-Soldering-194ºF-896ºF-Adjustable-Calibration/dp/B082F1WKP9/ | $5 |
 | Headers for ESP32 |https://www.adafruit.com/product/400 | $3 |
 
 
 
-| Tax  | | $26.95 |
+| Tax  | | $27.73 |
 | Shipping | | $0.0|
-| Total | | $479.21 |
+| Total | | $490.05 |
