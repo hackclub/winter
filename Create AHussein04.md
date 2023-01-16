@@ -16,9 +16,10 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 Step 1.) Gather the parts
 Step 2.) Create the light rig and mod the headphones
-Step 3.) Use audio visualizer program found https://github.com/IzzyBrand/ledvis
-Step 4.) Connect RPI to the led strips and have them run the audio visualizer code
-Step 5.) Take in the new music listening experience
+Step 3.) Connecting the smaller led strips to ESP32 to create for a wirelessly controlled setup for the headphones.
+Step 4.) Use audio visualizer program found https://github.com/IzzyBrand/ledvis
+Step 5.) Connect RPI to the led strips and have them run the audio visualizer code
+Step 6.) Take in the new music listening experience
 
 ## Budget
 
