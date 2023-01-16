@@ -51,7 +51,8 @@ What materials will you need for your project? Where will you get them? How much
 | Screwdriver set | https://www.amazon.in/Prime-Deals-Screwdriver-Set-Professional/dp/B0843F8C68/ref=sr_1_19?crid=3K1YA6EENMA86&keywords=precision+screwdriver&qid=1673736812&sprefix=precision+screwdrive%2Caps%2C279&sr=8-19| $7.25 |
 |Soldring iron  |https://www.amazon.in/Soldering-Adjustable-Temperature-Different-Desoldering/dp/B09L47MH98/ref=psdc_7355865031_t1_B09WMMPNPD | $17.08 |
 |Soldring Iron Tip Cleaner  | https://www.amazon.in/Digital-Craft-Desoldering-Soldering-Anti-Static/dp/B0BMY2LR92/ref=sr_1_18?crid=16S94K8NT0ADC&keywords=soldering+iron+cleaning+stand&qid=1673741098&s=home-improvement&sprefix=soldring+iron+cleaningstand%2Chome-improvement%2C287&sr=1-18 |$5.91 |
+|Blu Tack  | https://www.amazon.in/Blutack-Reusable-Adhesive-4-Pieces/dp/B001FGLX72/ref=sr_1_2?crid=1W9SYPQX6FNFM&keywords=blu%2Btack&qid=1673877694&sprefix=blu%2Btak%2Caps%2C413&sr=8-2&th=1| $3.69 |
 | Double Side Tape X2  |https://www.amazon.in/Scotch-Double-Foam-Tape-24/dp/B00N1U9AJS/ref=sr_1_5?crid=1HNIAZV2QN3LM&keywords=double%2Bsided%2Btape&qid=1673741347&sprefix=double%2Bsided%2Bta%2Caps%2C236&sr=8-5&th=1 | $4.06 |
 |  Deleivery Charges| | $0.60 |
 |  | |  |
-| Total           |                                       | $226.82 |
+| Total           |                                       | $230.51 |
