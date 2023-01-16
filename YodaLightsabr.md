@@ -17,7 +17,7 @@ This smart alarm clock will use a Raspberry PI, 7 inch display, and a physical b
 
 ## Plan
 
-After getting materials, I plan to wire up the button, raspberry pi, and display to build the clock. Then I'll measure it and 3d print a case so I can put it on my nightstand. Then, I'll program the display with React and use chromuium in kiosk mode to render it.
+After getting materials, I plan to wire up the button, RPi, and display to build the clock. Then I'll measure it and 3D-print a case that can go on my nightstand. I'll program the display with React and use Chromium in kiosk mode to render it. I'll use Nodejs to handle the button with the Raspberry Pi's GPIO pins and control which data is being displayed.
 
 ## Budget
 
