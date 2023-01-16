@@ -48,5 +48,9 @@ Conversion rate: 1$ = ₹81.47
 | Soldering iron         | https://thinkrobotics.in/products/929d-ii-soldering-and-rework-station?variant=39626347348054&currency=INR                                | ₹3149            |
 | Breadboards            | https://www.flyrobo.in/solderless-breadboard-400-point?search=breadboard&description=true
 | ₹69*2 = ₹138     |
-| Total                  |                                                                                                                                           | ₹16576 = $202.99 |
+| PDB                    | https://robu.in/product/pdb-xt60-w-bec-5v-12v/
+| ₹669             |
+| Jumper Cables          | https://www.flyrobo.in/combo-3-type-jumper-cables-f-f-f-m-m-m
+| ₹49              |
+| Total                  |                                                                                                                                           | ₹17294 = $211.69 |
 
