@@ -1,5 +1,5 @@
 ---
-name: "@reesericci & [gh account not made yet]"
+name: "@reesericci & @ItsTheLucas"
 project: "Foosball Scoreboard"
 ---
 
