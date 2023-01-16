@@ -3,7 +3,7 @@ name: "@xi-forgetme"
 project: "Mini Home NAS"
 ---
 
-# Mini Home NAS - It can also be a portable server.
+# Mini Home NAS - A portable server controlled by a car.
 
 ## Summary
 
@@ -19,44 +19,62 @@ They may like to storage them on clouds like iCloud, MEGA etc. However, the high
 
 By the way, they store the data on the cloud and the sync of the data is very slow, so I just wanna build a mini home-stay cloud as a private NAS for people.
 
-Programmers can also build a local git repo.
+Programmers can also build a local git repo, or build a portable cloud code platform.
 
-The last one, it can also be a game server for people to build mobile cloud game station everywhere.
+Also I will use this Raspberry Pi to control a mini car with L298N, so that I can move this portable NAS by the mini car lol.
+
 
 ## Plan
 ### STEP 1
-Install Linux and necessary software in SSD driver with another computer, and plugin in the X99M.
+Install Linux on SD Card for Raspberry Pi 4B, and Install necessary software like nginx python etc. The web admin panel I will write by myself (I have almost finished it now).
 
 ### STEP 2
-Plugin CPU, GPU and RAM in the mother board.
+Build the mini-car, and connect to the L298N, then connect MotorA (OUT1, OUT2), MotorB(OUT3, OUT4), 12V in, 5V out, IO to Raspberry Pi.
+         L298N
++---------------------+
+|                     |
+|                     |
+|                     |
+<OUT1 *         * OUT3>
+<OUT2 *         * OUT4>
+|  *                  |
++-12V-GND-SV----IO----|
 
+         Car
+  +--------------+
+  |    ______    |
+ | |   |    |   | |
+  |     L298N    |
+  |              |
+ | |    RPi     | |
+  |              |
+  +--------------+
 ### STEP 3
-Install the power，put there hardware in a suitcase so that you can plugin in anywhere you want.
+Connect the remaining wires, Boot, and connect to the Internet, **set IP address to be static**, and install RPi.GPIO, then use [this script](https://github.com/xi-forgetme/PyCar) to control the portable server.
 
 ### STEP 4
-Boot, and connect to the Internet, **set IP address to be static**.
-
-### STEP 5
 Log in and configure what you need.
 
-### STEP 6
-Then you can connect or access the server everywhere.
+### STEP 5
+Then you can connect or access the server everywhere and move it everywhere you want.
 
-### STEP 7
-Now you can move the server everywhere as long as you are able to use electricity.
+### STEP 6
+**TODO: Make the server can fly lol**
 
 ## Budget
 
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 512GB M.2 NVMe | [JD](https://item.m.jd.com/product/10021868048567.html) | $57.13  |
-| WD 1TB HDD | [JD](https://item.m.jd.com/product/14938797080.html)  | $44.37 |
-| E5-2683 V3 | [JD](https://item.m.jd.com/product/10045185728780.html) | $32.35 |
-| X99M D4 | [JD](https://item.m.jd.com/product/65413394392.html) | $54.61 |
-| DDR4 RCC 8GB | Already taken | $0 |
-| RX580 | [XianYu](https://m.tb.cn/h.UkKYebV?tk=xXsbdUzKyM0) | $43.03 |
-| Power 550W | [JD](https://item.m.jd.com/product/44833846178.html) | $17.66 |
+| Raspberry Pi 4B | [JD](https://item.jd.com/100020415183.html) | $162.54  |
+| SanDisk SD Card 64GB | [JD](https://item.jd.com/2141154.html)  | $8.81 |
+| 7'' Screen | [JD](https://item.m.jd.com/product/44632987580.html) | $34.18 |
+| metal shell | [JD](https://item.m.jd.com/product/55298728091.html) | $3.88 |
+| Wireless Network Adapt | [JD](https://item.m.jd.com/product/10051857225000.html) | $16.57|
+| mini wireless ketboard | [JD](https://item.m.jd.com/product/10041381894140.html) | $11.19 |
+| L298N | [JD](https://item.m.jd.com/product/10054711210476.html) | 1.64 |
+| mini car kit | [JD](https://item.m.jd.com/product/67803770281.html) | $4.03 |
+| NVMe Mobile Hard Disk Box | [JD](https://item.m.jd.com/product/100044436249.html) | $11.93 |
 | Shipping | FREE | $0|
 | Tax | FREE | $0 |
-| Total | | $249.15 |
+| Total | | $249.10 |
