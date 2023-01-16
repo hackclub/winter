@@ -11,7 +11,7 @@ using rfid tech to make rings be my door card
 
 ## Plan
 
-get the rings - write it using the rfid copier and program the arduino board to be able to read it then i can unlock my doors the programming of the board will be the most taxing part, but i will try my best for this to work.
+get the rings - write it using the rfid copier and program the arduino board to be able to read it then i can unlock my doors the programming of the board will be the most taxing part, but i will try my best for this to work. i just have to program the arduino to detect the card.
 
 ## Budget
 
