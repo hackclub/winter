@@ -59,4 +59,4 @@ What materials will you need for your project? Where will you get them? How much
 | Power Module| https://www.flyrobo.in/apm_pixhawk_power_module_with_xt60
 | Rs 600 |
 | GST + taxes + shipping + Crypto -> Gift Card conversion fee |          | Rs 8000 |
-| Total |           | Rs 60460 or $746 |
+| Total |           | Rs 60460 or $745 |
