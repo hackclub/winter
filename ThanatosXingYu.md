@@ -22,7 +22,7 @@ At the same time, its own 3.5" screen will also display the current status, such
 
 ## Plan
 ### STEP 1
-Test for apis, such as Chat-GPT, weather, or stocks
+Test for apis that I have owned, such as Chat-GPT, weather, or stocks
 
 ### STEP 2
 Find the right place, connect the raspberry pie to the TV, and connect it to a stable power supply
