@@ -45,7 +45,3 @@ Ultrasonic Sensors
 |Total | | 192.55|
 
 
-
-
-
-| Total           |                                       | $21.90 |
