@@ -17,14 +17,19 @@ With respect to wireless connectivity to work on human signals, the demonstratio
 
 ## Existing Project
 
-https://create.arduino.cc/projecthub/mathwuy/voice-controlled-k-nex-car-f1b867?ref=similar&ref_id=443067&offset=4
+As of now I developed a Bluetooth RC Car that will work using mobile android app. In later I going to create control this car using brain signals with EEG devices then I like to create brain controlled wheelchair
+
+RC Car -https://projecthub.arduino.cc/samanfern/c71cd04b-79fd-4d0a-8a4b-b1dacc2f7725
+
+
+Project slide - https://docs.google.com/presentation/d/1srDQjUqZN2WoOYOOrdiLi9RqGjx2FWwF/edit?usp=drivesdk&ouid=100454217469060400921&rtpof=true&sd=true
 
 ## Budget
 
 | Product                               | Supplier/Link                                                                                  | Cost   |
 | --------------------------------------| -----------------------------------------------------------------------------------------------| ------ |
-| .Arduino uno/
-Bluetooth/IC/Motor/chassis /wire        |               already own                                                                      | $0     |
+| Arduino uno                           |               already own
+|  Bluetooth/IC/Motor/chassis /wire     |               already own                                                                      | $0     |
 | BCI electrode(EEG single)             | https://shop.openbci.com/products/openbci-eeg-headband-kit                                     | $299   |
 | Total                                 |                                                                                                | $299   |
 
