@@ -1,5 +1,5 @@
 ---
-name: "@reesericci & @ItsTheLucas"
+name: "@reesericci & @ItIsTheLucas"
 project: "Foosball Scoreboard"
 ---
 
