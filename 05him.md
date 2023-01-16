@@ -1,15 +1,15 @@
 ---
 name: "05him"
-project: "Arduino Car by Flight Receiver"
+project: "Arduino Car by Drone Transmitter"
 ---
 
-# Arduino Car by Flight Receiver
+# Arduino Car by Drone Transmitter
 
 ## Summary
 
 What are you going to build? What does it do? Why are you excited to build it?
 
-So i am going to build a car based on arduino which is going to be controlled by a FlySky-FS flight receiver, it will work as a normal remote control car, but instead of having a normal remote control it will be controlled by Flight receiver whihc will give more controls to the car, and this is going to be my first project so kind of excited towards it.. firsty i was planning for a fpv drone but it was going out of budget so i searched on youtube for alternative and found this amazing concept..  as mentioned earlier it is my first project so really excited for it.
+So i am going to build a car based on arduino which is going to be controlled by a FlySky-FS Drone Transmitter, it will work as a normal remote control car, but instead of having a normal remote control it will be controlled by Drone Transmitter connected to a flight receiver in the car curcuit, this will give more controls to the car, and this is going to be my first project so kind of excited towards it.. firsty i was planning for a fpv drone but it was going out of budget so i searched on youtube for alternative and found this amazing concept..  as mentioned earlier it is my first project so really excited for it.
 
 ## Plan
 
@@ -17,11 +17,13 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 So Theres gonna be few steps.. 
 1. Search for all the products and then submit this repo
-2. Then wait for the repo to accept and later for the products to be arrived, in the mean time i will be researching how all the connection and circuit works
+2. Then wait for the repo to accept and later for the products to be arrived, in the mean time i will be researching how all the connection,circuit, the code works
 3. after receiving everything i will first assemble the main chassi of car and then carry forward by assembling motors
-4. after that i will then move forward to the circuit part will do all the connection including the flight receiver and also pairing the flight reciver with the flight controller.
-5. after the electric stuff is done i will then pair the arduino with its code and install required libraries on it. 
-6. and if everything goes as planned our car will be ready to roll 
+4. then i will be installing the arduinco and L293D  and do all the connection in the chassi
+5. after that i will be parining the transmittor and recevior for which i will be needing a brushlessmotor esc and stuff
+6. after that i will then connect the flight receiver to the arduino in the chassi and install the battries too
+7. once all the connection are completed i will then move forward for pariring the arduino with its code and install the depeding libraries
+8. if everyhing goes good then our car will be ready now
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
