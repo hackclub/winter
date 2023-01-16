@@ -42,7 +42,9 @@ We are going to build an IoT scoreboard for the foosball club at our high school
 | 2x Arcade Button quick-connect cable 10-pack | https://www.adafruit.com/product/3835 | $4.95 x 2 = $9.90 |
 | Noctual Thermal Compound | https://www.amazon.com/Noctua-NT-H1-Pro-Grade-Thermal-Compound/dp/B002CQU14A/ | $8.95 |
 | Stemma QT to Jumpers | https://www.adafruit.com/product/4209 | $0.95 |
-| Subtotal | | $252.30 |
+| Micro SD Card breakout | https://www.adafruit.com/product/254 | $7.50 |
+| Micro SD Card 512MB | https://www.adafruit.com/product/5252 | $4.95 |
+| Subtotal | | $264.75 |
 | Total Shipping  | | $0.00 |
-| Total Tax | | $20.82 |
-| Total           |                                       | $273.12 |
+| Total Tax | | $21.84 |
+| Total           |                                       | $286.59 |
