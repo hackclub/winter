@@ -16,17 +16,19 @@ wanting to make this since a really long time.
 
 ## Plan
 
-- First, I will assemble the drone's frame and solder the ESC's. 
+- Firstly, I will assemble the drone's frame and solder the ESC's. 
 - Then, I will attach the propellers and motors. 
-- I will then program the arduino uno and connect the batteries and
-  accelerometer.
-- Finally, my drone will be ready to fly.
+- I will program the arduino uno for flight control and attach the accelerometer
+- I will connect the batteries and then make the drone robust by taping the wires.
+- Finally, I will calibrate the accelerometer and my drone will be ready to fly.
+- I will work on additional features such as drone stunts.
 
 I've watched a lot of videos to be able to make my quadcopter, here are a few of
 them: 
-- https://www.youtube.com/watch?v=zLdw0reI86o
+- https://www.youtube.com/watch?v=wdZNir5keBM
 - https://www.youtube.com/watch?v=K05UwsiqZ_E
 - https://www.youtube.com/watch?v=SfFl_-tof4Y
+- https://www.youtube.com/watch?v=DYpHB-LfloI
 
 ## Budget
 
@@ -44,5 +46,7 @@ Conversion rate: 1$ = ₹81.47
 | Accelerometer          | https://www.flyrobo.in/MPU_6050_6DOF_3_Axis_Gyro_With_Accelerometer_Sensor_Module                                                         | ₹229             |
 | Arduino Uno            | https://robu.in/product/arduino-uno-r3/                                                                                                   | ₹782             |
 | Soldering iron         | https://thinkrobotics.in/products/929d-ii-soldering-and-rework-station?variant=39626347348054&currency=INR                                | ₹3149            |
-| Total                  |                                                                                                                                           | ₹16438 = $201.76 |
+| Breadboards            | https://www.flyrobo.in/solderless-breadboard-400-point?search=breadboard&description=true
+| ₹69*2 = ₹138     |
+| Total                  |                                                                                                                                           | ₹16576 = $202.99 |
 
