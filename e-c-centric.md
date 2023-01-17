@@ -21,10 +21,10 @@ The algorithm will be trained on the data in the database so that it'll detect p
 
 ## Budget
 
-| Product                     | Supplier/Link                                                                                     | Cost   |
-| --------------------------- | --------------------------------------------------------------------                              | ------ |
-| Arduino Sensor Kit Bundle   | https://store.arduino.cc/products/arduino-sensor-kit-bundle                                       | $58.00 |
-| Arduino IOT Bundle          | https://store.arduino.cc/products/iot-bundle?variant=42614286844055                               | $80.00 |
-| Shipping                    | UPS Express Saver                                                                                 | $45.21 |
-| Screwdriver Set             | https://www.jumia.com.gh/generic-115-in-1-magnetics-precision-screwdriver-set-black-29887655.html | $58.50 |
-| Shipping                    | Jumia Express                                                                                     | $08.00 |
+| Product                                      | Supplier/Link                                                                                     | Cost   |
+| -------------------------------------------- | --------------------------------------------------------------------                              | ------ |
+| Arduino Sensor Kit (no microcontroller)      | https://store.arduino.cc/products/arduino-sensor-kit-base                                         | $30.00 |
+| Arduino IOT Bundle                           | https://store.arduino.cc/products/iot-bundle?variant=42614286844055                               | $80.00 |
+| Shipping                                     | UPS Express Saver                                                                                 | $45.21 |
+| Screwdriver Set                              | https://www.jumia.com.gh/generic-115-in-1-magnetics-precision-screwdriver-set-black-29887655.html | $58.50 |
+| Shipping                                     | Jumia Express                                                                                     | $08.00 |
