@@ -30,6 +30,7 @@ Third, I will design and 3d print an enclosure to put the breadboard, arudino, a
 | Wires | already have | $0.00 |
 | Resistors | already have | $0.00 |
 | Breadboard | already have | $0.00 |
+| Standardized masses | can borrow from school | $0.00 |
 | Shipping (sparkfun) | | $11.81 |
 | Free shipping (flash forge)| |
 | Tax (estimate) | 7%| $16.26|
