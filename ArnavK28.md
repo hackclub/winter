@@ -36,7 +36,7 @@ Conversion rate: 1$ = ₹81.79
 
 | Product                | Supplier/Link                                                                                                                             | Cost             |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Lipo battery           | https://robu.in/product/orange-4200mah-3s-35c-11-1-v-lithium-polymer-battery-pack-lipo/                                                    | ₹2999            |
+| Lipo battery           | https://robu.in/product/orange-4200mah-3s-35c-11-1-v-lithium-polymer-battery-pack-lipo/                                                   | ₹2999            |
 | Drone frame            | https://www.flyrobo.in/drone-f450-450-quadcopter-frame-arm-with-landing-gear-4-axis-multicopter-kit-450f-quadx-quad-multicopter-kk-mk-mwc | ₹949             |
 | Lipo Battery Charger   | https://www.flyrobo.in/imax-b3-lipo-balance-charger-for-2-3-cell-lipo-battery                                                             | ₹519             |
 | Motors                 | https://www.flyrobo.in/A2212_1000KV_Brushless_Motor_For_RC_Airplane                                                                       | ₹469*4 = ₹1876   |
@@ -47,7 +47,7 @@ Conversion rate: 1$ = ₹81.79
 | Arduino Uno            | https://robu.in/product/arduino-uno-r3/                                                                                                   | ₹782             |
 | Soldering iron         | https://thinkrobotics.in/products/929d-ii-soldering-and-rework-station?variant=39626347348054&currency=INR                                | ₹3149            |
 | Breadboards            | https://www.flyrobo.in/solderless-breadboard-400-point?search=breadboard&description=true                                                 | ₹69*2 = ₹138     |
-| PDB                    | https://robu.in/product/pdb-xt60-w-bec-5v-12v/                                                                                              | ₹669             |
+| PDB                    | https://robu.in/product/pdb-xt60-w-bec-5v-12v/                                                                                            | ₹669             |
 | Jumper Cables          | https://www.flyrobo.in/combo-3-type-jumper-cables-f-f-f-m-m-m                                                                             | ₹49              |
 | Cable Zip Ties         | https://www.amazon.in/SCHOFIC-Cable-Ties-Pieces-Black/dp/B06W9MPZPK                                                                       | ₹215             |
 | Total                  |                                                                                                                                           | ₹18979 = $232.04 |
