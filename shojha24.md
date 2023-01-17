@@ -41,4 +41,6 @@ I want to make this lightsaber because:
 | Rotary Tool           | https://www.amazon.com/gp/product/B09MLGRF2D/ref=ox_sc_act_title_6?smid=AT9KVS3IGM8BL&psc=1 | $21.99 |
 | 3D Printer Tools Kit  | https://www.amazon.com/gp/product/B09TD8RBSG/ref=ox_sc_act_title_7?smid=A1I71RA8QPV9DA&psc=1 | $23.69 |
 | 3D Printer            | https://www.amazon.com/gp/product/B07D218NX3/ref=ox_sc_act_title_8?smid=A2WAAA3MFMEI5L&psc=1 | $199.00 |
-| Total                 |                                       | $339.61 | 
+| Subtotal              |                                       | $339.61 | 
+| Shipping + Tax        |                                       | $5.99 + $22.38 |
+| Total                 |                                       | $367.98 |
