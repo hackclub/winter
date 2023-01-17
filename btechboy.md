@@ -1,4 +1,5 @@
-name: "btechboy"<br>
+---
+name: "@btechboy"
 project: "QUADCOPTER"
 ---
 
@@ -44,5 +45,4 @@ Steps and tools I might use to build a basic DIY quadcopter:
 | Landing gear + frame                         | https://bit.ly/3ZIFDL0                |    1   |  $11.62  |
 | cable - XT60 Male                            | http://bit.ly/3IOtb6j                 |    1   |  $0.97   |
 | Servo Lead Extension (Futaba) Cable          | http://bit.ly/3XC00Hw                 |    1   |  $3.97   |
-
 | Total                                        |                                       |        | $316.51  |
