@@ -27,17 +27,19 @@ So, I will be following this playlist to Plan my own build accordingly.
 
 I have checked and reviewed all the components, that are compatible with this build. I have done research on what components would be the best according to my budget. Here it the list:
 
+Dollar Rate: $1 = ₹81.60
 | Product                                                                     | Supplier / Link                                                                                    | Cost (USD) |
 | --------------- | ------------------------------------- | ------ |
-| Rekon 6 6 Inch Mini Long Range Frame                     | https://www.quadkart.in/rekon-6-6-inch-mini-long-range-frame-kit/                 | 51.28                 | 
-| HGLRC Zeus F745 V2 STACK FPV Racing Drone 3-6S F722 FC 45A BL_S 4in1 ESC                    | https://www.drkstore.in/hglrc-zeus-f745-v2-stack-fpv-racing-drone-3-6s-f722-fc-45a-bl_s-4in1-esc/                 | 101.1                 |
-| HGLRC Zeus Pro 1.6W long Range VTX                    | https://www.quadkart.in/hglrc-zeus-pro-1-6w-long-range-vtx/                 | 49.31                  |
-| HGLRC AEOLUS 2105.5 Motor                    | https://www.quadkart.in/hglrc-aeolus-2105-5-motor/                 | 83.8                  |
+| Rekon 6 6 Inch Mini Long Range Frame                     | https://www.quadkart.in/rekon-6-6-inch-mini-long-range-frame-kit/                 | 50.97             | 
+| HGLRC Zeus F745 V2 STACK FPV Racing Drone 3-6S F722 FC 45A BL_S 4in1 ESC                    | https://www.drkstore.in/hglrc-zeus-f745-v2-stack-fpv-racing-drone-3-6s-f722-fc-45a-bl_s-4in1-esc/                 | 100.5              |
+| HGLRC Zeus Pro 1.6W long Range VTX                    | https://www.quadkart.in/hglrc-zeus-pro-1-6w-long-range-vtx/                 | 49.00                 |
+| HGLRC AEOLUS 2105.5 Motor                    | https://www.quadkart.in/hglrc-aeolus-2105-5-motor/                 | 83.3                  |
 | Gemfan Hurricane SL 6026 6" Prop (Set Of 4)                    | https://www.quadkart.in/gemfan-hurricane-sl-6026-6-prop-set-of-4/                 | 2.8                  |
-| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-radio-transmitter-w-hall-gimbals-elrs/                 |117.13                  |
-| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.65                  |
-| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.483                  |
-| DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 43.14                  |
+| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-radio-transmitter-w-hall-gimbals-elrs/                 |116.41               |
+| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5                  |
+| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.4                  |
+| DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 42.88              |
+| HGLRC Long Range Hammer Mini RHCP/LHCP 2.5dBi 5.8G Antenna | https://www.quadkart.in/hglrc-long-range-hammer-mini-rhcp-2-5dbi-5-8g-antenna/ | 7.708 |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total | (Including Shipping)             | 497.8|
+|Total | (Including Shipping)             | $500 |
