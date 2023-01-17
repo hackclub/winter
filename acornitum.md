@@ -1,6 +1,6 @@
 ---
-name: @acornitum
-project: mini keyboard
+name: "@acornitum"
+project: "mini keyboard"
 ---
 
 # Mini Keyboard
