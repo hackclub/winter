@@ -37,7 +37,7 @@ We will be following several online guides to build our project. The first is a 
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Kingroon K3PS (3D Printer)   | https://www.amazon.com/gp/product/B0B9F9PSLD/ (Amazon)| $159.99  |
+| Kingroon K3PS (3D Printer)   | https://www.amazon.com/gp/product/B0B9F9PSLD/ (Amazon)| $169.99  |
 | SG90 Micro Servos | https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ (Amazon)  | $19.98 |
 | M2 / M3 Screw Assortment | https://www.amazon.com/VIGRUE-M2-M3-M4-1080PCS-Stainless-Screws-Socket/dp/B071KBVZVV/  (Amazon)  | $24.99 |
 | Arduino UNO REV3 | https://www.amazon.com/gp/product/B008GRTSV6/ (Amazon)  | $28.50 |
@@ -61,4 +61,4 @@ We will be following several online guides to build our project. The first is a 
 | Tax | Amazon | $30.11 |
 | Tax | Adafruit | $1.99 |
 | Shipping | Adafruit | $14.36 | 
-| Total || ~$470 |
+| Total || ~$480 |
