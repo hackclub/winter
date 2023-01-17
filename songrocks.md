@@ -24,16 +24,16 @@ We'll be loosely following this youtube guide: https://www.youtube.com/watch?v=C
 ## Budget
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen | shorturl.at/DMUW3 | $169.00 |
-| YIHUA 926 III 60W LED Display Soldering Iron Station Kit w 2 Helping Hands, 6 Extra Iron Tips, Roll of Lead-Free Solder, Solder Sucker, S/S Tweezers, °C/ºF Conversion, Auto Sleep & Calibration Support | shorturl.at/fLMP0 | $39.99 |
+| 4K HDMI DP LCD Controller Board 15.6" B156ZAN02.3 LP156UD1 3840x2160 LCD Screen | https://shorturl.at/DMUW3 | $169.00 |
+| YIHUA 926 III 60W LED Display Soldering Iron Station Kit w 2 Helping Hands, 6 Extra Iron Tips, Roll of Lead-Free Solder, Solder Sucker, S/S Tweezers, °C/ºF Conversion, Auto Sleep & Calibration Support | https://shorturl.at/fLMP0 | $39.99 |
 |Old Lenovo Laptop Display Hinge | Recycled | N/A |
-|QC3.0 Type USB-C Lithium Li-ion 18650 Battery Quick Charging Board | shorturl.at/gILV1 | $4.96 |
-| 8 Pack Basswood Sheets 1/8 Plywood Sheet for Circuit Maker Craft Wood Burning 6” | shorturl.at/kowMW |$10.99 |
-| 12" x 60" Black Carbon Fiber Vinyl Film Wrap 3D Bubble Free Air Release 1ftx5ft | shorturl.at/IOW16 | $8.92 | 
-| 270Pcs M2 3-25mm Male to Female Brass PCB Standoff Screw Nut Assortment Kit Set | shorturl.at/juTW5 | $7.36 |  
-| CRAFTSMAN Hand Saw, 12-Inch Hacksaw (CMHT20138) | shorturl.at/aclI5 | $19.98 |
-|Flex Super Glue Gel, Clear, 20 Gram Bottle | shorturl.at/bnBES | $7.99 |
-| Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function | shorturl.at/enrx3 | $219 | 
-| Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch | shorturl.at/kqF29 | $59.99 | 
+|QC3.0 Type USB-C Lithium Li-ion 18650 Battery Quick Charging Board | https://shorturl.at/gILV1 | $4.96 |
+| 8 Pack Basswood Sheets 1/8 Plywood Sheet for Circuit Maker Craft Wood Burning 6” | https://shorturl.at/kowMW |$10.99 |
+| 12" x 60" Black Carbon Fiber Vinyl Film Wrap 3D Bubble Free Air Release 1ftx5ft | https://shorturl.at/IOW16 | $8.92 | 
+| 270Pcs M2 3-25mm Male to Female Brass PCB Standoff Screw Nut Assortment Kit Set | https://shorturl.at/juTW5 | $7.36 |  
+| CRAFTSMAN Hand Saw, 12-Inch Hacksaw (CMHT20138) | https://shorturl.at/aclI5 | $19.98 |
+|Flex Super Glue Gel, Clear, 20 Gram Bottle | https://shorturl.at/bnBES | $7.99 |
+| Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function | https://shorturl.at/enrx3 | $219 | 
+| Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch | https://shorturl.at/kqF29 | $59.99 | 
 |Tax and Shipping |                                       | $20.00  |
 | Total           |                                       | $505.15 |
