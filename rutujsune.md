@@ -1,5 +1,5 @@
 ---
-name: "@rutujsune"
+name: ["@rutujsune", "@aryatajne28"]
 project: "6' FPV Drone"
 ---
 
