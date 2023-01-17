@@ -19,11 +19,12 @@ This project also features an alarm clock which will play music until the user i
 
 Set up rasberry pi
 Connect the screen, camera, audio hat module
-Install a voice reconigition software to convert wavelengths into text
+Install a voice reconigition software to convert wavelengths into text this is from SpeechRecognition 3.8.1 library available on https://pypi.org/project/SpeechRecognition/
 Create a word that starts the program ex. Alexa or Ok Google
 Use Open Ai that runs when start word is said (Alexa, Ok Goolgle)
 Say the response from the speaker
 The clock software can be dowloaded from other pre-made clock sofware on GitHub.
+for example https://opensource.com/article/17/7/raspberry-pi-clock I could change the code slightly to make is hologram friendly.
 
 ## Budget
  
