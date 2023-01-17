@@ -28,12 +28,11 @@ We'll be loosely following this youtube guide: https://www.youtube.com/watch?v=C
 | YIHUA 926 III 60W LED Display Soldering Iron Station Kit w 2 Helping Hands, 6 Extra Iron Tips, Roll of Lead-Free Solder, Solder Sucker, S/S Tweezers, °C/ºF Conversion, Auto Sleep & Calibration Support | https://shorturl.at/fLMP0 | $39.99 |
 |Old Lenovo Laptop Display Hinge | Recycled | N/A |
 |QC3.0 Type USB-C Lithium Li-ion 18650 Battery Quick Charging Board | https://shorturl.at/gILV1 | $4.96 |
-| 8 Pack Basswood Sheets 1/8 Plywood Sheet for Circuit Maker Craft Wood Burning 6” | https://shorturl.at/kowMW |$10.99 |
 | 12" x 60" Black Carbon Fiber Vinyl Film Wrap 3D Bubble Free Air Release 1ftx5ft | https://shorturl.at/IOW16 | $8.92 | 
 | 270Pcs M2 3-25mm Male to Female Brass PCB Standoff Screw Nut Assortment Kit Set | https://shorturl.at/juTW5 | $7.36 |  
-| CRAFTSMAN Hand Saw, 12-Inch Hacksaw (CMHT20138) | https://shorturl.at/aclI5 | $19.98 |
 |Flex Super Glue Gel, Clear, 20 Gram Bottle | https://shorturl.at/bnBES | $7.99 |
-| Voxelab Aquila S2 3D Printer with N32 Open Source Motherboard, High Temperature(300°C/572°F) Extruder,Removable PEI Coated Flexible Magnetization Build Plate and Resume Printing Function | https://shorturl.at/enrx3 | $219 | 
-| Baseus Power Bank, 65W 20000mAh Laptop Portable Charger, Fast Charging USB C 4-Port PD3.0 Battery Pack for MacBook Dell XPS IPad iPhone 14/13/12 Pro Mini Samsung Switch | https://shorturl.at/kqF29 | $59.99 | 
+| Official Creality Ender 3 V2 Upgraded 3D Printer with Silent Motherboard Meanwell Power Supply Carborundum Glass Platform Resume Printing Function, DIY FDM 3D Printers Build Size 8.66x8.66x9.84 inch | shorturl.at/eBCE9 | $219 | 
+|OVERTURE PLA Filament 1.75mm PLA 3D Printer Filament, 1kg Cardboard Spool (2.2lbs), Dimensional Accuracy +/- 0.03mm, Fit Most FDM Printer (Black 1-Pack) | shorturl.at/AJKTZ | $20.0 | 
+| LOVELEDI Portable-Charger-Power-Bank - 40000mAh Power Bank PD 30W and QC 4.0 Quick Charging Built-in LED Display 2 USB 1Type-C Output Compatible with Most Electronic Devices on The Market | shorturl.at/bgL39| $29.99 | 
 |Tax and Shipping |                                       | $20.00  |
-| Total           |                                       | $505.15 |
+| Total           |                                       | $527.15 |
