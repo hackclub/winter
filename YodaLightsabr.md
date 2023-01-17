@@ -33,4 +33,8 @@ Black PLA Filament |	https://www.microcenter.com/product/485634/inland-175mm-bla
 Raspberry PI 4B 4GB Ram | - | -
 Jumper wires | - | -
 Breadboard | - | -
-Total	| - | $97.68
+   |    |  
+  | Subtotal | $97.68
+  | Estimated Shipping | ~$30.00
+  | CA Sales Tax @7.25% | $9.26
+  | Total  | $136.94
