@@ -32,16 +32,16 @@ them:
 
 ## Budget
 
-Conversion rate: 1$ = ₹81.47
+Conversion rate: 1$ = ₹81.79
 
 | Product                | Supplier/Link                                                                                                                             | Cost             |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Lipo battery           | https://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo                                                        | ₹1699            |
+| Lipo battery           | https://robu.in/product/orange-4200mah-3s-35c-11-1-v-lithium-polymer-battery-pack-lipo/                                                    | ₹2999            |
 | Drone frame            | https://www.flyrobo.in/drone-f450-450-quadcopter-frame-arm-with-landing-gear-4-axis-multicopter-kit-450f-quadx-quad-multicopter-kk-mk-mwc | ₹949             |
-| Lipo Power Charger     | https://www.flyrobo.in/imax-b3-lipo-balance-charger-for-2-3-cell-lipo-battery                                                             | ₹519             |
+| Lipo Battery Charger   | https://www.flyrobo.in/imax-b3-lipo-balance-charger-for-2-3-cell-lipo-battery                                                             | ₹519             |
 | Motors                 | https://www.flyrobo.in/A2212_1000KV_Brushless_Motor_For_RC_Airplane                                                                       | ₹469*4 = ₹1876   |
 | ESCs                   | https://www.electronicscomp.com/30-amp-esc-brushless-motor-india                                                                          | ₹349*4 = ₹1396   |
-| Propellers             | https://www.flyrobo.in/1045_Propeller_10in_10x4.5_For_Drone                                                                               | ₹85*4 = ₹340     |
+| Propellers             | https://www.flyrobo.in/1045_Propeller_10in_10x4.5_For_Drone                                                                               | ₹85*6 = ₹510     |
 | Transmitter & Receiver | https://www.flyrobo.in/FlySky_FS-i6_2.4G_6CH_AFHDS_RC_Transmitter                                                                         | ₹5499            |
 | Accelerometer          | https://www.flyrobo.in/MPU_6050_6DOF_3_Axis_Gyro_With_Accelerometer_Sensor_Module                                                         | ₹229             |
 | Arduino Uno            | https://robu.in/product/arduino-uno-r3/                                                                                                   | ₹782             |
@@ -50,5 +50,5 @@ Conversion rate: 1$ = ₹81.47
 | PDB                    | https://robu.in/product/pdb-xt60-w-bec-5v-12v/                                                                                              | ₹669             |
 | Jumper Cables          | https://www.flyrobo.in/combo-3-type-jumper-cables-f-f-f-m-m-m                                                                             | ₹49              |
 | Cable Zip Ties         | https://www.amazon.in/SCHOFIC-Cable-Ties-Pieces-Black/dp/B06W9MPZPK                                                                       | ₹215             |
-| Total                  |                                                                                                                                           | ₹17509 = $214.08 |
+| Total                  |                                                                                                                                           | ₹18979 = $232.04 |
 
