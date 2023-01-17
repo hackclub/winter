@@ -1,6 +1,6 @@
 ---
-name: @sswangg
-project: Biquad Yagi Antenna
+name: "@sswangg"
+project: "Custom Biquad Yagi Antenna"
 ---
 
 WiFi/HAM Radio Antenna
