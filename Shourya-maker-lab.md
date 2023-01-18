@@ -52,4 +52,10 @@ I have quite a good experience of building robots with Raspi and electronics but
 | 3d printer filament white  | https://www.amazon.in/gp/product/B06Y35GHT8/ref=ewc_pr_img_3?smid=A265UAHVFOFJA3&th=1  | $10.42 |
 | 3d printer filament black |https://www.amazon.in/gp/product/B08ZHN584T/ref=ewc_pr_img_4?smid=A3MCB9NUD1CPCV&th=1 | $12.21 |
 | Ups for 3d printer|https://www.amazon.in/gp/product/B087K438YF/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&psc=1 | $30.67 |
+| 3.5inch display for pi | https://robu.in/product/3-5-touch-screen-lcd-raspberry-pi/  | $14.35 |
+| Motors | https://robu.in/product/orange-12v-og555-500rpm-dc-motor-for-diy-projects-grade-a-quality/ | $12.92 |
+| drill  | https://www.amazon.in/gp/product/B088X8H5RN/ref=ox_sc_act_image_2?smid=AH017Z3M1ZJ3T&psc=1  | $27.08 |
+| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $8.57 |
+| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $30.67 |
+
 | Total           |                                       | $932.17 |
