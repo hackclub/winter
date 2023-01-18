@@ -15,10 +15,12 @@ which includes a small cute camera, a video transmitter and video reciever. we c
 its called FPV.
 
 ## budget
-
-Motors(x4) --------------------> 40$
-FC and ESC stack --------------> 74$
-Carbon Fibre Frame ------------> 13$
-Transmitter and reciever ------> 60$
-FPV camera --------------------> 19$
-video transmitter and reciever->44$
+ | Product         | Supplier/Link                         | Cost   |
+| --------------- | -------------------------------------  | ------ |
+| HIGH KV FPV MOTORS (x4)  | shorturl.at/dlovw             | $40    |
+| Flight Controller and ESC| shorturl.at/cjmxz             | $74    |
+| Carbon Fibre 5inch Frame | shorturl.at/ipuMS             | $13    |
+| Transmitter And Reciever | shorturl.at/knSU8             | $60    |
+| FPV Camera               | shorturl.at/eHNWY             | $19    |
+| Video Rx And transmitter | shorturl.at/aDQV7             | $44    | 
+|TOTAL COST                |               -               | $250   |
