@@ -44,8 +44,9 @@ We are going to build an IoT scoreboard for the foosball club at our high school
 | Stemma QT to Jumpers | https://www.adafruit.com/product/4209 | $0.95 |
 | Micro SD Card breakout | https://www.adafruit.com/product/254 | $7.50 |
 | Micro SD Card 512MB | https://www.adafruit.com/product/5252 | $4.95 |
+| DC power supply | https://www.adafruit.com/product/5288 | $15.00 |
 | Domain | | $10 |
-| Subtotal | | $274.75 |
+| Subtotal | | $289.75 |
 | Total Shipping  | | $0.00 |
-| Total Tax | | $22.66 |
-| Total           |                                       | $297.42 |
+| Total Tax | | $23.90 |
+| Total           |                                       | $313.65 |
