@@ -1,5 +1,5 @@
 ---
-name: "@YashasSingh"
+name: "@Checkers"
 project: "Virtual Assitant Hologram Alarm Clock"
 ---
   
