@@ -29,7 +29,7 @@ I have quite a good experience of building robots with Raspi and electronics but
 4 people will be working on this project 
 
 |Serial Number| Product         | Supplier/Link                         | Cost   |
-|| --------------- | ------------------------------------- | ------ |
+| ----------- | --------------- | ------------------------------------- | ------ |
 |01| Waveshare Camera| https://robu.in/product/waveshare-rpi-ir-cut-camera-b-better-image-in-both-day-and-night/ | $31.28  |
 |02| Servo Mount Brackets | https://robu.in/product/servo-mount-brackets-for-mg995-mg996-servo-motor/  | $2.69|
 |03| Servo (360°)| https://robu.in/product/towerpro-mg995-continuous-rotation-360-metal-gear-servo-motor-9-2kg/ | $3.95  |
