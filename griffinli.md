@@ -30,6 +30,7 @@ A temperature sensor that keeps track of the temperature in a room over time and
 | Adafruit Shipping | n/a | $6.10 |
 | Raspberry Pi Compute Module || $135.00 |
 | Raspberry Pi Compute Module I/O Board | https://www.adafruit.com/product/4787 | $35.00 |
+| Soldering materials | have access to | $0 |
 | Total || $350 |
 
 I can cover the remainder.
