@@ -44,11 +44,11 @@ What will you do first, second, third, etc.?
 | 5V  - 2A Adapter          |https://www.amazon.in/gp/product/B09BZXFHNL/ref=ox_sc_act_image_3?smid=A32I52VHFPY5IG&psc=1| $2.40  |
 | Stepper Motor x 2         |https://www.amazon.in/gp/product/B08J8C3TJS/ref=ox_sc_act_image_1?smid=ARY8SMPB4PT5P&psc=1 | $16.88 |
 | Servo SG90 x 3            |https://www.amazon.in/gp/product/B01H5IICJA/ref=ox_sc_act_image_7?smid=A14DHXI99GC1EO&psc=1| $8.00  |
+| Stepper motor Driver      |https://www.amazon.in/gp/product/B01H5IICJA/ref=ox_sc_act_image_7?smid=A14DHXI99GC1EO&psc=1| $7.68  |
 | MG996R Servo x 2          |https://www.amazon.in/gp/product/B08NPQT5H3/ref=ox_sc_act_image_5?smid=A14DHXI99GC1EO&psc=1| $13.76 |
 | HC-05 Bluetooth Module    |https://www.amazon.in/gp/product/B071HWFYJP/ref=ox_sc_act_image_4?smid=AFNRVQ5JHRILL&psc=1 | $4.23  |
 | Arduino UNO R3 Board      |https://www.amazon.in/gp/product/B01LCN8IRK/ref=ox_sc_act_image_6?smid=AFNRVQ5JHRILL&psc=1 | $11.26 |
-| Creality 3D Printer       |https://www.amazon.in/gp/product/B07L1NH3WG/ref=sw_img_1?smid=A265UAHVFOFJA3&psc=1         | $180.80|
-| 3D Printing Filament      |https://www.amazon.in/gp/product/B072F7WLGR/ref=ox_sc_act_image_1?smid=A265UAHVFOFJA3&psc=1| $10.28 |
-| Total                     |                                                                                           | $249.56|
+| Arm Model                 |https://www.amazon.in/gp/product/B072F7WLGR/ref=ox_sc_act_image_1?smid=A265UAHVFOFJA3&psc=1| $10.28 |
+| Total                     |                                                                                           | $68.76 |
 
 Thank You!
