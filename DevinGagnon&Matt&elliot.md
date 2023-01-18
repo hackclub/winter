@@ -42,10 +42,10 @@ What materials will you need for your project? Where will you get them? How much
 | Balloon             | https://www.kaymont.com/product-page/hab-600	                                                                              | 50   |
 | Parachute (3ft)    	| https://the-rocketman.com/recovery.html/	                                                                                  | 45   |
 | H2                	| https://www.jjstech.com/m1049.html?gclid=EAIaIQobChMI4Ley26HL_AIVhiytBh3rIQIpEAQYASABEgL_O_D_BwE	                          | 200  |
-| SJCAM (Camera) (x2)	| https://www.amazon.com/SJCAM-Waterproof-Underwater-Snorkeling-Camcorder/dp/B09GB1LN8V/ref=cm_cr_arp_d_product_top?ie=UTF8 	| 100  |
+| SJCAM (Camera) (x2)	| https://www.amazon.com/SJCAM-Waterproof-Underwater-Snorkeling-Camcorder/dp/B09GB1LN8V?ref_=ast_sto_dp&th=1&psc=1          	| 100  |
 | Backup Battery		  |                                                                                                                             | 0    |
 | Pi Zero knockoff    | https://a.co/d/coDR00N	                                                                                                    | 40   |
-| Tranceiver	        | https://www.adafruit.com/product/3072&sa=D&source=editors&ust=1673849741688834&usg=AOvVaw3vQ0OIFJSOrS51a8DGk5np	            | 20   |
+| Tranceiver	        | https://www.adafruit.com/product/3072                                                                                       | 20   |
 | GPS                	| https://www.adafruit.com/product/746	                                                                                      | 30   |
 | Accelorometer	      | https://www.adafruit.com/product/4754	                                                                                      | 25   |
 | Barometer	          | https://www.adafruit.com/product/4816	                                                                                      | 11   |
