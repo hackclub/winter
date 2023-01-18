@@ -15,7 +15,7 @@ in real life, letting me see my creation come into play.
 I am going to buy a kit with some other accessories to help me complete the project because as a total beginner, I don't know what to buy at first
 so I believe a kit would serve me the best.
 
-1. Design my circuit and attach it to my supplies like cardboard and cans.
+1. Design my circuit and attach it to my supplies like cardboard and cans and create moving mechanisms with the 3D printer.
 2. Attach that with servo and my camera, using openCV, i will detect whether if the bowl is empty. If it's empty the servo will drop food.
 3. I will also code an app that lets me set timer for food dropping intervals and automatic control.
 
@@ -28,4 +28,5 @@ I can pay shipping for myself
 | Arduino camera module |https://www.amazon.com/Arducam-Module-Megapixels-Arduino-Mega2560/  | $25.99 |
 | 2820 Pololu Servo | https://www.digikey.com/en/products/detail/pololu-corporation/2820/10450037 | $6.15 | 
 | cardboard, plastic bottle, cans, stand | my own supplies | free |  
-| Total           |                                       | $98.13 |
+| Elegoo Neptune 2S 3D printer | https://www.elegoo.com/products/neptune2s-fdm-printer?variant=39681380286512&gclid=EAIaIQobChMI8sefyM3R_AIVKQetBh2YYwOQEAQYASABEgIWJfD_BwE | $149.99 |
+| Total           |     $248.12                   
