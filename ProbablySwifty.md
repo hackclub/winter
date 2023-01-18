@@ -22,10 +22,10 @@ Ok, that was a lot of words and probably not the clearest wall of text but below
 - Camera and Smart Home System
 	- Don't have the money to buy some cameras to install at home? Use your old phone! 
 		- We are most likely going to use [Droidcam](https://www.dev47apps.com/) and modify their open-source client for Linux to handle multiple connections and the passthrough of the streams to TensorFlow
-			- The phones connect directly to the system to allow for minimal latency and faster response times. By doing it this way, we can also ensure that the 
+			- The phones connect directly to the system through the Wi-Fi network hosted by the systemto allow for minimal latency and faster response times. By doing it this way, we cut out additional latency from having to transfer the signal to the Wi-Fi router then the PC. This system also has the added benefit of being able to reuse old phones and reduce e-waste, as the phones that we'd be using for this are old and we can use even older phones. Droidcam has support for at a minimum Android 5.1, which is almost a decade old.
 		- This also has the added benefit of functioning as a microphone
 	- Will also be paired with a Bluetooth speaker accompanying the phone in order to communicate with the voice assistant	
-	
+
 - Local TensorFlow Processing 
 	- What happens in your home stays in your home!
 	- All the image detection and voice detection processing is run locally within the system and processed.
@@ -56,23 +56,24 @@ Extra Notes:
 	- Another fundamental part of our system is the Wireless Carbon Monoxide, Smoke, and Gas Alarm. This will be assembled into a Arduino or a Raspberry Pi 4b where we will develop a little script to let us know when any of these are triggered. It will wirelessly connect to the system through either a Particle Photon or a Raspberry Pi 4.
 	- The most important part of the project is the website. Through this website, you'll be able to add custom commands for the voice assistant, indicate what to do when people are detected, and view the cameras anytime. It will also handle the notification system.
 	- Lastly, the whole system will be running Android TV which will be emulated.
-	
-	
+
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| RX 6600 XT | https://www.amazon.com/PowerColor-Radeon-Gaming-Graphics-Powered/dp/B09BWR9J1M/ref=sr_1_3?crid=1DH0JGU1R48OJ&keywords=6600xt&qid=1673403275&s=electronics&sprefix=%2Celectronics%2C94&sr=1-3&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&th=1 | $314.97 |
-| CPU and Motherboard|https://www.amazon.com/dp/B07PV7GL6C?tag=pcpapi-20&linkCode=ogi&th=1| $65.97 |
-| SSD|https://www.amazon.com/dp/B07Q37V1C9?tag=pcpapi-20&linkCode=ogi&th=1 | $92.99 |
-| Cooler| https://www.amazon.com/Thermaltake-Motherboard-Addressable-Universal-CL-P105-AL12SW/dp/B09XFKW431/ref=sr_1_2?keywords=lga+1700+cooler&qid=1673534907&sr=8-2 | $24.99 |
+| RX 6600 XT (Refurbrished)| https://www.amazon.com/PowerColor-Radeon-Gaming-Graphics-Powered/dp/B09BWR9J1M/ | $314.97 |
+| CPU and Motherboard|https://www.microcenter.com/product/5006215/intel-core-i7-12700k,-asus-z690-m-plus-prime-ddr4,-cpu-motherboard-combo| $353.98 |
+| RAM|https://www.amazon.com/dp/B07PV7GL6C |$65.97|
+| SSD|https://www.amazon.com/dp/B07Q37V1C9 | $92.99 |
+| Cooler| https://www.amazon.com/Thermaltake-Motherboard-Addressable-Universal-CL-P105-AL12SW/dp/B09XFKW431/ | $24.99 |
 | Analog Rotation Potentiometer| https://www.dfrobot.com/product-87.html | $2.90 |
 | Analog Gas Sensor  | https://www.dfrobot.com/product-681.html | $6.90 |
 | Analog LPG Gas Sensor  | https://www.dfrobot.com/product-684.html | $6.90|
 | Analog CO Sensor  | https://www.dfrobot.com/product-686.html | $9.85|
 | Particle Photon  | https://www.dfrobot.com/product-1324.html |  $19.00 |
 | MPSA13 transistor (Darlington pair) | https://guitarpcb.com/product/mpsa13/ | $0.49 |
-| Arduino | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?crid=36VFKB0A8DW0P&keywords=arduino&qid=1673581888&sprefix=arduino%2Caps%2C148&sr=8-3 | $28.50 |
-| Case|Owned|Owned|
+| Arduino | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ | $28.50 |
+| Case	|Owned|Owned|
 | 750w Power Supply|Owned|Owned|
-| Taxes      |                                       | $75.3|
+| Taxes      |                                       | $84.65|
 | Shipping | | $9.45|
-|Total           |                                       | $1,012.09|
+|Total           |                                       | $1012.09|
