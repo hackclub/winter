@@ -14,16 +14,18 @@ I plan on going over how every compoent works, and how I can connect it to the f
 During the 10 days, I'll be assembling all of the compoents together, and after that's done, I'll be using circutpython to program everything together
 
 ## Budget
-| Link                                                                                                                                                                                                      	| Price                             	|   	|   	|
-|-------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------	|---	|---	|
-| Breadboard-Friendly 3.5mm Stereo Headphone Jack                                           	| https://www.adafruit.com/product/1699                                                                                                                                                                     	| $0.95                             	|   	|   	|
-| ScoutMakes FM Radio Board - STEMMA QT / Qwiic                                             	| https://scoutmakes.com/products/scoutmakes-fm-radio-board-qwiic-stemma-i2c                                                                                                                                	| $24.95                            	|   	|   	|
-| Feather Rp2040                                                                            	| https://www.adafruit.com/product/4884                                                                                                                                                                     	| $11.95                            	|   	|   	|
-| Tactile Buttons pack of 10                                                                	| https://www.adafruit.com/product/1119                                                                                                                                                                     	| $2.50                             	|   	|   	|
-| hermocouple Amplifier MAX31855 breakout board (MAX6675 upgrade) (I'm getting 2 of theese) 	| https://www.adafruit.com/product/269                                                                                                                                                                      	| $29.90                            	|   	|   	|
-| Proto Breadboards                                                                         	| https://www.adafruit.com/product/1609                                                                                                                                                                     	| $9                                	|   	|   	|
-| 3d printed parts                                                                          	| from libary                                                                                                                                                                                               	| have to check with libary tomorow 	|   	|   	|
-| Soldering Kit                                                                             	|                                                                                                                                                                                                           	|                                   	|   	|   	|
-| hook up wire spool pack                                                                   	| https://www.adafruit.com/product/1311                                                                                                                                                                     	| $15.95                            	|   	|   	|
-| Fume extraction fan                                                                       	| https://www.amazon.ca/Kulannder-Absorber-Remover-Extrator-Prevention/dp/B0711LFYJ1/ref=sr_1_7?crid=1JQMPJ9EHW9HR&keywords=fume+extraction+fa&qid=1673844021&sprefix=fume+extraction+fa%2Caps%2C164&sr=8-7 	|                                   	|   	|   	|
-| Monochrome Eink display wing                                                              	| https://www.adafruit.com/product/4195                                                                                                                                                                     	| $22.50                            	|   	|   	|
+| Name   | Link | Price |
+| ----------- | ----------- | --------- |
+| Feather rp2040 |  https://hack.af/cr6kP7X      |    $24.95 USD |        
+| ScoutMakes FM Radio Board - STEMMA QT / Qwiic     | https://hack.af/KPMrIF1  | $24.95 (without tax + shipping) |
+| Tactile Buttons pack of 10  | https://hack.af/Mhs55Dd  | $11.95 |
+| Breadboard-Friendly 3.5mm Stereo Headphone Jack | https://www.adafruit.com/product/1699  | $0.95 |                             | hermocouple Amplifier MAX31855 breakout board (MAX6675 upgrade) (I'm getting 2 of theese) 	| https://www.adafruit.com/product/269  | $22.99 |
+| 3D printed parts | From Libary | Depends on Print, it's $0.08 CAD per gram (I haven't gotten to making my model yet, i'm not really sure what the cost would be |
+| Proto Breadboards                                                                         	| https://www.adafruit.com/product/1609 	| $9      |
+| Soldering kit |  https://www.amazon.ca/Electronics-Soldering-Adjustable-Temperature-Desoldering/dp/B[…]sprefix=soldering%2Bkit%2Bwith%2Bsolde%2Caps%2C353&sr=8-4&th=1 | $29.67 |
+| Hook up wire spool pack |  https://www.adafruit.com/product/1311  | $15.95 |
+| Fume extraction fan | https://www.amazon.ca/Kulannder-Absorber-Remover-Extrator-Prevention/dp/B0711LFYJ1/ref=sr_1_7?crid=1JQMPJ9EHW9HR&keywords=fume+extraction+fa&qid=1673844021&sprefix=fume+extraction+fa%2Caps%2C164&sr=8-7 | $28.18|
+| Monochrome Eink Wing | https://www.adafruit.com/product/4195     | $22.95 |
+| Shipping and Taxes | Adafruit and Scoutmakes | $29.61|
+| Total | USD | $198.16|
+ 
