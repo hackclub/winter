@@ -58,7 +58,8 @@ What materials will you need for your project? Where will you get them? How much
 | SMA to uFL Adapter	| https://www.adafruit.com/product/851	                                                                                      | 4    |
 | external gps antenna| https://www.adafruit.com/product/960	                                                                                      | 20   |
 | spring antenna      | https://www.adafruit.com/product/4269	                                                                                      | 1    |
-| Total               |                                                                                                                             | 551  |
+| Calculated          |                                                                                                                             | 73   |
+| Total               |                                                                                                                             | 625  |
 
 
 **(All proper safety precautons will be taken. Hydrogen is flammable, but the balloon is specifically designed for it, and it will be kept clear of sparks and open flame. All laws will be followed, so the payload will be less than four ponds and approved to launch. Other than the balloon, which bursts at the maximum atitude, everything can and will be reused for future launches.)**
