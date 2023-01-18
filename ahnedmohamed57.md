@@ -12,7 +12,8 @@ I am planing to rebuild my 3D ptinter. I tryed to build it last year but the com
 ## Plan
 
 I will start by collecting the parts together and create the remaining parts using wood. Then, I will use mariln firmware as a sofware to controll the components of the printer. 
-And here is a guide for the 3d printer creation process.
+And here is a guide for the 3d printer creation process: https://reprap.org/wiki/RepRap 
+
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
