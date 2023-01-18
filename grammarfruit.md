@@ -51,7 +51,6 @@ Everything will be from amazon so shipping is free, and extra cost will be spons
 | Potentiometer x2 | [Amazon](https://www.amazon.com/gp/product/B07XQ1Q9RN/ref=ox_sc_act_title_20?smid=A1LH3TFU4S09BS&psc=1) | $25.32 |
 | PLA Filament | [MatterHackers](https://www.matterhackers.com/store/l/175mm-pla-filament-lightblue-1-kg/sk/M4M03KA6) | $20.87 |
 | PLA Filament Natural | [MatterHackers](https://www.matterhackers.com/store/l/175mm-pla-filament-natural-1-kg/sk/M0QV78YA) | $20.87 | 
-
 | Sub-Total           |                                       | $498.43 |
 | Tax                 |                                       | $31.15  |
 | Total + Tax         |                                       | $529.58 |
