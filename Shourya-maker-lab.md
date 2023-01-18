@@ -28,33 +28,33 @@ I have quite a good experience of building robots with Raspi and electronics but
 
 4 people will be working on this project 
 
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Waveshare Camera| https://robu.in/product/waveshare-rpi-ir-cut-camera-b-better-image-in-both-day-and-night/ | $31.28  |
-| Servo Mount Brackets | https://robu.in/product/servo-mount-brackets-for-mg995-mg996-servo-motor/  | $2.69|
-| Servo (360°)| https://robu.in/product/towerpro-mg995-continuous-rotation-360-metal-gear-servo-motor-9-2kg/ | $3.95  |
-| Servo (180°) | https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/  | $3.12 |
-| Rpi case|https://robu.in/product/aluminum-heat-sink-case-with-double-fans-for-raspberry-pi-4b-black/ | $10.79  |
-| Motor driver x2pieces |https://robu.in/product/enhanced-13amp-dc-motor-driver-30a-peak-10-seconds/  | $28.62 |
-| Battery | https://robu.in/product/orange-5200mah-4s-40c-lithium-polymer-battery-pack-lipo/ | $65.03  |
-| Battery charger| https://robu.in/product/imax-b6ac-v2-professional-balance-chargerdischarger/  | $57.56 |
-| Voltage tester | https://robu.in/product/lipo-battery-voltage-checker-1s-8s-with-buzzer/ | $2.81  |
-| Lipo battery connector x2pieces |https://robu.in/product/xt60h-connector-with-housing-male/ | $0.96 |
-| Remote controler| https://robu.in/product/flysky-fs-t6-6ch-transmitter-with-fs-r6b-receiver/ | $67.40  |
-| AAA rechargeable battery x2pack | https://robu.in/product/panasonic-eneloop-aaa-bk-4mcce-2bn-rechargeable-battery-pack-of-4/ | $19.64 |
-| AAA rechargeable battery charger |https://robu.in/product/panasonic-bq-cc55n-eneloop-smart-and-quick-charger-for-ni-mh-battery-cell/ | $18.40  |
-| Glue gun |https://robu.in/product/standard-temperature-corded-glue-gun/| $2.81 |
-| Glue sticks x2packs| https://robu.in/product/all-purpose-hot-melt-glue-sticks-for-glue-gun-5pcs/ | $1.69  |
-| Arduino uno mini Board|https://robu.in/product/arduino-uno-mini-limited-edition/|$46.25|
-| Chassis| https://thinkrobotics.in/products/shock-absorption-metal-robot-tank-chassis?variant=16420917870664 | $175.55  |
-| Raspberry pi 4 | https://rees52.com/product/3911-raspberry-pi-4-model-b-with-1gb-2gb-4gb-lpddr4-sdram-rs2237#/36-ram-8_gb  | $161.99 |
-| 3d printer | https://www.amazon.in/gp/product/B07BR3F9N6/ref=ewc_pr_img_1?smid=AH017Z3M1ZJ3T&th=1 | $177.32  |
-| 3d printer filament white  | https://www.amazon.in/gp/product/B06Y35GHT8/ref=ewc_pr_img_3?smid=A265UAHVFOFJA3&th=1  | $10.42 |
-| 3d printer filament black |https://www.amazon.in/gp/product/B08ZHN584T/ref=ewc_pr_img_4?smid=A3MCB9NUD1CPCV&th=1 | $12.21 |
-| Ups for 3d printer|https://www.amazon.in/gp/product/B087K438YF/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&psc=1 | $30.67 |
-| 3.5inch display for pi | https://robu.in/product/3-5-touch-screen-lcd-raspberry-pi/  | $14.35 |
-| Motors | https://robu.in/product/orange-12v-og555-500rpm-dc-motor-for-diy-projects-grade-a-quality/ | $12.92 |
-| drill  | https://www.amazon.in/gp/product/B088X8H5RN/ref=ox_sc_act_image_2?smid=AH017Z3M1ZJ3T&psc=1  | $27.08 |
-| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $5.92 |
-| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $8.57 |
-| Total           |                                       | $1000 |
+|Serial Number| Product         | Supplier/Link                         | Cost   |
+|01| --------------- | ------------------------------------- | ------ |
+|02| Waveshare Camera| https://robu.in/product/waveshare-rpi-ir-cut-camera-b-better-image-in-both-day-and-night/ | $31.28  |
+|03| Servo Mount Brackets | https://robu.in/product/servo-mount-brackets-for-mg995-mg996-servo-motor/  | $2.69|
+|04| Servo (360°)| https://robu.in/product/towerpro-mg995-continuous-rotation-360-metal-gear-servo-motor-9-2kg/ | $3.95  |
+|05| Servo (180°) | https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/  | $3.12 |
+|06| Rpi case|https://robu.in/product/aluminum-heat-sink-case-with-double-fans-for-raspberry-pi-4b-black/ | $10.79  |
+|07| Motor driver x2pieces |https://robu.in/product/enhanced-13amp-dc-motor-driver-30a-peak-10-seconds/  | $28.62 |
+|08| Battery | https://robu.in/product/orange-5200mah-4s-40c-lithium-polymer-battery-pack-lipo/ | $65.03  |
+|09| Battery charger| https://robu.in/product/imax-b6ac-v2-professional-balance-chargerdischarger/  | $57.56 |
+|10| Voltage tester | https://robu.in/product/lipo-battery-voltage-checker-1s-8s-with-buzzer/ | $2.81  |
+|11| Lipo battery connector x2pieces |https://robu.in/product/xt60h-connector-with-housing-male/ | $0.96 |
+|12| Remote controler| https://robu.in/product/flysky-fs-t6-6ch-transmitter-with-fs-r6b-receiver/ | $67.40  |
+|13| AAA rechargeable battery x2pack | https://robu.in/product/panasonic-eneloop-aaa-bk-4mcce-2bn-rechargeable-battery-pack-of-4/ | $19.64 |
+|14| AAA rechargeable battery charger |https://robu.in/product/panasonic-bq-cc55n-eneloop-smart-and-quick-charger-for-ni-mh-battery-cell/ | $18.40  |
+|15| Glue gun |https://robu.in/product/standard-temperature-corded-glue-gun/| $2.81 |
+|16| Glue sticks x2packs| https://robu.in/product/all-purpose-hot-melt-glue-sticks-for-glue-gun-5pcs/ | $1.69  |
+|17| Arduino uno mini Board|https://robu.in/product/arduino-uno-mini-limited-edition/|$46.25|
+|18| Chassis| https://thinkrobotics.in/products/shock-absorption-metal-robot-tank-chassis?variant=16420917870664 | $175.55  |
+|19| Raspberry pi 4 | https://rees52.com/product/3911-raspberry-pi-4-model-b-with-1gb-2gb-4gb-lpddr4-sdram-rs2237#/36-ram-8_gb  | $161.99 |
+|20| 3d printer | https://www.amazon.in/gp/product/B07BR3F9N6/ref=ewc_pr_img_1?smid=AH017Z3M1ZJ3T&th=1 | $177.32  |
+|21| 3d printer filament white  | https://www.amazon.in/gp/product/B06Y35GHT8/ref=ewc_pr_img_3?smid=A265UAHVFOFJA3&th=1  | $10.42 |
+|22| 3d printer filament black |https://www.amazon.in/gp/product/B08ZHN584T/ref=ewc_pr_img_4?smid=A3MCB9NUD1CPCV&th=1 | $12.21 |
+|23| Ups for 3d printer|https://www.amazon.in/gp/product/B087K438YF/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&psc=1 | $30.67 |
+|24| 3.5inch display for pi | https://robu.in/product/3-5-touch-screen-lcd-raspberry-pi/  | $14.35 |
+|25| Motors | https://robu.in/product/orange-12v-og555-500rpm-dc-motor-for-diy-projects-grade-a-quality/ | $12.92 |
+|26| drill  | https://www.amazon.in/gp/product/B088X8H5RN/ref=ox_sc_act_image_2?smid=AH017Z3M1ZJ3T&psc=1  | $27.08 |
+|27| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $5.92 |
+|28| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $8.57 |
+||| Total           |                                       | $1000 |
