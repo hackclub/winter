@@ -161,12 +161,12 @@ What materials will you need for your project? Where will you get them? How much
 | Electronics ESP32 ESP-32 ESP-32S ESP 32 Development Board CP2102 WiFi Bluetooth Ultra-Low Power Consumption Dual Core X 5 | [https://www.amazon.in/gp/product/B07TYCFX5C/ref=ewc_pr_img_3?smid=A2KWJ4IHWZH3FB&psc=1](https://www.amazon.in/gp/product/B07TYCFX5C/ref=ewc_pr_img_3?smid=A2KWJ4IHWZH3FB&psc=1) | $34.75|
 | Raindrops Detection Sensor Module	 |[https://robu.in/product/raindrops-detection-sensor-module-rain-weather-humidity/](https://robu.in/product/raindrops-detection-sensor-module-rain-weather-humidity/)| $0.91|
 | 40 Pin Red GPIO Extension Board for Raspberry Pi|[https://robu.in/product/40-pin-red-gpio-extension-board-for-raspberry-pi/](https://robu.in/product/40-pin-red-gpio-extension-board-for-raspberry-pi/) | $1.50|
-| 20 CM 40 Pin Dupont Cable Male/Male, Male/Female, Female/Female Cable Combo | [https://robu.in/product/20-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo/](https://robu.in/product/20-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo/) | $1.50|
+| 20 CM 40 Pin Dupont Cable Male/Male, Male/Female, Female/Female Cable Combo | [https://robu.in/product/20-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo/](https://robu.in/product/20-cm-40-pin-dupont-male-male-male-female-female-female-cable-combo/) x 2| $3.0|
 |Soil Moisture Meter, Soil Humidity Sensor, Water Sensor, Soil Hygrometer for Ardunio X 2 | https://robu.in/product/soil-moisture-meter-soil-humidity-sensor-water-sensor-soil-hygrometer-ardunio/ | $1.45 |
-|Flame Sensor Module |[https://robu.in/product/flame-sensor-module/](https://robu.in/product/flame-sensor-module/) | $0.85 |
+|Flame Sensor Module |[https://robu.in/product/flame-sensor-module/](https://robu.in/product/flame-sensor-module/) x2 | $0.85 |
 |RPI4-MODBP-8GB| https://in.element14.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503) | $73.79 |
 | I2C ADS1115 16 Bit ADC 4 channel Module with Programmable Gain Amplifier | [https://robu.in/product/i2c-ads1115-16-bit-adc-4-channel-module-with-programmable-gain-amplifier/](https://robu.in/product/i2c-ads1115-16-bit-adc-4-channel-module-with-programmable-gain-amplifier/) | $9.07|
-|37-1K - Resistance:1kohm |[https://in.element14.com/mcm/37-1k/resistance-1kohm/dp/2784369](https://in.element14.com/mcm/37-1k/resistance-1kohm/dp/2784369) | $2.14 |
+|10k Ohm 0.5W Metal Film Resistor (Pack of 50) |https://robu.in/product/10k-ohm-0-5w-metal-film-resistor-pack-of-50/ | $0.67 |
 | Orange Raspberry Pi 4 Advance Kit   | [https://robu.in/product/orange-raspberry-pi-advance-kit](https://robu.in/product/orange-raspberry-pi-advance-kit/) | $55.59  |
 |Plusivo Soldering Kit with Multimeter (EU Plug) | (https://robu.in/product/plusivo-soldering-kit-with-multimeter-eu-plug/) | $21.26 |
-| Total           |                                       | $249.95|
+| Total           |                                       | $249.90|
