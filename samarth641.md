@@ -60,6 +60,7 @@ and I am eager to be a part of this process.
 | Fishing Thread| https://www.amazon.in/Fishing-Transparent-Casting-20-Meters/dp/B0B9N8LR6M/ref=asc_df_B0B9N8LR6M/?tag=googleshopdes-21&linkCode=df0&hvadid=619412026290&hvpos=&hvnetw=g&hvrand=17679179516095364323&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20458&hvtargid=pla-1817196009519&th=1 | $1.84|
 | Servo m16*5| https://www.electronicscomp.com/mg90s-metal-gear-servo-motor?gclid=CjwKCAiAqt-dBhBcEiwATw-ggGjyX5DJ0I3HNszM4a8V1tQ2SmTPWa_a1iSWdPG5rUKb1asaLLLP8hoC_PUQAvD_BwE  | $9.25|
 | Nyamah Sales Round Elastic Band Cord Rope Stretch String for High Fashion Boutique Craft Project Crafting Hanging 10 Meter 2 mm (Black) * 2 |  https://www.amazon.in/Nyamah-Sales-Elastic-Boutique-Crafting/dp/B09PJDJ426/ref=sr_1_7?keywords=elastic%2Brope&qid=1673550072&sr=8-7&th=1 | $8.6|
+| 30A Blheli ESC * 4 |  https://robu.in/product/30a-blheli-esc/ | $8.6|
 
 | Total           |                                       | $708.64 |
 
