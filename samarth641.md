@@ -26,6 +26,8 @@ Step 4 Next, we attach the propellers to the motors. The propellers have a speci
 Step 5 With the propellers in place, we install the battery and any additional electronics, such as a flight controller or GPS module. We make sure that all of these components are securely fastened and properly connected to the main body of the drone.
 
 Step 6 Finally, we test the drone to make sure that everything is working properly. This involves turning on the drone and using a remote control to move it through the air. If everything seems to be working correctly, we can start using our drone for flights.
+ 
+Step 7 3d printing the stand we will control the servos directly through Apm 2.8 as there are extra channels for servo or we can also use the the receiver in drone as it also has channel outputs but we are thinking to use apm instead
 
 
 
