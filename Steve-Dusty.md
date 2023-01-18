@@ -27,4 +27,5 @@ I can pay shipping for myself
 | Complete Elegoo Start Kit with mega board  | https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL | $65.99  |
 | Arduino camera module |https://www.amazon.com/Arducam-Module-Megapixels-Arduino-Mega2560/  | $25.99 |
 | 2820 Pololu Servo | https://www.digikey.com/en/products/detail/pololu-corporation/2820/10450037 | $6.15 | 
+| cardboard, plastic bottle, cans | my own supplies | stand 
 | Total           |                                       | $98.13 |
