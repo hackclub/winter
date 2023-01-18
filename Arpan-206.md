@@ -41,3 +41,4 @@ Here are a few links for individual components though:
 | Powerbank for Raspi | https://www.amazon.in/gp/product/B09MZCQYHZ | $14 |
 | Raspberry Pi 4 | https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?src=raspberrypi | $75 |
 | Total           |                                       | $988 |
+
