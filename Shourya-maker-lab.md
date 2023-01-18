@@ -57,4 +57,4 @@ I have quite a good experience of building robots with Raspi and electronics but
 |25| drill  | https://www.amazon.in/gp/product/B088X8H5RN/ref=ox_sc_act_image_2?smid=AH017Z3M1ZJ3T&psc=1  | $27.08 |
 |26| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $5.92 |
 |27| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $8.57 |
-|--| Total           |         | ------------------------------------------------------------------ | $1000 |
+|--| Total           |          | $1000 |
