@@ -169,4 +169,4 @@ What materials will you need for your project? Where will you get them? How much
 |10k Ohm 0.5W Metal Film Resistor (Pack of 50) |https://robu.in/product/10k-ohm-0-5w-metal-film-resistor-pack-of-50/ | $0.67 |
 | Orange Raspberry Pi 4 Advance Kit   | [https://robu.in/product/orange-raspberry-pi-advance-kit](https://robu.in/product/orange-raspberry-pi-advance-kit/) | $55.59  |
 |Plusivo Soldering Kit with Multimeter (EU Plug) | (https://robu.in/product/plusivo-soldering-kit-with-multimeter-eu-plug/) | $21.26 |
-| Total           |                                       | $249.90|
+| Total           |                                       | $250|
