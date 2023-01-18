@@ -55,7 +55,6 @@ I have quite a good experience of building robots with Raspi and electronics but
 | 3.5inch display for pi | https://robu.in/product/3-5-touch-screen-lcd-raspberry-pi/  | $14.35 |
 | Motors | https://robu.in/product/orange-12v-og555-500rpm-dc-motor-for-diy-projects-grade-a-quality/ | $12.92 |
 | drill  | https://www.amazon.in/gp/product/B088X8H5RN/ref=ox_sc_act_image_2?smid=AH017Z3M1ZJ3T&psc=1  | $27.08 |
-| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $8.57 |
-| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $30.67 |
-
-| Total           |                                       | $932.17 |
+| Vernier Calipers |https://www.amazon.in/gp/product/B07VSVMWTJ/ref=ox_sc_act_title_3?smid=A2C5ON7HVVIF7E&psc=1 | $5.92 |
+| carving and smoothing kit | https://www.amazon.in/gp/product/B07YVDV543/ref=ewc_pr_img_1?smid=AHS0OCUNC6EJT&psc=1 | $8.57 |
+| Total           |                                       | $1000 |
