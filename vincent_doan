@@ -16,6 +16,9 @@ how to attach these electronics together.
 First I'm going to use my 3d printer to create the cases for the 5 trackers then I'm going to solder the IMUs, Battery, Diodes, and the charging board together.
 It should then be ready to put into the cases and to install the SLimeVr software in order for them to work.
 
+I'm following the schematics and instructions on this doc (https://docs.slimevr.dev/) that the SlimeVr team have come out. This contains the schematics of how I'm going to build
+the trackers.
+
 ## Budget 
 
 With Shipping
