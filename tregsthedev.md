@@ -10,8 +10,19 @@ I'm going to be making something that helps me study. I've found that listening 
 I want to make this to make it simpler for myself to get started, and help myself get more work done. 
 
 ## Plan
-I plan on going over how every compoent works, and how I can connect it to the feather. I also plan on learning how to 3d model and print a case. before the 10 days, I plan on pratcing how to solder wires on the extra breadboard that I'm getting. I'll be trying to do all of this before the 10 days
-During the 10 days, I'll be assembling all of the compoents together, and after that's done, I'll be using circutpython to program everything together
+This is my first hardware project, and this project is something that I couldn't really find anything for. There are plenty of differnt videos on eink displays, and the feather simlar to this project, though they're not what I'm trying to fully make.
+
+To fill this void and not have this project be a disater, here are my plans:
+
+1. Before the 10 days, I will work with an audrino kit my libary has to get more familar with audrinos, and hardware (the feather isn't an audrino, though this should help me get the concepts)
+2. I will be watching and following turtiols to make something with the kit, and in my free time to make myself more familar
+3. The soldering equiment will be the first thing I have, so I'll pratice soldering and will be using youtube videos to learn all about it
+4. When everything arrives, I'll start by figuring out how to set everything up, and making a diagram. After that, I'll start using my knowledge from all the other steps above and using other projects with my feather as a guide to start assembling everything together
+5. After that, I plan on using circutpython to code everything together and make it work
+
+I do not think I will have time to 3d model and learn how to do it before the 10 days so I'll be working on making a case after the 10 days are over
+
+I'll admit my plan is a little risky, though I think I'll be able to understand how it works, and be able to make my study helper at the end
 
 ## Budget
 | Name   | Link | Price |
