@@ -13,7 +13,8 @@ Me and my sister are going to build an open source project that aims to create V
 
 ## Plan
 
-[Haptic Gloves](https://github.com/LucidVR/lucidgloves/wiki/Prototype-4-Parts-List)=
+[Haptic Gloves](https://github.com/LucidVR/lucidgloves/wiki/Prototype-4-Parts-List)
+
 [Arm and Vehicle](https://howtomechatronics.com/projects/arduino-robot-arm-and-mecanum-wheels-platform-automatic-operation/)
 
 1. Following the Haptic Gloves guide, we will attach the base parts to the gloves then the servos
