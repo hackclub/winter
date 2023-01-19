@@ -31,4 +31,4 @@ What materials will you need for your project? Where will you get them? How much
 | RAMPS                | I have this one!                      | $0     |
 | LCD Smart controller | I have this one!                      | $0     |
 | Heated bed           | Home made!                            | $0     |
-| Total                |                                       | $192   |
+| Total                |                                       | $230   |
