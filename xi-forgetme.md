@@ -11,7 +11,7 @@ Hello!
 
 Thank you for reading my project, just as the title, this is a portable private cloud.
 
-It can also move everywhere as a mini car. You can control it with the RPi.
+It can also move everywhere as a mini car. You can control it with the RPi. It can also use a hotpot to connect with your phone.
 
 This project is made for a home NAS to storage data locally rather than storage them on clouds.
 
