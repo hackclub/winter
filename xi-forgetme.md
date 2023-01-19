@@ -25,12 +25,14 @@ Programmers can also build a local git repo, or build a portable cloud code plat
 
 Also I will use this Raspberry Pi to control a mini car with L298N, so that I can move this portable NAS by the mini car lol.
 
+In addition, I would like to make a auto follow
+
 TODO: I gotta write an app on phone to control the car easier.
 
 
 ## Plan
 ### STEP 1
-Install Linux on SD Card for Raspberry Pi 4B, and Install necessary software like nginx python etc. The web admin panel I will write by myself (I have almost finished it now).
+Install Linux on SD Card for Raspberry Pi 4B, and Install necessary software like nginx python etc. The web admin panel I will write by myself (I have almost finished it now). 
 
 ### STEP 2
 Build the mini-car, and connect to the L298N, then connect MotorA (OUT1, OUT2), MotorB(OUT3, OUT4), 12V in, 5V out, IO to Raspberry Pi.
@@ -61,9 +63,6 @@ Log in and configure what you need.
 
 ### STEP 5
 Then you can connect or access the server everywhere and move it everywhere you want.
-
-### STEP 6
-**TODO: Make the server can fly lol**
 
 ## Budget
 
