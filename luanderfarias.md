@@ -9,6 +9,8 @@ project: "simplo-vr"
 
 Simplo VR is a cheap virtual reality headset with 6-dof and support for steamvr. made for the community by the community, simplo is the easiest way to enter in the virtual reality worlds without paying a fortune...
 
+we gonna try our best to develop a headset with 6-dof tracking, maybe hand tracking and a lot of stuff to make the project not only one of the cheapiest ways to enter vr, but one of the better ones!
+
 Fully open-source and customizable, made to be refined and improved.
 
 ## Plan
@@ -41,4 +43,22 @@ Simplo is developed based on other open-source vr headsets out there. Here are s
 | 3D Print | gonna made it using jlcpcb | $32.67 |
 | 5x Led | gonna buy, close here :) | $2.00 |
 | Jumper wires | gonna buy, close here :) | $7.00 |
-| Total | Changed a lot of itens cause everything is way expansive where i live | $146.65 |
+
+## Controllers
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| 2x Arduino Micro | https://store-usa.arduino.cc/products/arduino-micro | $77.02 |
+| 2x mpu9250 | https://pt.aliexpress.com/item/1005004439490641.html?pdp_npi=2%40dis%21BRL%21R%24%2040%2C57%21R%24%2038%2C94%21%21%21%21%21%402101d1b616734837560467175eee53%2112000029185573027%21btf&_t=pvid%3A3bc2cc48-d54b-4dd2-8a53-a41f212935b8&afTraceInfo=1005004439490641__pc__pcBridgePPC__xxxxxx__1673483756&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra | $22.58 |
+| 2x Esp32 camera | https://pt.aliexpress.com/item/1005001997158739.html?pdp_npi=2%40dis%21BRL%21R%24%206%2C32%21R%24%204%2C47%21%21%21%21%21%402101c84a16741609460532145e25ba%2112000018358549846%21btf&_t=pvid%3A6bdade96-f869-4cd1-a01d-14077ead55fd&afTraceInfo=1005001997158739__pc__pcBridgePPC__xxxxxx__1674160946&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2bra | $31.28 |
+| 7x Push Buttons | gonna buy, close here :) | $5.00 |
+| Jumper wires | gonna buy, close here :) | $7.00 |
+| 3D-Print | gonna made it using jlcpcb | $52.38 |
+
+## Project
+
+| Product         | Cost   |
+| --------------- | ------ |
+| Headset | $146.65 |
+| 2x Controllers | $195,26 |
+| Total | $341.91 |
