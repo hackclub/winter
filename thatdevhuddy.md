@@ -1,5 +1,5 @@
 ---
-name: "@thatdevhuddy"
+name: ["@thatdevhuddy", "@kaietkin", "@dhruvaron", "@TakumiJoeBritt"]
 project: "PianoBot"
 ---
 
