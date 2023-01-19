@@ -22,7 +22,7 @@ With the propellers in place, we will install the battery and any additional ele
 
 Finally, we will test the drone to ensure that everything is working correctly. This will involve turning on the drone and using a remote control to move it through the air. If everything seems to be working properly, we can start using our drone for flights.
 
-In conclusion, building a drone presents an exciting opportunity to apply my skills and knowledge to create a device that can perform a wide range of tasks and functions. The prospect of designing and building a machine that can fly and perform various tasks is incredibly rewarding, and I am excited to be a part of this process.
+In conclusion, building a drone presents an exciting opportunity to apply my skills and knowledge to create a device that can perform a wide range of tasks and functions. The prospect of designing and building a machine that can fly and perform various tasks is incredibly rewarding, and I am excited to be a part of this process.This drone is a successor to the previous drone that was presented at EPOCH India. It boasts a range of new, advanced features and is equipped with an array of sensors that enable it to perform a variety of tasks. Additionally, it has been designed with an emphasis on safety, making it a reliable and secure choice for various applications.
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
