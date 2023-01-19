@@ -25,7 +25,6 @@ It showed potential, but the contraction was not enough for the full range of mo
  
 ## Budget
  
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
