@@ -16,22 +16,13 @@ First we plan on using a 3D printer to build the chassis as well as the locking 
 Budget
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
-Ender 3 S1 Pro $380 @ https://www.microcenter.com/product/649022/creality-ender-3-s1-pro-3d-printer?ob=1&rf=Search+Results
+| Product         | Supplier/Link                                                                                        | Cost     |
+| --------------- | ---------------------------------------------------------------------------------------------------- | ------   |
+| Ender 3 S1 Pro  | https://www.microcenter.com/product/649022/creality-ender-3-s1-pro-3d-printer?ob=1&rf=Search+Results | $449     |
+| CR-10 V3.       | https://www.microcenter.com/product/633005/creality-cr-10-v3-3d-printer.                             | $349.    |
+| Sermoon D1.     | https://www.microcenter.com/product/637057/sermoon-d1-3d-printer?ob=1&rf=Search+Results.             | $449.    |
+| PETG Filament.  | https://www.microcenter.com/product/503745/inland-175mm-black-petg-3d-printer-filament-1kg-spool.    | $18.     |
+| Servo.          | https://www.amazon.com/Futaba-S3117-Micro-Hi-Torque-Servo/dp/B00EO8E9Y2                              | $30.     |
+| Total           |                                                                                                      | $400-500 |
 
-OR
-
-CR-10 V3 $350 @https://www.microcenter.com/product/633005/creality-cr-10-v3-3d-printer
-
-OR
-
-Sermoon D1 $380
-https://www.microcenter.com/product/637057/sermoon-d1-3d-printer?ob=1&rf=Search+Results
-
-(Whichever is in stock at the time of purchase in microcenter)
-
-inland PLA and PETG Filament $38 @ https://www.microcenter.com/product/503745/inland-175mm-black-petg-3d-printer-filament-1kg-spool-(22-lbs)
-
-
-Arduino Nano 33 Iot (Already Own)
-
-futaba s3117 $30 @ https://www.amazon.com/Futaba-S3117-Micro-Hi-Torque-Servo/dp/B00EO8E9Y2
+(Note: the 3 3D printers in the chart are my top choices and will be choosing only one, however since microcenter stock is quite erratic, will be purchasing any printer under 449 depending on their stock)
