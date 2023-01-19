@@ -3,7 +3,7 @@ name: "@innovativecreations"
 project: "AI assistant home automation system"
 ---
 
-# AI Assistant cum home automation system
+# AI Assistant home automation system
 
 ## Summary
 
