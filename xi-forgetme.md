@@ -59,7 +59,7 @@ Build the mini-car, and connect to the L298N, then connect MotorA (OUT1, OUT2), 
 Connect the remaining wires, Boot, and connect to the Internet, **set IP address to be static**, and install RPi.GPIO, then use [this script](https://github.com/xi-forgetme/PyCar) to control the portable server.
 
 ### STEP 4
-Log in and configure what you need.
+Connect the camera, I will make the mobile car server can be controlled on your phone via network as I said. With this, you can essier see what happening in front of the car.
 
 ### STEP 5
 Then you can connect or access the server everywhere and move it everywhere you want.
@@ -72,12 +72,11 @@ Then you can connect or access the server everywhere and move it everywhere you 
 | Raspberry Pi 4B | [JD](https://item.jd.com/100020415183.html) | $162.54  |
 | SanDisk SD Card 64GB | [JD](https://item.jd.com/2141154.html)  | $8.81 |
 | 7'' Screen | [JD](https://item.m.jd.com/product/44632987580.html) | $34.18 |
-| metal shell | [JD](https://item.m.jd.com/product/55298728091.html) | $3.88 |
 | Wireless Network Adapt | [JD](https://item.m.jd.com/product/10051857225000.html) | $16.57|
-| mini wireless ketboard | [JD](https://item.m.jd.com/product/10041381894140.html) | $11.19 |
+| RPi Camera | [JD](https://item.m.jd.com/product/10036673190479.html) | $10.30 |
 | L298N | [JD](https://item.m.jd.com/product/10054711210476.html) | 1.64 |
 | mini car kit | [JD](https://item.m.jd.com/product/67803770281.html) | $4.03 |
 | NVMe Mobile Hard Disk Box | [JD](https://item.m.jd.com/product/100044436249.html) | $11.93 |
 | Shipping | FREE | $0|
 | Tax | FREE | $0 |
-| Total | | $249.10 |
+| Total | | $250.00 |
