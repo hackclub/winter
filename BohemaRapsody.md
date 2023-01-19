@@ -64,7 +64,7 @@ Air flow analysis will be completed in MATLAB or Fusion 360. As we have experien
 We will design the car bodies by looking at existing solutions, drawing inspiration from nature and experimenting with a range of shapes and forms. We will also employ generative design to create forms that we wouldn't have been able to materialise otherwise. Furthermore, the generative design will allow us to maximise the overall strength of the design whilst minimising weight.
 
 **Manufacture Car Bodies**: 
-The car bodies will be printed using ABS / PLA (and possibly machines out of MDF using our school's CNC), we will employ the dual extruder to aid in printing support materials out of PVA so that they are soluble and can be easily removed. We will post-process the moulds using abrasive paper and IPA for the ABS which will be something that we've not tried out before but will provide a valuable learning experience.
+The car bodies will be printed using ABS / PLA (and possibly machines out of MDF using our school's CNC), we will employ the dual extruder to aid in printing support materials out of PVA so that they are soluble and can be easily removed. We will post-process the moulds using abrasive paper and acetone for the ABS which will be something that we've not tried out before but will provide a valuable learning experience.
 
 **Attach Car Body Onto Car**: 
 This will be done via M8 bolts that will go onto the modified chassis so that the shells can be easily swapped out and can be replaced easily so we can make modifications readily.
@@ -90,11 +90,12 @@ Once we have the bodies manufactured and printed we will test them by using a 5 
 |--------------|---------------------------------------------------------------------------------------------|---------------------------|------------------------|-------------------|---------------------|
 | PLA Filament 1kg| https://www.3dqf.co.uk/pla-product | 3 *(1xREGAL RED,1xCOBALT BLUE,1xREGAL BLACK)* |         $20.78 *(converted GBP)*        |        Free       |        $62.34 *(converted GBP)*      |
 |PLA Wood-filled Filament| https://www.3dqf.co.uk/product-page/woodchucker-1-75mm-wood-filled-uk-made-3d-printer-filament | 1 | $29.34 *(converted GBP)*| Free |$29.34 *(converted GBP)*|
+| Light-weight PLA 1kg|https://www.amazon.co.uk/eSUN-Filament-Dimensional-Accuracy-Material/dp/B09VSMMLKB | 1 *(WHITE)*|$44.40|Free|$44.40|
 | ABS Filament 1kg| https://www.3dqf.co.uk/abs-product   |    2 *(1xLEMON YELLOW,1xBRILLIANT WHITE)*    |    $26.89 *(converted GBP)*   |        Free       |        $53.79 *(converted GBP)*       |
 | TPU Filament 500g| https://www.amazon.co.uk/Geeetech-Printer-Filament-1-75mm-Printing/dp/B07PGP4L5R            |             1             |         $20.86         |        Free       |        $20.86       |
 | Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$36.83| Free |$36.83|
 | RC Car Chassis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
-| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $733.60       |
+| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $778.00       |
 
 *Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
