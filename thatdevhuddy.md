@@ -22,7 +22,6 @@ Test and tweak.
 
 ## Budget
 
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
 All of the links to the parts are here: https://docs.google.com/document/d/1pCTGWZPjfgzufPHXTuUPvIJxoMRuIZJ-XZey157PIz8/edit?usp=sharing
 
