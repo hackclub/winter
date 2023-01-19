@@ -1,5 +1,5 @@
 ---
-name: "@shreekar-developer, @Shreepaad"
+name: "@shreekar-developer, @Shreepaad, @Aditya-Ramesh"
 project: "Custom NAS"
 ---
 
@@ -7,7 +7,7 @@ project: "Custom NAS"
 
 ## Summary
 
-My brother and I want to combine our interets in PC building and 3D printing and create a custom PC network attached storage.
+My brother, my friend and I want to combine our interets in PC building and 3D printing and create a custom PC network attached storage.
 
 ## Plan
 
