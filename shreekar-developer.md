@@ -20,21 +20,22 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| CPU R5 5600G| Microcenter In store | $120  |
-| Ram 8GB| Microcenter In store | $22  |
-| Motherboard| Microcenter In store | $60  |
-
+| CPU R5 5600G| shorturl.at/bFQRS | $130  |
+| Ram 8GB| shorturl.at/jAHM4 | $22  |
+| Motherboard| shorturl.at/BDKV9 | $65  |
 | power supply |  shorturl.at/avAFM | $32 |
+
 | Powered Wood Saw |  shorturl.at/asOWX | Already Own |
 | Power Drill |  shorturl.at/bmpYZ | Already Own |
-| Plywood | shorturl.at/gkrtv | $16 |
-| Fine Mesh | shorturl.at/mM124 | $8 |
-| PC Fans | shorturl.at/gmuxQ | $16 |
-| Dowel | https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Pine-Round-Dowel-10001808/203334068 | $7 |
-| Creality 3D Printer | https://www.creality3dofficial.com/products/ender-3-v2-3d-printer | $213 | (after 6% student discount and taxes)
-| Filament | shorturl.at/inCG2 | $22 |
-| 1TB Hard Drive | shorturl.at/efvL1 | Already Owned |
+| Plywood | shorturl.at/gkrtv | Owned |
+| Fine Mesh | shorturl.at/mM124 |Owned |
+
+| PC Fans | https://a.co/d/159Fpem | $12 |
+| Dowel | https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Pine-Round-Dowel-10001808/203334068 | Owned |
+| Creality 3D Printer | shorturl.at/BDN89 | $302 |
+| Filament | shorturl.at/inCG2 | Owned |
+| 4TB hard drive | shorturl.at/vRT68 | $125 x 2 | total price for 2 hard drives after tax is 270
 
 
-| Total           |                                       | $520 |
+| Total           |                                       | $813 |
  
