@@ -25,6 +25,7 @@ What materials will you need for your project? Where will you get them? How much
 |MK8 Extruder          | https://a.co/d/daainex                | $42    |
 |PLA 3DPrinter Filament| https://a.co/d/fZCWpLS                | $26    |
 | Shipping + import fees deposit|                              | $58    |
+| Tool box             |https://a.co/d/fwPpMUv                 | $25    |
 | Arduino mega         | I have this one!                      | $0     |
 | 4 Steeper motors     | I have this one!                      | $0     |
 | RAMPS                | I have this one!                      | $0     |
