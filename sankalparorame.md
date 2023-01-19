@@ -3,7 +3,7 @@ name: "@sankalparorame"
 project: "TheMediBand"
 ---
 
-#TheMediBand
+# TheMediBand
 
 ## Summary
 I am going to build a medical device that combines a number of devices in form of a compact and easy to use neckbandand also costs far less than all of them combined. It is aimed at overcoming the problem of delay in diagnosis and treatment of Cardiovascular Diseases (CVDs) due to lack of equipment, specially in rural areas in India. The device combines ECG, EEG and EKG modules alongside being a defibrillator for people undergoing cardiac arrest. It also comprises of a peizo modem that shall help in ascerating blood flow related issues including congestions.
