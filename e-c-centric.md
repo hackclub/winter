@@ -3,7 +3,7 @@ name: "@e-c-centric"
 project: "IOT Weather Monitoring and Prediction Station"
 ---
 
-# Project Name
+#IOT Weather Monitoring and Prediction Station 
 
 ## Summary
 
@@ -19,12 +19,16 @@ The first step is to complete the hardware connections and set up the companion 
 check the weather conditions. All of these readings will be sent to a Firsetore database until tehe machine learning algorithm is developed.
 The algorithm will be trained on the data in the database so that it'll detect patterns and be able to make long term predictions about the weather.
 
+I will also build a casing for my components (sensors and microcontroller) to protect them from harsh weather conditions during remote data collection. Ideally, this casing would be dismantleable to allow me access the components if I need to work on them or repair something.
+
 ## Budget
 
-| Product                                      | Supplier/Link                                                                                     | Cost   |
-| -------------------------------------------- | --------------------------------------------------------------------                              | ------ |
-| Arduino Sensor Kit (no microcontroller)      | https://store.arduino.cc/products/arduino-sensor-kit-base                                         | $30.00 |
-| Arduino IOT Bundle                           | https://store.arduino.cc/products/iot-bundle?variant=42614286844055                               | $80.00 |
-| Shipping                                     | UPS Express Saver                                                                                 | $45.21 |
-| Screwdriver Set                              | https://www.jumia.com.gh/generic-115-in-1-magnetics-precision-screwdriver-set-black-29887655.html | $58.50 |
-| Shipping                                     | Jumia Express                                                                                     | $08.00 |
+| Product                                      | Supplier/Link                                                                                     |  Cost    |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------  |
+| Arduino Sensor Kit (no microcontroller)      | https://store.arduino.cc/products/arduino-sensor-kit-base                                         |  $30.00  |
+| Arduino IOT Bundle                           | https://store.arduino.cc/products/iot-bundle?variant=42614286844055                               |  $80.00  |
+| Shipping                                     | UPS Express Saver                                                                                 |  $45.21  |
+| Screwdriver Set                              | https://www.jumia.com.gh/generic-115-in-1-magnetics-precision-screwdriver-set-black-29887655.html |  $58.50  |
+| Shipping                                     | Jumia Express                                                                                     |  $08.00  |
+|                                              |                                                                                                   |          |
+| Total                                        |                                                                                                   | $221.71  |
