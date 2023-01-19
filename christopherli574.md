@@ -35,4 +35,5 @@ Budget
 | Switch Stabilizer| $6.63| https://divinikey.com/collections/keyboard-stabilizers/products/durock-plate-mount-stabilizers?variant=32316615557185 |
 | PCB | $65 | https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9055 |
 | Ender 3 Neo 3D Printer | $259.69 | https://www.amazon.com/Ender-Neo-Full-metal-Carborundum-220x220x250mm/dp/B083ZPVX77/ref=sr_1_4?keywords=ender+3+neo&qid=1673672914&s=industrial&sr=1-4 |
-| Total | $498.37 |
+| Per-key LEDs | $8.47 | https://www.amazon.com/Rectangle-Transparent-Lighting-Electronics-Components/dp/B01C5HL0PO/ref=d_pd_sbs_vft_none_sccl_4_1/137-7475306-6784927?pd_rd_w=HNy4I&content-id=amzn1.sym.38bbd1de-73a5-4ef9-9954-df27c3112829&pf_rd_p=38bbd1de-73a5-4ef9-9954-df27c3112829&pf_rd_r=ACW3G4RS3YTJCXNP6H9C&pd_rd_wg=mQv50&pd_rd_r=5e2a7604-73a4-4190-8ecc-63d7a8fa1c8f&pd_rd_i=B01C5HL0PO&th=1
+| Total | $506.84 |
