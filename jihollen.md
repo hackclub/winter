@@ -7,7 +7,7 @@ project: "RFID rings"
 
 ## Summary
 
-using rfid tech to make rings be my door card
+utilising the rings with RFID technology to unlock the door that is powered by ardunio. so the copier will copy the code from the add and replicate it onto the rings and then it would be able to open it with a tap, unlike conventional doorlocks which use bulky cards and stuff 
 
 ## Plan
 
@@ -22,5 +22,6 @@ What materials will you need for your project? Where will you get them? How much
 | Ring                      | https://www.amazon.com/Riversmerge-Rewritable-Frequency-13-56MHz-Black-21mm/dp/B0B3D8Y766 | $37.88  |
 | RFID copy machine         | https://www.amazon.com/Readers-Duplicator-13-56MHz-Programmer-Frequency/dp/B0818XFX9K     | $54.39  |
 | Arduino UNO Rev3          | https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3                 | $27.60  |
+| RC522                     |                                                                                           | $4.99   |
 | Tax and shipping together | ----------------------------------------------------------------------------------------- | $29.00  |
-| Total                     |                                                                                           | $148.87 |
+| Total                     |                                                                                           | $153.86 |
