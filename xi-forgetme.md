@@ -11,6 +11,8 @@ Hello!
 
 Thank you for reading my project, just as the title, this is a portable private cloud.
 
+It can also move everywhere as a mini car. You can control it with the RPi.
+
 This project is made for a home NAS to storage data locally rather than storage them on clouds.
 
 As the development of information technology， more and more data are generated in people's lives.
@@ -22,6 +24,8 @@ By the way, they store the data on the cloud and the sync of the data is very sl
 Programmers can also build a local git repo, or build a portable cloud code platform.
 
 Also I will use this Raspberry Pi to control a mini car with L298N, so that I can move this portable NAS by the mini car lol.
+
+TODO: I gotta write an app on phone to control the car easier.
 
 
 ## Plan
