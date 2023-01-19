@@ -1,6 +1,6 @@
 ---
 name: "@innovativecreations"
-project: "AI assistant cum home automation system"
+project: "AI assistant home automation system"
 ---
 
 # AI Assistant cum home automation system
@@ -8,6 +8,11 @@ project: "AI assistant cum home automation system"
 ## Summary
 
 My aim is to build an AI assistant (like Google home, Alexa) along with hardware to control my appliances such as light, ac, etc, with raspberry pi, esp32, relays, etc. The next step is to build an AI assistant.
+
+-The AI should understand my voice commands and respond accordingly.
+-The AI will have a UI(animation, floating data, progress tracking, etc).
+-It will control my appliances.
+-It will also act like a local server for storing data.
 
 For a reference: https://www.youtube.com/watch?v=Z5rdSA0lvNo
 
@@ -44,4 +49,5 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | SD Card (os of pi)  | (https://amzn.eu/d/exmtUtB) | $6.30 |
 | WS2812b LED strip | (https://amzn.eu/d/4nfmZzv) | $15.40 |
 | Monitor ( to view the multiple process at the same time (like the firebase working, working of text to speech, etc) and for the UI for the AI with some data(date, time, etc)  floating over the screen and beside these the monitor comes with inbuilt speakers which can used to get feedback from the pi) | (https://amzn.eu/d/8ePErtO)  | $98.90 |
-| Total           |                                       | $120.1 |
+| External hdd (for storing the data) | (https://amzn.eu/d/dCNAXM8) | $40.2 |
+| Total           |                                       | $160.8 |
