@@ -4,7 +4,6 @@ project: "Automatic titration"
 ---
 
 # Automatic titration
-Automatic titration
 
 ## Summary
 
