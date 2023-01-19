@@ -17,10 +17,10 @@ its called FPV.
 ## budget
  | Product         | Supplier/Link                         | Cost   |
 | --------------- | -------------------------------------  | ------ |
-| HIGH KV FPV MOTORS (x4)  | shorturl.at/dlovw             | $40    |
-| Flight Controller and ESC| shorturl.at/cjmxz             | $74    |
-| Carbon Fibre 5inch Frame | shorturl.at/ipuMS             | $13    |
-| Transmitter And Reciever | shorturl.at/knSU8             | $60    |
-| FPV Camera               | shorturl.at/eHNWY             | $19    |
-| Video Rx And transmitter | shorturl.at/aDQV7             | $44    | 
+| HIGH KV FPV MOTORS (x4)  | https://robu.in/product/rs2205-2300kv-cw-brushless-motor-fpv-racing-quad-motor-fpv-multicopter-qav250-qav300/?gclid=EAIaIQobChMI8-rjl4XS_AIVkTArCh1tnwG2EAQYASABEgKbz_D_BwE                                                                                                             | $40    |
+| Flight Controller and ESC| https://www.quadkart.in/speedybee-f405-stack-f405-v3-fc-50a-3-6s-blheli-s-4-in-1-esc/                                    | $74    |
+| Carbon Fibre 5inch Frame | https://robu.in/product/zmr250-qav250-quadcopter-frame/                                                                  | $13    |
+| Transmitter And Reciever | https://www.electronicscomp.com/flysky-fs-i6-6-channel-2.4ghz-transmitter-receiver?gclid=EAIaIQobChMI9_3YrrvU_AIVDBwrCh00EQ4REAQYAiABEgI9nPD_BwE                                                                                         | $60    |
+| FPV Camera               | https://www.electronicscomp.com/1-3-inch-cmos-1500tvl-mini-fpv-camera-2.1mm-lens-pal-ntsc-with-osd?gclid=EAIaIQobChMI6K-Fu7vU_AIVeplmAh1nGgqhEAQYAyABEgJe-vD_BwE                                                                                                              | $19    |
+| Video Rx And transmitter | https://www.flyrobo.in/fpv-5.8g-600mw-48-channel-wireless-av-tx-rx-ts832-rc832-wireless-audio-video-transmitter-receiver-system-fpv                                                                                                                                                             | $44    | 
 |TOTAL COST                |               -               | $250   |
