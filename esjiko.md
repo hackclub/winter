@@ -25,7 +25,7 @@ For Snoopy, since I'm new to 3D modeling I will use a 3D model of Sleeping Snoop
 
 Next, I will connect the WizFi 360 to the breadboard using a male-to-male jumper wire.
 
-Following that, I will connect the data pin of the LED strip to a digital pin on the WizFi 360 using the spldering kit and connecting wires. I will use the circuit connection guide mukesh-sankhla posted.
+Following that, I will connect the data pin of the LED strip to a digital pin on the WizFi 360 using the soldering kit and connecting wires. I will use the circuit connection guide mukesh-sankhla created. (https://www.electromaker.io/uploads/images/projects/2829/story/medium/Mukesh_Sankhla_story_image_1666866936904869.png)
 
 I will then connect the power and ground pins of the LED strip to the power and ground rails of the breadboard by locating the VCC and GND pins on the LED strip and then inserting the VCC pin into the power rail of the breadboard and the GND pin into the ground rail of the breadboard. I will use female-to-female jumper wires.
 
@@ -45,7 +45,7 @@ Following that, on line 282 I will input my location-Longitude and Latitude and 
 
 Finally, I will connect the lamp to my computer using a MicroUSB cable and compile and upload the code.
 
-This will then allow the lamp to connect with my wifi and display the output.
+This will then allow the lamp to connect with my wifi and display the output. 
 
 
 ## Budget
@@ -55,8 +55,8 @@ This will then allow the lamp to connect with my wifi and display the output.
 | 3D Printer | already own  | $0.00 |
 | Micro USB cable | https://www.adafruit.com/product/592 | $2.95 |
 | On/Off Switch | https://www.adafruit.com/product/1443 | $1.50 |
-| Micro USB cable + On/Off Switch total is $19.84 ($4.45 subtotal + $14.36 shipping + $1.03 tax) |
-|  WizFi360-EVB-Pico | https://www.mouser.com/ProductDetail/WIZnet/WizFi360-EVB-Pico?qs=t7xnP681wgUiMgEF215xMA%3D%3D&mgh=1 | 15.69 ($6.88 + $7.99 shipping + $0.82 sales tax) |
+| Micro USB cable + On/Off Switch total | | $19.84 ($4.45 subtotal + $14.36 shipping + $1.03 tax) |
+|  WizFi360-EVB-Pico | https://www.mouser.com/ProductDetail/WIZnet/WizFi360-EVB-Pico?qs=t7xnP681wgUiMgEF215xMA%3D%3D&mgh=1 | $15.69 ($6.88 + $7.99 shipping + $0.82 sales tax) |
 | WS2812B LED Strip | https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-waterproof/dp/B01CDTEJBG?crid=2HQATETF4F1NH&keywords=ws2812b+led+strip&qid=1666787396&qu=eyJxc2MiOiI0Ljc3IiwicXNhIjoiNC41NCIsInFzcCI6IjQuNTMifQ%3D%3D&sprefix=WS2812B+,aps,273&sr=8-1-spons&psc=1&linkCode=sl1&tag=0420043-20&linkId=c6479d2b3f3b1b098f9520945ebf8628&language=en_US&ref_=as_li_ss_tl  | $32.99 |
 | White Filament | https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGZNM34?crid=15ZVL8IULP9NF&keywords=white%2B3d%2Bprinter%2Bfilament&qid=1666799249&qu=eyJxc2MiOiIzLjU5IiwicXNhIjoiMy42NiIsInFzcCI6IjMuNDYifQ%3D%3D&sprefix=white%2B3d%2B%2Caps%2C364&sr=8-1-spons&linkCode=sl1&tag=0420043-20&linkId=d55fce10b65526847533fb76b12ad66e&language=en_US&ref_=as_li_ss_tl&th=1  | $20.99 |
 | Solder Kit | https://www.amazon.com/Soldering-Premium-Ceramic-Adjustable-Temperature/dp/B0B3D96MN6/ref=sr_1_9?crid=3HI6FZ8RJ1WY&keywords=Soldering+Iron&qid=1674117578&sprefix=soldering+iron+%2Caps%2C218&sr=8-9 | $21.99 |
@@ -64,5 +64,6 @@ This will then allow the lamp to connect with my wifi and display the output.
 | Superglue | https://www.amazon.com/Loctite-Liquid-10-Gram-Longneck-234796/dp/B0002YXG78/ref=sr_1_10?crid=3FDOL9YTRNGQN&keywords=super%2Bglue&qid=1674116452&sprefix=super%2Bglue%2Caps%2C152&sr=8-10&th=1 | $3.88 |
 | Jumper Wires | https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?crid=33QA4S8PJ7R5W&keywords=jumper%2Bwires&qid=1674079835&sprefix=jumper%2Bwires%2Caps%2C244&sr=8-3&th=1 | $6.99 |
 | Breadboard | https://www.amazon.com/dp/B0040Z4QN8 | $8.75 |
+| Amazon products subtotal: | | $118.75 ( $122.58 + $6.17 tax ) |
 -
-| Total           |                                       |  |
+| Total           |                                        $154.28 |
