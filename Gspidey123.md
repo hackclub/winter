@@ -3,8 +3,7 @@ name: "@Gspidey123"
 project: "Mechatronic Hand"
 ---
  
-# Project Name
-Mechatronic Hand
+# Mechatronic Hand
  
 ## Summary
  
@@ -13,12 +12,12 @@ I recently learnt of the existence of smart materials such as nitinol, and when 
 ## Plan
 Firstly, I can use a simple string-based hand that can be 3D printed. My brother bought a 3d printer for the house, so I can use an existing file to do this. I have attached a picture of an example hand file from thingiverse, which is what I will probably use. However, I will use fishing wire as a stronger alternative to string for the tendons. 
 
-![image](https://user-images.githubusercontent.com/122729898/212999254-8a3df9b5-cd98-42a0-994e-6cc87d7454af.png)
+![Example pictureof 3D printed hand from Thingiverse](https://user-images.githubusercontent.com/122729898/212999254-8a3df9b5-cd98-42a0-994e-6cc87d7454af.png)
 
 
 Since this requires very precise 3D printing, I would like to first upgrade the 3D printer to have automatic bed levelling to make this possible (as my 3D printer currently faces some acuraccy issues such as layer distortion and will not be capable of it ). I have already bought some cheap nitinol wire and made a quick model using simply a switch and a battery (picture shown below).
 
-![WhatsApp Image 2023-01-15 at 15 10 54](https://user-images.githubusercontent.com/122729898/213000244-588885e6-2c4d-42c0-8eb8-2a77f40758a7.jpeg)
+![Simple model of moving hand with cardboard and nitinol](https://user-images.githubusercontent.com/122729898/213000244-588885e6-2c4d-42c0-8eb8-2a77f40758a7.jpeg)
 
 
 It showed potential, but the contraction was not enough for the full range of motion. So, I instead plan to use nitinol springs to act as the muscles of the hand (which allows for a much greater contraction) and an Arduino microcontroller to make it fully automatic (by using it as multiple electronic switches).  I can also add things like a joystick to control it, or a camera with a program that allows it to mirror my hand. Some extra functions for the hand I plan are to make it solar powered if possible (by using some solar cells as the power source), to promote sustainable energy usage. And I want it to have a child friendly aesthetic by using rainbow colours. Also, I can use an Arduino Wi-fi module to connect this to a controller or camera or simply to the computer (all of which I already own). 
