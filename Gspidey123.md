@@ -12,7 +12,7 @@ I recently learnt of the existence of smart materials such as nitinol, and when 
 ## Plan
 Firstly, I can use a simple string-based hand that can be 3D printed. My brother bought a 3d printer for the house, so I can use an existing file to do this. I have attached a picture of an example hand file from thingiverse, which is what I will probably use. However, I will use fishing wire as a stronger alternative to string for the tendons. 
 
-![Example pictureof 3D printed hand from Thingiverse](https://user-images.githubusercontent.com/122729898/212999254-8a3df9b5-cd98-42a0-994e-6cc87d7454af.png)
+![Example picture of 3D printed hand from Thingiverse](https://user-images.githubusercontent.com/122729898/212999254-8a3df9b5-cd98-42a0-994e-6cc87d7454af.png)
 
 
 Since this requires very precise 3D printing, I would like to first upgrade the 3D printer to have automatic bed levelling to make this possible (as my 3D printer currently faces some acuraccy issues such as layer distortion and will not be capable of it ). I have already bought some cheap nitinol wire and made a quick model using simply a switch and a battery (picture shown below).
