@@ -3,7 +3,9 @@ name: "@e-c-centric"
 project: "IOT Weather Monitoring and Prediction Station"
 ---
 
-#IOT Weather Monitoring and Prediction Station 
+# Project Name
+
+IOT Weather Monitoring and Prediction Station 
 
 ## Summary
 
