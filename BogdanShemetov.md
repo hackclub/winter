@@ -3,7 +3,7 @@ name: "BogdanShemetov"
 project: "Automatic titration"
 ---
 
-# Project Name
+# Automatic titration
 Automatic titration
 
 ## Summary
