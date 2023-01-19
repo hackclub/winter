@@ -50,6 +50,7 @@ By following these steps, we will successfully build a PC using the components t
 
 THE DIY MONITOR:
     After purchasing all of the necessary components, we will do the following steps:
+    
         1. Connect the control board with the LCD Display.
         2. Place it in a case type thing.
         3. Manage the cables of the monitor.
@@ -58,6 +59,7 @@ THE DIY MONITOR:
 By following the steps we will successfully build a DIY Monitor.
 
 The Computer Case:
+
     1. We will design the case according to the lengths of our pc components.
     2. Then we will take the cut-outs of the MDF board.
     3. Then we will put all the PC Components in the case to check if we haven't done anything wrong.
