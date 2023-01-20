@@ -20,10 +20,16 @@ start with Arduino  setup software, then coding and assembling.
 ## Budget
 These materials will i need for my project.
 
-| Product                           | Supplier/Link                                           | Cost   |
-| --------------------------------- | --------------------------------------------------------| ------ |
-| Full Arduino kit                  | Arduino kit (https://a.co/d/16LLGem)                    | $225.99 |
-| Total                             |                                                         | $225.99|
+| Product                           | Supplier/Link                                           | Cost  |
+| --------------------------------- | --------------------------------------------------------| ------|
+| Jumper Wires                      | [Jumper Wires](https://www.adafruit.com/product/758)    | $3.95 |
+| Breadboard                        | [Breadboard](https://www.adafruit.com/product/64)       | $4.95 |
+| Arduino                           | [Arduino ](https://www.adafruit.com/product/1019        | $15.00|
+| METRO 328 - Arduino Compatible    | METRO 328 - Arduino Compatible | $17.50 |
+| PIR (motion) sensor               | PIR (motion)sensor(https://www.adafruit.com/product/189)| $9.95 |
+| Relay Module for Arduino          | Relay Module for Arduino                                | $7.99 |
+| 2.2k ohm resistor                 | 2.2k ohm resistor                                       | $0.75 |
+| Total                             |                                                         | $60.11 |
 
 I didn't work on IoT before but  it's helping me to improve my coding and learn IOT.
 ### Thanks
