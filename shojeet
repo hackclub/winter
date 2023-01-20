@@ -1,0 +1,29 @@
+---
+name: "@sohjeet"
+project: "jeet"
+---
+
+# jeet
+
+## Summary
+
+I'd want to automate my room with my mobile like light, fan and also use add google assistant. this is an AI home assistant like Alexa or google home. I will write python code for this project. 
+
+## Plan
+
+start with Arduino  setup software, then coding and assembling.
+1. Setup Arduino - coding environment and necessary software and modules
+2. Add goggel assistant .
+3. Connect with mobile, will use online reference or tutorial
+4. connect hardware - mic, speaker with Arduino and two led , fan etc .
+
+## Budget
+These materials will i need for my project.
+
+| Product                           | Supplier/Link                                           | Cost   |
+| --------------------------------- | --------------------------------------------------------| ------ |
+| Full Arduino kit                  | Arduino kit (https://a.co/d/16LLGem)                    | $225.99 |
+| Total                             |                                                         | $225.99|
+
+I didn't work on IoT before but  it's helping me to improve my coding and learn IOT.
+### Thanks
