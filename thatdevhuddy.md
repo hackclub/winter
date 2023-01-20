@@ -7,7 +7,7 @@ project: "PianoBot"
 
 ## Summary
 
-We are going to build a self-playing piano. Our team has 4 members. One of our group member’s has a brother who is very skilled at playing the piano. Although we do not possess the same talent as he does, we are determined to mimic his abilities through innovation and technology. Our design consists of solenoids placed on top of every key (we’re only doing 2 octaves to start) that is controlled by a Teensy that reads a MIDI roll and pushes the solenoids accordingly. We are not following any guides.
+We are going to build a self-playing piano. Our team has 4 members. One of our group member’s has a brother who is very skilled at playing the piano. Although we do not possess the same talent as he does, we are determined to mimic his abilities through innovation and technology. Our design consists of solenoids placed on top of every key (we’re only doing 2 octaves to start) that is controlled by a Teensy (Using Arduino C++) that reads a MIDI roll and pushes the solenoids accordingly. We are not following any guides.
 
 ## Plan
 
