@@ -42,7 +42,8 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Raspberry pi 4 with accessories - owned  |  | $0 |
-| Accessories of raspberry pi (power supply, computer peripherals like mic, keyboard, etc) - owned | | $0 |
+| Microphone and camera - owned |  | $0 |
+| Computer peripherals (keyboard, mouse) - owned |  | $0 |
 | ESP32 and Arduino- owned |  | $0 |
 | Relays - owned |  | $0 |
 | Prototyping stuffs(soldering station,  hot glue, prototyping board,  etc)   - owned |  | $0 
