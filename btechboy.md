@@ -30,12 +30,10 @@ Steps and tools I might use to build a basic DIY quadcopter:
 
 7. Final assembly and calibration: After the testing and configuration are complete, I can finish the final assembly of the quadcopter and calibrate it for the first flight.
 
-I am referring to the below mentioned tutorials for the same :
+8. With the help of this drone I aim to monitor crops' health with an aerial perspective and get a 360-degree view using a wifi-camera (but this feature can only be added once I am done with flight testing and satisfied that I can upscale the budget for buying a camera and a case 3D-printed for it).
+> I am referring to the below mentioned tutorials for the same : <br>
 [1st tutorial](https://www.youtube.com/watch?v=I8ugqKsMIpE) and 
 [2nd tutorial](https://www.youtube.com/watch?v=FhlMFzumsVg)
-
-8. With the help of this drone I aim to monitor crops' health with an aerial perspective and get a 360-degree view using a wifi-camera (but this feature can only be added once I am done with flight testing and satisfied that I can upscale the budget for buying a camera and a case 3D-printed for it).
-
 
 ## Budget
 ----- Tax and shipping charges included-----
