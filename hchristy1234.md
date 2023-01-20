@@ -1,5 +1,5 @@
 ---
-name: "Christy Huang"
+name: "@hchristy1234"
 project: "Multi-Function Mechanical Keyboard"
 ---
 
