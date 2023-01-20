@@ -21,10 +21,10 @@ We are going to build a single motor robot that is able to read and execute mech
 
 ## Budget
 
-|Product                | Supplier/Link         | Cost    |
+|Product                | Supplier/Link         | Cost (Includes tax & shipping excluding the filament)   |
 | --------------- | ------------------------------------- | ------ |
 |3D Print Tools Kit|https://www.amazon.com/dp/B09TD8RBSG/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B09TD8RBSG&pd_rd_w=UVm92&content-id=amzn1.sym.88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_p=88097cb9-5064-44ef-891b-abfacbc1c44b&pf_rd_r=S89Y8JX4NFD4AEN3BBK8&pd_rd_wg=rOsGm&pd_rd_r=d7d980e4-40eb-4b48-b99e-62460fbb2e4a&s=industrial&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5TzQyTEdRVFkzUTAmZW5jcnlwdGVkSWQ9QTA4MzQ0NzgyVFFRWTFYQ01YNVpLJmVuY3J5cHRlZEFkSWQ9QTA0NTkwMjMyMklFNU9JNFUzVFRaJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== | $25.26|
 |Creality Ender-3 S1 Pro 3D Printer|https://store.creality.com/products/ender-3-s1-pro-3d-printer|$510.73 |
-|Filament (PLA)|https://www.amazon.com/1-75mm-Printer-Filament-Popular-Material/dp/B07VY3PXJ4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3SGJ35R7ZOIW5|$159.93 |
+|PLA+ Filament x3 (Red, Orange, Blue)|https://store.creality.com/products/ender-1-75mm-pla-3d-printing-filament-1kg-2p0t?cfb=589f0b45-caa6-4594-91a1-5790d5d4e43c&ifb=589f0b45-caa6-4594-91a1-5790d5d4e43c&scm=search.v4&score=3609.9840480000003&ssp=&spm=..search.search_1.2|$70.77 |
 |Motor|https://www.amazon.com/dp/B07558GQN8/ref=syn_sd_onsite_desktop_71?ie=UTF8&psc=1&pd_rd_plhdr=t | $10.19|
-| Total           |                                       | $706.11 |
+| Total           |                                       | $616.95 |
