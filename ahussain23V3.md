@@ -18,11 +18,10 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                                                                                        | Cost     |
 | --------------- | ---------------------------------------------------------------------------------------------------- | ------   |
-| Ender 3 S1 Pro  | https://www.microcenter.com/product/649022/creality-ender-3-s1-pro-3d-printer?ob=1&rf=Search+Results | $449     |
-| CR-10 V3.       | https://www.microcenter.com/product/633005/creality-cr-10-v3-3d-printer.                             | $349.    |
-| Sermoon D1.     | https://www.microcenter.com/product/637057/sermoon-d1-3d-printer?ob=1&rf=Search+Results.             | $449.    |
-| PETG Filament.  | https://www.microcenter.com/product/503745/inland-175mm-black-petg-3d-printer-filament-1kg-spool.    | $18.     |
-| Servo.          | https://www.amazon.com/Futaba-S3117-Micro-Hi-Torque-Servo/dp/B00EO8E9Y2                              | $30.     |
-| Total           |                                                                                                      | $400-500 |
+| Ender 3 S1 Plus    | https://www.microcenter.com/product/651900/creality-ender-3-s1-plus-3d-printer            | $454    |
+| PETG Filament.  | https://www.microcenter.com/product/503745/inland-175mm-black-petg-3d-printer-filament-1kg-spool.    | purchasing myself |
+| Servo.          | https://www.amazon.com/Futaba-S3117-Micro-Hi-Torque-Servo/dp/B00EO8E9Y2                              | $32     |
+|Arduino | already own|  |
+| Total           |                                                                                                      | $486 |
 
-(Note: the 3 3D printers in the chart are my top choices and will be choosing only one, however since microcenter stock is quite erratic, will be purchasing any printer under 449 depending on their stock)
+
