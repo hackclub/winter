@@ -30,7 +30,8 @@ The keyboard is where the project gets more interesting. Ever since I dreamed of
 3. begin making keyboard prototypes with transistors, resistors, and arduino.
 4. Assemble the display and print the glasses frame.
 5. Integrate the two systems.
-6. Test the system and revise it to make it better. 7. Find more potential use cases and modifications for the future.
+6. Test the system and revise it to make it better. 
+7. Find more potential use cases and modifications for the future.
 
 Tools: I will utilize a soldering iron, a 3d printer, and glue
 
