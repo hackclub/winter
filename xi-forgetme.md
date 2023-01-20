@@ -7,13 +7,11 @@ project: "Mini Home NAS"
 
 ## Summary
 
-Hello!
+Hello! 
 
-Thank you for reading my project, just as the title, this is a portable private cloud.
+Happy lunar new year!
 
-It can also move everywhere as a mini car. You can control it with the RPi. It can also use a hotpot to connect with your phone.
-
-This project is made for a home NAS to storage data locally rather than storage them on clouds.
+Do you want to hack with a toy car? Or do you want to storage your data on a small moving NAS? This is a really cool & simple Home NAS, you can control it to move everywhere as you want. And also, it just based on these common hardwares and a bit code.
 
 As the development of information technology， more and more data are generated in people's lives.
 
@@ -21,11 +19,8 @@ They may like to storage them on clouds like iCloud, MEGA etc. However, the high
 
 By the way, they store the data on the cloud and the sync of the data is very slow, so I just wanna build a mini home-stay cloud as a private NAS for people.
 
-Programmers can also build a local git repo, or build a portable cloud code platform.
+Programmers can also build a local git repo, or build a portable cloud code platform, you can also do hacking with this moving "hacker" lol.
 
-Also I will use this Raspberry Pi to control a mini car with L298N, so that I can move this portable NAS by the mini car lol.
-
-In addition, I would like to make a auto follow
 
 TODO: I gotta write an app on phone to control the car easier.
 
@@ -36,6 +31,9 @@ Install Linux on SD Card for Raspberry Pi 4B, and Install necessary software lik
 
 ### STEP 2
 Build the mini-car, and connect to the L298N, then connect MotorA (OUT1, OUT2), MotorB(OUT3, OUT4), 12V in, 5V out, IO to Raspberry Pi.
+
+In this project, I will use this Raspberry Pi to control a mini car with L298N to move it everywhere, The design is as follows.
+
          L298N
 +---------------------+
 |                     |
