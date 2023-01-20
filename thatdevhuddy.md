@@ -22,9 +22,6 @@ Test and tweak.
 
 ## Budget
 
-
-
-
 | Product           | Supplier/Link                         | Cost    |
 | ---------------   | ------------------------------------- | ------  |
 | MOSFET Drivers    | https://www.amazon.com/HiLetgo-IRF520-MOSFET-Arduino-Raspberry/dp/B01I1J14MO/ref=sr_1_4?keywords=mosfet+solenoid+driver&qid=1673674873&sr=8-4                             | $42.00  |
