@@ -14,6 +14,13 @@ My brother, my friend and I want to combine our interets in PC building and 3D p
 What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
 We will cut the wood to size using the saw and create the sides of the case. We will use dowels to support the internal structure. We will then put mesh on it for dust filtration. We will use the 3D printer to create fan frames, motherboard mounts and storage mounts. We will use the 3D printer to come up with multiple versions to find the best solution. We will then put together the PC with all the components in the case and install a NAS operating system.
 
+If we have more time, we will work on these potential ideas:
+PiHole
+Octoprint Monitoring Software
+Docker Containers with other tools
+Home IoT
+Homeassistant software
+
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
