@@ -40,9 +40,9 @@ What materials will you need for your project? Where will you get them? How much
 | PC Fans             | https://a.co/d/159Fpem                                                                    | $12                   |
 | Dowel               | https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Pine-Round-Dowel-10001808/203334068 | Owned                 |
 | Creality 3D Printer | https://shorturl.at/BDN89                                                                 | $302                  |
-| Filament            | https://shorturl.at/inCG2                                                                 | Owned                 |
+| Filament            | https://shorturl.at/inCG2                                                                 | 20                 |
 | PC power button     | https://a.co/d/5P2Ye3M                                                                 | $11 |
-| Total               |                                                                                           | $574                  |
+| Total               |                                                                                           | $594                  |
 
 BUDGET ADDENDUM for Smart Mirror:
 | Reflective Mirror        | https://a.co/d/0q7Mhzu                                                                 | $167                  |
@@ -53,4 +53,4 @@ BUDGET ADDENDUM for Smart Mirror:
 | Total               |                                                                                           | $230                  |
 
 
-Total with both list sets: $805
+Total with both list sets: $825
