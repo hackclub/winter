@@ -12,7 +12,7 @@ We are going to build a self-playing piano. Our team has 4 members. One of our g
 ## Plan
 
 Prototype Circuit with LEDs
-Write code to read MIDI roll and turn on and off LEDs accordingly
+Write Arduino C code to read MIDI roll and turn on and off LEDs accordingly
 Hook up solenoids and solenoid drivers in place of LEDs
 Build frame on piano
 3d print mounts for all parts
