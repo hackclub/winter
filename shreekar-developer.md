@@ -21,6 +21,8 @@ Docker Containers with other tools
 Home IoT
 Homeassistant software
 
+For the smart mirror project, Aditya will use his RPI with these cameras and sensors and put it together in a wooden frame. He will then work through the software to configure it to his needs. He will also 3d print any brackets or attachments/holders he needs making revisions for these parts as needed.
+
 ## Budget
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
@@ -42,10 +44,10 @@ What materials will you need for your project? Where will you get them? How much
 | PC power button     | https://a.co/d/5P2Ye3M                                                                 | $11 |
 | Total               |                                                                                           | $574                  |
 
-BUDGET ADDENDUM:
+BUDGET ADDENDUM for Smart Mirror:
 | Reflective Mirror        | https://a.co/d/0q7Mhzu                                                                 | $167                  |
 | Frame 18 x 24             | https://a.co/d/6bW7Kz0                                                                 | $32                   |
-| Rsspberry pi case         | https://a.co/d/guwZ50C                                                                 | $13                   |
+| Raspberry pi case         | https://a.co/d/guwZ50C                                                                 | $13                   |
 | Raspberry Pi camera        | https://a.co/d/4Ra01y9                                                              | $11                   |
 | Raspberry Pi IR Sensor     | https://a.co/d/iYOFRNg                                                                | 6.5           |
 | Total               |                                                                                           | $230                  |
