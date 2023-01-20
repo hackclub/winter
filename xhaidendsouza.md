@@ -27,4 +27,4 @@ We are going to build a single motor robot that is able to read and execute mech
 |Creality Ender-3 S1 Pro 3D Printer|https://store.creality.com/products/ender-3-s1-pro-3d-printer|$510.73 |
 |PLA+ Filament x3 (Red, Orange, Blue)|https://store.creality.com/products/ender-1-75mm-pla-3d-printing-filament-1kg-2p0t?cfb=589f0b45-caa6-4594-91a1-5790d5d4e43c&ifb=589f0b45-caa6-4594-91a1-5790d5d4e43c&scm=search.v4&score=3609.9840480000003&ssp=&spm=..search.search_1.2|$70.77 |
 |Motor|https://www.amazon.com/dp/B07558GQN8/ref=syn_sd_onsite_desktop_71?ie=UTF8&psc=1&pd_rd_plhdr=t | $10.19|
-| Total           |       (Includes tax & shipping excluding the filament)                           | $616.95 |
+| Total           |                           | $616.95 |
