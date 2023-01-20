@@ -39,5 +39,16 @@ What materials will you need for your project? Where will you get them? How much
 | Dowel               | https://www.homedepot.com/p/6416U-1-in-x-1-in-x-48-in-Pine-Round-Dowel-10001808/203334068 | Owned                 |
 | Creality 3D Printer | https://shorturl.at/BDN89                                                                 | $302                  |
 | Filament            | https://shorturl.at/inCG2                                                                 | Owned                 |
-| 4TB hard drive      | https://shorturl.at/vRT68                                                                 | $270 ($125 x 2 + tax) |
-| Total               |                                                                                           | $813                  |
+| PC power button     | https://a.co/d/5P2Ye3M                                                                 | $11 |
+| Total               |                                                                                           | $574                  |
+
+BUDGET ADDENDUM:
+| Reflective Mirror        | https://a.co/d/0q7Mhzu                                                                 | $167                  |
+| Frame 18 x 24             | https://a.co/d/6bW7Kz0                                                                 | $32                   |
+| Rsspberry pi case         | https://a.co/d/guwZ50C                                                                 | $13                   |
+| Raspberry Pi camera        | https://a.co/d/4Ra01y9                                                              | $11                   |
+| Raspberry Pi IR Sensor     | https://a.co/d/iYOFRNg                                                                | 6.5           |
+| Total               |                                                                                           | $230                  |
+
+
+Total with both list sets: $805
