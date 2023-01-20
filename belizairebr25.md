@@ -25,15 +25,15 @@ The keyboard is where the project gets more interesting. Ever since I dreamed of
 
 ## Plan
 
-1. Design wiring schematics and paper drafts to guide when wiring and to find any potential issues with the idea, as well as to aid in knowing quantities of what is needed.
+1. Design wiring schematics and paper drafts to guide when wiring and to find any potential issues with the idea, as well as to aid in knowing quantities of what is needed. I will do this on paper for the wiring schematics.
 2. Gather materials to construct the display and keyboard
 3. begin making keyboard prototypes with transistors, resistors, and arduino.
-4. Assemble the display and print the glasses frame.
+4. Assemble the display and print the glasses frame. I will use onshape to design my own frame to fit my specifications.
 5. Integrate the two systems.
 6. Test the system and revise it to make it better. 
 7. Find more potential use cases and modifications for the future.
 
-Tools: I will utilize a soldering iron, a 3d printer, and glue
+Tools: I will utilize a soldering iron, a 3d printer, sheet metal cutters, and glue.
 
 ## Budget
 
