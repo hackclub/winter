@@ -10,7 +10,7 @@ I am going to build a QUADCOPTER that will help me to understand the basics of d
 
 From this project, I will be able to aquire hands-on experience over the concepts that I learnt so-far and will definitely learn new things. This project can further help me survey and monitor huge fields and produce actionable data which can further be used in my current field of study. As Drones are already used in agriculture, so this will help me in monitoring the crops' health and many futuristic possiblities.
 
- This will be a great jump-start in the journey of my career and I am really excited to build it.
+This will be a great jump-start in the journey of my career and I am really excited to build it.
 
 ## Plan
 
@@ -29,6 +29,13 @@ Steps and tools I might use to build a basic DIY quadcopter:
 6. Configure and test: Once all the components are installed, I will need to configure and test the quadcopter. This involves configuring the flight controller software, calibrating the sensors, and performing test flights.
 
 7. Final assembly and calibration: After the testing and configuration are complete, I can finish the final assembly of the quadcopter and calibrate it for the first flight.
+
+I am referring to the below mentioned tutorials for the same :
+[1st tutorial](https://www.youtube.com/watch?v=I8ugqKsMIpE) and 
+[2nd tutorial](https://www.youtube.com/watch?v=FhlMFzumsVg)
+
+8. With the help of this drone I aim to monitor crops' health with an aerial perspective and get a 360-degree view using a wifi-camera (but this feature can only be added once I am done with flight testing and satisfied that I can upscale the budget for buying a camera and a case 3D-printed for it).
+
 
 ## Budget
 ----- Tax and shipping charges included-----
