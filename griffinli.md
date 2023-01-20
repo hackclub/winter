@@ -19,18 +19,18 @@ A temperature sensor that keeps track of the temperature in a room over time and
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Raspberry Pi 4 + Shipping || $105.65 |
-| Raspberry Pi Case | https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52 | $15.95 |
 | Sandisk MicroSD Card | https://www.amazon.com/SanDisk-Extreme-microSDTM-Adapter-SDSQXCD-128G-GN6MA/dp/B09X7DNF6G | $21.00 |
-| Raspberry Pi Power Supply | https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ | $7.95|
+| Raspberry Pi Power Supply | https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ | $7.95 |
 | Temperature Sensor | https://www.adafruit.com/product/1782 | $4.95 |
 | eInk Display | https://www.adafruit.com/product/4224 | $8.50 |
-| Breadboard | https://www.adafruit.com/product/64 | $4.95 |
+| Large Breadboard | https://www.adafruit.com/product/239 | $5.95 |
+| Small Breadboard | https://www.adafruit.com/product/65 | $3.95 |
 | Wires | https://www.adafruit.com/product/153 | $4.95 |
-| Adafruit Shipping | n/a | $6.10 |
+| Adafruit Shipping || $6.80 |
 | Raspberry Pi Compute Module || $135.00 |
+| Raspberry Pi Shipping || $26.65 |
 | Raspberry Pi Compute Module I/O Board | https://www.adafruit.com/product/4787 | $35.00 |
 | Soldering materials | have access to | $0 |
-| Total || $350 |
+| Total || $260.70 |
 
 I can cover the remainder.
