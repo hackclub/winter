@@ -1,6 +1,6 @@
 ---
 name: "@CoolCoderSJ"
-projects: "Assisting Colorblind Drivers, Motion Lights - Total At End"
+project: "Assisting Colorblind Drivers, Motion Lights - Total At End"
 ---
 
 # Assisting Colorblind Drivers

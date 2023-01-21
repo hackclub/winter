@@ -1,12 +1,12 @@
 ---
-name: @shojha24
-project: Modular Practical-Effects Lightsaber
+name: "@shojha24"
+project: "Modular Practical-Effects Lightsaber"
 ---
 
-# Project Name
-Modular Practical-Effects Lightsaber
+# Modular Practical-Effects Lightsaber
 
 ## Summary
+
 The lightsaber I will attempt to build is outlined in this Corridor Crew video: https://www.youtube.com/watch?v=Wc0mzQmkvNI. Essentially, an uneven rod of retro-reflective tape is attached to a rotary tool, and light is shined on this spinning rod to generate a shiny, lightsaber effect. When the rod spins, the amount of rod's surface area exposed to the light changes, which causes the mechanism to appear as if it is "flickering" the way a lightsaber would.
 
 A lightsaber as outlined in the video has advantages over the LED lightsabers often sold today. One is that there are no exposed electrical parts in this design. All the lightsabers that I've owned are composed of a string of LEDs within a tinted plastic shell, and one solid hit renders them completely useless, as the LEDs break and the circuit never completes. A practical lightsaber doesn't do this, since there are no electrical components that will be subject to blunt force. Practical lightsabers also produce a shinier, more saturated glow than plastic lightsabers.
