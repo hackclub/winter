@@ -7,7 +7,11 @@ project: "mini keyboard"
 
 ## Summary
 
-I want to build a mini-keyboard. It will have 4 keys in total, and are programmable. My hope is that I would be able to program them to do various shortcuts in apps - for example, in Davinci Resolve (an editing software), I would be able to press a single button on that keyboard to do something that would normally require multiple button presses. This would save time by a lot, and would just overall be really convenient. My plan is to then build multiple of these, since they are small, and I would be able to program each one differently so that I could just plug in whichever one I need most at any given time. Hopefully, after built, it would also resemble and function sort of like a Stream Deck, which is a device used by streamers to quickly be able to switch between different screens, etc, on the fly, with a simple press of a key instead of needing to click around multiple steps.  
+I want to build a mini-keyboard. It will have programmable keys. 
+
+My plan is two build two of different sizes. The first would be a 4-key keyboard, where I mostly follow instructions for wiring and hardware. The second is a 12 key keyboard, in which I'll be designing the base case around the keyboard in Tinkercad, and 3D printing it out. 
+
+My hope is that I would be able to program them to do various shortcuts in apps - for example, in Davinci Resolve (an editing software), I would be able to press a single button on that keyboard to do something that would normally require multiple button presses. This would save time by a lot, and would just overall be really convenient. My plan is to then build multiple of these, since they are small, and I would be able to program each one differently so that I could just plug in whichever one I need most at any given time. Hopefully, after built, it would also resemble and function sort of like a Stream Deck, which is a device used by streamers to quickly be able to switch between different screens, etc, on the fly, with a simple press of a key instead of needing to click around multiple steps.  
 
 I'm excited to build it because this is the first time I'm working with a lot of hardware - first time doing anything related to wires, switches, boards, etc. I currently know very little about this all, and am very excited to learn. I'm also very excited to code up the software portion of the project, and to see how far I can take that. I also have very little experience with this - although I like to think I'm decent at competitive programming, I don't know much about programming this stuff. 
 
@@ -22,7 +26,9 @@ I'm going to loosely follow these instructions for the hardware part of the proj
 
 Here's a brief layout of what I'll be doing:
 
-Basically, I'll firstly connect the switches with the PICO board. After everything has been lined up, I will solder them together. 
+Firstly, I'll be designing the case in Tinkercad, and 3D printing it out. 
+
+Then, I'll connect the switches with the PICO board. After everything has been lined up, I will solder them together. 
 
 Then, I'll put the switches into the board, and screw in all of that together. These two steps are probably going to take a while, since I have practically no experience with hardware. 
 
@@ -32,13 +38,14 @@ After all the hardware has been done, I'll code the keys do certain tasks when p
 
 Since I don't really own any hardware, I'll need to buy almost all of parts needed. 
 
-Materials are from Adafruit and Home Depot. 
+Materials are from Adafruit and Home Depot. For the 3D printing, I'm eyeing a couple of local 3D printing shops around me. They charge per gram of material printed, and since I can't determine the exact price before I print it out, I'm making a rough estimate there. 
 
 | Product                                | Supplier/Link                         | Cost        |
 | ---------------------------------------| ------------------------------------- | ----------- |
 | Raspberry Pi Pico RP2040 (x2)          | https://www.adafruit.com/product/4864 | $8.00       |
 | Raspberry Pi Pico W (x2)               | https://www.adafruit.com/product/5526 | $12.00      |
-| Aluminum Keypad Shell (x4)             | https://www.adafruit.com/product/5073 | $79.80      |
+| Aluminum Keypad Shell                  | https://www.adafruit.com/product/5073 | $19.95      |
+| 3D printing services                   | [probably will be printing at a local store] | ~$50.00      |
 | USB A to micro B Cable (x3)            | https://www.adafruit.com/product/898  | $8.85       |
 | High Temperature Polyamide Tape        | https://www.adafruit.com/product/3057 | $4.95       |
 | Cyan MA Keycaps                        | https://www.adafruit.com/product/5174 | $4.95       |
