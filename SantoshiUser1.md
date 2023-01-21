@@ -38,9 +38,12 @@ such as the time, weather, calendar and news updates.
 | Display                            | https://amzn.to/3D4nSMd               |  $163      |
 | Two way Mirror                     | Locally Buy                           | around $30 |
 | Hammer Drill Machine Tool Kit      | https://amzn.to/3XLJB3v               | $48        |
-|Screw Driver Kit                    | https://amzn.to/3XpSwrL               | $23        | 
+| Screw Driver Kit                   | https://amzn.to/3ZPtYd7               | $8.52      | 
 | Amazon Echo Dot                    | https://amzn.to/3wj6iAs               | $43.22     |
-| Cardboard                          | (I own)                               | $0.00      | 
-| Shipping								           |  (myself)                                     | $0      |
-| Tax                                |     (myself)                                  | $0      |
-| Total                              |                                       | $497.37     |
+| Glue                               |(I own)                                | $0         |
+| Tape                               |(I Own)                                | $0         | 
+| Clamp                              |(I Own)                                | $0         | 
+| 1.5" wood Screw                    |(I Own)                                | $0         |   
+| Cardboard                          |(I own)                                | $0.00      | 
+| Tax  + Shipping                    |                                       | $14.82     |
+| Total                              |                                       | $497.37    |
