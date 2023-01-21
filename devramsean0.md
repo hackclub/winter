@@ -3,8 +3,8 @@ name: "@devramsean0"
 project: "Pico-Temp"
 ---
 
-# Project Name
-Pico-temp
+# Pico-temp
+
 ## Summary
 This is a temperature monitor for water filled environments,
 the waterproof sensor is the only thing that will go into the water, and all the control equipment sits next to it, on dry land

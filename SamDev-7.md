@@ -3,6 +3,8 @@ name: "@SamDev-7"
 project: "3D Printed Robot Arm"
 ---
 
+# 3D Printed Robot Arm
+
 ## Summary
 
 Robot arms are so facinating and versitale. I already have a 3D printer so it makes it so much more possible! I plan to try to implement computer vision later on, it'll be a fun challenge for me in terms of software as well. There are so many possibilities with what I can do.
