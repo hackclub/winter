@@ -16,10 +16,9 @@ First I will make the Smart plug with remote monitoring (current, voltage, energ
 
 |[ Product                      | Supplier/Link                         | Cost    |
 | ---------------------------- | ------------------------------------- | ------- |
-| ESP Wifi Module              | https://www.sparkfun.com/products/17146          | $30.00  |
-| AC to DC Converter           |  https://www.amazon.com/Transformer-MKASYON-Switching-Converter-Security/dp/B07GFLFTV2     | $23.00|
-| Measuring Voltage and Current|  https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/      | $14.00 |
-| Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $40.00 |
-|Arduino Nano Motor Carrier      | https://store.arduino.cc/products/arduino-nano-motor-carrier  |$95.80|
-|Subtotal|                                                                                         |$202.8|
-| Total                        |     (After Tax + Shipping) |                                        $220.79 |
+| ESP Wifi Module              | https://www.sparkfun.com/products/17146          | $40.00  |
+| AC to DC Converter           |  https://www.amazon.com/Transformer-MKASYON-Switching-Converter-Security/dp/B07GFLFTV2     | $35.06|
+| Measuring Voltage and Current|  https://www.tme.eu/en/details/abx00041/arduino-solutions/arduino/nano-motor-carrier/      | $25.00 |
+| Smart Wi-Fi Plug Mechanical Box |https://jujukart.com/shop/smart-electronics/teckin-smart-wi-fi-plug-with-price-in-nepal/| $75.54 |
+|Subtotal|                                                                                         |$175.6|
+| Total                        |     (After Tax + Shipping) |                                        $200.89 |
