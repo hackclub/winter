@@ -7,14 +7,15 @@
 
 ## Summary
 
-I'm going to build a quadruped puppy using servo motors attached to 3D printed legs. This puppy will be controlled using arduino boards. It always   follows its owner without running into stuff.
+I'm going to build a quadruped puppy using servo motors attached to 3D printed legs. This puppy will be controlled using arduino boards. It always follows its owner without running into stuff.
+It would be about the size of a normal puppy.(not for every breed)
 I am excited to build this one. Never made something like this.
 I think that everyone would like to have a freindly companion who would accompany you where ever you go and doesn't require much maintanence.
 I'm not sure if it would be as good as I think but it's worth trying.
 
 ## Plan
 
-In each leg I will use 3 servo-motors one for controlling the direction of   the pupp, the other two are for forward motion.
+In each leg I will use 3 servo-motors one for controlling the direction of the pupp, the other two are for forward motion.
 I will use IR proximity sensor and Ultrasonic distance finder to avoid   obstalcesfrom a safe distance.
 I will use esp 32 cam for face recognition of the owner.
 I'll use OLED screen for its face.
@@ -23,6 +24,8 @@ I am using two Arduino boards because I think 1 wouldn't be enough for the pupp.
 It would also require other components for connection(e.g. jumper wires, voltage regulators, etc.).
 It will also require 3D printed parts(e.g. the gears, its legs, etc.).
 I also need some tools for the asembling procces.
+I am following this link to make it: https://www.hackster.io/news/lizandro-duran-s-lad-dog-is-a-low-cost-3d-printable-arduino-quadruped-robot-1508345cd926 
+I will make some change from the orignal one.
 
 ## Budget
 
