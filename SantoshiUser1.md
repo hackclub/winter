@@ -35,9 +35,9 @@ such as the time, weather, calendar and news updates.
 | Samsung EVO Plus 64GB SD Card      | https://amzn.to/3FMz7JW               | $7.24      |
 | Raspberry Pi 15.3W USB-C           | https://amzn.to/3WDXssh               | $7.31      |
 | Micro HDMI to HDMI			           | https://amzn.to/3IqyeJY	             | $3.67      |
-| Display                            | https://amzn.to/3D4nSMd               |  $163      |
+| Display                            | https://amzn.to/3D4nSMd               |  $162.12   |
 | Two way Mirror                     | Locally Buy                           | around $30 |
-| Hammer Drill Machine Tool Kit      | https://amzn.to/3XLJB3v               | $48        |
+| Hammer Drill Machine Tool Kit      | https://amzn.to/3XLJB3v               | $47.6      |
 | Screw Driver Kit                   | https://amzn.to/3ZPtYd7               | $8.52      | 
 | Amazon Echo Dot                    | https://amzn.to/3wj6iAs               | $43.22     |
 | Glue                               |(I own)                                | $0         |
