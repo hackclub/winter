@@ -1,5 +1,5 @@
 ---
-name: ["@Shawn Malluwa", "@D3thclaw", "@jaaldecrga"]
+name: ["@Sheepy3", "@D3thclaw", "@jaaldecrga"]
 project: "MPCNC, Macropads, and a budget PC"
 ---
 
