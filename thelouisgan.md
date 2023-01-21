@@ -1,7 +1,7 @@
-```
-name: @thelouisgan
-project: RC Amphibious Rover
-```
+---
+name: "@thelouisgan"
+project: "RC Amphibious Rover"
+---
 
 # RC Amphibious Rover
 

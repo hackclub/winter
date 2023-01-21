@@ -1,6 +1,6 @@
 ---
-Name: ["@briannamagtoto", "@cherisedevelops"]
-Project: "Animatronic Dual Realistic Eye Mechanism"
+name: ["@briannamagtoto", "@cherisedevelops"]
+project: "Animatronic Dual Realistic Eye Mechanism"
 ---
 
 # Animatronic Dual Realistic Eye Mechanism
