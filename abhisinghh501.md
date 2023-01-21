@@ -1,5 +1,5 @@
 ---
-name: "@abhisinghh501, @mahajanasim2"
+name: ["@abhisinghh501, @mahajanasim2"]
 project: "Smart Mirror and Temperature and humidity logger"
 ---
 
