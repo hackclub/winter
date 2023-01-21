@@ -1,5 +1,5 @@
 ---
-name: "@seemabansal2003"
+name: ["@seemabansal2003", "@GuninSethi"]
 project: "TechnoFlora"
 ---
 
