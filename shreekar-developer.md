@@ -45,8 +45,11 @@ What materials will you need for your project? Where will you get them? How much
 | Total               |                                                                                           | $594                  |
 
 BUDGET ADDENDUM for Smart Mirror:
+
+| Product             | Supplier/Link                                                                             | Cost                  |
+|---------------------|-------------------------------------------------------------------------------------------|-----------------------|
 | Reflective Mirror        | https://a.co/d/0q7Mhzu                                                                 | $167                  |
-| Frame 18 x 24             | https://a.co/d/6bW7Kz0                                                                 | $32                   |
+| Frame 18 x 24             | https://a.co/d/6bW7Kz0                                                                 | $32                  |
 | Raspberry pi case         | https://a.co/d/guwZ50C                                                                 | $13                   |
 | Raspberry Pi camera        | https://a.co/d/4Ra01y9                                                              | $11                   |
 | Raspberry Pi IR Sensor     | https://a.co/d/iYOFRNg                                                                | 6.5           |
