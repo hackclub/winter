@@ -21,4 +21,4 @@ Materials
 | Lubricant       | [Krytox 205gO](https://divinikey.com/products/205-grade-0-switch-lubricant) | $7.95 |
 | Switch Puller   | [TX](https://divinikey.com/products/tx-switch-puller) | $8.00 |
 | Brush           | [Divinikey Brush](https://divinikey.com/products/divinikey-brush) | $1.95 | 
-| Total           |                                       | $248.74 |
+| Total           |                                       | $250.31 |
