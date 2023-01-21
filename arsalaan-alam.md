@@ -4,7 +4,6 @@ project: "AirDrop"
 ---
 
 # AirDrop
-AirDrop
 
 ## Summary
 Since my childhood I've always tried to make things fly. From building paper planes to flying kites, I love everything that flies. I remember how I used to expirement with different kinds of paper and shapes to make paper planes, or attaching tails with messages on my kite and then flying it. I've built mulitple low cost drones before but NONE have ever worked :(, So I'm really excited to make one now. With the help of the grant, I'd buy proper materials and build a powerful hexacopter. I've written a professional description of my project in the next paragraph. 

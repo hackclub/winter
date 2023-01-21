@@ -3,9 +3,7 @@ name: "@Gaurav-Ban22"
 project: "Multijointed Movable Robotic Arm"
 ---
 
-# Project Name
-
-Movable Robotic Arm
+# Movable Robotic Arm
 
 ## Summary
 

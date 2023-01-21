@@ -3,6 +3,8 @@ name: "@griffinli"
 project: "Smart Home Temperature Sensor"
 ---
 
+# Smart Home Temperature Sensor
+
 ## Summary
 
 A temperature sensor that keeps track of the temperature in a room over time and ideally integrates into HomeKit. It would track the temperature through the night with the goal of getting my dorm room (without AC and with a heater that's making it too warm but that I can't turn down) to the optimal temperature while sleeping. It'll have a display so that I can see the temperature by looking at it, in addition to its 24/7 monitoring. I'll try to also make it measure the rate at which temperature is changing and take into account the weather conditions (temperature and maybe wind as well) to help me figure out how much to open my window at night to get the optimal sleep temperature in my room.

@@ -3,8 +3,7 @@ name: "@Bhoomi-2115"
 project: "Glucose Tracking Using Raspberry Pi"
 ---
 
-# Project Name
-Glucose Tracking Using Raspberry Pi
+# Glucose Tracking Using Raspberry Pi
 
 ## Summary
 

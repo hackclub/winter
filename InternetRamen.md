@@ -3,8 +3,7 @@ name: "@InternetRamen"
 project: Handwired w/ 3d hotswappable 3by2 Macro Pad
 ---
 
-# Project Name
-Handwired w/ 3d hotswappable 3by2 Macro Pad
+# Handwired w/ 3d hotswappable 3by2 Macro Pad
 
 ## Summary
 I'm going to build a 6 key macro pad. This is basically a mini keyboard. Super excited for this build because it's my first project with hardware other than my PC. I've also wanted to build a keyboard from scratch and this is very similar, but managable.

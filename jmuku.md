@@ -3,6 +3,8 @@ name: ["@jmuku", "@zhingzhangzhung"]
 project: "Holographic Virtual assistant, Smart monitor"
 ---
 
+# Holographic Virtual assistant, Smart monitor
+
 ## Summary
 Me and one of my friends will are planning to make the same projects and help each other in case either of us get stuck. We will be making a magic mirror and a holographic virtual assistant.
 The mirror will recognise our faces and greet us, and will act as an alexa device. We plan on making one of us make the mirror while the other person makes the holographic assistant

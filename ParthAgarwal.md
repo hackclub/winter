@@ -3,8 +3,7 @@ name: "Parth Agarwal"
 project: "Nvidia Jetbot"
 ---
 
-# Project Name
-Nvidia Jetbot
+# Nvidia Jetbot
 
 ## Summary
 
