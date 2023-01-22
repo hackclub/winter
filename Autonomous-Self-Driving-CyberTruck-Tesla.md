@@ -11,7 +11,7 @@ Building a self-driving car using a Raspberry Pi in the shape of a Tesla Cybertr
 
 The Raspberry Pi, with its powerful processing capabilities and wide range of connectivity options, would serve as the brain of the car, controlling all the functions of the vehicle such as navigation, obstacle detection, and control of the motors and wheels. The GPS and Compass modules would be used for navigation, while additional sensors such as cameras and lidar would be used for obstacle detection.
 
-To bring the Tesla Cybertruck design to life, I would use a miniature replica of the vehicle as the base and use 3D printing or other fabrication techniques to create the body of the car. The motors, wheels, and battery would be used to control the movement of the robot.
+To bring the Tesla Cybertruck design to life, I would use a miniature replica of the vehicle as the base and use 3D printing to create the body of the car. The motors, wheels, and battery would be used to control the movement of the robot. I will 3d print the shell of the car with the ender3 v2. link to the 3d model [https://sketchfab.com/3d-models/cybertruck-558ea6c828e64a87ae25ade1531c4180]
 
 I am confident that this project would be a rewarding and challenging experience that would allow me to learn and grow as a maker. I am excited to dive into the details of the project and to bring my passion for cars and technology to life in the form of a self-driving Raspberry Pi-powered Tesla Cybertruck.
 
