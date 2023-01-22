@@ -1,6 +1,7 @@
-+ name: "rhythm-fpv"
-+ project: "Racing FPV Drone Build"
-
+---
+name: "@rhythm-fpv"
+project: "Racing FPV Drone Build"
+---
 
 # "Racing FPV Drone Build"
 THESE ARE NOT PRE ASSEMBLED KITS, IT REQUIRES A LOT OF EXPERIENCE AND IS A TOUGH, COMPETETIVE AND EXPENSIVE HOBBY WHICH EVERYONE WOULD LOVE 
@@ -22,8 +23,7 @@ its called FPV.
 | Carbon Fibre 5inch Frame | https://robu.in/product/zmr250-qav250-quadcopter-frame/                                                                  | $13    |
 | Transmitter And Reciever | https://www.electronicscomp.com/flysky-fs-i6-6-channel-2.4ghz-transmitter-receiver?gclid=EAIaIQobChMI9_3YrrvU_AIVDBwrCh00EQ4REAQYAiABEgI9nPD_BwE                                                                                         | $60    |
 | FPV Camera               | https://www.electronicscomp.com/1-3-inch-cmos-1500tvl-mini-fpv-camera-2.1mm-lens-pal-ntsc-with-osd?gclid=EAIaIQobChMI6K-Fu7vU_AIVeplmAh1nGgqhEAQYAyABEgJe-vD_BwE                                                                                                              | $19    |
-| Video Rx And transmitter | https://www.flyrobo.in/fpv-5.8g-600mw-48-channel-wireless-av-tx-rx-ts832-rc832-wireless-audio-video-transmitter-receiver-system-fpv       
-                                                                                                                                                      | $44    | 
+| Video Rx And transmitter | https://www.flyrobo.in/fpv-5.8g-600mw-48-channel-wireless-av-tx-rx-ts832-rc832-wireless-audio-video-transmitter-receiver-system-fpv       |  $44    | 
 |Battries (preowned)       |                                    -                                                  -                                  |  $0    |     |Propellers, screwdrivers and Other Tools(Preowned)                                                                                                   |  $0    |       
 |TOTAL COST                |               -                                                                                                          | $250   |
 
