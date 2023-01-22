@@ -20,3 +20,12 @@ Materials
 | Keycaps         | [NicePBT BoW](https://cannonkeys.com/products/nicepbt-bow-bakeneko-kit) | $35.00 |
 | Subtotal        |                                       | $246.80 |
 | Total           |                                       | $262.58 |
+
+
+| Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 |
+| Switches        | [Gateron Milky Yellow Pro](https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches) | $24.86 |
+| Keycaps         | [Mistel Gray/Yellow](https://www.amazon.com/dp/B08SW9JLZY) | $45.99 |
+| Lubricant       | [Krytox 205gO](https://divinikey.com/products/205-grade-0-switch-lubricant) | $7.95 |
+| Switch Puller   | [TX](https://divinikey.com/products/tx-switch-puller) | $8.00 |
+| Brush           | [Divinikey Brush](https://divinikey.com/products/divinikey-brush) | $1.95 | 
+| Total           |                                       | $250.31 |
