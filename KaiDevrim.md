@@ -3,8 +3,7 @@ name: "@KaiDevrim"
 project: "NFC Unlock & Stream Deck & Microphone"
 ---
 
-# Project Name
-NFC Unlock & Stream Deck & Microphone
+# NFC Unlock & Stream Deck & Microphone
 
 ## Summary
 I want to make a system where depending on who wants to use the computer, the pi will detect them via their keycard and log them into all the websites under their account and everything. This will be very useful if I want to use this as a guest computer or was teaching someone and they needed to use my computer.

@@ -34,10 +34,11 @@ Here are a few links for individual components though:
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | 7.5" ePaper Diplay   | https://www.amazon.in/gp/product/B07Z25LWTS/ | $245  |
-| 3D Printer | https://store.3ding.in/collections/fabx/products/fabx | $350 |
+| 3D Printer | https://www.amazon.in/Flashforge-Adventurer-3-3D-Printer/dp/B07FPSZPK4 | $620 |
 | 3D Filament | https://www.amazon.in/gp/product/B079CHKQTF | $12 |
 | SD Cards | https://www.amazon.in/gp/product/B09MT6XSFW | $8 |
 | USB Type-C Adapter (Raspi) | https://www.amazon.in/gp/product/B09KTRZ5Y9 | $14 |
 | Powerbank for Raspi | https://www.amazon.in/gp/product/B09MZCQYHZ | $14 |
 | Raspberry Pi 4 | https://robocraze.com/products/raspberry-pi-4-model-b-4gb-ram?src=raspberrypi | $75 |
-| Total           |                                       | $718 |
+| Total           |                                       | $988 |
+
