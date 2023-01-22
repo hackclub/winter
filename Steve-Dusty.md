@@ -33,6 +33,6 @@ I can pay shipping for myself
 | Arduino camera module |https://www.amazon.com/Arducam-Module-Megapixels-Arduino-Mega2560/  | $25.99 |
 | 2820 Pololu Servo | https://www.digikey.com/en/products/detail/pololu-corporation/2820/10450037 | $6.15 | 
 | cardboard, plastic bottle, cans, stand | my own supplies | free |  
-| Raspberry pi | free |
+| Raspberry pi 4 Model B (with cable) | free |
 | Elegoo Neptune 2S 3D printer | https://www.elegoo.com/products/neptune2s-fdm-printer?variant=39681380286512&gclid=EAIaIQobChMI8sefyM3R_AIVKQetBh2YYwOQEAQYASABEgIWJfD_BwE | $149.99 |
 | Total           |     $248.12                   
