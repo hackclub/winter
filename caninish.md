@@ -36,4 +36,4 @@ What materials will you need for your project? Where will you get them? How much
 | 7" Sunfounder Screen | https://www.amazon.com/gp/product/B07Y889J3X/ref=ox_sc_act_title_1?smid=ADHH624DX2Q66&psc=1 | $63.99 (sale - might end) |
 | Micro-SD Card       |https://www.adafruit.com/product/2693 | $19.95   |
 | Wifi + Bluetooth USB | https://www.adafruit.com/product/4827 | $14.95 |
-| Total           |                                       | $210.79 (Total without shipping) |
+| Total           |                                       | $203.83 (Total without shipping) |
