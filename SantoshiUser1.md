@@ -1,5 +1,5 @@
 ---
-name: "@SantoshiUser"
+name: "@SantoshiUser, @amareshw"
 project: "Alexa Controlled Smart Mirror"
 ---
 
@@ -9,8 +9,8 @@ project: "Alexa Controlled Smart Mirror"
 
 
 I have decided to build a Alexa controlled Smart Mirror that will be display Time, Weather ,etc.This project
-will be able to very exciting to make.I will be completing this project with @[amareshw][https://github.com/amareshw]. 
-This is the proposal for new project after the previous proposal of ID [#372][https://github.com/hackclub/winter/pull/372]
+will be able to very exciting to make.I will be completing this project with [@amareshw](https://github.com/amareshw). 
+This is the proposal for new project after the previous proposal of ID [#372](https://github.com/hackclub/winter/pull/372)
 
 ## Plan
 
