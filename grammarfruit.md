@@ -49,8 +49,8 @@ Everything will be from amazon so shipping is free, and extra cost will be spons
 | ESP32-WROOM x2 | [Amazon](https://www.amazon.com/gp/product/B09BM1QW29/ref=ox_sc_act_title_18?smid=A14XFIGSXQ69KC&psc=1) | $21.98 |
 | MG90S Servo x2 | [Amazon](https://www.amazon.com/gp/product/B07R3ZYQLC/ref=ox_sc_act_title_19?smid=A3H1S8HVHBGDBK&psc=1) | $63.98 |
 | Potentiometer x2 | [Amazon](https://www.amazon.com/gp/product/B07XQ1Q9RN/ref=ox_sc_act_title_20?smid=A1LH3TFU4S09BS&psc=1) | $25.32 |
-| PLA Filament | [MatterHackers](https://www.matterhackers.com/store/l/175mm-pla-filament-lightblue-1-kg/sk/M4M03KA6) | $20.87 |
-| PLA Filament Natural | [MatterHackers](https://www.matterhackers.com/store/l/175mm-pla-filament-natural-1-kg/sk/M0QV78YA) | $20.87 | 
-| Sub-Total           |                                       | $498.43 |
+| PLA Filament | [Amazon](https://www.amazon.com/dp/B08QMCNWMW) | $19.99 |
+| PLA Filament Natural | [Amazon](https://www.amazon.com/Polymaker-PolyTerra-Bioplastic-Printing-Filament/dp/B09TR8N5T2) | $20.99 | 
+| Sub-Total           |                                       | $497.63 |
 | Tax                 |                                       | $31.15  |
 | Total + Tax         |                                       | $529.58 |
