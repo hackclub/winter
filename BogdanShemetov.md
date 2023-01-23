@@ -11,7 +11,7 @@ We will automate the process of titration. It is a device widely used in Chemist
 
 ## Plan
 
-We plan on using Arduino Nano as a brain for a display (to graph data), a keypad (to interact with the user), a  pH Sensor to collect the data, a solenoid valve to  mix the liquids, and a powerful ADC to receive more correct voltage.
+We plan on using Arduino Nano as a brain for a display (to graph and calculate data), a keypad (to enter initial volume and concentration), a  pH Sensor to collect the pH of the solution, a solenoid valve to mix the liquids by constantly opening and closing, and a powerful ADC to receive more correct voltage.
 
 ## Budget
 
