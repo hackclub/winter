@@ -1,5 +1,5 @@
 ---
-name: "@yourGitHubUsername"
+name: "@Muirrum"
 project: "MIDI GO Box v2"
 ---
 
