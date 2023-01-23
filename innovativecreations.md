@@ -44,7 +44,7 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | Raspberry pi 4 with accessories - owned  |  | $0 |
 | Microphone and camera - owned |  | $0 |
 | Computer peripherals (keyboard, mouse) - owned |  | $0 |
-| ESP32 and Arduino- owned |  | $0 |
+| ESP32 (read and write data on firebase) and Arduino- owned |  | $0 |
 | Relays - owned |  | $0 |
 | Prototyping stuffs(soldering station,  hot glue, prototyping board,  etc)   - owned |  | $0 
 | SD Card (os of pi)  | (https://amzn.eu/d/exmtUtB) | $6.30 |
