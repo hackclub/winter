@@ -45,7 +45,7 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | Microphone and camera - owned |  | $0 |
 | Computer peripherals (keyboard, mouse) - owned |  | $0 |
 | ESP32 (read and write data on firebase) and Arduino- owned |  | $0 |
-| Relays - owned |  | $0 |
+| Relays (to control the appliances like Light bulbs, power sockets, fan,etc) - owned |  | $0 |
 | Prototyping stuffs(soldering station,  hot glue, prototyping board,  etc)   - owned |  | $0 
 | SD Card (os of pi)  | (https://amzn.eu/d/exmtUtB) | $6.30 |
 | WS2812b LED strip (controlled by MCU )| (https://amzn.eu/d/4nfmZzv) | $15.40 |
