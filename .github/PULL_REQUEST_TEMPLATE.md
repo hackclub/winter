@@ -1,10 +1,10 @@
 ## Describe your project in 1-3 sentences
+Rahulsingh210345.md
+I am building a Smart Plug which will allow users to remotely control and schedule the power to an electrical outlet through a smartphone app or voice assistant.
 
-<!-- I am building a LED light display that can be controlled through an app. -->
 
 ## Hack Club Slack handle
-
-<!-- Join the Hack Club Slack at https://hackclub.com/slack - please write your handle ABOVE this line :)-->
+Rahul Singh
 
 ## Checklist before submitting proposal:
 
