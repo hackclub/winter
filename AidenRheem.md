@@ -24,6 +24,7 @@ Materials
 ## Budget
 Materials
 | Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
 | Case/PCB        | [Keychron Q2](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9160) | $159.99 |
 | Switches        | [Gateron Milky Yellow Pro](https://divinikey.com/products/gateron-ks-3-milky-yellow-pro-linear-switches) | $24.86 |
 | Keycaps         | [Mistel Gray/Yellow](https://www.amazon.com/dp/B08SW9JLZY) | $45.99 |
