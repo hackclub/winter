@@ -76,4 +76,4 @@ Extra Notes:
 | 750w Power Supply|Owned|Owned|
 | Taxes      |                                       | $84.65|
 | Shipping | | $9.45|
-|Total           |                                       | $1012.09|
+|Total           |                                       | $1021.54|
