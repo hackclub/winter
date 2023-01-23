@@ -51,5 +51,5 @@ Hidden steps : Brain storming, error correction, multiple testing, reading the d
 | WS2812b LED strip (controlled by MCU )| (https://amzn.eu/d/4nfmZzv) | $15.40 |
 | Monitor ( to view the multiple process at the same time (like the firebase working, working of text to speech, etc) and for the UI for the AI with some data(date, time, etc)  floating over the screen and beside these the monitor comes with inbuilt speakers which can used to get feedback from the pi) | (https://amzn.eu/d/8ePErtO)  | $98.90 |
 | External hdd (for storing the data) | (https://amzn.eu/d/dCNAXM8) | $40.2 |
-| Total           |                                       | $160.8 |
+| Total           |                                       | ~$180 |
 ## All prices are converted from INR TO USD
