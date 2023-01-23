@@ -29,5 +29,6 @@ What materials will you need for your project? Where will you get them? How much
 | MIDI Connector | [https://www.adafruit.com/product/1134](https://www.adafruit.com/product/1134)  | $1.75 |
 | 2.1mm DC Panel-mount jack | https://www.adafruit.com/product/610 | $2.95 |
 | 2x Breadboard | https://www.adafruit.com/product/64 | $9 |
-| Misc switches | Already owned -- unknown supplier | Unknown
-| Total           |                                       | $38.6 + additional materials as I need them |
+| Misc switches | Already owned -- unknown supplier | Unknown |
+| Shipping + Tax | Subject to change because that's how that works | $20.49
+| Total           |                                       | $59.09 + additional materials as I need them |
