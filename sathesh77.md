@@ -33,7 +33,13 @@ Project slide - https://docs.google.com/presentation/d/1srDQjUqZN2WoOYOOrdiLi9Rq
 | --------------------------------------| -----------------------------------------------------------------------------------------------| ------ |
 | Arduino uno                           |               already own
 |  Bluetooth/IC/Motor/chassis /wire     |               already own                                                                      | $0     |
-| BCI electrode(EEG single)             | https://shop.openbci.com/products/openbci-eeg-headband-kit                                     | $299   |
-| Total                                 |                                                                                                | $299   |
+| BCI electrode(EEG single)             | https://www.pantechsolutions.net/brainsense-bci                                                | $136   |
+| Raspberry Pi 4                        | https://www.thingbits.in/products/raspberry-pi-4-model-b-8-gb-ram                              |  $83   |
+| memory card                           |https://www.thingbits.in/products/sandisk-32gb-class-10-microsd-memory-card-with-noobs          |  $6    |
+| Micro HDMI to Standard HDMI Cable for  |https://www.thingbits.in/products/sandisk-32gb-class-10-microsd-memory-card-with-noobs         |  $7    |
+|  Raspberry Pi 4 - 2 meter              |                                                                                               |        | 
+|Raspberry Pi 4 Official 15W             |https://www.thingbits.in/products/raspberry-pi-official-15w-usb-c-power-supply-for-pi-4        |  $6    |
+USB C Power Supply|
+| Total                                 |                                                                                                | $238  |
 
 
