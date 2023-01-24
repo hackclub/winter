@@ -32,8 +32,8 @@ I'm also excited to share my progress and design process when creating a new ant
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | NanoVNA         | https://a.co/d/0I138N2                | $152.63|
-| Copper wire     | Local Hardware Store                  | ~$5    |
+| Copper wire     | https://a.co/d/dojD00a                | $14.83 |
 | Copper tape     | https://a.co/d/5bIQGfS                | $9.53  |
-| PLA Filament    | https://a.co/d/6dTtwOJ                | $27.55 |
+| 60m tape measure| https://a.co/d/6MKiipN                | $30.73 |
 | RG402 Coax      | https://a.co/d/cNOhME7                | $11.65 |
-| Total           |                                       | $206.36|
+| Total           |                                       | $219.37|
