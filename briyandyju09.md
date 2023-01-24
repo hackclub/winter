@@ -3,9 +3,7 @@ name: "@briyandyju09"
 project: " DIY handheld game console like a nintendo switch"
 ---
 
-# Project Name
-
-RetroSwitch
+# RetroSwitch
 
 ## Summary
 

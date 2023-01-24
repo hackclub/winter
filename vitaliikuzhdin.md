@@ -3,9 +3,7 @@ name: "@vitaliikuzhdin"
 project: "E-Book for Blind"
 ---
 
-# Project Name
-
-E-Book for Blind
+# E-Book for Blind
 
 ## Summary
 
