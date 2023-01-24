@@ -24,11 +24,11 @@ What materials will you need for your project? Where will you get them? How much
 |Steeper motor drivers | https://a.co/d/3uuH6EF                | $14    |
 |MK8 Extruder          | https://a.co/d/daainex                | $42    |
 |PLA 3DPrinter Filament| https://a.co/d/fZCWpLS                | $26    |
-| Shipping + import fees deposit|                              | $58    |
+| Shipping + import fees deposit|                              | $125   |
 | Tool box             |https://a.co/d/fwPpMUv                 | $25    |
 | Arduino mega         | I have this one!                      | $0     |
 | 4 Steeper motors     | I have this one!                      | $0     |
 | RAMPS                | I have this one!                      | $0     |
 | LCD Smart controller | I have this one!                      | $0     |
 | Heated bed           | Home made!                            | $0     |
-| Total                |                                       | $230   |
+| Total                |                                       | $240   |
