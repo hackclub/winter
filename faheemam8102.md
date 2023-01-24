@@ -1,22 +1,25 @@
 ---
 name: "@faheemam8102"
-project: "Maximizing the efficiency of a stirling engine"
+project: "Experimenting with Heat and Electricity"
 ---
 
-# Maximizing the efficiency of the stirling engine
+# Experimenting with Heat and Electricity
 
 ## Summary
 
-In this project, I would like to maximize the efficiency of a Stirling Engine. Stirling engines are fascinating in that they are able to take heat and convert that into mechanical energy. 
-I also learned thermoelectric plates and how they are able to take heat and convert it directly into electicity. I have always been obsessed with energy and 
-efficiency and know that if you combine these two together, it is possible to maximize the efficiency. I would love to experiment and try this out.
+In this project, I would like to experiment with thermoelectric plates (peltier plates) and stirling engines. I would like to combin them into an appartus where I can measure the voltage supplied and the RPM produced from the stirling engines (This apparatus will be set up by a dual gamma type where the peltier plates will be in the middle and edge). I also learned thermoelectric plates and how they are able to take heat and convert it directly into electicity. I have always been obsessed with clean energy and would like to experiment from body heat and a way to convert the useless energy into useful energy. NOTE: I am not an expert and would just like to get an exposure through an exciting project!
 
 ## Plan
 
-First: get the stirling engine to work and measure the temperature output
-Second: Connect a motor to the stirling engine in order to produce an electric current
-Third: combine the thermoelectric plates with the stirling engine to create a new apparatus (figure out the best placement because both of these devices operate on a difference in temperature)
-Fourth: calculate the efficiency and experiment with various other placements
+First: get the stirling engine to work 
+Second: Set up the gamma apparatus
+Third: Place 2 peltier plates in the center and on the outsides of the engines
+Fourth: Use the alpha stirling engine to power the apparatus
+Fifth: measure the temperature of the alpha and the gammas
+Sixth: measure the RPMs of the gamma engines and the voltage being supplied to the peltier plates
+Seventh: Setup the peltier plates in a way to collect body heat when sitting
+Eigth: Measure this voltage
+Ninth: experiment!
 
 ## Budget
 
