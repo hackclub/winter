@@ -28,7 +28,7 @@ and move towards the objects of interest.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| CUAV V5+ Flight Controller | Drone Autopilot PX4 APM  | https://store.cuav.net/shop/v5-autopilot/ | $479.00 – $677.00 + $0 (Free Shipping) |
+| CUAV V5+ Flight Controller | https://store.cuav.net/shop/v5-autopilot/ | $479.00 – $677.00 + $0 (Free Shipping) |
 | Quadcopter Drone Combo Kit for beginner (Motor + ESC + Propeller + Flight Controller + Frame + TX-RX) | https://www.flyrobo.in/quadcopter-drone-combo-kit-for-beginner-motor-plus-esc-plus-propeller-plus-flight-controller-plus-frame-plus-tx-rx-flyrobo | $159.11 + $4.19 (Shipping) |
 | 2-Axis Brushless Drone Camera Gimbal with Controller | https://www.flyrobo.in/2-axis-brushless-drone-camera-gimbal-with-controller?search=drone+with+camera&description=true | $51.40 + $0 (Free Shipping)
  
