@@ -7,7 +7,7 @@ project: "Map it :)"
 
 ## Summary
 
-I'm building a sectional aeronautical chart with live weather display, inspired by the [LightMap AIR](https://www.lightmaps.io/lightmap-air). I recently gained an interest in planes and flying, so I thought this would be the perfect opportunity to merge both interests :)) I've never built an electronics project before so i'm looking forward to learning!
+I'm building a sectional aeronautical chart with live weather display, inspired by the [LightMap AIR](https://www.lightmaps.io/lightmap-air). I recently gained an interest in planes and flying, so I thought this would be the perfect opportunity to merge both interests :)) I've never built an electronics project before so i'm looking forward to learning! hehe
 
 <img width="400" alt="Screenshot 2023-01-15 at 8 57 50 PM" src="https://user-images.githubusercontent.com/65808924/212582738-24f1043e-26f3-4256-931f-34bb3689adee.png">
 
