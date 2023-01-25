@@ -3,8 +3,7 @@ name: "@cfanoulis"
 project: "Veeby Deeby - A new way to vote for your favorite projects"
 ---
 
-#  Project Name
-Veeby Deeby
+# Veeby Deeby
 
 ##  Summary
 I'm planning to create a smart vote colection system for hackathons, student science fairs & relevant events. Users will submit their details via an app running on the Raspberry Pi server, which will then print a submission receipt, like [this](https://hey-google.wheres-my-ta.co/5QFLM3iyo.png). After that, the voters may either scan the QR code on the receipt or enter the project ID on a web app hosted on the rPi to cast their vote (or votes). Operators may declare the vote finished, and have a tally of votes printed by the rPi, to allow them to declare their winners!
