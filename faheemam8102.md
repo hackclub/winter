@@ -7,7 +7,7 @@ project: "Experimenting with Heat and Electricity"
 
 ## Summary
 
-In this project, I would like to experiment with thermoelectric plates (peltier plates) and stirling engines. I would like to combin them into an appartus where I can measure the voltage supplied and the RPM produced from the stirling engines (This apparatus will be set up by a dual gamma type where the peltier plates will be in the middle and edge). I also learned thermoelectric plates and how they are able to take heat and convert it directly into electicity. I have always been obsessed with clean energy and would like to experiment from body heat and a way to convert the useless energy into useful energy. NOTE: I am not an expert and would just like to get an exposure through an exciting project!
+In this project, I would like to experiment with thermoelectric plates (peltier plates) and stirling engines. I would like to combin them into an appartus where I can measure the voltage supplied and the RPM produced from the stirling engines (This apparatus will be set up by a dual gamma type where the peltier plates will be in the middle and edge). I also learned thermoelectric plates and how they are able to take heat and convert it directly into electicity. I have always been obsessed with clean energy and would like to experiment from body heat and a way to convert the useless energy into useful energy. Another project I would really like to do is create a body heat converter that will take body and use it to power a load. The load can be a fan or a stirling engine fan that will faster as body temperature rises. NOTE: I am not an expert and would just like to get an exposure through an exciting project!
 
 ## Plan
 
