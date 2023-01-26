@@ -1,5 +1,5 @@
 ---
-name: "@thomaswcy"
+name: ["@thomaswcy", "@MeliLXT"]
 project: "Home-Environment-Monitor"
 ---
 
