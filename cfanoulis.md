@@ -14,22 +14,15 @@ I expect the first 5 days to be spent on creating the web-app using RedwoodJS & 
 ##  Budget
 | Product | Supplier/Link | Cost |
 | --------------- | ------------------------------------- | ------ |
-Acrylic rPi case | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/go-create/raspberry-and-accessories-el/enclosures/acrylic-case-for-raspberry-pi-3.5inch-lcd-display/) | $  3,59
-5V PSU | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/electronics/psu/5v-2a-anga-cp0502-2a/) | $  3,08
-DC Adaptor | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/surveillance-el/power-supply-el/dc-2-1mm-5-5mm-el/) | $  0,51
-SD Card | [e-shop.gr](https://www.e-shop.gr/samsung-mb-mc64ka-eu-evo-plus-64gb-micro-sdxc-2021-uhs-i-u1-v10-a1-adapter-p-PER.578368) | $  8,21
-Raspberry Pi Power Supply | [NETTOP](https://nettop.gr/index.php/hlektronika/power-supplies/official-raspberry-pi-4-power-supply-black.html) | $  10,17
-Raspberry Pi Model 4 - 2GB | [NETTOP](https://nettop.gr/index.php/raspberry-pi/kit-plaketes/raspberry-pi-4-model-b-2gb.html) | $  61,52
-Shipping for Nettop order | NETTOP E.E. | $  2,98
+Acrylic rPi case | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/go-create/raspberry-and-accessories-el/enclosures/acrylic-case-for-raspberry-pi-3.5inch-lcd-display/) | $  3,73
+5V PSU | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/electronics/psu/5v-2a-anga-cp0502-2a/) | $  3,19
+DC Adaptor | [CREATIVE MINDS EPE](https://www.hellasdigital.gr/surveillance-el/power-supply-el/dc-2-1mm-5-5mm-el/) | $  0,53
+SD Card | [e-shop.gr](https://www.e-shop.gr/sandisk-sdsqxcg-032g-gn6ma-extreme-pro-a1-32gb-micro-sdhc-uhs-i-u3-with-adapter-p-PER.577061) | $  11,64
+Raspberry Pi Power Supply | [NETTOP](https://nettop.gr/index.php/hlektronika/power-supplies/official-raspberry-pi-4-power-supply-black.html) | $  10,55
+Raspberry Pi Model 4 - 2GB | [NETTOP](https://nettop.gr/index.php/raspberry-pi/kit-plaketes/raspberry-pi-4-model-b-2gb.html) | $  63,83
+Shipping for Nettop order | NETTOP E.E. | $  3,09
 Male/Male Jumper Wires - 20 x 3" (75mm) | [Adafruit](https://www.adafruit.com/product/1956) | $  1,95
 Tiny Thermal Printer | [Adafruit](https://www.adafruit.com/product/2751) | $  49,95
 Shipping for Adafruit order | ADAFRUIT INDUSTRIES LLC | $  33,24
 VAT for Adafruit order | ADAFRUIT INDUSTRIES LLC | $  20,43
-Total | | $  188,95
-
-
-Budget footnote 1: prices from retailers that are not Adafruit have been converted according to PayPal's rate as of 2022/12/23, 00:00GMT of 1EUR=1,027USD. Final prices may fluctuate.
-
-Budget footnote 2: Business registration details for all non-US companies can be provided upon request
-
-Budget footnote 3: Tax (VAT 24%) & shipping is included
+Total | | $  203,10
