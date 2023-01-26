@@ -7,7 +7,9 @@ project: "Map it :)"
 
 ## Summary
 
-I'm building a sectional aeronautical chart with live weather display, inspired by the [LightMap AIR](https://www.lightmaps.io/lightmap-air). I recently gained an interest in planes and flying, so I thought this would be the perfect opportunity to merge both interests :)) I've never built an electronics project before so i'm looking forward to learning! hehe
+I'm building a sectional aeronautical chart with live weather display, inspired by the [LightMap AIR](https://www.lightmaps.io/lightmap-air). I recently gained an interest in planes and flying, so I thought this would be the perfect opportunity to merge both interests :)) I've never built an electronics project before so i'm looking forward to learning! 
+
+_Note: building this in Malaysia_
 
 <img width="400" alt="Screenshot 2023-01-15 at 8 57 50 PM" src="https://user-images.githubusercontent.com/65808924/212582738-24f1043e-26f3-4256-931f-34bb3689adee.png">
 
@@ -41,9 +43,9 @@ What materials will you need for your project? Where will you get them? How much
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Sectional Chart (x2*)   | https://www.sportys.com/vfr-sectional-chart.html | $18 |
-| Foam sheets| https://www.amazon.com/Pacon-Foam-Board-White-Sheets/dp/B00IWSHEB0/ref=as_li_ss_tl?keywords=foam+board&qid=1549679993&sr=8-5&linkCode=sl1&linkId=10d1ae6c782d29b5562febdd78a22847&language=en_US  | $19.95 |
+| Foam sheets| Bought locally  | $10 |
 | Wood sheets (to create frame)  |     Bought locally                                  | $20 |
-| IR sensors        |   https://www.amazon.com/HiLetgo-Infrared-Avoidance-Reflective-Photoelectric/dp/B07W97H2WS/ref=sr_1_3?keywords=IR+Sensors&qid=1673832653&sr=8-3                                    | $8.78 |
+| IR sensors  (5)      |   https://shopee.com.my/search?keyword=ir%20sensor&is_from_login=true                                  | $1.8 |
 | Screen           |            https://www.pishop.us/product/tufty-2040-accessory-kit/                        | $33.95 |
 | RPI Model 3A+ | Currently out of stock but keeping my eye on https://rpilocator.com/ | ~$50 |
 | Power supply           |      https://www.amazon.com/gp/product/B00MRGKPH8/ref=oh_aui_detailpage_o06_s00?ie=UTF8                                 | $12.99 |
