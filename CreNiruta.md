@@ -28,9 +28,10 @@ However, I would need following components to complete my project.
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Adafruit PyPortal Titano   | https://www.adafruit.com/product/4444 | $59.95  |
-| E-Ink Display |https://www.adafruit.com/product/3743  | $26.50 |
-| E-Ink Display |https://www.adafruit.com/product/3743  | $26.50 |
-| E-Ink Display |https://www.adafruit.com/product/3933  | $26.50 |
-| Total           |                                       | $139.45 |
+| Pi Display |https://www.daraz.com.np/products/raspberry-pi-lcd-7inch-tft-touch-screen-display-i105828375-s1027688612.html?spm=a2a0e.searchlist.list.3.6934f218oTb0rD&search=1 | $65.11 |
 
-I don't actually know the shipping and other charges but since I had heard it might be high so I tried to be low on the budget for the compoenents I am going to be shipped, by utlizing the compoenents that my brother own.
+Shipping from Adafruit : $53.03 (Dont know the customs tax office price)
+Shipping from Daraz : $1.15
+| Total           |                                       | $179.24 |
+
+
