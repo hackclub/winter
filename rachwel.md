@@ -1,13 +1,9 @@
-
 ---
 name: "@rachwel"
 project: "Rc tracked vehicle"
-
 ---
 
 # The tank
-
-
 
 ## Summary
 

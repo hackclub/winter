@@ -1,5 +1,5 @@
 ---
-name: "@pranavnt", "quackduck" (me and Ishan are building this together)
+name: ["@pranavnt", "quackduck"]
 project: "FSC (full self cycling) Bike"
 ---
 

@@ -45,7 +45,7 @@ This is just a stub, I plan on fully documenting my journey via a blog and proce
 |hall effect sensor (7pcs)|https://besomi.net/product/49e-hall-sensor-lm393-linear-hall-effect-detection-module-ab030/|$28.59|
 |Electronic Component kit (2 pcs)|https://besomi.net/product/electronic-component-starter-kit-wires-breadboard/|$19.06|
 |PN532 NFC reader|https://besomi.net/product/pn532-nfc-rfid-reader/|$9.53|
-|RFID card (3pcs)|https://besomi.net/product/df-robot-accessories-mifare-one-rfid-card-13-56-mhz/|$4.90|
+|RFID card (2pcs)|https://besomi.net/product/df-robot-accessories-mifare-one-rfid-card-13-56-mhz/|$4.90|
 |ADS1115 ADC|https://besomi.net/product/ads1115-16-bit-adc-4-channel-with-programmable-gain-amplifier/|$10.89|
 |Cat thermal printer|https://www.noon.com/product/Z4C6688401CB54FB3069AZ/p/|$18.51|
 |Soldering Iron Kit|https://www.noon.com/uae-en/product/N18835963A/p/|$11.43|

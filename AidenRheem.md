@@ -3,6 +3,7 @@ name: "@AidenRheem"
 project: "Custom Firmware Keyboard"
 ---
 
+# Custom Firmware Keyboard
 
 ## Summary
 I'm going to be designing a custom 60% keyboard but using a open-source version called the Bakeneko65! I will also be creating a custom firmware for my keyboard off of a fork of an existing program called QMK. The keyboard will be used for everything I do (home & school) on my setup. I'm excited to build this because it's always been my goal to build a mechanical keyboard and modify it's firmware to make it my own. It'll be my first time building a keyboard as well. I've also never done C programming and I feel this project can help introduce me to it. As for what I am going to do for the firmware, I will customize it to include custom macros (shortcuts), layouts, and more. Hopefully this will be a experience for me to learn C programming, and building own keyboards and tinkering with electronics/modding them!

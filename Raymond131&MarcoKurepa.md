@@ -1,9 +1,9 @@
 ---
-name: "@Raymond131" "@MarcoKurepa"
+name: ["@Raymond131", "@MarcoKurepa"]
 project: "Computer Vision Raspberry Pi Drone"
 ---
 
-# Project Name: Computer Vision Raspberry Pi Drone
+# Computer Vision Raspberry Pi Drone
 
 ## Summary
 
