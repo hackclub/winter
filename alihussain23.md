@@ -1,6 +1,6 @@
 ---
-name:["@alihussain23","@mehdihussain1786"]
-project:"Smart Door Lock"
+name: ["@alihussain23","@mehdihussain1786"]
+project: "Smart Door Lock"
 ---
 
 # Smart Door Lock
