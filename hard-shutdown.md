@@ -1,5 +1,5 @@
 ---
-name: ["hard-shutdown", "@k1tt3nb4by"]
+name: ["@hard-shutdown", "@k1tt3nb4by"]
 project: "First PC + Operating System Build"
 ---
 

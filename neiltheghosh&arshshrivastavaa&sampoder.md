@@ -1,5 +1,5 @@
 ---
-name: ["@arshshrivastavaa, @neiltheghosh, @sampoder"]
+name: ["@arshshrivastavaa", "@neiltheghosh", "@sampoder"]
 project: "Gramophone-502x"
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: ["@AHussein04", “@kapaarnav”]
+name: ["@AHussein04", "@kapaarnav"]
 project: "Enhanced Listening Experience"
 ---
 

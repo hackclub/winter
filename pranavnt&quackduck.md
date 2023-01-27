@@ -1,5 +1,5 @@
 ---
-name: ["@pranavnt", "quackduck"]
+name: ["@pranavnt", "@quackduck"]
 project: "FSC (full self cycling) Bike"
 ---
 
