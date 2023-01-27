@@ -46,17 +46,15 @@ What materials will you need for your project? Where will you get them? How much
 | Foam sheets| Bought locally  | $10 |
 | Wood sheets (to create frame)  |     Bought locally                                  | $20 |
 | IR sensors  (5)      |   https://shopee.com.my/search?keyword=ir%20sensor&is_from_login=true                                  | $1.8 |
-| Screen           |            https://www.pishop.us/product/tufty-2040-accessory-kit/                        | $33.95 |
-| RPI Model 3A+ | Currently out of stock but keeping my eye on https://rpilocator.com/ | ~$50 |
-| Power supply           |      https://www.amazon.com/gp/product/B00MRGKPH8/ref=oh_aui_detailpage_o06_s00?ie=UTF8                                 | $12.99 |
-| Extension chord**           |         https://www.amazon.com/AmazonBasics-Grounded-Extension-3-Outlets-15-Foot/dp/B07N4PMQS3/ref=zg_bs_495312_sccl_2/134-4992931-3999416?th=1                              | $10.00 |
-| Power plug adapter           |           https://www.amazon.com/gp/product/B01M4RBARQ/ref=oh_aui_detailpage_o06_s01?ie=UTF8                            | $7.99 |
-| Addressable LEDs           |         https://www.digikey.com/en/products/detail/adafruit-industries-llc/4560/12396891?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4ArAEwIC6AvvYVWSACwUBsADCA0A                              | $19.95 |
+| Screen           |          https://shopee.com.my/5-inch-Touch-Screen-HDMI-LCD-Display-For-Raspberry-Pi-3-2-1-i.8822702.1012471424?sp_atk=87c7a68a-60f3-4cff-ac7c-87578a202922&xptdk=87c7a68a-60f3-4cff-ac7c-87578a202922                     | $32 |
+| RPI Model 3B | https://shopee.com.my/Raspberry-Pi-3-Model-B-i.276752935.23810547921?sp_atk=b0909e4f-71fd-4472-9d69-599ac71a4e45&xptdk=b0909e4f-71fd-4472-9d69-599ac71a4e45| $50 |
+| MicroUSB power supply       |     https://shopee.com.my/%E2%9A%A1-5V-2.5A-Micro-USB-Power-Supply-Adapter-for-Raspberry-Pi-3-Arduino-i.33287405.2264160653?sp_atk=ca27cb8f-cc14-4593-a2c3-a21e29531435&xptdk=ca27cb8f-cc14-4593-a2c3-a21e29531435                               | $3 |
+| Extension chord**           |         bought locally                             | $10.00 |
+| Power plug adapter           |         Bought locally                      | $5 |
+| Addressable LEDs           |         https://www.digikey.com/en/products/detail/adafruit-industries-llc/738/9770506 | $40 |
 | Sportys Tax + Shipping           |                                       | $7.93 |
-| Pishop Tax + Shipping           |                                       | $9.50 |
-| Amazon Tax + FREE Shipping           |                                       | $3.70 |
-| Sportys Tax + Shipping           |                                       | $7.93 |
-| Total           |                                       | $230.67 |
+| Digikey Tax + Shipping           |                                       | $28 |
+| Total           |                                       | $225.73 |
 
 *purchasing two because I assume that I will likely mess up on my first try
 
