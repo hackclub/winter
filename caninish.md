@@ -29,6 +29,7 @@ What materials will you need for your project? Where will you get them? How much
 | --------------- | ------------------------------------- | ------ |
 | Wires           | Have                                  | $0.00  |
 | On/Off Button   | Have                                  | $0.00  |
+| Button for Undo | Have                                  | $0.00  |
 | 3D-Printed Case | Local Makerspace                      | $0.00  |
 | Libre Renegade Motherboard  | https://www.loverpi.com/products/libre-computer-board-roc-rk3328-cc?variant=2817923940365  | $55.00 |
 | Libre Renegade Heatsink | https://www.loverpi.com/products/libre-computer-board-heatsink-for-roc-rk3328-cc?variant=3457903099917 | $9.99 |
