@@ -4,7 +4,6 @@ project: "Graphing Calculator of Doom"
 ---
 
 # Graphing Calculator of Doom
-
 ## Summary
 
 Face it, most graphing calculator are quite boring. They are these massive contraptions that lack any true modern programability,
@@ -18,10 +17,10 @@ I personally love the graphing calculator format, it looks cool and retro while 
 * Super easy to use. Everything has a button, you aren't hunting in menus.
 
 ***
-What am I doing? Putting the fun back into graphing calculators. I'm going to stuff a Nvidia Tegra SoC into a graphing calculator, including a few extras.
+What am I doing? Putting the fun back into graphing calculators. I'm going to stuff an Nvidia Tegra SoC into a graphing calculator, including a few extras.
 * Google Coral Dual TPU ML Accelerator
 * Camera
-* Wifi+bluetooth
+* Wi-Fi+bluetooth
 * NOAA Weather Satellite communication stack
 
 Is this a bad idea? Probably. Can I pull it off? I hope so. Here's my qualifications
@@ -52,22 +51,29 @@ and hopefully help resolve an issues that may arise.
 ## Budget
 
 I'm not going to list every component I may use here (I honestly don't think you want to hear about every single SMT resistor, but if you do, let me know, and I will oblige).
-The PCB's are still being designed, so I don't have a hyper-accurate estimate on that yet, but I believe it's a decent ballpark estimate. 
+The PCBs are still being designed, so I don't have a hyper-accurate estimate on that yet, but I believe it's a decent ballpark estimate. 
 
-| Product                     | Supplier/Link                                         | Cost             |
-|-----------------------------|-------------------------------------------------------|------------------|
-| Jetson Nano                 | https://www.sparkfun.com/products/16271               | $0 (already own) |
-| Coral Dual TPU board        | https://coral.ai/products/m2-accelerator-dual-edgetpu | $0 (already own) |
-| RTL-SDR                     | https://www.amazon.com/dp/B01HA642SW                  | $0 (already own) | 
-| 3.5in TFT LCD display       | https://www.adafruit.com/product/2050                 | $39.95           |
-| 4x LiPo Battery Pack        | https://www.adafruit.com/product/2011                 | $50.00           |
- | Printed Circut Boards       | https://jlcpcb.com/                                   | ~$30             |
-| 8MP Autofocus Camera        | https://www.amazon.com/dp/B082NSDP5L                  | $39.94           |
-| 100x PTS636 SL43 LFS        | https://mou.sr/3YIVHf5                                | $7.52            |
-| ESP32-S2                    | https://mou.sr/3jukOC0                                | $2.40            |
-| 2x TI Boost Converter       | https://mou.sr/3joO2lU                                | $4.70            ||
-| 2x Coilcraft XAL7030-102MEC | https://mou.sr/3YHEaUD                                | $6.40            |
-| Other Misc. Components      | https://www.mouser.com/                               | ~$30             |
-| Shipping                    | Mouser, Adafruit                                      | $17.99           |
-| Taxes                       | State Sales Tax                                       | $13.73           |
-| Total                       |                                                       | $242.63          |
+Edit: 27.1.22 - Updated Components
+
+
+| Product                               | Supplier/Link                                         | Cost             |
+|---------------------------------------|-------------------------------------------------------|------------------|
+| Jetson Nano                           | https://www.sparkfun.com/products/16271               | $0 (already own) |
+| Coral Dual TPU board                  | https://coral.ai/products/m2-accelerator-dual-edgetpu | $0 (already own) |
+| RTL-SDR                               | https://www.amazon.com/dp/B01HA642SW                  | $0 (already own) | 
+| 3.5in TFT LCD display                 | https://www.adafruit.com/product/2050                 | $27.99           |
+| 1000mah LiPo Battery                  | https://a.co/d/hPCsPyL                                | $25.99           |
+| Simple USB-C Breakout                 | https://www.adafruit.com/product/5180                 | $1.75            |
+| Breadboard Friendly SDPT Slide Switch | https://www.adafruit.com/product/805                  | $0.95            |
+| Adafruit USB type c Breakout Board    | https://www.adafruit.com/product/4090                 | $2.95            |
+ | Printed Circuit Boards                 | https://jlcpcb.com/                                   | ~$30             |
+| 8MP Autofocus Camera                  | https://www.amazon.com/dp/B082NSDP5L                  | $39.94           |
+| 55x Tactile Switches                  | https://mou.sr/3DH0EML                                | $15.73           |
+| 55x Diodes                            | https://mou.sr/3DnkWdN                                | $6.53            |
+| ATMEGA3209-AFR                        | https://mou.sr/3HAfA1r                                | $1.96            |
+| 10x 10k resistor                      | https://mou.sr/3Y35zPK                                | $0.40            |
+| 10x 100nf capacitor                   | https://mou.sr/3j6SmGE                                | $0.45            |
+| Other Misc. Components                | https://www.mouser.com/                               | ~$60             |
+| Shipping                              | Mouser, Adafruit                                      | $17.99           |
+| Taxes                                 | State Sales Tax                                       | $13.96           |
+| Total                                 |                                                       | $246.59          |
