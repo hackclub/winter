@@ -1,5 +1,5 @@
 ---
-name: ["@DevIos01", "@Kiana"]
+name: ["@DevIos01", "@Kiana", "@Nahir"]
 project: "Modern Duck Hunt & NES Zapper"
 ---
 
@@ -39,6 +39,14 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | Shipping                                                    | 299kr  (29$)                                                                             |               |
 | Total                                                       | 3812kr (365$)                                                                            |               |
 
+### Manufacture: kjell
+
+| Product                                                     | Supplier/Link                                                                            | Cost          |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |
+| PrimaCreator P120 v4 FÃ¤rdigmonterad 3D-skrivare            | https://tinyurl.com/mrys5ue8                                                             | 2695kr (256$) |
+| Shipping                                                    | 0kr  (0$)                                                                                |               |
+| Total                                                       | 2695kr (256$)                                                                            |               |
+
 ### Manufacture: Amazon
 
 | Product                                                     | Supplier/Link                                                                            | Cost          |
@@ -65,4 +73,5 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | DustinHome                                                  | https://dustinhome.se/                                                                   | 3812kr (365$) |
 | Amazon                                                      | https://amazon.se/                                                                       | 762kr  (73$)  |
 | jlcpcb                                                      | https://jlcpcb.com/                                                                      | 814kr  (78$)  |
-| Total                                                       | 5388kr (516$)                                                                            |               |
+| kjell                                                       | https://kjell.com/                                                                       | 2695kr (256$) |
+| Total                                                       | 8083kr (772$)                                                                            |               |

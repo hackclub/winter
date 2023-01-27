@@ -1,8 +1,8 @@
 # Winter Hardware Wonderland
+> **⚠️ RSVPs have closed and we are no longer accepting project ideas via PRs.**
+If you're a teenager interested in seeing the projects being built, join us at [hackclub.com/slack](hackclub.com/slack) :)
 
-> Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
-
-**RSVP at [hackclub.com/winter](https://hackclub.com/winter)!**
+_Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter)._
 
 ## ⛷ The rundown
 

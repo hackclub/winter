@@ -1,11 +1,9 @@
 ---
-name: @Erik-Dennis
-project: Smart Device Controller
+name: "@Erik-Dennis"
+project: "Smart Device Controller"
 ---
 
-# Project Name
-
-Smart Device Controller
+# Smart Device Controller
 
 ## Summary
 

@@ -1,6 +1,6 @@
 ---
-name: “@LinusSkucas“
-project: “PlantPrint”
+name: "@LinusSkucas"
+project: "PlantPrint"
 ---
 
 # PlantPrint
