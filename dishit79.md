@@ -17,11 +17,22 @@ I have already developed a plan for this project. It will have two main componen
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
+Version 1 (Tablet Version)
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Home Server (old dell optiplex)   | n/a | Owned  |
-| Ethernet Cable   | https://www.amazon.ca/AmazonBasics-Cat-5e-Network-Ethernet-Cable/dp/B001TH7GVO | $15.60  |
+| Ethernet Cable   | https://www.amazon.ca/AmazonBasics-Cat-5e-Network-Ethernet-Cable/dp/B001TH7GVO | 15.60  |
 |  Samsung s6 Tablet| https://www.facebook.com/marketplace/item/606919971242436/?hoisted=false  | $220 |
 | Total           |                                       | $235.60 |
 
+Version 2 with Raspbery pi
 
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Home Server (old dell optiplex)   | n/a | Owned  |
+| Raspberry Pi Zero W   | https://www.amazon.ca/gp/product/B06XFZC3BX/ref=ox_sc_act_title_1?psc=1 | 102.38 |   |
+| SAMSUNG EVO Select Micro SD| https://www.amazon.ca/gp/product/B09B1JFY24/ref=ewc_pr_img_2?th=1  | 19.99 | 
+| Mini USB Microphone   | https://www.amazon.ca/gp/product/B076BC2Y3W/ref=ewc_pr_img_3?psc=1| 8.18 |   |
+| VCE HDMI Mini Adapter| https://www.amazon.ca/gp/product/B01NBK1919/ref=ewc_pr_img_4?psc=1  | 8.99 |
+| 20" Monitor           | https://www.facebook.com/marketplace/item/915810009598588/ | $70.00 |
+| Total           |                                       | $144.75 + 70.00 = $214.75 |
