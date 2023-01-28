@@ -1,5 +1,5 @@
 ---
-name: "@SantoshiUser, @amareshw"
+name: ["@SantoshiUser", "@amareshw"]
 project: "Alexa Controlled Smart Mirror"
 ---
 
