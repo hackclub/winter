@@ -25,31 +25,32 @@ As for testing whether or not our project is success, we are going to try to del
 
 Extra note on software:
 
-We plan on writing out all the software backend for this project. We will make a small little cross-platform website on where you can manage your delivery and see the real time location of the car. It will include various options to the control the car such as just automatically dropping it off at the destination, or requiring facial confirmation and actual manual control of the car. This means that we will coordinate and collect all the data on the sensors, process it, then send an action. To do this, we will need a computer outside of the Raspberry Pi to process all these intensive calculations and data. We plan on running all the calculations an outside CPU for this project. It's absolutely possible however to do all of these hosted on the Pi, we just think it's going to be absolutely detrimental to the experience. This system will act as the brain of the computer rather than the Pi because we simply cannot mount this system in an RC car without having Tesla style batteries. If need be, the computer components can be taken away from this project and we can instead host everything on the Pi. This will however necessitate a huge cutdown in the scope of the project and instead revolve around self-driving within a house.
+We plan on writing out all the software backend for this project. For this, we will isolate the compute operations on AI on two Jetson Nano Developer kits. This will all be combined alongside the Raspberry Pi through a lower power network switch. Through this small internal network, the Jetson Nanos will pass on the image it detects from the camera that's connected to it, as well as speech that the other Jetson Nano detects. The Raspberry Pi will process both of this information at once and render a "decision" based on what to do on what these Jetson Nanos respond with.
 
 ## Budget
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| AMD Ryzen 9 5950x | https://www.microcenter.com/product/630282/amd-ryzen-9-5950x-vermeer-34ghz-16-core-am4-boxed-processor-heatsink-not-included | $499.99 |
-| DDR4 2 x 16GB |https://www.amazon.com/dp/B07PV7GL6C?tag=pcpapi-20&linkCode=ogi&th=1| $65.97 |
-| SSD|https://www.amazon.com/dp/B08CKFDPJ3?tag=pcpapi-20&linkCode=ogi&th=1|$46.99|
+| Jetson Nano (x2)|https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/|$299.98|
+| MicroSD Card (x2)|https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/|$37.98|
+| Network Switch|https://www.amazon.com/TP-Link-5-Port-Gigabit-Network-Switch/dp/B0863M7C1L/|$14.99|
+| Small Ethernet Cables|https://www.amazon.com/Cat-Ethernet-Cable-Black-Connectors/dp/B01IQWGKQ6?th=1|$13,99|
 | Car Chassis|https://www.amazon.com/LewanSoul-Mecanum-Chassis-Aluminum-Unassembled/dp/B093WDD9N5/|$36.99|
 | 4G LTE Data Adapter|https://www.amazon.com/AZURAOKEY-Wireless-150Mbps-Adapter-Hotspot/dp/B0B99L6QF|13.99|
 | LIDAR Sensor|https://www.amazon.com/Single-Point-Compatible-Rasppbarry-Communication-Interface/dp/B088NVX2L7/|$25.99|
 | Ultrasonic Sensor|https://www.amazon.com/XiaoR-Geek-Ultrasonic-Distance-Raspberry/dp/B07B94C7KT|$9.99|
 | IMU Board|https://www.amazon.com/BerryGPS-IMUv3-Raspberry-Accelerometer-Magnetometer-Barometric/dp/B072MNBC9M|$71.20|
-| RPI Camera|https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/|$9.99|
+| RPI Camera|https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/|$$29.15|
 | GPIO Expansion Board|https://www.amazon.com/GeeekPi-Raspberry-Extension-Expansion-Screws/dp/B08C2XK25W|$9.99|
 | Microphone|https://www.amazon.com/SunFounder-Microphone-Raspberry-Recognition-Software/dp/B01KLRBHGM/|$6.99|
 | Mini-speaker|https://www.amazon.com/MakerHawk-Full-Range-Advertising-Connector-Separating/dp/B07GJ4GH67/|$12.99|
 | Servos|https://www.amazon.com/Adeept-Digital-Helicopter-Arduino-Raspberry/dp/B0B1TS1NNP|$19.99|
-| Battery Bank|https://www.amazon.com/ROMOSS-40000mAh-Portable-Charger-External/dp/B087C23HPK/|$52.69|
+| Battery Bank|https://www.amazon.com/ROMOSS-40000mAh-Portable-Charger-External/dp/B087C23HPK/|$65.99|
 | LED Strip|https://www.amazon.com/Backlight-DAYMEET-30-60in-Bluetooth-Control/dp/B098DVZZDQ|$10.99|
 | Raspberry Pi 4b|Owned|Owned|
 | 3D Printer (Owned through School| Owned | Owned|
 | Motherboard |Owned|Owned|
 | PSU |Owned|Owned|
-| Taxes      |                                       | $68.74|
+| Taxes      |                                       | $48.43|
 | Shipping | |$0|
-|Total           |                                       | $963.50 |
+|Total           |                                       | $640.43|
