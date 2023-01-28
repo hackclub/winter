@@ -34,16 +34,17 @@ What materials will you need for your project? Where will you get them? How much
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Solder Wire     | https://www.amazon.com/gp/product/B0943RVQ5W/ref=ox_sc_act_title_1?smid=A2L1VF9N696CKB&psc=1 | $1.95  |
-| 450 pcs LED (x2)| https://www.amazon.com/gp/product/B073QMYKDM/ref=ox_sc_act_title_2?smid=A4796MTJVO3KW&psc=1  | $25.98 |
-| Wire stripper   | https://www.amazon.com/gp/product/B073YG65N2/ref=ox_sc_act_title_3?smid=A26I79OO3YFR4X&psc=1 | $8.00  |
-| Helping hand    |https://www.amazon.com/gp/product/B000P42O3C/ref=ox_sc_act_title_4?smid=ATVPDKIKX0DER&psc=1   | $8.49  |
-|Soldering Station| https://www.amazon.com/gp/product/B087832Y16/ref=ox_sc_act_title_5?smid=A1G6RYZRZJ1HSS&psc=1 |$44.99  |
-| 3 pcs ESP8266   |https://www.amazon.com/gp/product/B081CSJV2V/ref=ox_sc_act_title_6?smid=A30QSGOJR8LMXA&psc=1  | $16.39 |
-| Shrink Wrap     |https://www.amazon.com/gp/product/B084GDLSCK/ref=ox_sc_act_title_7?smid=A35SBO3MKPTE8L&psc=1  | $13.99 |
-|Wire conductor   |https://www.amazon.com/gp/product/B07RV6Q7ND/ref=ox_sc_act_title_8?smid=A2O30CO8D3AY3D&psc=1  | $19.98 |
-| Wire Spool      |https://www.amazon.com/gp/product/B089CW7YSR/ref=ox_sc_act_title_9?smid=AMHYOXF0C8EDF&psc=1   | $29.49 |
-| Smoke remover   |https://www.amazon.com/gp/product/B08FCMH3VF/ref=ox_sc_act_title_10?smid=A3G9VP67MXSVER&psc=1 | $24.58 |
-| Shipping & Tax  | Shipping is free. Tax                                                                        | $25.42 |
-| Wood- Indepenent| Provided by RSC                                                                              | $00    |
-|Total            |                                                                                              | $183.49|
+| Soldering Iron  | https://a.co/d/fFcL4K9                | $49.99 |
+| Soldering IRon wire| https://www.amazon.com/dp/B0943RZCMV/ref=twister_B099NZ9GSG?_encoding=UTF8&th=1| $12.39
+|Ardiuno Nano | https://a.co/d/5Th6syh | $24.99
+|PCB Board | https://a.co/d/5Th6syh| $12.99 
+|Header | https://a.co/d/b33iYUa | $12.99
+| LED Lights | https://a.co/d/0u174Qb| $11.99
+| Resistor | https://a.co/d/c4RxLoj | $7.99
+| Wood   | https://a.co/d/bpX8hm9 | $11.95
+| Wire | https://a.co/d/bpX8hm9 | $16.95
+| DOT NFC CARD |https://dotcards.net/checkouts/c/5b2e6084fd441f66c1f4fffbd2dbe0f0/shipping | $44.10 *shipping included* |
+| Tax | $17.14
+| TOTAL| $223.47
+
+
