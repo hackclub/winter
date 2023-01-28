@@ -5,16 +5,23 @@ You'll be receiving your grant through [Hack Club Bank](https://hackclub.com/ban
 Using Hack Club Bank outside of North America is still experimental. Listed below are countries where Hack Club Bank works. If your country isn't listed here, you are still welcome to submit a project proposal. While we can't guarantee that Hack Club Bank will work for you, we invite you to try it out.
 
 - Australia
+- Austria
 - Bahamas
 - Brazil
 - Canada
+- Colombia
+- Finland
 - France
 - Germany
 - Greece
 - Korea
 - Singapore
 - Sweden
+- South Africa
+- Sri Lanka
 - Turkey
+- Thailand
+- United Arab Emirates
 - United Kingdom
 - United States
 
