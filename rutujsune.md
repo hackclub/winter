@@ -39,8 +39,8 @@ Dollar Rate: $1 = ₹81.60
 | RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-adio-transmitter-w-hall-gimbals-elrs/                 |116.41               |
 | RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5                  |
 | Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.4                  |
-| BeastHobby VR100 3.0 Inch 5.8G 40ch FPV Goggles                     | https://www.quadkart.in/beasthobby-vr100-3-0-inch-5-8g-40ch-receiver/                 | 61.27            |
+| Eachine EV800D 5.8G 40CH Diversity FPV Goggles With DVR                     | https://www.quadkart.in/eachine-ev800d-diversity-fpv-goggles/                 | 134.80      |
 | HGLRC Long Range Hammer Mini RHCP/LHCP 2.5dBi 5.8G Antenna | https://www.quadkart.in/hglrc-long-range-hammer-mini-rhcp-2-5dbi-5-8g-antenna/ | 7.708 |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total | (Including Shipping)             | $500 |
+|Total | (Including Shipping)             | $573.53 |
