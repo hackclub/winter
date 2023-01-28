@@ -14,8 +14,10 @@ Using Hack Club Bank outside of North America is still experimental. Listed belo
 - France
 - Germany
 - Greece
+- Japan
 - Korea
 - Singapore
+- Spain
 - Sweden
 - South Africa
 - Sri Lanka
