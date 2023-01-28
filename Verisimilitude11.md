@@ -9,6 +9,24 @@ project: "IoT Plant Watering System"
 
 I am going to build a smart plant watering system that uses a microcontroller and sensors to automatically water my plants based on soil moisture levels. I am excited to build this project because I love plants, but I often forget to water them. This system will help me take better care of my plants and save water by only watering when needed.
 
+UPDATE:
+I'm thinking of powering my IoT Plant Watering System via solar energy! This will be beneficial because I won't have to replace the batteries or have them continuously connected to a plug point which will allow me to use it outdoors (it'll also be better for the environment as a side bonus!)
+
+I'm planning on using this guide: https://footprinthero.com/how-to-solar-power-an-arduino#:~:text=Let%E2%80%99s%20get%20started.-,1.%2[…]20Power%20Manager%205V,-This%20little%20board.
+
+New parts:
+
+- LCD display to display power input and sensor data: https://www.amazon.com/gp/product/B08MPTND1V/ref=ox_sc_act_title_1?smid=A1JX4L5CBS4J9K&psc=1
+- Battery with JST connector to store solar energy: https://www.amazon.com/gp/product/B08214DJLJ/ref=ox_sc_act_title_3?smid=A3JZ0E8P9D7DI&psc=1
+- Solar panel + power manager: https://www.dfrobot.com/product-2000.html
+
+Shipping: $21.00
+Product prices: $24.40 + $15.99 + $15.12 = $55.51
+Taxes: $7.74
+Total added price: $84.26
+
+Would it be possible for you to add this to my bank: https://bank.hackclub.com/iot-plant-watering-system. My total cost from this shipment and the previous is still less than $250. Thanks!! 
+
 ## Plan
 
 3. Purchase the components and materials needed for the project.
