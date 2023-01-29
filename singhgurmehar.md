@@ -28,19 +28,19 @@ Detailed Steps are as below:
 Whenever we have to connect our pie to a public wifi we will login into its default gateway and there in available networks tab will put username and password of the wifi and our pie router will be connected to it to provide us internet over VPN.
 
 ### Setting up DNS server on Pie to Block Ad's & Trackers
-I will be using ADGuard as my DNS server which wi block ads over the devices connected to pie router. To do that below steps will be initiated.
-1. Installing AdGuard on the same pie i will be running an independent DNS server on the Pie.
-2. What this DNS serverr will do is, it will not tell our browser / application about the ip address of ad server sites when requested.
-3. To setup ADGuard will ssh into OpenWRT firmware and install ADGaurd on it using command:
-```
-Install AdGuard curl -s -S -L https://raw.githubusercontent.com/Adg... | sh -s -- -v
-```
-4. After installing it will ahow us ip address through which we can access GUI of Adguard on our local network. Logging into that with username and password as admin admin, we can move further will configuring it.
-5. After logging in  AdGuard we will be given our dns servers that we  will be entering the DNS Server Address into DHCP Server setting of Open WRT.
-6. After doing it we will have to wait for 24 - 48 hrs to procceed with configuration.
-7. After 24-48 hrs we will proceed to configure it, in DNS tab we will be entering Primary DNS of Cloudflare and Secondary of Google(on which our server will be getting raw data from). now moving further we have to select levels of filtering we want on our DNS server. In case we want to block particular adsite we can also enter it in filtering tab.
-8. After configuring we have to wait for 12- 24 hrs for the DNS server to proccess with.
-After successfull configurations and DEbugging Issues if any our DNS server is ready to go.
+I will be using Rust to create a DNS server on the Pie which will be able to block ip addresses containing ADware. FoBuilding a DNS server in Rust involves using libraries like trust-dns or rust-dns, which provide abstractions and tools for working with the Domain Name System (DNS) protocol. i will be using rust-dns 
+
+Overview of steps involed in the process are:
+
+1. We will use and install rust-dns as our library.
+2. Next, will set up a UDP listener to receive incoming requests, as the DNS protocol uses UDP for communication.
+3. Then will parse the incoming requests to extract information like the domain name being queried and the type of query.
+4. Based on the type of query, either will have to look up the requested information in our local cache or will forward the query to another DNS server.
+5. Now will have to build a DNS response to send back to the client.
+6. Using the UDP connection, will send the response back to the client.
+7. For each incoming request, we have to repeat this process.
+8. For a fully fledged dns server that automates the above process i have to spend some more time, which i will be doing in the following days. 
+After successfull configurations and DEbugging Issues (if any) our DNS server is ready to go.
 
 ### Setting Up VPN server
 i will be using OPENVPN to run my own vpn server.
