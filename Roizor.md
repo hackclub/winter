@@ -21,7 +21,19 @@ On day 9, I'll do in depth testing to make sure everything is correct in case so
 On the final day (10), because everything will be done I will customize the keyboard and have 1 final look. 
 
 ## Budget
+Changed because most of the items were out of stock.
 
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Lube for switches (Krytox 103 + brush)  | https://1upkeyboards.com/shop/parts-and-tools/lubricant/switch-lubricant-3ml | $11.00  |
+| NK65 PCB/board (includes most things i will need) | https://novelkeys.com/collections/keyboards/products/nk65-entry-edition?variant=36839795589287  | $95.00 |
+| NovelKeys Cream+ Switches| https://novelkeys.com/collections/switches/products/cream-plus-switches | $46.80 |
+| Keycaps (SteelSeries PRISMCAPS) | https://www.amazon.com/SteelSeries-PRISMCAPS-Pudding-Style-Thermoplastic-Compatible/dp/B0955721RV | $29.99|
+| Total           |                                       | $183.88 |
+<br/>
+Extra note: Stabilizers are included in NK65.  
+
+## Original Budget
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Lube for switches (Krytox 103 + brush)  | https://1upkeyboards.com/shop/parts-and-tools/lubricant/switch-lubricant-3ml | $11.00  |
