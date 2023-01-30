@@ -40,7 +40,7 @@ Dollar Rate: $1 = ₹81.60
 | RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5                  |
 | Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.4                  |
 | Eachine EV800D 5.8G 40CH Diversity FPV Goggles With DVR                     | https://www.quadkart.in/eachine-ev800d-diversity-fpv-goggles/                 | 134.80      |
-| HGLRC Long Range Hammer Mini RHCP/LHCP 2.5dBi 5.8G Antenna | https://www.quadkart.in/hglrc-long-range-hammer-mini-rhcp-2-5dbi-5-8g-antenna/ | 7.708 |
+| HGLRC Mini Hammer Antenna 2.5dBi Super Mini 5.8G | https://www.drkstore.in/hglrc-mini-hammer-antenna-sma-mmcx-ufl-2-5dbi-super-mini-5-8g-for-rc-fpv-drone/ | 7.35 |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total | (Including Shipping)             | $571.13 |
+|Total | (Including Shipping)             | $570.80 |
