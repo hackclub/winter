@@ -4,7 +4,6 @@ project: "AirDrop"
 ---
 
 # AirDrop
-AirDrop
 
 ## Summary
 Since my childhood I've always tried to make things fly. From building paper planes to flying kites, I love everything that flies. I remember how I used to expirement with different kinds of paper and shapes to make paper planes, or attaching tails with messages on my kite and then flying it. I've built mulitple low cost drones before but NONE have ever worked :(, So I'm really excited to make one now. With the help of the grant, I'd buy proper materials and build a powerful hexacopter. I've written a professional description of my project in the next paragraph. 
@@ -46,7 +45,17 @@ What materials will you need for your project? Where will you get them? How much
 | B6AC Lipo Charger |https://www.flyrobo.in/imax_b6-ac_b6ac_lipo_nimh_3s_rc | Rs 2800 |
 |Procus Viper Action Camera| https://www.amazon.in/Procus-Viper-Action-Camera-Waterproof/dp/B07X25MNXF/ref=sr_1_1_sspa?crid=88TO5028MELQ&keywords=action%2Bcamera%2Bfor%2Bdrone&qid=1673522451&sprefix=action%2Bcamera%2Bfor%2Bdrone%2Caps%2C270&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1 | Rs 5200|
 | Noel 25W 230V Soldering Iron & 0.1 mm copper |https://www.flyrobo.in/solder-iron-25w-yellow ,| Rs 300 |
-| Arduino Uno | https://www.flyrobo.in/index.php?route=product/product&product_id=3 | Rs 711|
-| Laser ToF sensor | https://www.flyrobo.in/gy-53-vl53l0x-laser-tof-flight-time-ranging-sensor-module | Rs 800 |
-| Shipping Charges |          | Rs 800 |
-| Total |           | Rs 4000 or $493 |
+| Nano Arduino | https://www.amazon.in/Arduino-Nano-Every-Single-Board/dp/B07VX7MX27/ref=sr_1_5?crid=JOMJ54ZTQ00T&keywords=nano+arduino+board&qid=1673897225&sprefix=nano+arduino%2Caps%2C249&sr=8-5
+ | Rs 4200|
+| 6* Ultrasonic Sensor| https://www.amazon.in/Ultrasonic-Sensor-Module-HC-SR-04-Robokart/dp/B00ZNB01HI/ref=sr_1_14?crid=87HVPIV7SY0J&keywords=ultrasonic+sensor&qid=1673897260&sprefix=ultrasonic+s%2Caps%2C469&sr=8-14
+ | Rs 700 |
+| GPS Module|https://www.flyrobo.in/gps-module-ublox-neo-8m-with-electronic-compass-apm-pixhawk?tracking=5b853f18ae9a2
+| Rs 2200|
+| Ultra Mini Telemetry Receiver |https://www.amazon.in/FrSky-R-XSR-Redundancy-Telemetry-Receiver/dp/B074QHJRBC/ref=sr_1_5?crid=1D1U9DM5CH6QQ&keywords=telemetry+for+drone&qid=1673897030&sprefix=telemetry+for%2Caps%2C559&sr=8-5#customerReviews
+| Rs 6660 |
+| Class 10 Micro SD card (64 GB) for drone camera| https://www.amazon.in/HP-MicroSD-U1-TF-Card-64GB/dp/B07DJGB43S/ref=sr_1_5?crid=FGEMXATR2CNM&keywords=class+10+memory+card&qid=1673897344&sprefix=class+10+memory%2Caps%2C383&sr=8-5
+| Rs 600 |
+| Power Module| https://www.flyrobo.in/apm_pixhawk_power_module_with_xt60
+| Rs 600 |
+| GST + taxes + shipping + 3D Printing fees (offline) + Crypto -> Gift Card conversion fee |          | Rs 8000 |
+| Total |           | Rs 60460 or $745 |

@@ -3,8 +3,8 @@ name: "@KrauseOlly"
 project: "Onboard Go Kart Camera System"
 ---
 
-# Project Name
-FPV Go Kart
+# FPV Go Kart
+
 ## Summary
 I plan on building a camera system that will be able to record and broadcast (using analog fpv equipment) back to spectators so they can watch the sport live from various views
 ## Plan
