@@ -58,4 +58,6 @@ What materials will you need for your project? Where will you get them? How much
 | Soil Humidity Sensor | https://amzn.eu/d/h1Ukyn6 | $5 | 
 | IR Remote control | https://amzn.eu/d/3MbbMJr | $5 | 
 | PVC pipe & Aluminium rod | (will check from shop) | $30 (approx) |
-| Total           |                                       | $588 |
+| Screwdriver | https://www.amazon.in/dp/B07V3TDP49 | $9 |
+| Servo Motor | https://amzn.eu/d/bEbqovZ | $9 |
+| Total           |                                       | $606 |
