@@ -25,10 +25,21 @@ The whole device would be built inside of a 3D printed structure, which would in
 | Orange Pi Zero 2 | https://www.amazon.es/dp/B09M8N614J | $49.12  |
 | Touchscreen      | https://www.amazon.es/dp/B07PHFQF7W | $56.43  |
 | PLA filament     | https://www.amazon.es/dp/B07R6PL63K | $23.42  |
-| Electric plug    | https://www.amazon.es/dp/B06XXNPLJ9 | $ 9.56  |
+| Electric plug    | https://www.amazon.es/dp/B06XXNPLJ9 | $09.56  |
+| MiniHDMI->HDMI   | https://www.amazon.es/dp/B07PHFQF7W | $06.10  |
 | Homepod Mini     | (Apple Store)                       | $99.00  |
 | Shipping         | Amazon + In-store pickup            | $00.00  |
-| Total            |                                     | $237.53 |
+| Total            |                                     | $243.63 |
+
+**CORRECTION BILL OF MATERIALS*
+| Product              | Supplier/Link                       | Cost*   |
+| ---------------      | ----------------------------------  | ------  |
+| ~~Orange Pi Zero 2~~ | https://www.amazon.es/dp/B09M8N614J | -$49.12 |
+| TP-Link TL-WN823N    | https://www.amazon.es/dp/B0088TKTY2 | $09.25  |
+| Flat USB->USB        | https://www.amazon.es/dp/B0953LJ84W | $10.80  |
+| Red paint (detailing)| (Supermarket)                       | $02.50  |
+| **PRICE CORRECTION** |                                     | -$26.57 |
+| Current total        |                                     | $217.06 |
 
 
 *Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
