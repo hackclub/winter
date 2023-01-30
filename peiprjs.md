@@ -37,7 +37,7 @@ The whole device would be built inside of a 3D printed structure, which would in
 | ~~Orange Pi Zero 2~~ | https://www.amazon.es/dp/B09M8N614J | -$49.12 |
 | TP-Link TL-WN823N    | https://www.amazon.es/dp/B0088TKTY2 | $09.25  |
 | Flat USB->USB        | https://www.amazon.es/dp/B0953LJ84W | $10.80  |
-| Red paint (detailing)| (Supermarket)                       | $02.50  |
+| Red paint (detailing)| (Supermarket)                       | $05.00  |
 | **PRICE CORRECTION** |                                     | -$26.57 |
 | Current total        |                                     | $217.06 |
 
