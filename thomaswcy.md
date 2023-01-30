@@ -1,5 +1,5 @@
 ---
-name: "@thomaswcy"
+name: ["@thomaswcy", "@MeliLXT"]
 project: "Home-Environment-Monitor"
 ---
 
@@ -26,8 +26,8 @@ This is my first project based on RaspberryPi and I will be very excited.
 | light sensor                       | https://m.tb.cn/h.Ukp8dNX?tk=4Mt0dUzZ6II | $0.45   |
 | sound sensor                       | https://m.tb.cn/h.UP8LhNT?tk=QtdqdUzZLko | $0.97   |
 | Dupont wires                       | https://m.tb.cn/h.UkpQKIS?tk=TONTdUzY1wv | $0.75   |
-| Redmi 27" display                  | https://m.tb.cn/h.UOWAHrm?tk=eDXMdUz0qPI | $85.57  |
+| Redmi 23.8" rotatable display      | https://m.tb.cn/h.UlW3WUV?tk=czgBdgi5wVv | $107.05 |
 | Xiaomi wireless keyboard and mouse | https://m.tb.cn/h.UP8qjnr?tk=su3fdUz0CxO | $12.71  |
-| Total                              |                                          | $312.61 |
+| Total                              |                                          | $334.09 |
 
 All fees including tax and shipping are included.
