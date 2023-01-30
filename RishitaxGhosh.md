@@ -25,10 +25,11 @@ What steps are you going to take to build it? What tools are you going to use? W
 
 DIY Braille Embosser: 
 1. We would design our parts on Fusion 360 or TinkerCAD 
-2. Print the parts on a 3D printer
-3. Assemble the Parts 
-4. Test out with a couple of blind students & teachers
-5. Work on furthur improvements as suggested through feedback
+2. Print the embosser and gear parts on a 3D printer
+3. Assemble the parts of the embosser 
+4. Integrate the servo motor with the gear parts to mechanise the embossing process 
+5. Test out with a couple of blind students & teachers
+6. Work on furthur improvements as suggested through feedback
 
 Walk-Bot: 
 1. Design the base case layout on Fusion 360 or TinkerCAD 
