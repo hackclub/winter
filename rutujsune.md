@@ -34,7 +34,7 @@ Dollar Rate: $1 = ₹81.60
 | GEPRC GEP-MK5 Frame                     | https://www.drkstore.in/geprc-gep-mk5-frame/               | 85.78             | 
 | SpeedyBee F405 v3 BLS 50A FC & ESC Stack                    | https://droneracingindia.com/market/2b034986-d67e-4a94-8650-7f4ea55b666c                 | 72.30             |
 | HGLRC Zeus 800mW VTX                    |  https://www.drkstore.in/hglrc-zeus-800mw-smart-mounting-20x20-30x30-vtx/             | 24.51                 |
-| ECO II Series 2207 1700KV Motors                    | https://robu.in/product/eco-ii-series-2207-1700kv-brushless-motor/?gclid=EAIaIQobChMIzsCWm5Xj_AIV9NdMAh15TQ39EAQYASABEgKR5_D_BwE                 | 80.83                  |
+| T-Motor VELOX VELOCE V2207.5 V2 Motor 1950kv                    | https://www.drkstore.in/t-motor-velox-veloce-v2207-5-v2-motor-1750kv-1950kv-2550kv/                 | 78.43                  |
 | Gemfan 5130 5" Propellors                    | https://www.quadkart.in/gemfan-5130-ultralight-3-blade-propeller/                 |2.45                  |
 | RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-adio-transmitter-w-hall-gimbals-elrs/                 |116.41               |
 | RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5                  |
@@ -43,4 +43,4 @@ Dollar Rate: $1 = ₹81.60
 | HGLRC Long Range Hammer Mini RHCP/LHCP 2.5dBi 5.8G Antenna | https://www.quadkart.in/hglrc-long-range-hammer-mini-rhcp-2-5dbi-5-8g-antenna/ | 7.708 |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total | (Including Shipping)             | $573.53 |
+|Total | (Including Shipping)             | $571.13 |
