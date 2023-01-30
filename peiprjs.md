@@ -29,6 +29,6 @@ The whole device would be built inside of a 3D printed structure, which would in
 | TP-Link TL-WN823N    | https://www.amazon.es/dp/B0088TKTY2 | $09.25  |
 | Flat USB->USB        | https://www.amazon.es/dp/B0953LJ84W | $10.80  |
 | Red paint (detailing)| (Supermarket)                       | $05.00  |
-| Current total        |                                     | $217.06 | (-$26.57)
+| Current total        |                                     | $217.06 |
 
 *Price is after EUR->USD conversion. Actual price may vary by ±5% due to currency fluctuations. Prices include VAT/IVA.
