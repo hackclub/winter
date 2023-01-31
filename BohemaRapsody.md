@@ -88,16 +88,17 @@ Once we have the bodies manufactured and printed we will test them by using a 5 
 
 | Product      | Supplier/Link                                                                               | No.Units                  | Unit Cost USD          | Shipping Cost USD | Total USD           |
 |--------------|---------------------------------------------------------------------------------------------|---------------------------|------------------------|-------------------|---------------------|
-| PLA Filament 1kg| https://www.3dqf.co.uk/pla-product | 3 *(1xREGAL RED,1xCOBALT BLUE,1xREGAL BLACK)* |         $20.78 *(converted GBP)*        |        Free       |        $62.34 *(converted GBP)*      |
-|PLA Wood-filled Filament| https://www.3dqf.co.uk/product-page/woodchucker-1-75mm-wood-filled-uk-made-3d-printer-filament | 1 | $29.34 *(converted GBP)*| Free |$29.34 *(converted GBP)*|
-| Light-weight PLA 1kg|https://www.amazon.co.uk/eSUN-Filament-Dimensional-Accuracy-Material/dp/B09VSMMLKB | 1 *(WHITE)*|$44.40|Free|$44.40|
-| ABS Filament 1kg| https://www.3dqf.co.uk/abs-product   |    2 *(1xLEMON YELLOW,1xBRILLIANT WHITE)*    |    $26.89 *(converted GBP)*   |        Free       |        $53.79 *(converted GBP)*       |
-| TPU Filament 500g| https://www.amazon.co.uk/Geeetech-Printer-Filament-1-75mm-Printing/dp/B07PGP4L5R            |             1             |         $20.86         |        Free       |        $20.86       |
-| Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$36.83| Free |$36.83|
-| RC Car Chassis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
+| PLA Filament 1kg| https://www.3dqf.co.uk/pla-product | 3 *(1xREGAL RED,1xCOBALT BLUE,1xREGAL BLACK)* |         $21.11 *(converted GBP)*        |        Free       |        $63.32 *(converted GBP)*      |
+|PLA Wood-filled Filament| https://www.3dqf.co.uk/product-page/woodchucker-1-75mm-wood-filled-uk-made-3d-printer-filament | 1 | $29.80 *(converted GBP)*| Free |$29.80 *(converted GBP)*|
+| Light-weight PLA 1kg|https://www.amazon.co.uk/eSUN-Filament-Dimensional-Accuracy-Material/dp/B09VSMMLKB | 1 *(WHITE)*|$44.82|Free|$44.82|
+| ABS Filament 1kg| https://www.3dqf.co.uk/abs-product   |    2 *(1xLEMON YELLOW,1xBRILLIANT WHITE)*    |    $27.31 *(converted GBP)*   |        Free       |        $54.63 *(converted GBP)*       |
+| TPU Filament 500g| https://www.amazon.co.uk/Geeetech-Printer-Filament-1-75mm-Printing/dp/B07PGP4L5R            |             1             |         $21.06         |        Free       |        $21.06      |
+| Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$37.18| Free |$37.18|
+| RC Car Chassis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             3             | $40.36 *(converted GBP)* |        Free       | $121.08 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
 | FlashForge Resin 3D Printer|https://www.amazon.co.uk/Flashforge-Foto-8-9-Photocuring-Anti-aliasing-Foto8-9/dp/B08YNHYRMY |1|$220.92|Free|$220.92|
-| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $998.92       |
+| Printer Resin|https://www.amazon.co.uk/Flashforge-Printer-UV-Curing-Precision-Printing/dp/B08YYGJWM3 |1|$18.50|Free|$18.50|
+| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $980.31       |
 
 
 *Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
