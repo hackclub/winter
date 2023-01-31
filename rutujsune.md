@@ -8,6 +8,7 @@ project: "6' FPV Drone"
 ## Summary
 
 I am going to build a full sized FPV Drone using a 6" props frame, that transmits video from its FPV cam using a Video Transmitter(VTX) to a 5.8 GHz receiver screen.I am buildng this with the help of my friend @aryatajne28. I have compiled all the compatible components for this frame. This drone can be used for racing purpose, Cinematic FPV shooting, etc. As I have used Analog FPV system in this so instead of FPV Goggles, I was able to use a Receiver Display to get it under budget! 
+I am updating it as some of the components went out of stock. So I am adding a new frame, new stack, VTX, motors, propellors and FPV goggles.
 
 ## Plan
 
@@ -30,16 +31,17 @@ I have checked and reviewed all the components, that are compatible with this bu
 Dollar Rate: $1 = ₹81.60
 | Product                                                                     | Supplier / Link                                                                                    | Cost (USD) |
 | --------------- | ------------------------------------- | ------ |
-| Rekon 6 6 Inch Mini Long Range Frame                     | https://www.quadkart.in/rekon-6-6-inch-mini-long-range-frame-kit/                 | 50.97             | 
-| HGLRC Zeus F745 V2 STACK FPV Racing Drone 3-6S F722 FC 45A BL_S 4in1 ESC                    | https://www.drkstore.in/hglrc-zeus-f745-v2-stack-fpv-racing-drone-3-6s-f722-fc-45a-bl_s-4in1-esc/                 | 100.5              |
-| HGLRC Zeus Pro 1.6W long Range VTX                    | https://www.quadkart.in/hglrc-zeus-pro-1-6w-long-range-vtx/                 | 49.00                 |
-| HGLRC AEOLUS 2105.5 Motor                    | https://www.quadkart.in/hglrc-aeolus-2105-5-motor/                 | 83.3                  |
-| Gemfan Hurricane SL 6026 6" Prop (Set Of 4)                    | https://www.quadkart.in/gemfan-hurricane-sl-6026-6-prop-set-of-4/                 | 2.8                  |
-| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-radio-transmitter-w-hall-gimbals-elrs/                 |116.41               |
-| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5                  |
-| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.4                  |
-| DMKR 5.8G 40CH Mini 3.0 Inch FPV Monitor                    | https://www.quadkart.in/dmkr-5-8g-40ch-mini-3-0-inch-fpv-monitor/                 | 42.88              |
-| HGLRC Long Range Hammer Mini RHCP/LHCP 2.5dBi 5.8G Antenna | https://www.quadkart.in/hglrc-long-range-hammer-mini-rhcp-2-5dbi-5-8g-antenna/ | 7.708 |
+| GEPRC GEP-MK5 Frame                     | https://www.drkstore.in/geprc-gep-mk5-frame/               | 85.78             | 
+| SpeedyBee F405 v3 BLS 50A FC & ESC Stack                    | https://droneracingindia.com/market/2b034986-d67e-4a94-8650-7f4ea55b666c                 | 72.30     |
+| HGLRC Zeus 800mW VTX                    |  https://www.drkstore.in/hglrc-zeus-800mw-smart-mounting-20x20-30x30-vtx/             | 24.51                 |
+| T-Motor VELOX VELOCE V2207.5 V2 Motor 1950kv                    | https://www.drkstore.in/t-motor-velox-veloce-v2207-5-v2-motor-1750kv-1950kv-2550kv/                 | 78.43                  |
+| Gemfan 5130 5" Propellors                    | https://www.quadkart.in/gemfan-5130-ultralight-3-blade-propeller/                 |2.45                  |
+| RadioMaster TX12 MKII 2.4GHz 16CH Radio Transmitter                    | https://www.quadkart.in/radiomaster-tx12-mkii-2-4ghz-16ch-adio-transmitter-w-hall-gimbals-elrs/                 |116.41               |
+| RP1 ExpressLRS 2.4ghz Nano Receiver                    | https://tujorc.com/home/ols/products/rp1-expresslrs-24ghz-nano-receiver                 | 24.5            |
+| Foxeer Razer Micro 1200TVL 1.8mm FPV Camera                    | https://www.quadkart.in/foxeer-razer-micro-1200tvl-1-8mm-fpv-camera/                 | 18.4       |
+| Eachine EV800D 5.8G 40CH Diversity FPV Goggles With DVR                     | https://www.quadkart.in/eachine-ev800d-diversity-fpv-goggles/                 | 134.80|
+| HGLRC Mini Hammer Antenna 2.5dBi Super Mini 5.8G | https://www.drkstore.in/hglrc-mini-hammer-antenna-sma-mmcx-ufl-2-5dbi-super-mini-5-8g-for-rc-fpv-drone/ | 7.35 |
 | Orange 1500mAh 4S 100C/200C (14.8V) Lithium Polymer Battery (Already Owned)  | https://robu.in/product/orange-1500mah-4s-100c200c-lithium-polymer-battery-pack-lipo/                 | 0.00|
 | SKYRC E455 50W 4A Multi Chemistry Charger (Already Owned)  | https://robu.in/product/skyrc-e455-50w-4a-multi-chemistry-charger/                 | 0.00|
-|Total | (Including Shipping)             | $500 |
+|Total | (Including Shipping)             | $570.80 |
+

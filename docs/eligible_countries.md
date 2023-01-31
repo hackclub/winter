@@ -16,6 +16,8 @@ Using Hack Club Bank outside of North America is still experimental. Listed belo
 - Greece
 - Japan
 - Korea
+- Malaysia
+- New Zealand
 - Singapore
 - Spain
 - Sweden
@@ -26,6 +28,7 @@ Using Hack Club Bank outside of North America is still experimental. Listed belo
 - United Arab Emirates
 - United Kingdom
 - United States
+- Vietnam
 
 Due to differences in financial/banking systems, Hack Club Bank is not able to work in the following countries:
 
