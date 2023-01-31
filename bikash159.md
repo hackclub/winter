@@ -3,8 +3,7 @@ name: "@bikash159"
 project: "Human Following Robot"
 ---
 
-# Project Name
-Human Following Robot
+# Human Following Robot
 
 ## Summary
 

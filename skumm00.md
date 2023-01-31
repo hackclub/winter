@@ -1,9 +1,9 @@
 ---
 name: "@Skumm00"
-project: "Robot Arm"
+project: "ArduinArm"
 ---
 
-#  Project Name - ArduinArm
+# ArduinArm
 
 ##  Summary
 

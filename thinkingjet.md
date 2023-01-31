@@ -1,19 +1,16 @@
 ---
 name: "@thinkingjet"
-project: "Have a couple projects:
-1) E ink reader/widget dashboard sort of thing
-2) RAsberry pi smart display/smart mirror(mirror seems much harder)
-3) Usb Rubber ducky hud injector thing using a rasberry pi pico
-4) Wanna build a drone too but idk how and dont have enough money"
+project: "E-ink Reader Dashboard, Smart Display, and USB HUD injector"
 ---
 
-# All the stuff given above
+# E-ink Reader Dashboard, Smart Display, and USB HUD injector
 
 ## Summary
 
-So, all the things that im building(excluding the drone) are reusing the materials. However, the price will be greater than 250 usd, which im willing to
-chip in myself. 
-### Project 1 details
+So, all the things that im building are reusing the materials. However, the price will be greater than 250 usd, which im willing to chip in myself. 
+
+### E ink reader/widget dashboard
+
  -  Gonna try following a few tutorials online. I have a rasberry pi 3 already, but I think a pico/rpi4 will be needed. 
  -  Ill make a rest api, hosted on my local interent. Through which ill be able to change the things being displayed on the e-ink dashbaord
  -  Its not too hard or too easy, ive worked with rasberry pi related hardware before, so hopefully its alright.
@@ -22,26 +19,29 @@ chip in myself.
  -  finally, i have an echo show(alexa) and a google nest hub(google assistant) already available. Im gonna try using IFTTT to link the api to these two so i can simply ask google/alexa to change the weather display to something
 <img width="748" alt="image" src="https://user-images.githubusercontent.com/75510530/208347970-faa5c4ae-c091-434f-bd6b-fcf17c53266e.png">
 
-### Project 2 details
+### Rasberry pi smart display
+
  - Its gonna be very similar to the project above, except there will be a mirror and monitor instead of an e-ink screen. 
  - Theres existing software available for the smart mirror, so hopefully i won't have to do much on the software side of things.
  - https://learn.adafruit.com/android-smart-home-mirror gonna try following this tutorial
+
 <img width="552" alt="image" src="https://user-images.githubusercontent.com/75510530/208348035-342822cd-e509-4f65-9175-9cf06ec70fb4.png">
 
-### Project 3 details
+### Usb Rubber ducky hud injector thing using a rasberry pi pico
+
  - Ive made this before using a digispark attiny 85 board. It was a bit slow but it worked. Gonna try replicating what I did with a rasperry pi zero W/Rasberry pi pico. 
  - https://www.youtube.com/watch?v=e_f9p-_JWZw gonna try following this tutorial 
+
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/75510530/208348097-adac63ff-d5e1-463c-9b5b-c7e888d38ee0.png">
 
-### Project 4 details
- - Not making the project, as i have no previous experience with this, and don't have enough money either
 ## Plan
 
  - While wating for the hardware to arrive, ill be working on the rest api for the first/2nd project. 
  - Once the hardware arrives, it'll be pretty straightforward to set things up and connect the software and hardware. 
  - Ill try project 3 with the rasberry pi 3 that i already have available while waiting for the pico/rpi4 to arrive.
  - Rest of the plan is listed in the project details section
-## Budget in australian dollars
+
+## Budget in Australian dollars
 
 | Product         | Supplier/Link                         | Cost(aud)   |
 | --------------- | ------------------------------------- | ------ |
@@ -62,5 +62,5 @@ chip in myself.
 | USB to micro-usb cable | available | $0 |
 |Total |   | $557 AUD|
 
-# I'll be buying the rpi4 myself, so the total becomes $557-$200: $357 AUD
-# 357 aud converted to usd is about 245 usd. 
+I'll be buying the rpi4 myself, so the total becomes $557-$200: $357 AUD
+$357 aud converted to usd is about 245 usd. 

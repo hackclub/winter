@@ -3,8 +3,7 @@ name: "@haitomns4173"
 project: "Rasberry Pi AI Assistant"
 ---
 
-# Project Name
-Rasberry Pi AI Assistant
+# Rasberry Pi AI Assistant
 
 ## Summary
 

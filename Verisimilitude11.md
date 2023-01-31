@@ -9,6 +9,24 @@ project: "IoT Plant Watering System"
 
 I am going to build a smart plant watering system that uses a microcontroller and sensors to automatically water my plants based on soil moisture levels. I am excited to build this project because I love plants, but I often forget to water them. This system will help me take better care of my plants and save water by only watering when needed.
 
+UPDATE:
+I'm thinking of powering my IoT Plant Watering System via solar energy! This will be beneficial because I won't have to replace the batteries or have them continuously connected to a plug point which will allow me to use it outdoors (it'll also be better for the environment as a side bonus!)
+
+I'm planning on using this guide: https://footprinthero.com/how-to-solar-power-an-arduino#:~:text=Let%E2%80%99s%20get%20started.-,1.%2[…]20Power%20Manager%205V,-This%20little%20board.
+
+New parts:
+
+- LCD display to display power input and sensor data: https://www.amazon.com/GeeekPi-Interface-Adapter-Backlight-Raspberry/dp/B086VVT4NH/ref=sr_1_8?crid=2LJV35F8FXS7A&keywords=arduino+display&qid=1674949622&s=electronics&sprefix=arduino+display%2Celectronics%2C156&sr=1-8
+- Battery with JST connector to store solar energy: https://www.amazon.com/gp/product/B08214DJLJ/ref=ox_sc_act_title_3?smid=A3JZ0E8P9D7DI&psc=1
+- Solar panel + power manager: https://www.dfrobot.com/product-2000.html
+
+Shipping: $20.00
+Product prices: $24.40 + $15.99 + $25.40 = $66.79
+Taxes: $8.80
+Total added price: $95.59
+
+Would it be possible for you to add this to my bank: https://bank.hackclub.com/iot-plant-watering-system. My total cost from this shipment and the previous is still less than $250. Thanks!! 
+
 ## Plan
 
 3. Purchase the components and materials needed for the project.
@@ -38,8 +56,11 @@ I'm planning on following the following guides:
 | 5 Volt DC power supply | https://www.amazon.com/gp/product/B077PW5JC3/ref=ox_sc_act_title_1?smid=A3PCHCFVFJ1YJA&psc=1 | $11.75 |
 | Balsa Wood Sheets | https://www.amazon.com/gp/product/B09Z24Y4WG/ref=ewc_pr_img_2?smid=A2V60AOUIG17MN&psc=1 | $24.99 |
 | Exacto knife | https://www.amazon.com/gp/product/B08GKJ8Q8T/ref=ewc_pr_img_1?smid=A2CYWKJ3NZMGG9&th=1 | $4.99 |
-| Shipping | | $0.00 |
-| Taxes | | $14.18 |
-| Total | | $154.62 |
+| LCD display to display power input and sensor data | https://www.amazon.com/gp/product/B08MPTND1V/ref=ox_sc_act_title_1?smid=A1JX4L5CBS4J9K&psc=1 | $24.40 |
+| Battery with JST connector to store solar energy | https://www.amazon.com/gp/product/B08214DJLJ/ref=ox_sc_act_title_3?smid=A3JZ0E8P9D7DI&psc=1 | $15.99 |
+| Solar panel + power manager | https://www.dfrobot.com/product-2000.html | 15.12 |
+| Shipping | | $21.00 |
+| Taxes | | $36.10 |
+| Total | | $249.21 |
 
 All parts are guaranteed by Amazon to arrive within 5-6 days of ordering.

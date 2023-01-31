@@ -1,6 +1,6 @@
 ---
 name: "@euphorichubbbb"
-project: "Spectrum analyzer headphone
+project: "Spectrum analyzer headphone"
 ---
 
 # Spectrum Headphone

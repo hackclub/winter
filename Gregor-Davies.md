@@ -3,9 +3,7 @@ name: "@Gregor-Davies"
 project: "Greenpower Racing Go Kart Telemetry"
 ---
 
-# Project Name
-
-Greenpower Racing Go Kart Telemetry
+# Greenpower Racing Go Kart Telemetry
 
 ## Summary
 

@@ -1,11 +1,9 @@
 ---
 name: "@magsnake"
-project: "  Multi-purpose Smart Robot"
+project: "Multi-purpose Smart Robot"
 ---
 
-# Project Name
-
-  Multi-purpose Smart Robot
+#  Multi-purpose Smart Robot
 
 ## Summary
 

@@ -1,11 +1,13 @@
 ---
-name: @sofiykam
-project: AI Healthcare ML Predictictor
+name: "@sofiykam"
+project: "AI Healthcare ML Predictictor"
 ---
 
 # AI Healthcare ML Predictor
 
-## The AI Healthcare ML Predictor will take CT scan and X-Ray images of the chest and lungs in order to find disease, 
+## Summary 
+
+The AI Healthcare ML Predictor will take CT scan and X-Ray images of the chest and lungs in order to find disease, 
 and even predict it. It can take any input such as images, and also live videos, and analyze them to detect lung cancer, 
 covid-19, tuberculosis, and pneumonia. I am excited to build this because it is a great combination of technology and health, 
 both of which are very important parts of the career I want to pursue, and also are big hobbies and passions that I have. 
