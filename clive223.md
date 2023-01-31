@@ -1,9 +1,9 @@
 ---
 name: "@clive223"
 project: "smart music system using rasberrry pi and self made speakers"
+---
 
-# Project Name
-"smart music system"
+# smart music system
 
 ## Summary
 
