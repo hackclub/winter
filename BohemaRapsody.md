@@ -1,6 +1,6 @@
 ---
-Names: "@BohemaRapsody @Sebulad @BIBROJAM @The0mniscient @Aiyush-G"
-Project: "DESIGNING AND BUILDING AN RC CAR"
+name: ["@BohemaRapsody, "@Sebulad", "@BIBROJAM", "@The0mniscient", "@Aiyush-G"]
+project: "DESIGNING AND BUILDING AN RC CAR"
 ---
 
 # BUILDING AN RC CAR – BRINGING TOGETHER ELECTORNICS AND FLUID MECHANICS
