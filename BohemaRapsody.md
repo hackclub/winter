@@ -96,6 +96,8 @@ Once we have the bodies manufactured and printed we will test them by using a 5 
 | Water Soluble PVA Filament 500g|https://www.amazon.co.uk/eSUN-Printing-Filament-Soluble-Printers/dp/B07DJ63SCQ | 1 |$36.83| Free |$36.83|
 | RC Car Chassis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             4             | $40.36 *(converted GBP)* |        Free       | $161.44 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
-| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $778.00       |
+| FlashForge Resin 3D Printer|https://www.amazon.co.uk/Flashforge-Foto-8-9-Photocuring-Anti-aliasing-Foto8-9/dp/B08YNHYRMY |1|$220.92|Free|$220.92|
+| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $998.92       |
+
 
 *Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
