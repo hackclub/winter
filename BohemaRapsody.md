@@ -97,8 +97,8 @@ Once we have the bodies manufactured and printed we will test them by using a 5 
 | RC Car Chassis (ESC + motors)      | https://www.modelsport.co.uk/product/ftx-hooligan-jnr-1-28th-rtr-rally-car-orange-1330487   |             3             | $40.36 *(converted GBP)* |        Free       | $121.08 *(converted GBP)* |
 | FlashForge Creator pro 3D Printer   | https://www.flashforgeshop.com/product/flashforge-creator-pro-3d-printer?cID=63             |             1             |         $369.00        |        Free       |       $369.00       |
 | FlashForge Resin 3D Printer|https://www.amazon.co.uk/Flashforge-Foto-8-9-Photocuring-Anti-aliasing-Foto8-9/dp/B08YNHYRMY |1|$220.92|Free|$220.92|
-| Printer Resin|https://www.amazon.co.uk/Flashforge-Printer-UV-Curing-Precision-Printing/dp/B08YYGJWM3 |1|$18.50|Free|$18.50|
-| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $980.31       |
+| Printer Resin|https://www.amazon.co.uk/Flashforge-Printer-UV-Curing-Precision-Printing/dp/B08YYGJWM3 |2|$18.50|Free|$37.00|
+| Total    |         *(approx due to fluctuating exchange rates)*                                                                                    |                           |                        |                   |       $998.81       |
 
 
 *Project Funding is limited to 4 (of 5 people excl. Aiyush-G) bringing total to grant to $1000 ($250 x 4)*
