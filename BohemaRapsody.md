@@ -1,5 +1,5 @@
 ---
-name: ["@BohemaRapsody, "@Sebulad", "@BIBROJAM", "@The0mniscient", "@Aiyush-G"]
+name: ["@BohemaRapsody", "@Sebulad", "@BIBROJAM", "@The0mniscient", "@Aiyush-G"]
 project: "DESIGNING AND BUILDING AN RC CAR"
 ---
 
