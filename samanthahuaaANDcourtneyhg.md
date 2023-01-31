@@ -28,7 +28,7 @@ Shoutout to [@Roizor](https://github.com/hackclub/winter/blob/main/Roizor.md) fo
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Switch Film | [Amazon](https://www.amazon.com/Switch-Cherry-Gateron-Mechanical-Keyboard/dp/B09BCXCCVS/ref=sr_1_5?keywords=switch%2Bfilms&qid=1672287887&sprefix=switch%2Bfilm%2Caps%2C84&sr=8-5&th=1) | $6.90 |
+| Switch Film | [Amazon](https://www.amazon.com/Switch-Cherry-Gateron-Mechanical-Keyboard/dp/B09BCXCCVS/ref=sr_1_5?keywords=switch%2Bfilms&qid=1672287887&sprefix=switch%2Bfilm%2Caps%2C84&sr=8-5&th=1) | $13.80 |
 | Switch Lube with Lube Oil| [Amazon](https://www.amazon.com/Keyboard-Switches-Grease-Gateron-Mechanical/dp/B09JYWC7BM/ref=sr_1_8?crid=3TX3K603026KX&keywords=Krytox%2B205g0&qid=1672288300&sprefix=krytox%2B205g0%2Caps%2C102&sr=8-8&th=1) | $18.89 |
 | GMMK Pro Barebones | [Amazon](https://www.amazon.com/Glorious-Modular-Mechanical-Keyboard-Pro/dp/B09966HJT6?th=1) | $147.90 |
 | Glorious Panda Unlubed Swithces | [Amazon](https://www.amazon.com/Glorious-Panda-Switch-UNLUBED-GLO-SWT-HPANDA/dp/B08DJXYGY8?th=1) | $42.50 |
@@ -41,4 +41,4 @@ Shoutout to [@Roizor](https://github.com/hackclub/winter/blob/main/Roizor.md) fo
 | Shipping for Keychron |  | $15 |
 | Gateron Black Ink V2 Switches | [DiviniKeys](https://divinikey.com/products/gateron-ink-v2-switches?variant=39839985139777) | $64.13 (We will use code "LULZTHAX" for a discount) |
 | Shipping for DiviniKeys |  | $7.38 |
-|  Total |  | $493.65 |
+| Total |  | $500.55 |
