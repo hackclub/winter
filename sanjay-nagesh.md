@@ -43,8 +43,9 @@ What materials will you need for your project? Where will you get them? How much
 | Resistor | https://a.co/d/c4RxLoj | $7.99
 | Wood   | https://a.co/d/bpX8hm9 | $11.95
 | Wire | https://a.co/d/bpX8hm9 | $16.95
-| DOT NFC CARD |https://dotcards.net/checkouts/c/5b2e6084fd441f66c1f4fffbd2dbe0f0/shipping | $44.10 *shipping included* |
-| Tax | $17.14
-| TOTAL| $223.47
+| NFC CARD | https://www.amazon.com/gp/product/B0BKSYWG3N/ref=ewc_pr_img_1?smid=A25C6CULAGFA87&psc=1 | $12.00
+|domain | $2.04 | can't put link but go to porkbun.com and search sanjay.world
+| Tax |  ~$31
+| TOTAL| $210
 
 
