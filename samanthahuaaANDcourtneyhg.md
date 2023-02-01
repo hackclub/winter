@@ -28,16 +28,17 @@ Shoutout to [@Roizor](https://github.com/hackclub/winter/blob/main/Roizor.md) fo
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Switch Film | [Amazon](https://www.amazon.com/Switch-Cherry-Gateron-Mechanical-Keyboard/dp/B09BCXCCVS/ref=sr_1_5?keywords=switch%2Bfilms&qid=1672287887&sprefix=switch%2Bfilm%2Caps%2C84&sr=8-5&th=1) | $6.90 |
+| Switch Film | [Amazon](https://www.amazon.com/Switch-Cherry-Gateron-Mechanical-Keyboard/dp/B09BCXCCVS/ref=sr_1_5?keywords=switch%2Bfilms&qid=1672287887&sprefix=switch%2Bfilm%2Caps%2C84&sr=8-5&th=1) | $13.80 |
 | Switch Lube with Lube Oil| [Amazon](https://www.amazon.com/Keyboard-Switches-Grease-Gateron-Mechanical/dp/B09JYWC7BM/ref=sr_1_8?crid=3TX3K603026KX&keywords=Krytox%2B205g0&qid=1672288300&sprefix=krytox%2B205g0%2Caps%2C102&sr=8-8&th=1) | $18.89 |
 | GMMK Pro Barebones | [Amazon](https://www.amazon.com/Glorious-Modular-Mechanical-Keyboard-Pro/dp/B09966HJT6?th=1) | $147.90 |
-| Gateron Black Unlubed Swithces | [Amazon](https://www.amazon.com/Gateron-KS-9-Mechanical-Type-Switch/dp/B07X2SL2W1/ref=mp_s_a_1_11?crid=2BJU7SW843C7A&keywords=gateron%2Bblack%2Bink%2Bv2&qid=1672266531&sprefix=gateron%2B%2Caps%2C133&sr=8-11&th=1&psc=1) | $29.95 |
 | Glorious Panda Unlubed Swithces | [Amazon](https://www.amazon.com/Glorious-Panda-Switch-UNLUBED-GLO-SWT-HPANDA/dp/B08DJXYGY8?th=1) | $42.50 |
 | Outer Space Keycaps | [Amazon](https://www.amazon.com/JSJT-Japanese-Sublimation-Mechanical-Keyboards/dp/B0B2P3JNTB?th=1) | $38.99 |
 | Matcha keycaps | [Amazon](https://www.amazon.com/keycaps-Double-Profile-Mechanical-Keyboard/dp/B09NRK5B3L/ref=sr_1_3?crid=S3V3U794HLMQ&keywords=oem%2Bprofile%2Bkeycaps%2B65%25&qid=1673753266&s=electronics&sprefix=oem%2Bprofile%2Bkeycaps%2B65%25%2Celectronics%2C101&sr=1-3&th=1) | $23.99 |
+| Keycap Puller, Switch Clamp, Stem Holder, Lube Brush Set | [Amazon](https://www.amazon.com/SAVITA-Mechanical-Keyboard-Including-Pen-Easy/dp/B09J7XQ9CT/ref=sr_1_5?keywords=keycap%2Bpuller%2Band%2Bswitch%2Bpuller&qid=1675047833&sprefix=keycap%2Bpuller%2B%2Caps%2C86&sr=8-5&th=1) | $8.99 |
+| USB to USB-C cable | [Amazon](https://www.amazon.com/Asceny-Double-Sleeved-Mechanical-Keyboard-Keyboards/dp/B08CVGJK6W/ref=sr_1_4?crid=8227YHYNJ8C5&keywords=coiled%2Bcable%2Btype%2Bc&qid=1675048249&sprefix=coiled%2Bcable%2Btype%2Bc%2Caps%2C116&sr=8-4&th=1) | $29.98 |
 | Shipping for Amazon | All of our products qualify for free shipping | $0 |
 | Keychron K6 Pro Barebones | [Keychron](https://www.keychron.com/products/keychron-k6-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=40119467802713) | $89 |
 | Shipping for Keychron |  | $15 |
 | Gateron Black Ink V2 Switches | [DiviniKeys](https://divinikey.com/products/gateron-ink-v2-switches?variant=39839985139777) | $64.13 (We will use code "LULZTHAX" for a discount) |
 | Shipping for DiviniKeys |  | $7.38 |
-|  Total |  | $484.63 |
+| Total |  | $500.55 |
