@@ -49,7 +49,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | DC jack |  https://www.amazon.com/dp/B07XSQP3CT/ |  $4.88  |
 | Input selector switch | https://www.amazon.com/dp/B07JM3M2B4/ |  $13.49  |
 | Speaker terminals | https://www.amazon.com/dp/B08YMZ88Z5/ |  $6.39  |
-| Amplifier board | https://www.amazon.com/dp/B07WC2TK58/ |  $7.09  |
+| Amplifier board | https://www.amazon.com/dp/B08GYQTTXF/ |  $21.99  |
 | Heat sinks | https://www.amazon.com/dp/B09877J8RM/ |  $3.75  |
 | Line in jacks | https://www.amazon.com/dp/B07TY8XNRS/ | $5.99 |
 | Power switch | https://www.amazon.com/dp/B07QQ21QQS/ | $6.99 |
@@ -57,7 +57,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | Soldering tools | N/A | Already have |
 | Line in cables | N/A | Already have |
 | Speakers | N/A | Already have |
-| Subtotal |  | $107.54 |
-| Tax (8%) |  | $8.61 |
+| Subtotal |  | $121.87 |
+| Tax (8%) |  | $9.75|
 | Shipping | Amazon Prime free shipping over $25 | $0 |
-| Total |  | $116.15 |
+| Total |  | $131.62 |
