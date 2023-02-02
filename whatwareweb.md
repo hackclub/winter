@@ -49,7 +49,7 @@ I am going to build a simple stereo amplifier. This amplifier will be able to pl
 | DC jack |  https://www.amazon.com/dp/B07XSQP3CT/ |  $4.88  |
 | Input selector switch | https://www.amazon.com/dp/B07JM3M2B4/ |  $13.49  |
 | Speaker terminals | https://www.amazon.com/dp/B08YMZ88Z5/ |  $6.39  |
-| Amplifier board | https://www.amazon.com/dp/B07WC2TK58/ |  $21.99  |
+| Amplifier board | https://www.amazon.com/dp/B08GYQTTXF/ |  $21.99  |
 | Heat sinks | https://www.amazon.com/dp/B09877J8RM/ |  $3.75  |
 | Line in jacks | https://www.amazon.com/dp/B07TY8XNRS/ | $5.99 |
 | Power switch | https://www.amazon.com/dp/B07QQ21QQS/ | $6.99 |
