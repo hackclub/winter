@@ -1,0 +1,30 @@
+---
+name: "@hewer-thwart"
+project: "Helium Nuclear Fusr"
+---
+
+Helium Nuclear Fusor
+
+## Summary
+
+A Farnsworth-Hirsch fusor is a type of nuclear fusion reactor that uses an electric field to heat and compress ions until they fuse. The device uses two metal cages, called grids, to contain the ions. The inner grid is positively charged, while the outer grid is negatively charged. When a gas such as helium is introduced into the reactor, the ions are accelerated towards the inner grid by the electric field. As they collide with the grid, they transfer some of their kinetic energy to the electrons around the grid, causing them to heat up. As the ions continue to collide with the grid, they become more and more energetic, eventually reaching the point where they can fuse together, releasing energy in the form of light and heat.
+
+## Plan
+
+First I am going to get the necessary power I need to run the fuser by using an AC Adapter and hooking it up to a voltage multiplier to get the necessary voltage. Then using tungsten I will make the inner grid and place it in the vacuum chamber with a connection outside. Then I would to create a low pressure in vacuum chamber with helium in it using the vacuum pump. Finally, I'll have to connect the positive terminal to the tungten grid inside and the negative terminal to the outer steel chamber. 
+
+## Budget
+
+
+| Product               | Supplier/Link                                                              | Cost   |
+| ---------------       | -------------------------------------------------------------------------- | ------ |
+| Vacuum Pump           | https://www.amazon.com/dp/B08NDLM31W/ref=emc_bcc_2_i?th=1                  | $125.40|
+| Voltage Multiplier    | https://rb.gy/fzpslr                                                       | $23.85 |
+| Vacuum Chamber        | https://rb.gy/xlbxp5                                                       | $44.79 |
+| Electrical Tape       | https://rb.gy/ekcj6v                                                       | $5.41  |
+| Electrical Wire 16AWG | https://rb.gy/voarqo                                                       | $5.74  |
+| AC Adapter            | https://rb.gy/mvyqls                                                       | $11.94 |
+| Tungsten Wire         | https://rb.gy/zuzvv7                                                       | $3.96  |
+| Total                 |                                                                            | $220.82|
+| Total with tax        |                                                                            | $249.53|
+
