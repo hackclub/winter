@@ -7,7 +7,7 @@ project: "LED Cube"
 
 ## Summary
 
-I will be to constructing a cube-shaped object with a 4x4 array of Light-Emitting Diodes (LEDs). This LED 4x4 cube can be used for various purpose like display, decoration, etc. It will involve soldering and programming to control the LEDs and bring the cube to life.
+I will be to constructing a cube-shaped object with a 4x4 array of Light-Emitting Diodes (LEDs). This LED 4x4 cube can be used for various purpose like display, decoration, etc. It will involve soldering and programming to control the LEDs and bring the cube to life. I will also glue a NFC card to the led cube.
 
 ## Plan
 
@@ -27,6 +27,7 @@ Test and debug: Test the cube to make sure it functions correctly, and debug any
 
 Power on: Connect a power source to the cube, and power it on. The cube should now be fully functional, displaying different patterns and animations.
 
+NFC CARD: Create a personal website and connect it to the nfc card and connect the nfc card to the led cube (glue)
 
 ## Budget
 
@@ -45,7 +46,7 @@ What materials will you need for your project? Where will you get them? How much
 | Wire | https://a.co/d/bpX8hm9 | $16.95
 | NFC CARD | https://www.amazon.com/gp/product/B0BKSYWG3N/ref=ewc_pr_img_1?smid=A25C6CULAGFA87&psc=1 | $12.00
 |domain | $2.04 | can't put link but go to porkbun.com and search sanjay.world
-| Tax |  ~$31
-| TOTAL| $210
+| Tax |  $31
+| TOTAL| $207
 
 
