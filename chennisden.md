@@ -1,5 +1,5 @@
 ---
-name: "chennisden"
+name: "@chennisden"
 project: "Self-hosted server"
 ---
 

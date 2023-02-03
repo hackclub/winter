@@ -1,18 +1,18 @@
 ---
-name: "@christopherli574, @mocer123"
+name: ["@christopherli574",  "@mocer123"]
 project: "Custom Keyboard with Desoldered Lighting"
 ---
 
-Custom Keyboard with Desoldered Lighting
+# Custom Keyboard with Desoldered Lighting
 
-Summary
+## Summary
 
 I plan on building a custom keyboard with my friend who does not currently own a keyboard. I'd like to 3D print as many components
 of this keyboard as possible, including the case, the plate, and the keycaps. I currently own a mechanical keyboard and I want to transfer some 
 of its components over to the custom keyboard. I plan to model these in 3D using the Ultimaker Cura platform and print the components with a Ender
 3 Neo 3D-Printer. I'll hope to use this 3D Printer to lead other Hack Club projects at my school.
 
-Plan
+## Plan
 
 I currently own a HyperX Alloy Elite Keyboard that supports RGB lighting. I want to desolder the LED lighting on my current keyboard and
 transfer it to the custom keyboard we are building. We will 3D print the case by following this guide: https://www.thingiverse.com/thing:4004330
@@ -21,7 +21,7 @@ switches onto the keyboard PCB which will have custom QMK firmware. We'll then m
 We want to implement a visual sound equalizer pattern using the keyboard LED lighting. We are interested in this guide https://www.instructables.com/Creating-you-own-USB-cables/
 to create a DIY custom USB cable for the keyboard.
 
-Budget
+## Budget
 
 | Product         | Cost | Supplier/Link
 
