@@ -49,6 +49,6 @@ This is just a stub, I plan on fully documenting my journey via a blog and proce
 |ADS1115 ADC|https://besomi.net/product/ads1115-16-bit-adc-4-channel-with-programmable-gain-amplifier/|$10.89|
 |Cat thermal printer|https://www.noon.com/product/Z4C6688401CB54FB3069AZ/p/|$18.51|
 |Soldering Iron Kit|https://www.noon.com/uae-en/product/N18835963A/p/|$11.43|
-|Neodyium magnets|https://www.noon.com/product/N47404217A/p/|$9.53|
+|Neodyium magnets|https://www.noon.com/ZA73D84C1FA121333AA3CZ/p/|$9.53|
 |double-sided tape, sd card and reader | self expense |$0|
 |Grand total (inclusive shipping and VAT)|-|$245.25|
