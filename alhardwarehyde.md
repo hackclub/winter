@@ -7,7 +7,7 @@ project: "STAFF Winter of Making: DIY Apple Airtags"
 
 ## Summary
 
-As some folks in HQ know, my spouse frequently looses thing, we just found their wallet that has been missing since August. We have tried a multitude of strategies and this seems like a fun project to get back into hardware having been out of the game for a few years. I have no experience with bluetooth programming 
+As some folks in HQ know, my spouse frequently loses things, we just found their wallet that has been missing since August. We have tried a multitude of strategies and this seems like a fun project to get back into hardware having been out of the game for a few years. I have no experience with bluetooth programming 
 
 ## Plan
 
