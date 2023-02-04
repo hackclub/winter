@@ -28,5 +28,5 @@ We are going to build a single motor robot that is able to read and execute mech
 |PLA+ Filament x3 (Red, Black, Blue)|https://store.creality.com/products/ender-1-75mm-pla-3d-printing-filament-1kg-2p0t?cfb=589f0b45-caa6-4594-91a1-5790d5d4e43c&ifb=589f0b45-caa6-4594-91a1-5790d5d4e43c&scm=search.v4&score=3609.9840480000003&ssp=&spm=..search.search_1.2 |$70.77 |
 |Motor|https://www.jameco.com/z/RC-260RA-2670-Jameco-ReliaPro-4-5-Volt-DC-Motor-1-58A-15-000-RPM_211246.html | $8.25|
 |Battery Pack (AA Batteries)| https://www.amazon.com/Electronics-Battery-Holder-Switch-BHAA3B/dp/B09MZWMTGR |$2.39|
-|3D Printer Enclosure|https://www.amazon.com/Fireproof-Dustproof-Temperature-Protective-Room29-9x25-5x28-3/dp/B08JQC6Z9N/ref=mp_s_a_1_3?crid=1J3MMRBKNNHXF&keywords=ender+3+s1+pro+enclosure&qid=1675519881&sprefix=ender+3+s1+pro+%2Caps%2C192&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840 |$64.99|
-| Total           |                           | $632.39 |
+|3D Printer Enclosure|https://www.amazon.com/Fireproof-Dustproof-Temperature-Protective-Room29-9x25-5x28-3/dp/B08JQC6Z9N/ref=mp_s_a_1_3?crid=1J3MMRBKNNHXF&keywords=ender+3+s1+pro+enclosure&qid=1675519881&sprefix=ender+3+s1+pro+%2Caps%2C192&sr=8-3&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840 |$69.38|
+| Total           |                           | $636.78 |
