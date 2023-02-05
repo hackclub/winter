@@ -31,13 +31,15 @@ Shoutout to [@Roizor](https://github.com/hackclub/winter/blob/main/Roizor.md) fo
 | --------------- | ------------------------------------- | ------ |
 | Switch Film | [Amazon](https://www.amazon.com/Switch-Cherry-Gateron-Mechanical-Keyboard/dp/B09BCXCCVS/ref=sr_1_5?keywords=switch%2Bfilms&qid=1672287887&sprefix=switch%2Bfilm%2Caps%2C84&sr=8-5&th=1) | $13.80 |
 | Switch Lube with Lube Oil| [Amazon](https://www.amazon.com/Keyboard-Switches-Grease-Gateron-Mechanical/dp/B09JYWC7BM/ref=sr_1_8?crid=3TX3K603026KX&keywords=Krytox%2B205g0&qid=1672288300&sprefix=krytox%2B205g0%2Caps%2C102&sr=8-8&th=1) | $18.89 |
-| GMMK Pro Barebones | [Amazon](https://www.amazon.com/Glorious-Modular-Mechanical-Keyboard-Pro/dp/B09966HJT6?th=1) | $147.90 |
 | Glorious Panda Unlubed Switches | [Amazon](https://www.amazon.com/Glorious-Panda-Switch-UNLUBED-GLO-SWT-HPANDA/dp/B08DJXYGY8?th=1) | $42.50 |
-| Gateron Pro 2.0 Yellow Switches | [Amazon](https://www.amazon.com/Pre-lubed-Switches-Mechanical-Keyboard-Switches/dp/B0BH1BXBF5/ref=sr_1_4?crid=14HO6NWHU6SCW&keywords=gateron%2Bg%2Bpro%2Byellow&qid=1675298099&s=electronics&sprefix=gateron%2Bg%2Bpro%2B%2Celectronics%2C87&sr=1-4&th=1) | $49.99 |
 | Matcha keycaps | [Amazon](https://www.amazon.com/keycaps-Double-Profile-Mechanical-Keyboard/dp/B09NRK5B3L/ref=sr_1_3?crid=S3V3U794HLMQ&keywords=oem%2Bprofile%2Bkeycaps%2B65%25&qid=1673753266&s=electronics&sprefix=oem%2Bprofile%2Bkeycaps%2B65%25%2Celectronics%2C101&sr=1-3&th=1) | $23.99 |
-| Keycap Puller, Switch Clamp, Stem Holder, Lube Brush Set | [Amazon](https://www.amazon.com/SAVITA-Mechanical-Keyboard-Including-Pen-Easy/dp/B09J7XQ9CT/ref=sr_1_5?keywords=keycap%2Bpuller%2Band%2Bswitch%2Bpuller&qid=1675047833&sprefix=keycap%2Bpuller%2B%2Caps%2C86&sr=8-5&th=1) | $8.99 |
 | Soldering Kit | [Amazon](https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07XKZVG8Z/ref=sr_1_9?keywords=soldering+kit&qid=1675296481&sr=8-9) | $9.99 |
 | Shipping for Amazon | All of our products qualify for free shipping | $0 |
+| GMMK Pro Barebones | [Microcenter](https://www.microcenter.com/product/649713/glorious-gmmk-pro-75-barebone-ansi-usa-white-ice) | $185.09 |
+| Shipping for MicroCenter |  | $0 (Will be going to the store to pick up the item) |
+| Gateron Pro 2.9 Yellow Switches | [Divinikey](https://divinikey.com/products/gateron-ks-9-pro-2-0-switches?_pos=1&_psq=%20gateron%20pro&_ss=e&_v=1.0) | $19.67 (We will use code LULZTHAX for a discount) |
+| Stem Holder | [Divinikey](https://divinikey.com/collections/keyboard-tools/products/switch-stem-picker-4-pong) | $4.27 (We will use code LULZTHAX for a discount) |
+| Shipping for Divinikey |  | $7.33 |
 | Keychron K6 Pro Barebones | [Keychron](https://www.keychron.com/products/keychron-k6-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=40119467802713) | $89 |
 | Shipping for Keychron |  | $15 |
 | Bluetooth Adapter | [Handheld Scientific](http://handheldsci.com/kb/) | $39.95 |
@@ -46,4 +48,4 @@ Shoutout to [@Roizor](https://github.com/hackclub/winter/blob/main/Roizor.md) fo
 | Blue Keycaps | [AliExpress](https://www.aliexpress.us/item/3256803930199160.html?spm=a2g0o.productlist.main.57.53d418echPqhKN&algo_pvid=1824c31f-b81d-414d-853f-92f8feea106d&algo_exp_id=1824c31f-b81d-414d-853f-92f8feea106d-28&pdp_ext_f=%7B%22sku_id%22%3A%2212000028092548592%22%7D&pdp_npi=2%40dis%21USD%2135.59%2127.05%21%21%21%21%21%40212272e216752935988081340d0685%2112000028092548592%21sea&curPageLogUid=3lsrcL5r0KMG) | $27.05 |
 | Rechargable Battery | [AliExpress](https://www.aliexpress.us/item/3256804705600013.html?spm=a2g0o.productlist.main.3.928f54f32Dp7uh&algo_pvid=5a4765ee-e1d3-49ac-a316-d651ce279b04&algo_exp_id=5a4765ee-e1d3-49ac-a316-d651ce279b04-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000030914508361%22%7D&pdp_npi=2%40dis%21USD%219.86%216.9%21%21%21%21%21%40211bf49716752952667391003d06eb%2112000030914508361%21sea&curPageLogUid=sbZQEkv739uq) | $4.00 |
 | Shipping for AliExpress |  | $3.05 |
-| Total |  | $502.49 |
+| Total |  | $511.97 |
