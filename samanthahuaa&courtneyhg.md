@@ -1,5 +1,5 @@
 ---
-name: ["@samanthahuaa", "@courtneyhg"]
+name: "@samanthahuaa and @courtneyhg"
 project: "Custom Key Layouts"
 ---
 
