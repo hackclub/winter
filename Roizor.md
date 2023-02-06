@@ -33,16 +33,6 @@ Changed because most of the items were out of stock.
 <br/>
 Extra note: Stabilizers are included in NK65.  
 
-## Original Budget
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Lube for switches (Krytox 103 + brush)  | https://1upkeyboards.com/shop/parts-and-tools/lubricant/switch-lubricant-3ml | $11.00  |
-| NK65 PCB/board (includes most things i will need) | https://novelkeys.com/collections/keyboards/products/nk65-entry-edition?variant=36839795589287  | $95.00 |
-| Durock Linear Switches| https://divinikey.com/products/durock-linear-switches?variant=39872545226817 | $38.88|
-| Keycaps (Artifact Bloom series Black on White) | https://drop.com/buy/artifact-bloom-series-keycap-set-black-on-white| $35.00|
-| Durok V2 Stabilizers | https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?variant=42451809370366 | $4.00 |
-| Total           |                                       | $183.88 |
-
 ## Alternative/backup items
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
