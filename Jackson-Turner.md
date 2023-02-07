@@ -1,6 +1,6 @@
 ---
-name: Jackson-Turner
-project: Toys come to life
+name: "@Jackson-Turner"
+project: "Toys come to life"
 ---
 
 # Toys come to life

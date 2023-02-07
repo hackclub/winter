@@ -1,5 +1,5 @@
 ---
-name: "Parth Agarwal"
+name: "@Parth Agarwal"
 project: "Nvidia Jetbot"
 ---
 

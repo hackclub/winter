@@ -1,4 +1,3 @@
-
 ---
 name: "@samanthahuaa and @courtneyhg"
 project: "Custom Key Layouts"

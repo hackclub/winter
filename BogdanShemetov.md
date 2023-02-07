@@ -1,5 +1,5 @@
 ---
-name: "BogdanShemetov"
+name: "@BogdanShemetov"
 project: "Automatic titration"
 ---
 

@@ -1,6 +1,11 @@
-Project Name: Converting a cycle into a E-Bike
+---
+name: "@adithyakommi"
+project: Converting a cycle into a E-Bike
+---
 
-Summary
+# Converting a cycle into a E-Bike
+
+## Summary
 
 I’ve cycled since the age of 3, from tricycles to tandem cycles. I've seen it all. I can fix almost any cycle, just give me the parts and a cup of lemonade
 and your cycle is as good as new! As much as I do like to cycle, it really isn’t a feasible solution if I have to go to my school. Walking a mile to access
@@ -9,10 +14,7 @@ truly awesome! Not only will it make my daily commute much more efficient, but i
 feeling as fatigued. Additionally,  I can do my part in reducing my carbon footprint by using an electric cycle instead of a car or public transportation.
 In conclusion, i’ll be converting my existing cycle to an electric one. I’ve written how i’ll do it in the next section
 
-
-
-
-Plan
+## Plan
 
 Tools i'll be using - wrenches, allen keys, pliers, zipties and wrenches
 Components - A hub motor(36v), break levers, Pedal Assistant sensor, Motor Controller, Battery pack(36v) and a box for the motor controller
@@ -31,8 +33,7 @@ note: though attaching it to the front tyre may be an easier option, but i would
 
 edit: added the note
 
-Budget
-
+## Budget
 
 | Product                                                       | Supplier/Link                                                                             | Cost in INR  |   |   |
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------|--------------|---|---|

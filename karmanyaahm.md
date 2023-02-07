@@ -3,7 +3,7 @@ name: "@karmanyaahm"
 project: "Project Oreo"
 ---
 
-# Project Name
+# Project Oreo
 
 ## Summary
 

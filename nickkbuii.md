@@ -1,6 +1,6 @@
 ---
-name: @nickkbuii
-project: ASL Translator
+name: "@nickkbuii"
+project: "ASL Translator"
 ---
 
 #  ASL Translator

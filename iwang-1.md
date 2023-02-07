@@ -1,5 +1,5 @@
 ---
-name: "@iwang-1" and "@kelly2582"
+name: ["@iwang-1","@kelly2582"]
 project: "3D printed custom mechanical keyboard"
 ---
 

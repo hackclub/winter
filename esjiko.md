@@ -1,5 +1,5 @@
 ---
-name: "esjiko"
+name: "@esjiko"
 project: "Weather Lamp"
 ---
 

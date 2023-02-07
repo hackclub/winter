@@ -1,5 +1,5 @@
 ---
-name: "@shreekar-developer, @Shreepaad, @Aditya-Ramesh"
+name: ["@shreekar-developer", "@Shreepaad", "@Aditya-Ramesh"]
 project: "Custom NAS"
 ---
 
