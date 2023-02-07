@@ -23,17 +23,17 @@ MY next plan after this is to make the tracker ortal using a small power bank, a
 
 | Product         | Supplier/Link                         | Cost   |
 | ----------------| ------------------------------------- | ------ |
-| arduino uno(2x) | https://www.adafruit.com/product/2488 | $35.00 |
-| GPS Module | https://www.adafruit.com/product/746 | $29.95 |
-| Power Bank | https://www.adafruit.com/product/4288 | $26.95|
-| Arduino Mini | https://www.adafruit.com/product/2590 | $14.50 |
-| DC Booster Cable  | https://www.adafruit.com/product/5457 | $7.50 |
-| SD Memory Card(16GB) | https://www.adafruit.com/product/2693 | $19.95 |
-| Wire Wrap(280 meters) | https://www.adafruit.com/product/4730 | $6.95 |
-| Wire Strippers and Cutter | https://www.adafruit.com/product/4747 | $11.95 |
-| SD card reader| https://botshop.co.za/products/sd-card-module?variant=42891647615216 | $3.15 |
-| GSM Module | https://botshop.co.za/products/gsm-module | $11.30 |
-| Total|  Bot shop - $19.10, Adafruit - $200.46    | $219.56 |
+| arduino uno R3(2x) | https://botshop.co.za/products/arduino-uno-r3-development-board-oem | $29.27 |
+| GPS Module | https://www.digikey.co.za/en/products/detail/adafruit-industries-llc/746/5353613?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlkXX83cguNGV5Di6Ob1fjDg0ckJXzSzhHocgfiOuFKaLKgBgA3UPcaAl4BEALw_wcB | $29.95 |
+| 5V relay module | https://botshop.co.za/products/5v-relay-module-with-status-led-diode-and-transistor-trigger-1 | $1.41|
+| Arduino nano | https://botshop.co.za/products/arduino-nano-board | $8.32 |
+| Arduino USB Cable  | https://botshop.co.za/products/arduino-usb-cable-length-20cm | $7.50 |
+| Fly Jumper Wire Cable | https://botshop.co.za/products/tin-plated-fly-jumper-wire-cable-24awg-20cm-100pcs | $3.25 |
+| Wire Strippers and Cutter | https://botshop.co.za/products/automatic-wire-stripper | $6.51 |
+| SD card reader | https://botshop.co.za/products/sd-card-module?variant=42891647615216 | $2.99 |
+| GSM Module | https://botshop.co.za/products/gsm-module | $10.74 |
+| bench power module | https://botshop.co.za/products/dc-dc-buck-converter-cc-cv-step-down-power-module | $45.57 |
+| Total |  Bot shop - $113.45, DIGI-key - $65.91   | $219.56 |
 
 
 
