@@ -29,14 +29,4 @@ Changed because most of the items were out of stock.
 | NK65 PCB/board (includes most things i will need) | https://novelkeys.com/collections/keyboards/products/nk65-entry-edition?variant=36839795589287  | $95.00 |
 | NovelKeys Cream+ Switches| https://novelkeys.com/collections/switches/products/cream-plus-switches | $46.80 |
 | Keycaps (SteelSeries PRISMCAPS) | https://www.amazon.com/SteelSeries-PRISMCAPS-Pudding-Style-Thermoplastic-Compatible/dp/B0955721RV | $29.99|
-| Total           |                                       | $183.88 |
-<br/>
-Extra note: Stabilizers are included in NK65.  
-
-## Alternative/backup items
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| DZ65 PCB/board | https://divinikey.com/collections/keyboards/products/kbdfans-dz65-rgb-hot-swap-v2-pcb?variant=39278196883521  | $95.00 |
-| Cream Dream Linear Switches| https://kbdfans.com/collections/switches/products/cream-dream-linear-switches | $68.88 |
-| Keycaps (Keyreative ABS Blank Cherry Keycaps) |https://thekey.company/collections/keycaps/products/keyreative-abs-blank-cherry-keycaps?variant=31157483307097 | $35.00|
-
+| Total           |                                       | $182.79 |
