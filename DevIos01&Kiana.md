@@ -39,7 +39,7 @@ I am excited to build a modern version of the classic NES game, Duck Hunt, with 
 | Shipping                                                    | 299kr  (29$)                                                                             |               |
 | Total                                                       | 3812kr (365$)                                                                            |               |
 
-# Manufacture: kjell
+### Manufacture: kjell
 
 | Product                                                     | Supplier/Link                                                                            | Cost          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------- |

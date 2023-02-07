@@ -3,8 +3,8 @@ name: "@Andriy-Malyshchak"
 project: "Autonomous RC Car dev platform"
 ---
 
-# Project Name
-Self-Driving Car
+# Self-Driving Car
+
 ## Summary
 I'm trying to learn more about AI/ML and its implications towards self-driving tech. Obviously it's very difficult to break 
 into the field with real cars, so I'm trying to mirror that using RC cars. I'm excited to build this because it's a project that can dynamically expand

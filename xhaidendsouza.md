@@ -29,4 +29,4 @@ We are going to build a single motor robot that is able to read and execute mech
 |Motor|https://www.jameco.com/z/RC-260RA-2670-Jameco-ReliaPro-4-5-Volt-DC-Motor-1-58A-15-000-RPM_211246.html | $8.25|
 |Battery Pack (AA Batteries)| https://www.amazon.com/Electronics-Battery-Holder-Switch-BHAA3B/dp/B09MZWMTGR |$2.39|
 |3D Printer Enclosure|https://www.amazon.com/Fireproof-Dustproof-Temperature-Protective-Room29-9x25-5x28-3/dp/B08JQC6Z9N/ |$69.38|
-| Total|                           | $636.78 |
+| Total|| $636.78 |
