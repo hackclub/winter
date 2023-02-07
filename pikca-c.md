@@ -19,8 +19,8 @@ With all the components available, I will use the Raspberry Pi (Zero W or Zero 2
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Raspberry Pi Zero 2 W   | https://thepihut.com/products/raspberry-pi-zero-2?src=raspberrypi | £17 ($21 USD) |
-| 3.1 inch Graphic OLED Module | https://www.amazon.com/Spacesea-Display-3-12Inch-Controller-500131408A1/dp/B0B6C8RTZY | $23.69 shipping fee |
-| Creality Ender 3 3D Printer | https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6 | $199|
+| 3.1 inch Graphic OLED Module | https://www.amazon.com/Spacesea-Display-3-12Inch-Controller-500131408A1/dp/B0B6C8RTZY | $23.69  |
+| Creality Ender 3 3D Printer | https://detail.tmall.com/item.htm?abbucket=20&id=673650763165 | $368.41+$15.89 (shipping) = $384.3 |
 | 3D modeling software | https://www.sketchup.com/ | Subscription owned |
 | 8 GB SD card | / | Owned |
-| Total           |                                       | $243.69 |
+| Total           |                                       | $428.99 (of which 278.99 will be paid for myself so the grand total will remain $243.69) |
