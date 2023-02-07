@@ -21,20 +21,12 @@ On day 9, I'll do in depth testing to make sure everything is correct in case so
 On the final day (10), because everything will be done I will customize the keyboard and have 1 final look. 
 
 ## Budget
+Changed because most of the items were out of stock.
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
 | Lube for switches (Krytox 103 + brush)  | https://1upkeyboards.com/shop/parts-and-tools/lubricant/switch-lubricant-3ml | $11.00  |
 | NK65 PCB/board (includes most things i will need) | https://novelkeys.com/collections/keyboards/products/nk65-entry-edition?variant=36839795589287  | $95.00 |
-| Durock Linear Switches| https://divinikey.com/products/durock-linear-switches?variant=39872545226817 | $38.88|
-| Keycaps (Artifact Bloom series Black on White) | https://drop.com/buy/artifact-bloom-series-keycap-set-black-on-white| $35.00|
-| Durok V2 Stabilizers | https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?variant=42451809370366 | $4.00 |
-| Total           |                                       | $183.88 |
-
-## Alternative/backup items
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| DZ65 PCB/board | https://divinikey.com/collections/keyboards/products/kbdfans-dz65-rgb-hot-swap-v2-pcb?variant=39278196883521  | $95.00 |
-| Cream Dream Linear Switches| https://kbdfans.com/collections/switches/products/cream-dream-linear-switches | $68.88 |
-| Keycaps (Keyreative ABS Blank Cherry Keycaps) |https://thekey.company/collections/keycaps/products/keyreative-abs-blank-cherry-keycaps?variant=31157483307097 | $35.00|
-
+| NovelKeys Cream+ Switches| https://novelkeys.com/collections/switches/products/cream-plus-switches | $46.80 |
+| Keycaps (SteelSeries PRISMCAPS) | https://www.amazon.com/SteelSeries-PRISMCAPS-Pudding-Style-Thermoplastic-Compatible/dp/B0955721RV | $29.99|
+| Total           |                                       | $182.79 |
