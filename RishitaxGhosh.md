@@ -46,19 +46,35 @@ Inspiration:
 
 What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
 
+Already Purchased: 
+
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| 3D printer      | https://amzn.eu/d/3q1ZxUn             | $430   |
+| 3D printer      | https://amzn.eu/d/3q1ZxUn             | $460   |
 | PLA Filament - Yellow | https://amzn.eu/d/2qIgAZW | $15 | 
-| Multimeter | https://amzn.eu/d/gX4CFgO | $40 |
-| Soldering Iron | https://amzn.eu/d/awg4gd1 | $ 23 | 
-| Arduino UNO R3  | https://amzn.eu/d/grABcyf             | $15 |
-| Buzzers         | https://amzn.eu/d/377hADx             | $5 |
-| Breadboard + resistor + battery | https://amzn.eu/d/377hADx | $15 | 
+| Buzzers         | https://amzn.eu/d/377hADx | $5 |
 | Jumper Wires | https://amzn.eu/d/b1e26H2 | $5 | 
 | Soil Humidity Sensor | https://amzn.eu/d/h1Ukyn6 | $5 | 
 | IR Remote control | https://amzn.eu/d/3MbbMJr | $5 | 
-| PVC pipe & Aluminium rod | (will check from shop) | $30 (approx) |
+| PVC pipe & Aluminium rod | (will check from shop) | $30 |
 | Screwdriver | https://www.amazon.in/dp/B07V3TDP49 | $9 |
 | Servo Motor | https://amzn.eu/d/bEbqovZ | $9 |
-| Total           |                                       | $606 |
+| Crypto/Mining Fee | | $67 |
+| Total           | | $610 |
+
+Yet to Purchase: 
+
+| Product         | Supplier/Link                         | Cost   |
+| --------------- | ------------------------------------- | ------ |
+| Multimeter | https://amzn.eu/d/gX4CFgO | $45 |
+| Soldering Iron Kit | https://amzn.eu/d/eqnEKAP https://amzn.eu/d/fpEr1oN  | $ 25 | 
+| Arduino | https://amzn.eu/d/jhKUW3v | $35 |
+| Basic Electronics Kit (breadboard + resistor) | https://amzn.eu/d/1khwAYM | $55 | 
+| 3D printer nozzle | https://amzn.eu/d/bFH9P89 | $15 |
+| Distance Sensor (x3) | https://amzn.eu/d/0AyCLu5 | $15 |
+| 9V Battery (x3) | https://amzn.eu/d/63lbNmu | $15 |
+| Battery Connector | https://amzn.eu/d/feG4odT https://amzn.eu/d/cFqelHw | $5 |
+| On/Off Switches | https://amzn.eu/d/0jx4mlr | $5 |
+| Motor Shield | https://amzn.eu/d/ay4QF8W | $10 |
+| Crypto/Mining Fee | | $100 |
+| Total           | | $325 |
