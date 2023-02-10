@@ -1,14 +1,14 @@
 # Winter Hardware Wonderland
+> **⚠️ RSVPs have closed and we are no longer accepting project ideas via PRs.**
+If you're a teenager interested in seeing the projects being built, join us at [hackclub.com/slack](hackclub.com/slack) :)
 
-> Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter).
-
-**RSVP at [hackclub.com/winter](https://hackclub.com/winter)!**
+_Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter)._
 
 ## ⛷ The rundown
 
 **Feb 14th - 23rd: 10 Days of Making**
 
-Come together with hundreds of other hackers in the `#hardware-party` channel on the [Hack Club Slack](https://hackclub.com/slack) to work on your electronics project. Whether you've never worked with hardware before or you've built CNC machines, there's a place for you. For 10 consecutive days, you'll work on your project while posting daily updates in your own [scrapbook](https://scrapbook.hackclub.com).
+Come together with hundreds of other hackers in the `#hardware-party` channel on the [Hack Club Slack](https://hackclub.com/slack) to work on your electronics project. Whether you've never worked with hardware before or you've built CNC machines, there's a place for you. For 10 consecutive days, you'll work on your project while posting daily updates on your own [scrapbook](https://scrapbook.hackclub.com).
 
 To help you build your project, Hack Club is offering grants of up to $250 per person! **To receive a grant, make a pull request to this repository with your proposal.**
 

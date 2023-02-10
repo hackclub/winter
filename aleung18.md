@@ -1,5 +1,5 @@
 ---
-name: "aleung18"
+name: "@aleung18"
 project: "Raspberry Pi Powered Pet Feeder"
 ---
 

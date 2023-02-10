@@ -3,7 +3,7 @@ name: "@amishasao"
 project: "RoboSense"
 ---
 
-# Project Name: RoboSense
+# RoboSense
 
 ## Summary
 

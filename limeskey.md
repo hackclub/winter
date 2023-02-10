@@ -1,6 +1,6 @@
 ---
-name: LimesKey
-project: Outdoor Air Quality Sensor 
+name: "@LimesKey"
+project: "Outdoor Air Quality Sensor"
 ---
 
 # Outdoor Air Quality sensor for my town

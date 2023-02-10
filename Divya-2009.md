@@ -3,8 +3,7 @@ name: "@Divya-2009"
 project: "Arduino Car"
 ---
 
-# Project Name
-Arduino Car
+# Arduino Car
 
 ## Summary
 I am going to build a bluetooth controlled car which is powered using an arudino uno. The reason I want to build this is because I have always wanted to create a robot and a car whihc i could control myself seemed like the perfect entry point. Also I think it would just be super cool to have a car that I could say i built myself.
