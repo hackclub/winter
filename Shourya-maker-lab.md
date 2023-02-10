@@ -1,5 +1,5 @@
 ---
-name: "@Shourya-maker-lab"
+name: ["@Shourya-maker-lab","@4nge1ina","@yoyoGreatcoder","@4ryamanTripathi"]
 project: "Jungle Shoot"
 ---
 

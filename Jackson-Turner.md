@@ -1,10 +1,10 @@
 ---
-name: Jackson-Turner
-project: Toys come to life
+name: "@Jackson-Turner"
+project: "Toys come to life"
 ---
 
-# Project Name
-Toys come to life
+# Toys come to life
+
 ## Summary
 
 What are you going to build? What does it do? Why are you excited to build it?

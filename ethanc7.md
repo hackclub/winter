@@ -1,6 +1,6 @@
 ---
-name: ethanc7
-project: 3D Printed EMG Prosthetic Hand
+name: "@ethanc7"
+project: "3D Printed EMG Prosthetic Hand"
 ---
 
 # 3D Printed EMG Prosthetic Hand

@@ -3,8 +3,7 @@ name: "@de-monish"
 project: "Motorised Iron man Helmet"
 ---
 
-# Project Name
-Iron Man Helmet Mk3
+# Iron Man Helmet Mk3
 
 ## Summary
 
