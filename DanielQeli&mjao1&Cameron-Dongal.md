@@ -48,19 +48,20 @@ What materials will you need for your project? Where will you get them? How much
 | Turnigy SK8 6374-192kV Sensored Brushless Motor | https://hobbyking.com/en_us/turnigy-sk8-6374-192kv-sensored-brushless-motor-14p.html | $59.99  |
 | FSESC 6                                         | https://flipsky.net/products/fs-esc-6-6                                              | $179.00 |
 | 48v 13Ah eBike battery with BMS                 | https://a.co/d/hnFedn9                                                               | $269.00 |
-| Anderson to XT90 Adapter                        | https://a.co/d/3ScajGd                                                               | $7.99   |
+| Anderson to XT90 Adapter - Wrong Item Shipped:( | https://a.co/d/3ScajGd                                                               | $7.99   |
 | HTD5M 8mm Bore 14t 15mm Wide Timing Pulley      | https://a.co/d/isJZLS2                                                               | $12.99  |
-| 7/8" OD 3/8" ID Flanged Steel Ball Bearing      | https://a.co/d/hO4m7wB                                                               | $9.99   |
-| Throttle Grip                                   | https://a.co/d/ip5SoOV                                                               | $15.99  |
+| Throttle Grip                                   | https://a.co/d/dnQ8jJ6                                                               | $15.99  |
 | 0.6mm Steel 3D Printer Nozzle                   | https://a.co/d/d6JLZ4j                                                               | $14.99  |
 | 120A 48V Circuit Breaker                        | https://a.co/d/fvOP99G                                                               | $16.99  |
-| 288t HTD5m Belt                                 | https://a.co/d/gOULoaI                                                               | $20.88  |
-| 7/8" ID Aluminum Tube                           |                                                                                      | Owned   |
+| 240t HTD5m Belt                                 | https://a.co/d/9xMN6zy                                                               | $14.65  |
+| Hall Effect Sensors - Wrong Type Shipped:(      | https://a.co/d/azcZOhG                                                               | $5.99   |
+| Linear Ratiometric Hall Effect Sensors          | https://a.co/d/dJMcQhD                                                               | $7.49   |
+| XT90 Female Connector - Replacement             | https://a.co/d/28bF4zy                                                               | $8.98   |
+| Banana Plug Extension Cable                     | https://a.co/d/4cVrokD                                                               | $16.31  |
 | 3D Printer                                      |                                                                                      | Owned   |
 | Street Cruiser Bike                             |                                                                                      | Owned   |
+| Soldering Iron                                  |                                                                                      | Owned   |
 | HobbyKing Shipping + Tax                        |                                                                                      | $33.85  |
 | Amazon Shipping + Tax                           |                                                                                      | $30.42  |
 | Flipsky Shipping + Tax                          |                                                                                      | $9.90   |
-| Total                                           |                                                                                      | $681.78 |
-
-Amazon wishlist here: https://www.amazon.com/hz/wishlist/ls/1M8CN612LA18D?ref_=wl_share
+| Total                                           |                                                                                      | ~$715   |
