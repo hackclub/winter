@@ -66,14 +66,15 @@ Edit: 27.1.22 - Updated Components
 | Simple USB-C Breakout                 | https://www.adafruit.com/product/5180                 | $1.75            |
 | Breadboard Friendly SDPT Slide Switch | https://www.adafruit.com/product/805                  | $0.95            |
 | Adafruit USB type c Breakout Board    | https://www.adafruit.com/product/4090                 | $2.95            |
- | Printed Circuit Boards                 | https://jlcpcb.com/                                   | ~$30             |
+ | Printed Circuit Boards                | https://jlcpcb.com/                                   | ~$30             |
 | 8MP Autofocus Camera                  | https://www.amazon.com/dp/B082NSDP5L                  | $39.94           |
 | 55x Tactile Switches                  | https://mou.sr/3DH0EML                                | $15.73           |
 | 55x Diodes                            | https://mou.sr/3DnkWdN                                | $6.53            |
 | ATMEGA3209-AFR                        | https://mou.sr/3HAfA1r                                | $1.96            |
 | 10x 10k resistor                      | https://mou.sr/3Y35zPK                                | $0.40            |
 | 10x 100nf capacitor                   | https://mou.sr/3j6SmGE                                | $0.45            |
-| Other Misc. Components                | https://www.mouser.com/                               | ~$60             |
+| Other Misc. Components                | https://www.mouser.com/                               | ~$50             |
+ | Solder Paste                          | https://a.co/d/87Ca21u                                | $18.95           | 
 | Shipping                              | Mouser, Adafruit                                      | $17.99           |
 | Taxes                                 | State Sales Tax                                       | $13.96           |
-| Total                                 |                                                       | $246.59          |
+| Total                                 |                                                       | ~$250            |
