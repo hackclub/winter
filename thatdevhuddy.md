@@ -33,6 +33,7 @@ Test and tweak.
 | Teensy 3.5        | https://protosupplies.com/product/teensy-3-5/                       | $31.95  |
 | Breakout Board    | https://www.tindie.com/products/loglow/teensy-3536-breakout-revision-a-due/                                | $17.00  |
 | 3D Printer SV06   | https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer#                               | $259.99 |
+| Aluminum square tube | https://www.homedepot.com/p/Everbilt-1-in-x-72-in-x-0-0625-in-Square-Tube-801127/204325635#overlay | 49.79|
 | Shipping          |$44.15(Amazon) $12.95(ProtoSupplies) $4(Tindie)  | $17.00  |
 | Tax               |                                       | $44.83  |
 |Total              |                                       | $862.01 |
