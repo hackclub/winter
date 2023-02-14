@@ -1,6 +1,6 @@
 ---
 name: "@CoolCoderSJ"
-project: "Assisting Colorblind Drivers, Motion Lights - Total At End"
+project: "Assisting Colorblind Drivers, Motion Lights, Electric Card Opener - Total At End"
 ---
 
 # Assisting Colorblind Drivers
@@ -59,4 +59,39 @@ The following has amounts for 2 beds, and the total cost is listed for each part
 | Total | | $47.18 |
 
 
-# Total - $121
+# Electric Card Opener
+
+## Summary
+
+Need a cool way to open a card? Why not automate it! For my third and final project, I'll be building a wirelessly powered electric card opener and closer.
+
+## Plan
+- Create a base for everything (block of wood)
+    - Attach an led strip to the outer edges for fun effects!
+- Create small bases on wheels for the card to attach to using legos
+    - One of them will have a string that connects to the motor
+- Attach the stepper motor to one end of the base, and attach the string
+- Hook all the boards up!
+
+To get started with the coding, I'll be using this tutorial for the motor- https://makersportal.com/blog/raspberry-pi-stepper-motor-control-with-nema-17
+
+## Budget
+
+| Product | Supplier/Link | Cost |
+| --------------- | ------------------------------------- | ------ |
+| Wio Link (x1) | Already Own | $0 |
+| Wio Link compatible LED strip | Already Own | $0 |
+| Raspberry Pi | Already Own | $0 |
+| Raspberry Pi Fan | https://www.adafruit.com/product/4794 | $5 |
+| DC Power Adapter | https://www.amazon.com/gp/product/B00Q2E5IXW | $8.99 |
+| DC to wire connector | https://www.amazon.com/Qaoquda-Connector-Terminal-Headphone-Converter/dp/B07JMY5XXT | $7.76 |
+| NEMA-17 Stepper Motor | https://www.amazon.com/Twotrees-Nema17-Stepper-42BYGH-Printer/dp/B07TGJSNJB | $9.99 |
+| Stepper Driver | https://www.amazon.com/WWZMDiB-DRV8825-Different-Resolutions-StepStick/dp/B0BFR4QH8R | $11.99 |
+| Stepper Bridge | https://www.amazon.com/DRV8825-Stepper-Expansion-Printer-Control/dp/B08RP2SCJ7 | $7.49 |
+| Female to female jumper wires | https://www.amazon.com/RioRand-Dupont-Male-Male-Female-Female-Female-Male/dp/B00J5NSOVA | $6.23 |
+| Stepper to bridge wire | https://www.amazon.com/BLLNDX-Stepper-XH2-54-4P-PH2-0-6P-Printer/dp/B09MQ362SJ | $7.99 |
+
+| Total | | $65.44 |
+
+
+# Total - $186.44
