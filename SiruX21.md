@@ -28,21 +28,20 @@ To test the final product, we'll have it go around my house and make sure it avo
 
 | Product         | Supplier/Link                         | Cost   |
 | --------------- | ------------------------------------- | ------ |
-| Jetson Nano (x2)|https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/|$299.98|
-| MicroSD Card (x2)|https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/|$37.98|
+| Jetson Nano (x2)|https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/|$298.00|
+| MicroSD Card (x2)|https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7BK27V/|$37.90|
 | Network Switch|https://www.amazon.com/TP-Link-5-Port-Gigabit-Network-Switch/dp/B0863M7C1L/|$14.99|
-| Small Ethernet Cables|https://www.amazon.com/Cat-Ethernet-Cable-Black-Connectors/dp/B01IQWGKQ6?th=1|$13,99|
+| Small Ethernet Cables|https://www.amazon.com/Cat-Ethernet-Cable-Black-Connectors/dp/B01IQWGKQ6?th=1|$13.99|
 | Car Chassis|https://www.amazon.com/LewanSoul-Mecanum-Chassis-Aluminum-Unassembled/dp/B093WDD9N5/|$36.99|
-| IMU Board|https://www.amazon.com/BerryGPS-IMUv3-Raspberry-Accelerometer-Magnetometer-Barometric/dp/B072MNBC9M|$71.20|
-| RPI Camera|https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/|$$29.15|
+| SenseHAT|https://www.amazon.com/dp/B07W3WKMTG?psc=1&ref=ppx_yo2ov_dt_b_product_details|$29.99|
+| RPI Camera|https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/|$29.15|
 | GPIO Expansion Board|https://www.amazon.com/GeeekPi-Raspberry-Extension-Expansion-Screws/dp/B08C2XK25W|$9.99|
-| Microphone|https://www.amazon.com/SunFounder-Microphone-Raspberry-Recognition-Software/dp/B01KLRBHGM/|$6.99|
+| Microphone|https://www.amazon.com/SunFounder-Microphone-Raspberry-Recognition-Software/dp/B01KLRBHGM/|$7.99|
 | Mini-speaker|https://www.amazon.com/MakerHawk-Full-Range-Advertising-Connector-Separating/dp/B07GJ4GH67/|$12.99|
-| Servos|https://www.amazon.com/Adeept-Digital-Helicopter-Arduino-Raspberry/dp/B0B1TS1NNP|$19.99|
 | Battery Bank|https://www.amazon.com/ROMOSS-40000mAh-Portable-Charger-External/dp/B087C23HPK/|$65.99|
 | LED Strip|https://www.amazon.com/Backlight-DAYMEET-30-60in-Bluetooth-Control/dp/B098DVZZDQ|$10.99|
+| Motor Drive|https://www.amazon.com/dp/B07GV8LKRZ?ref_=cm_sw_r_apan_dp_9CZPB6X213S2MV8F6YRN|$10.97|
 | Raspberry Pi 4b|Owned|Owned|
-| 3D Printer (Owned through School| Owned | Owned|
-| Taxes      |                                       | $40.43|
+| Taxes      |                                       | $45.22|
 | Shipping | |$0|
 |Total           |                                       | $590.63|
