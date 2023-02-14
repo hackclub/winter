@@ -90,7 +90,6 @@ To get started with the coding, I'll be using this tutorial for the motor- https
 | Stepper Bridge | https://www.amazon.com/DRV8825-Stepper-Expansion-Printer-Control/dp/B08RP2SCJ7 | $7.49 |
 | Female to female jumper wires | https://www.amazon.com/RioRand-Dupont-Male-Male-Female-Female-Female-Male/dp/B00J5NSOVA | $6.23 |
 | Stepper to bridge wire | https://www.amazon.com/BLLNDX-Stepper-XH2-54-4P-PH2-0-6P-Printer/dp/B09MQ362SJ | $7.99 |
-
 | Total | | $65.44 |
 
 
