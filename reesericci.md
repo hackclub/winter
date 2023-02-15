@@ -1,5 +1,5 @@
 ---
-name: "@reesericci & @ItIsTheLucas"
+name: ["@reesericci", "@ItIsTheLucas"]
 project: "Foosball Scoreboard"
 ---
 

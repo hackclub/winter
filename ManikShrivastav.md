@@ -1,5 +1,5 @@
 ---
-name: "ManikShrivastav"
+name: "@ManikShrivastav"
 project: "Gesture Control Robot"
 ---
 

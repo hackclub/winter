@@ -34,4 +34,11 @@ Also, i would like to make a sound alarm to alert the intruder, i'll see if it i
 | 1.8"LCD display | https://amzn.to/3CMSP7y | $12  |
 | Arducam Camera  | https://amzn.to/3X6bwv7 | $35  |
 | HONKYOB Speaker | https://amzn.to/3QL626Q | $15  |
-| Total           |                         | $237 |
+| 64 gb SD Card   | http://bit.ly/3YsTyUi   | $10  | 
+| Total           |                         | $250 |
+
+
+
+
+
+

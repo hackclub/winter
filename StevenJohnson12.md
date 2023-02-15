@@ -1,5 +1,5 @@
 ---
-name: "@StevenJohnson12 (Steven Johnson)"
+name: "@StevenJohnson12"
 project: "Custom auto alert door security system"
 ---
 

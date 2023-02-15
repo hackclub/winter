@@ -1,5 +1,5 @@
 ---
-name: "AnishT500"
+name: "@AnishT500"
 project: "Record Player"
 ---
 

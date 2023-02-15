@@ -25,6 +25,8 @@ _Note to self: Make sure to factor in shipping costs and sales tax._
 
 The build will go over the budget (batteries are expensive!), so I've divided the supplies into two categories for convenience - one to be covered by HC and the other to be covered by me. Any other necessary supplies will be covered by me if they do happen to come up.
 
+The former is covered by Hack Club; the latter I will cover.
+
 | Product                           | Supplier/Link                                                                                | Cost    |
 | --------------------------------- | -------------------------------------------------------------------------------------------- | ------- |
 | Flipsky Brushless Motor           | https://www.amazon.com/gp/product/B086YN7SSB/ref=ox_sc_act_title_5?smid=A3QK84HB8OFPD6&psc=1 | $119.99 |

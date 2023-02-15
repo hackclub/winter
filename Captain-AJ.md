@@ -22,7 +22,7 @@ All coincides with my desire to apply computer and mechanical engineering concep
 a. Assemble the tracks with gear components. 
 b. Assemble the robot's chassis and attach the Romeo BLE.
 c. Attach all sensors to the body, e.g., Ultrasonic sensor, speaker, etc.
-d. Pan/tilt systems for ultrasonic sensor and camera
+d. Pan/tilt systems for camera.
 e. Wire all components 
 f. Attach the food storage unit.
 
@@ -96,23 +96,26 @@ Furthermore, I will also use the listed tutorials from dfrobot.com to assist me:
 
 | Product         | Supplier/Link                                         | Cost    |
 | ------------- | ------------------------------------ | ------- |
-| Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://www.robotshop.com/products/devastator-tank-mobile-robot-platform-metal-dc-gear-motor | $84.90 
+| Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://a.co/d/dMECYbL | $94.90 
 | Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc | $69.95 |
 | Gravity Digital Speaker Module | https://www.robotshop.com/products/gravity-digital-speaker-module | $6.00 |
-| Ultrasonic Sensor Scanner Kit (120°) | https://www.robotshop.com/products/ultrasonic-sensor-scanner-kit-120 | $29.99 |
+| ELEGOO 5PCS HC-SR04 Ultrasonic Module Distance Sensor Kit | https://a.co/d/bACB9fh | $9.99 |
+| Bolsen 10PCS/LOT Ultrasonic Sensor Mounting Bracket for HC-SR04 | https://a.co/d/6Tg1lYd | $6.49 |
 | DFRobot Romeo BLE All-in-one Microcontroller (ATMega 328) | https://www.robotshop.com/products/dfrobot-romeo-ble-all-in-one-microcontroller-atmega-328 | $39.50 |
 | Hobbypark 2pcs Aluminium Cross Wrenches | Amazon: https://a.co/d/11olJhw | $9.98 |
 | Arduino Cookbook: Recipes to Begin, Expand, and Enhance Your Projects - 3rd Edition | Amazon: https://a.co/d/2JEbYvZ | $33.28 |
 | Waveshare General 2-Inch 240×320 IPS LCD Display Module | https://www.robotshop.com/products/waveshare-general-2-inch-240320-ips-lcd-display-module | $12.35 |
 | AstroAI Digital Multimeter | Amazon: https://a.co/d/gdRBUyS | $15.19 |
-| Charmed Labs Pixy2 Robot Vision Pan & Tilt Add-On | https://www.robotshop.com/products/charmed-labs-pixy2-robot-vision-pan-tilt-add-on-rbc | $25.46 |
-| SparkFun ICM-20948 9DoF IMU Breakout (Qwiic) | https://www.robotshop.com/products/sparkfun-icm-20948-9dof-imu-breakout-qwiic | $18.50 |
+| Charmed Labs Pixy2 Robot Vision Pan & Tilt Add-On | https://a.co/d/1Tf8JYl | $29.90 |
+| *SparkFun ICM-20948 9DoF IMU Breakout (Qwiic) | https://a.co/d/16kl0Um | $15.30 |
+| *SparkFun Qwiic Cable Kit | https://a.co/d/f7vqYIK | $10.70 |
 | USB BLE-Link Bluetooth Module | https://www.robotshop.com/products/usb-ble-link-bluetooth-module | $8.50 |
 | ELEGOO 120pcs Multicolored Dupont Wire 40pin Jumper Wires | Amazon: https://a.co/d/hspaKwv |  $6.98 |
 | HMROPE 100pcs Cable Zip Ties | Amazon: https://a.co/d/eVwSuSM | $5.49 |
 | 3M Scotch Electrical Tape | Amazon: https://a.co/d/0MQiqZv | $2.29 |
-| Tax + Shipping |  | $26.24 |
-|Total | | $413.38 | I will pay for the difference with my own funds.
+| Tax + Shipping |  | $19.52 |
+|Total | | $399.31 | I will pay for the difference with my own funds.
+|*I purchased the SparkFun IMU and the SparkFun Qwiic Cable Kit at a discounted price for both. |
 
 
 
@@ -120,12 +123,11 @@ Furthermore, I will also use the listed tutorials from dfrobot.com to assist me:
 
 | Product         | Supplier/Link                                         | Cost    |
 | ------------- | ------------------------------------ | ------- |
-| Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://www.robotshop.com/products/devastator-tank-mobile-robot-platform-metal-dc-gear-motor | $84.90 
-| Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc | $69.95* | 
+| Devastator Tank Mobile Robot Platform (Metal DC Gear Motor) | https://a.co/d/dMECYbL | $94.90 
+| Charmed Labs Pixy 2.1 Robot Vision Image Sensor | https://www.robotshop.com/products/charmed-labs-pixy-21-robot-vision-image-sensor-rbc | $69.95 | 
 | Gravity Digital Speaker Module | https://www.robotshop.com/products/gravity-digital-speaker-module | $6.00 |
-| Ultrasonic Sensor Scanner Kit (120°) | https://www.robotshop.com/products/ultrasonic-sensor-scanner-kit-120 | $29.99 |
 | DFRobot Romeo BLE All-in-one Microcontroller (ATMega 328) | https://www.robotshop.com/products/dfrobot-romeo-ble-all-in-one-microcontroller-atmega-328 | $39.50 |
-| SparkFun ICM-20948 9DoF IMU Breakout (Qwiic) | https://www.robotshop.com/products/sparkfun-icm-20948-9dof-imu-breakout-qwiic | $18.50 |
-| Tax + Shipping | | $16.13 |
-| Total |  | $259.85 |
-|*The price of the camera rose by $10.49. If the price does not revert I will cover the additional cost ($10.49).| | Total: $249.36 (excludes camera increase) |
+| USB BLE-Link Bluetooth Module | https://www.robotshop.com/products/usb-ble-link-bluetooth-module | $8.50 |
+| Waveshare General 2-Inch 240×320 IPS LCD Display Module | https://www.robotshop.com/products/waveshare-general-2-inch-240320-ips-lcd-display-module | $12.35 |
+| Tax + Shipping |  | $16.19 |
+| Total |  | $247.39 |

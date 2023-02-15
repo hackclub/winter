@@ -1,5 +1,5 @@
 ---
-name: "@arshshrivastavaa, @neiltheghosh, @sampoder"
+name: ["@arshshrivastavaa", "@neiltheghosh", "@sampoder"]
 project: "Gramophone-502x"
 ---
 
@@ -45,7 +45,8 @@ Honestly, making the records is going to require a bit of experimentation! Our c
 | Resin           | https://hack.af/ZroLe8u                                         | $28.06  |
 | Silicone Rubber | https://hack.af/jEHFLNG                                         | $50.00  |
 | PyPortal Titano | https://www.adafruit.com/product/4444 (incl. shipping)          | $80.00  |
-| Total           |                                                                 | $398.00 |
+| Second Hand Vinyl Record | https://www.carousell.sg/p/staying-alive-original-motion-picture-soundtrack-vinyl-record-1211411011/ (incl. courier shipping)          | $22.00 |
+| Total           |                                                                 | $411.00 |
 
 ###### The purpose of "Assorted Circuit Components" is to serve as a buffer fund we can use if we need a random component such as a resistor. We live near Sim Lim Square, a mall with countless electronics distributors, and can dash over there to grab common components whilst making. They accept contactless payments and we can use our HCB cards.
 
