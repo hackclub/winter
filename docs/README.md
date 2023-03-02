@@ -1,4 +1,4 @@
-![Winter Hardware Wonderland title banner](https://cloud-c3uli14kf-hack-club-bot.vercel.app/08.png)
+![Winter Hardware Wonderland title banner](https://cloud-llv5vyvia-hack-club-bot.vercel.app/010.png)
 
 This winter, we challenged our community to — over 10 days — build any hardware project they wanted and we supported them with individual grants of up to $250.
 
