@@ -1,88 +1,34 @@
-# Winter Hardware Wonderland
-> **⚠️ RSVPs have closed and we are no longer accepting project ideas via PRs.**
-If you're a teenager interested in seeing the projects being built, join us at [hackclub.com/slack](hackclub.com/slack) :)
+![Winter Hardware Wonderland title banner](https://cloud-c3uli14kf-hack-club-bot.vercel.app/08.png)
 
-_Kick of the new year with the [Hack Club](https://hackclub.com) community with a[ ❄️ Winter of Making 🛠](https://hackclub.com/winter)._
+This winter, we challenged our community to — over 10 days — build any hardware project they wanted and we supported them with individual grants of up to $250.
+
+High schoolers from 32 countries created [gesture-controlled robots](https://github.com/hackclub/winter/blob/main/ManikShrivastav.md), [smart snack machines](https://github.com/hackclub/winter/blob/main/masonnamminga.md), [PCs from scratch](https://github.com/hackclub/winter/blob/main/Cooper7196.md) and more. The goal of this repository is to be a resource of 249 hardware projects for makers of all abilities, built by high schoolers.
+
+_WHW is a project by [Hack Club](https://hackclub.com), a registered 501(c)3 nonprofit organization that supports a network of 20k+ technical high schoolers._
+
 
 ## ⛷ The rundown
 
-**Feb 14th - 23rd: 10 Days of Making**
+| **$75k**  | **249**    | **321**   | **2,000**       | **871**   | 
+| ----------| -----------| --------- | --------------- | ----------|
+| 💸 grants | 🚢 projects | 🧑‍💻 makers | 💳 transactions | 🔍 updates |
 
-Come together with hundreds of other hackers in the `#hardware-party` channel on the [Hack Club Slack](https://hackclub.com/slack) to work on your electronics project. Whether you've never worked with hardware before or you've built CNC machines, there's a place for you. For 10 consecutive days, you'll work on your project while posting daily updates on your own [scrapbook](https://scrapbook.hackclub.com).
+In mid-december, we challenged the community to gather 500 RSVPs before we opened sign ups and we reached that in less than a week, gathering 1k+ RSVPs in total.
 
-To help you build your project, Hack Club is offering grants of up to $250 per person! **To receive a grant, make a pull request to this repository with your proposal.**
+To keep the process transparent, Hack Clubbers interested in participating signed up by making a pull request to this repository with their project idea. After a short review process that checked for project viability and suitability, they were onboarded to Hack Club Bank (how we disbursed grants), and within one week started purchasing their components.
 
-## 🧤 Gear up for submitting your proposal
+From Feb 14-23, Hack Clubbers shared project updates in our online [Slack](https://hackclub.com/slack) community with [#scrapbook](https://scrapbook.hackclub.com/about) posts, check them out [here](https://scrapbook.hackclub.com/r/winter-hardware-wonderland)!
 
-### Guidelines
+<a href="https://scrapbook.hackclub.com/r/winter-hardware-wonderland"><img width="600" alt="Screenshot of project updates from Hack Clubbers for Winter Hardware Wonderland" src="https://cloud-1tfkuoejj-hack-club-bot.vercel.app/0screenshot_2023-03-02_at_10.26.36_am.png"></a>
 
-**Make sure your document includes:**
 
-- **What you're building** (a short description of what your project is about and any relevant information you'd like to include)
-- **Plan** (what steps you're going to take to build it)
-- **Budget** (with a list of components or tools needed, where you're going to buy them, and cost in USD; please include taxes and shipping)
 
-<details open>
-<summary> 👉 📝 Use this template for creating your document!</summary>
+## 💰 The grants
 
-```markdown
----
-name: "@yourGitHubUsername"
-project: "Your Project Name Here"
----
+Grant disbursements were powered by [Hack Club Bank](https://hackclub.com/bank), our fiscal sponsor and banking platform which allowed us to keep them transparent and also send money directly to high schoolers without waiting for institutional support. 
 
-# Project Name
+<a href="https://bank.hackclub.com/graphing-calculator-of-doom"><img width="600" alt="Screenshot of Graphing Calculator of Doom Hack Club Bank accout" src="https://cloud-qqvfg0a75-hack-club-bot.vercel.app/0screenshot_2023-03-02_at_10.55.11_am.png"></a>
 
-## Summary
+_Hack Club Bank account for [The Graphing Calculator of Doom](https://github.com/hackclub/winter/blob/main/galadrielmccrea.md)_
 
-What are you going to build? What does it do? Why are you excited to build it?
-
-## Plan
-
-What steps are you going to take to build it? What tools are you going to use? What will you do first, second, third, etc.?
-
-## Budget
-
-What materials will you need for your project? Where will you get them? How much does it cost? Please include all materials, including components you already own. Make sure to factor in shipping costs and sales tax.
-
-| Product         | Supplier/Link                         | Cost   |
-| --------------- | ------------------------------------- | ------ |
-| Pack of wires   | https://www.adafruit.com/product/1957 | $1.95  |
-| 1.8"LCD display | https://www.adafruit.com/product/358  | $19.95 |
-| Total           |                                       | $21.90 |
-```
-
-</details>
-
-### Get your $250 grant in 3 steps
-
-1. Fork this repository.
-2. Create a new file with your GitHub username, `YOURGITHUBUSERNAME.md`, and use the template above to create your project proposal.
-3. Open a pull request, and someone will review your pull request within 48 hours on weekdays!
-
-More detailed instructions can be found in the ["how to submit"](/docs/how_to_submit.md) guide.
-
-Ask in `#hardware-party` on Slack if you have any questions!
-
-## 🤔 Not sure what to build?
-
-- 💡 Make your life easier by [turning your lamp, "smart"](https://learn.adafruit.com/wireless-power-switch-with-arduino-and-the-cc3000-wifi-chip)
-- 🪞 Look into a [smart mirror](https://learn.adafruit.com/android-smart-home-mirror)
-- 👋🏼 Create the coolest [beacon name card](https://learn.adafruit.com/circuitpython-ble-advertising-beacons)
-- [Find more...](https://www.makeuseof.com/diy-electronics-project-ideas-for-engineering-students/)
-
-or check out these example [Desk Lights](/docs/examples/led-lights.md) for inspiration!
-
-## 💰 What happens after your project is approved?
-
-Once your pull request is accepted and merged, a member of the Hack Club Bank team will reach out to schedule a short 20-minute onboarding call. You'll open an account on [Hack Club Bank](https://hackclub.com/bank) to receive your grant. You'll then be able to spend the money to order components for your project using your own Hack Club Bank debit cards.
-
-## 🔍 To recap
-
-- Receive a grant of up to $250 (per individual) to build your project.
-- Open to current high schoolers (& younger).
-- Spend the grant transparently, using Hack Club Bank.
-
----
-
-_Winter Hardware Wonderland is a project by [Hack Club](https://hackclub.com), a global network of high school hackers & makers._
+Check out our transparent Hack Club Bank [grant account](https://bank.hackclub.com/winter-hardware-wonderland).
