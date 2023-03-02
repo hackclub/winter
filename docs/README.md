@@ -9,7 +9,7 @@ _WHW is a project by [Hack Club](https://hackclub.com), a registered 501(c)3 non
 
 ## ⛷ The rundown
 
-| **$75k**  | **249**    | **321**   | **2,000**       | **871**   | 
+| **$73k**  | **249**    | **321**   | **2,000**       | **871**   | 
 | ----------| -----------| --------- | --------------- | ----------|
 | 💸 grants | 🚢 projects | 🧑‍💻 makers | 💳 transactions | 🔍 updates |
 
@@ -25,10 +25,14 @@ From Feb 14-23, Hack Clubbers shared project updates in our online [Slack](https
 
 ## 💰 The grants
 
-Grant disbursements were powered by [Hack Club Bank](https://hackclub.com/bank), our fiscal sponsor and banking platform which allowed us to keep them transparent and also send money directly to high schoolers without waiting for institutional support. 
+The $73k grant disbursements were powered by [Hack Club Bank](https://hackclub.com/bank), our fiscal sponsor and banking platform which allowed us to keep them transparent (see below) and also send money directly to high schoolers without waiting for institutional support 🏦.
 
 <a href="https://bank.hackclub.com/graphing-calculator-of-doom"><img width="600" alt="Screenshot of Graphing Calculator of Doom Hack Club Bank accout" src="https://cloud-qqvfg0a75-hack-club-bot.vercel.app/0screenshot_2023-03-02_at_10.55.11_am.png"></a>
 
-_Hack Club Bank account for [The Graphing Calculator of Doom](https://github.com/hackclub/winter/blob/main/galadrielmccrea.md)_
+_Above is the Hack Club Bank account for [The Graphing Calculator of Doom](https://github.com/hackclub/winter/blob/main/galadrielmccrea.md). Our grant account is also transparent! Check it out [here ➚](https://bank.hackclub.com/winter-hardware-wonderland)._
 
-Check out our transparent Hack Club Bank [grant account](https://bank.hackclub.com/winter-hardware-wonderland).
+--- 
+
+👀 Explore this repository — or the [website](https://winterlings.dino.icu/) built by [@ZeroQLi](https://github.com/ZeroQLi) — to see what Hack Clubbers built!
+
+
