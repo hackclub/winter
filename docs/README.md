@@ -1,8 +1,8 @@
 ![Winter Hardware Wonderland title banner](https://cloud-llv5vyvia-hack-club-bot.vercel.app/010.png)
 
-This winter, we challenged our community to — over 10 days — build any hardware project they wanted and we supported them with individual grants of up to $250.
+This winter, we challenged our community to — over 10 days — build any hardware project they wanted and in turn we supported them with individual grants of up to $250. 
 
-High schoolers from 32 countries created [gesture-controlled robots](https://github.com/hackclub/winter/blob/main/ManikShrivastav.md), [smart snack machines](https://github.com/hackclub/winter/blob/main/masonnamminga.md), [PCs from scratch](https://github.com/hackclub/winter/blob/main/Cooper7196.md) and more. The goal of this repository is to be a resource of 249 hardware projects for makers of all abilities, built by high schoolers.
+Together, we built a Winter Hardware Wonderland ❄️ where high schoolers from 32 countries created [gesture-controlled robots](https://github.com/hackclub/winter/blob/main/ManikShrivastav.md), [smart snack machines](https://github.com/hackclub/winter/blob/main/masonnamminga.md), [PCs from scratch](https://github.com/hackclub/winter/blob/main/Cooper7196.md) and more. The goal of this repository is to be a resource of 249 hardware projects for makers of all abilities, built by high schoolers.
 
 _WHW is a project by [Hack Club](https://hackclub.com), a registered 501(c)3 nonprofit organization that supports a network of 20k+ technical high schoolers._
 
