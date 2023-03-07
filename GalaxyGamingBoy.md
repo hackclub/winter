@@ -17,6 +17,10 @@ For the first day I will make all the neccessary schematics I would need to use.
 For the next 2 or 3 days I will make the android app using Flutter.  
 The rest of the days will be spent constructing, programming and testing the project.
 
+## Project Repository
+
+The project now has a [repository](https://github.com/GalaxyGamingBoy/plant_location_chooser) that **you** can visit!
+
 ## Budget
 
 | Product                                                         | Supplier/Link                                                                                       | Cost   |
