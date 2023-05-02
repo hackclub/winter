@@ -40,10 +40,17 @@ After the 10 days:
 | Soldering Iron (etc.) | | Already have |
 | Solder Wick | https://www.adafruit.com/product/149 | $3.00 |
 | Simple Pliers | https://www.adafruit.com/product/146 | $3.00 | 
-| Diagonal Cutters | https://www.adafruit.com/product/152 | $7.25 |
-| Adafruit Priority Mail | | $12.55 |
-| Adafruit Sales Tax | | $13.94 |
-| PLA 1kg | https://www.amazon.com/dp/B01EKEMFQS/ | $22.99 | 
-| Amazon Tax | | $1.90 |
+| Diagonal Cutters | https://www.adafruit.com/product/152 | $7.25 | 
+| Wire Stripper | https://www.adafruit.com/product/147 | $6.95 |
+| NinjaFlex 500g TPU Filament | https://www.adafruit.com/product/2245 | $29.95 |
+| Adafruit Free Shipping | | $0 |
+| Adafruit Sales Tax | | $15.96 |
+| Adafruit Total | | $209.31 | 
 | 20x USB Jacks | https://www.aliexpress.us/item/3256801442936921.html | Already have |
-| Total           |                                       | $207.83 |
+| SuperPP Clear Resin | https://www.amazon.com/dp/B08RSB1B6Q | $39.80 |
+| Amazon Tax | | $3.28 |
+| Amazon Total | | $43.08 |
+| Total           |                                       | $252.39 |
+
+### Explanation
+I originally bought the filament and was planning to get a friend nearby to print it, but his printer refused to work :(. So, I asked @kaiz715 to print with his resin printer, and the resin is for him. (I'll cover the 2.39 myself)
